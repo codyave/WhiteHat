@@ -1,0 +1,302 @@
+[2002]
+01/09 DOJ forms Enron Task Force, initially led by Lisa Monaco, Andrew Weissmann, James Comey, Christopher Wray, and Robert Mueller
+
+[2005]
+08/04 Comey hired as general counsel and senior vice president of Lockheed Martin
+
+[2006]
+09/12 At the DOJ Annual Awards Ceremony, the Enron Task Force was given full honors. In attendance was Aaron Zebley, David Laufman, and Sally Yates
+
+[2008]
+06/01 Hillary's Apple server (runs until March 2009)
+
+[2009]
+??/?? Deripaska courted by FBI agents (one is McCabe) to assist recovery of CIA agent Levinson in Iran
+03/?? Hillary's Pagliano bathroom server (runs until June 30, 2013)
+
+[2010]
+06/?? Nellie Ohr represents CIA's "Open Source Works" group, along with Bruce Ohr and Glenn Simpson
+06/25 Comey joins Bridgewater Associates LP
+
+[2012]
+11/06 Obama wins presidential election
+11/09 CIA Director Patreus resigns
+
+[2013]
+03/?? Justin Cooper gives Monica Hanley a MacBook laptop & remotely (from her apartment) transfers Clinton email archive (5yrs worth) to Apple's mail program for it.
+03/08 John Brennan sworn in as CIA Director
+06/30 Platte River Networks server (aka "successor server) (runs until October 2015)
+09/04 Comey confirmed 93-1 to a full ten-year term as FBI Director
+
+[2014]
+01/27 Jim Baker appointed as FBI General Counsel by Director Comey
+02/?? Monica Hanley tries to remotely upload Clinton email archives to PRN server from MacBook laptop. Fails. Ships (thru FedEx) laptop to Combetta's house. Combetta transfers emails to PRN server, then ships laptop to redacted Hillary aide. Laptop "lost".
+06/?? Buryakov meets multiple times with confidential sources for the FBI (Carter Page, Felix Satir, Michael Cohen, Trump?)
+07/31 NYT reports an internal investigation by the CIA finds that one of its officers penetrated a computer network used by the Senate Intelligence Committee in preparing a daming report on the CIA's detention and interrogation program
+08/07 Gen. Flynn resigns from the Defense Intelligence Agency
+
+[2015]
+01/26 Evgeny Buryakov arrested, charged with, and pleading guilty to, spying on the United States for the Russian Foreign Intelligence Service (SVR), sentenced 30 months in federal prison and fined $100,000
+03/25-31 Combetta, Bleachbit
+04/07 DNC leaked memo reveals a Pied Piper strategy to push weakened candidates to the top of the GOP ticket (Cruz, Trump, Carson)
+05/15 Michael Morrell says he believes some foreign intelligence agencies possess the contents of HRC's private email server
+07/10 FBI opens investigation into HRC server
+08/?? Trump meets with Gen. Flynn, meeting lasts 90min
+09/?? Yared Tamene, part-time IT help desk technician for Mis Department Inc. (contractor in charge of DNC operating system), receives call from FBI agent Hawkins wrt comprised server on DNC network ("Dukes" malware)
+09/25 Stefan Halper hired on contractor basis by DOD's Office of Net Assessment for a total of $244,960.00
+09/29 Evelyn Farkas, deputy assistant secretary of defense for Russia, announces her resignation to be in late October 2015
+10/?? FBI agent Hawkins leaves multiple voicemails to DNC help desk, Tamene doesn't return calls because he says he has nothing new to report
+10/30 Joseph Mifsud's profile disappears from a London legal practice's website, reported by qz.com
+11/?? FBI agent Hawkins calls DNC help desk, says FBI suspects one DNC server is "calling home" to Moscow as part of a state-sponsored attack
+11/?? Ben Carson's campaign announces George Papadopoulos as an advisor
+12/04 Daniel Jones leaves Feinstein staff, Congressional records show 
+12/07 Stefan Halper and Peter Navarro host a round table for Navarro's book, "Crouching Tiger"
+12/10 Gen. Flynn photographed seated next to Putin for Russia Today's 10th anniversary
+12/15 Dana Boente confirmed EDVA U.S. Attorney
+12/18 Bernie's campaign staffers alleged to have improper access of DNC voter data after outside firm NGP VAN unintentionally caused a "dropped firewall"
+12/?? GCHQ picks up intelligence about Trump associates connected to Russians (later revealed in 2017 in The Guardian)
+
+
+[2016]
+01/06 Mis Department Inc. IT help desk technician, Yared Tamene, meets with FBI agent Hawkins, and later between January and March, to install "a robust set of monitoring tools".
+01/28 A reception for the Cuba Consortium hosted at the Cuban Embassy in Washington is attended by Daniel Jones and Ben Rhodes.
+01/29 Andrew McCabe becomes Deputy Director of the FBI
+02/08 Adm. Rogers announces reorganization project to merge spying and hacking arms with the Computer Security Division into one Directorate of Operations
+02/08 Adm. Rogers meets GCHQ's Hannigan at Bletchley Park
+02/21 Evelyn Farkas sends an email to John Podesta asking to do surrogate work for the Clinton campaign in relation to Eastern European communities
+03/01-03 The RSA Conference includes speakers such as CrowdStrike's Dmitri Alperovitch and Shawn Henry, DOJ's John Carlin, and AG Loretta Lynch
+03/09 US Department of Justice's oversight personnel discovered that they had disclosed raw FISA information (including 702 information) to private contractors (spelled out later in an April 26th document submitted by Adm. Rogers to FISC)
+03/09 "need to try to fix a HUGE who f-up" (Lisa Page tells Strzok NSA has learned FBI permitted CIA contractors to access NSA 702's)
+03/?? (March 14th?) Brennan makes undisclosed trip to Moscow
+03/16 Carter Page meets with FBI (Priestap?) over purported "closing" of post-Illegals CI case
+03/21 Trump announces foreign policy advisors: Walid Phares, Carter Page, George Papaopoulos, Joseph Schmitz, and Lt. Gen. Keith Kellogg. Pdop is having conversations with Joseph Mifsud around this time
+03/29 Manafort joins Trump campaign (FISA on him had expired shortly prior to joining campaign)
+04/?? Perkins Coie hires Fusion GPS
+04/05 FBI General Counsel Jim Baker attends the Global Privacy Summit, along with Michael Sussmann (Perkin Coie)
+04/11 Glenn Simpson attends the Logan Symposium, along with Jane Meyer (New Yorker) and Ken Vogel (Politico, sent stories to DNC)
+04/11 Manafort emails Kilimnik, asks how Deripaska can be repaid
+04/18 Contractor access to 702's shut off
+04/19 Mary Jacoby's (Glenn Simpson's wife) signature is logged into the visitors guestbook at the White House
+04/?? Brennan receives tape recording from a Baltic state showing Kremlin money going into a presidential campaign (Trump campaign not specified), reports BBC's Paul Wood
+04/?? Brennan creates two task forces to get around the problem of being unable to act domestically - the Domestic task force (FBI, DOJ and Treasury) and the Foreign task force (CIA, ODNI and NSA)
+04/25 Isikoff publishes "Trump's campaign chief is questioned about ties to Russian billionaire" on April 25 about Manafort, while Papadopoulos starts sending e-mails to try and set up a meeting between Russia and Trump. And failing.
+04/25 Obama For America begins paying funds into Perkins Coie for "legal services"
+04/28 (accurate date?) NYPOST publishes explicit (but blurred out) photo of Weiner w/1yo son in frame 
+05/10 Papadopoulos meets Alexander Downer in London (arranged by Downer) where Pdop brings up possibility of Russia having damaging info on Hillary
+05/17 Sidney Blumenthal attends a book party at John and Christina Ritch's home, where Sid meets Jamie Raskin (D-MD)
+05/17 Grassley sends letter to FBI's Comey about Clinton's server
+05/19 D.C. Judge Rudolph Contreras appointed to FISC
+05/23 Nellie Ohr obtains ham radio license
+05/25 FBI interviews Secret Service agent, SSA says he was asked for help w/HRC's private server by Justin Cooper and Bryan Pagliano
+05/26 Trump locks in necessary 1,237 delegates after winning Indiana primary
+06/?? Steele flies to Rome to brief FBI agent Gaeta to discuss dossier
+06/?? Natalia Veselnitskaya granted permission from the US Government to come to the US on a B-status non-immigrant visa
+06/09 Trump Tower meeting with Don Jr, Kushner, Manafort, Rinat Akhmetshin, Anatoli Samochornov, and Natalia Veselnitskaya (on directives from Rob Goldstone, longtime friend of Trump family and publicist for Emin Agalarov)
+06/10 Comey's draft memo changes from "gross negligence" to "extremely careless"
+06/12 SDNY convicts Florida man, Timothy Sedlak, for attempted hacking into HRC server from June-July 2015.
+06/13 Veselnitskaya and Akhmetshin host anti-Magnitsky Act film in Washington, which was attended by several Congressional staffers and one State Department official
+06/14 Veselnitskaya goes to the House of Representatives' hearing on "U.S. Policy Toward Putin's Russia", sits behind Michael McFaul
+06/14 Crowdstrike & DNC tell FBI & DCCC & demand an announcement is made that Russian entities were hacking them
+06/15 Guccifer 2.0
+06/20 Steele files first Trump-Russia memo
+06/24 Brexit
+06/24 Simpson contacts Steele (Steele's birthday) to arrange to receive a copy of the dossier, sent courier from the UK
+06/?? DOJ/NSD submit first FISA application for permission to intercept the electronic records from two Russian banks, fails
+06/27 Clinton/Lynch Phoenix airport tarmac meeting
+06/?? Robert Hannigan, head of GCHQ, passes material in summer 2016 to CIA's John Brennan at "director level"
+07/?? DOJ/NSD submit narrowed FISA application (still on two Russian banks?), fails again
+07/02 Hillary interviewed by FBI agents
+07/05 Steele meets FBI agent Gaeta in London
+07/05 Comey defers prosecution recommendation
+07/07 Carter Page travels to Moscow on a campaign-approved visit to deliver a lecture at the prestigious New Economic School
+07/08 Carter Page invited to the Race to Change the World Symposium by a University of Cambridge doctoral candidate
+07/11-12 Carter Page travel to the Race to Change the World conference, where meets with Stefan Halper on the sidelines, who told Page that he knew Paul Manafort
+07/18 GOP convention in Ohio begins
+07/19 Lisa Monaco meets up with Clapper and Tonya Ugoretz at ODNI
+07/19 Trump becomes official GOP nominee
+07/25 Page and Strzok text each other about Strzok's relationship to Judge Rudolph Contreras
+07/26 Steele files another memo, this time placing the blame of the DNC hacks on Russia, two days after Robby Mook said the same on ABC, who cites CrowdStrike as his source
+07/26 Obama signs directive, placing FBI in charge of all cyber threats
+07/27 Aspen Security Forum
+07/31 Meet the Press questions Manafort on RNC change in platform (also part of dossier & fake news included in Carter Page FISA)
+07/31 Crossfire Hurricane officially begins
+08/02 Two FBI agents (Strzok and ??) in London send a summary back to Washington, DC of an interview with Alexander Downer wrt Papadopolous
+08/04 Brennan phones FSB's head of intelligence, Alexander Bortnikov, says to cease further interference in U.S. elections. Bortnikov denies Brennan's allegation
+08/06 Obama orders WH aides to seek bipartisan support from Congress condemning Moscow and to urge states to accept federal help wrt securing election sites
+08/06 Hillary tweets first video questioning Trump's relationship to Russia
+08/11 Claper visits Estonia
+08/11 Brennan personally briefs Reid, McConnell, Feinstein, Burr, Ryan, Pelosi, Nunes, and Schiff wrt Russian hacking attempts
+08/12 Matthew Axelrod (deputy to Sally Yates) contacts McCabe, says FBI agents at NY Field Office "seemed to be disregarding or disobeying their instructions" wrt Clinton Foundation investigation
+08/14 NYT Ukrainian bank ledger story on Manafort
+08/15 DOH's Jeh Johnson calls state officials to gain support for election defense, but was met with "a wall of resistance"
+08/15 Strzok and Page discuss "insurance policy"
+08/16 Manafort's business partner, Rick Gates, interviewed, provides misleading info about interactions with Mercury since 2012
+08/19 Manafort resigns from Trump campaign
+08/?? (Another FISA starts on Manafort?)
+08/21 Obama depart Martha's Vineyard
+08/24 Clapper and Brennan attend Presidential Daily Briefs Symposium at Nixon Library
+08/25 Brennan briefs Harry Reid personally, says Russia's hacking appeared aimed at helping Trump win the November election, tells Reid to direct pressure towards FBI, who can lead domestic intelligence against Trump campaign
+08/27 Reid send letter to Comey about Russia investigation, demanding new investigation be opened (Reid was not aware of Crossfire Hurricane), cites Carter Page in letter
+08/28 NYPOST published explicit but blurred photo of Anthony Weiner sext w/1yo son in frame
+08/29 Stefan Halper reaches out to Sam Clovis, mentions Carter Page said they should meet up
+08/31 Report filed against Anthony Weiner to ACS
+09/?? Deripaska (on diplomatic passport) visited by three FBI agents (McCabe?) in NYC to talk Trump-Russia collusion
+09/?? (September 28th?) Comey, while testifying before Congress, does not confirm existence of any investigation into Trump's campaign aides
+09/?? Steele briefs Jonathon Winer (Special Envoy for Libya, Senior Advisor for MEK Resettlement) on dossier, then Winer gives 2-page dossier summary to Nuland and Jon Finer
+09/?? In an FBI memo, Steele admits to Nellie Ohr his feelings against then-candidate Trump, says he was desperate to stop his election chances
+09/?? Clovis meets Stefan Halper in lobby of a DoubleTree hotel in Arlington, Virginia, where Halper discussed his research on China, and for help in getting in touch with Papadopolous
+09/?? Paul Ahern, attorney at the Treasury Dept, argues with half a dozen FinCEN employees, possibly over allegations that Office of Intelligence and Analysis has been illegally collecting info on US citizens
+09.?? Jeh Johnson, Comey, Lisa Monaco arrive on Capitol Hill to meet with Gang of Twelve on Obama's orders to be briefed on Russian hacking attempts
+09/02 Halper unsolicitly invites Papadopolous to join him in London, free of charge, to discuss a policy paper about energy issues in Turkey, Cyprus, and Israel. Pdop accepts
+09/02 Peter Smith sets up KLS Research LLC to find Clinton emails
+09/02 Page texts Strzok that Comey was preparing a meeting with Obama, who wanted to know what they were doing
+09/05 At G20 Summit, Obama and Putin discuss US presidential election, Obama allegedly warns Putin to stop interfering
+09/06 FBI, NSA, and ODNI hold classified briefings with Congressional staff members about Russian interference
+09/07 Intelligence and National Security Summit begins, attended by Schiff, McCabe, Comey, Brennan, John Carlin, Adm. Rogers, and CrowdStrike's Shawn Henry
+09/11 Hillary collapses in NYC, claims pneumonia
+09/13 Halper and Papadopolous have dinner at the Connaught Hotel, where Halper brings up his research assistant Azra Turk
+09/14 Lisa Monaco (Homeland Security Advisor) tells people at 10yr anniversary of DOJ/NSD that Russia hacking the election would be "extremely difficult"
+09/15 Halper and Papadopolous meet at the Travellers Colub, again with Azra Turk, Azra is said to have flirted with Pdop
+09/21 DailyMail runs story on Weiner sexts with 15yo girl
+09/22 Schiff and Feinstein release joint statement condeming Russia
+09/23 Isikoff publishes "U.S. intel officials probe ties between Trump adviser and Kremlin" w/info provided by Steele, FBI take notice
+09/22 SDNY issues subpoena for Weiner phone records
+09/26 John Carlin files notification with FISA court
+09/26 Halper signs fourth contract with DOD's Office of Net Assessment ($411,575.00)
+09/26 ACS alerts man who filed report against Weiner
+09/27 Halper's third contract with DOD expires ($244,960.00)
+09/27 John Carlin announces resignation (does not resign immediately)
+09/27 ACS contacts man once more
+09/28 Ryan, Pelosi, McConnel, and Reid sent letter to Todd Valentine (President of National Association of State Election Directors) about potential cyber attacks
+09/28 Weiner's lawyer turns over emails to SDNY due to subpoena
+09/29 Strzok texts Page that he's sending a team up to SDNY the next day to review Anthony Wiener's subpoenaed documents
+09/29 Obama for America pays Perkins Coie $700,000
+09/?? Steele attends several off-the-record meetings with U.S. journalists from NYT, WaPo, Yahoo, New Yorker, and CNN in late September
+10/?? Steele is debriefed by the FBI, hands over Cody Shearer memo
+10/?? Kerry's top aides produce an "action memo" that includes relatiatory measures against Russia, but is not to be published until after initial votes are counted on election night
+10/03 FBI-NY confiscates Weiner laptop, iPad, phone, wifi router due to ACS investigation (not NYPD). NYPD saw sexts, but didn't do search on laptop.
+10/06 WaPo hosts Cybersecurity Summit, attended by Lisa Monaco, Ellen Nakashima, and DNC's Michael Sussmann (former cybercrimes prosecutor at DOJ, now working for Perkins Coie), Monaco again states Russian interference would be extremely difficult
+10/07 Homeland Security and ODNI release joint statement blaming Russia for DNC leaks, Podesta emails, Guccifer 2.0 (Comey declines to attach his name)
+10/07 Susan Rice summons Ambassador Kislyak to the White House to relay a message to Vladimir Putin
+10/07 Access Hollywood tape drops
+10/07 Wikileaks publishes Podesta emails
+10/09 Podesta speaks with the FBI, who says his emails are being investigated
+10/13 Trump delivers his "Slings and Arrows" speech in Florida
+10/14 Michael Morrell publishes an article in Yahoo that says Trump, Manafort, Roger Stone, and Carter Page are tied through financial connections, and suggests they are all agaents of Russia
+10/14 Michael McFaul tweets about bumping into Ambassador Kislyak at the White House
+10/14 Melissa Hodgman-Strzok is promoted to Associate Director in the SEC's Enfocement Division
+10?? Steele meets with several reporters again in mid-October
+10/15 John Carlinn resigns
+10/16 Julian Assange's internet link is severed by a state party, tweets WikiLeaks
+10/18 Obama hosts Italian PM Matteo Renzi for State dinner, attended also by Biden, Susan Rice, Ian Cameron, DOD Carter, Valeria and Laura Jarrett, Jeh Johnson, John Kerry, Shalaigh Murray, Neil King, Loretta Lynch, Denis McDonough, Lisa Monaco, Victoria Nuland, Nancy Pelosi, Tom mPerez, Samantha Power, Ben Rhodes, George Stephanopoulos, Chuck, Todd, Jonathon Winer, and various celebrities
+10/09 Mueller joins Booz Allen Hamilton to conduct a review of their security after NSA contractor Harold Martin was found to have stolen documents during an FBI search for the Shadow Brokers
+10/19 Hillary accuses Trump of being Putin's puppet
+10/20 Steele finishes his memos
+10/20 Halper is talking at the China Forum in Washington
+10/20 NSA compliance officer briefs Adm. Rogers on illegal FBI spying
+10/20 Lisa Monaco meets with financial executives to discuss cyber security
+10/21 FISA Court approves secret surveillance order on two banks based on info from Estonia, as well as an order to monitor Carter Page
+10/21 NSA notifies DOJ & FIS Court of spying
+10/24 Benjamin Wittes writes an article about insurance policies in Lawfare Blog
+10/24 NSA verbally briefs FISA Court regarding non-compliance with NSA's minimization procedures involving quers of data acquired under Section 702 using U.S. person identifiers
+10/26 McCabe, Lynch, and William Sweeney Jr talk about leaks, including some about Eric Garner
+10/26 Giuliana teases big reveals on Fox News
+10/26 NSA briefs w/ written reports the full FISA Court
+10/27 Weiner laptop obstruction raised at Comey staff meeting, McCabe joins via conference call
+10/28 Carter Page writes EU Human Rights commission to report election tampering by spying on him, leaking false info.
+10/28 Comey notifies Congress reopening Clinton investigation because of Huma's emails
+10/28 Steele's relationship with the FBI breaks down
+10/?? (October 29th?) Steele Skypes with David Corn
+10/29 DiGenova announces FBI did not destroy Clinton team laptops
+10/29 Joseph Mifsud emails his employee, Simona Mangiante, asking if he can meet with her in London
+10/30 Reid writes a letter to Comey, demanding he announce Trump Russia investigation
+10/30 Podesta complains on CNN's State of the Union, Gregory Meeks (D-NY) asks why Trump's ties to Russia aren't being investigated, 100 prosecutors sign a letter on behalf of HRC critizing Comey's 10/28 letter
+10/30 WSJ article on McCabe's ties to McAuliffe
+10?? Clinton campaign and DNC stop paying Fusion GPS through Perkins Coie
+10/31 FBI leaks confirmation of Trump-Russia investigation to Mother Jones
+10/31 Comey and McCabe have face-to-face conversation about 10/30 WSJ article
+10/31 Obama admin calls Moscow on a secure line, substance unknown
+10/31 Slate publishes an article about a Trump Tower server possibly communicating to Alfa Bank, Hillary tweets about it
+10/31 David Corn publishes an article about a veteran spy's finding on Trump and Russia, prompting FBI to terminate Steele
+11/01 Moscow confirms it received Obama admin's call on the secure line
+11/01 McCabe recuses himself from Clinton Foundation investigation
+11/01 FBI leaks to Mother Jones, says no evidence of collusion in Trump campaign
+11/02 Grassley sends letter to Comey about the relationship between Andrew McCabe, Jill McCabe, and Terry McAuliffe
+11/03 Sputnik News interviews Halper, he says HRC would be better for UK-USA relations that Trump
+11/03 FBI CI seize 60 notebooks of classified info from CIA contractor's house. From 2006-2016 ran unauthorized About Queries using CIA & other databases on US Persons.
+11/05 John Kerry and aides travel to Antarctica
+11/06 Clinton investigation closed again after Strzok & 2 others reviewed 650,000 (3k?) emails in about six days
+11/07 Louise Mensch in Heat Street discoses FISA warrant into Trump campaign ties to Russia
+11/08 Presidential election
+11/09 FBI logs intrusion analysis into HRC server (analysis likely happened prior, but still an unknown)
+11/11 Chris Christie demoted from leading the Trump transition team, replaced by Mike Pence
+11/11 Michael McFaul tweets a picture of Ambassador Kislyak as a speech is given at the Stanford Graduate School of Business
+11/13 Lisa Page purchases "All the President's Men" to brush up on Watergate
+11/15 Mike Rogers (R-MI) resigns from Trump transition
+11/17 Adm. Mike Rogers makes an unexpected visit to Trump Tower
+11/17 At the Halifax Internation Security Forum, Sir Andrew Wood (on directions instructions from Steele) meets Senator McCain to discuss Steele dossier. McCain sends aide, David Kramer, to meet Steele in London to view the dossier, and then was later provided a copy in DC
+11/18 Trump transition team,on Trump's orders, relocates to Trump National Golf Club in Bedminster, where later in the day he chooses Pompeo to be CIA Director and Sessions to be AG
+11/19 Secretary of Defense Ash Carter and ODNI Clapper recommend to Obama that Adm. Rogers be terminated
+11/22 FBI interviews Bruce Ohr or Nellie Ohr (first name unknown on FBI document)
+11/30 Trump meets with Preet Bharara, Preet agrees to remain US Attorney under Trump
+12/05 Bruce or Nellie Ohr interviewed again by FBI
+12/08-09-13 McCain delivers dossier to Comey
+12/09 Obama orders a review of Russian interference in US elections going back to 2008
+12/12 Bruce or Nellie Ohr interviewed again by FBI agents
+12/12 Evelyn Farkas publishes an article in Politico about Trump and Russia
+12/13 "The Perfect Weapon: How Russian Cyberpower Invaded the U.S." is published in the NYT
+12/13 Neil King informs colleagues he is joining Fusion GPS
+12/15 Lisa Monaco at Defense One Summit says that the Trump transition team has not contacted her personally
+12/15 Evelyn Farkas is on CNN discussing Russian meddling
+12/16 Obama gives end-of-the-year press conference, discusses election being overrun with leaked information
+12/17 Sir Richard Dearlove, Stefan Halper, and Peter Martland resign from Cambridge Intelligence Seminar, allegedly due to Russian infilitration by Venuscript
+12/20 Bruce or Nellie Ohr interviewed again by FBI agents
+12/23 Lawfare's Matt Tait published "Putin's Way of War" in Politico
+12/28 Obama orders sanctions against Russia in response to Russian interference in U.S. elections
+12/28 Gen. Flynn speaks to Ambassador Kislyak
+12/29 Obama expels 35 officials from the Russian Embassy in Maryland's Eastern Shore
+12/29 Flynn speaks again to Ambassador Kislyak
+12/30 FBI concludes it has not found any evidence of wrongdoing or illicit ties to the Russian government
+
+[2017]
+01/?? Obama spells out succession order listing three U.S. attorneys as being in line to succeed as AG, Trump ignores and nominates Dana Boente
+01/03 Schumer, in an interview with Maddow, says "the intelligence community, they have six ways from Sunday at getting back at you."
+01/05 Obama and Biden briefed on dossier and report, presented by Clapper, Comey, Brennan, and Rogers
+01/05 Obama, Comey, Yates, Biden, and Susan Rice meet in the Oval Office to discuss the FBI's investigation and the Steele dossier
+01/06 FBI interviews Huma (why?)
+01/06 ODNI ICA report on Russian Activities says CIA and FBI give high confidence, NSA moderate confidence
+01/06 Comey briefs Trump on Steele dossier
+01/06 Clapper appears on CNN and tells Jake tapper about the dossier
+01/10 BuzzFeed drops full dossier
+01/10 Comey testifies before Senate Intelligence Committee, says DNC refused to provide FBI access to hacked computer servers
+01/11 WSJ publishes Steele's name and work with FBI
+01/11 Jake tapper releases statement from ODNI's Clapper about meeting with Trump
+01/11 10 Downing Street confirm they have a DA-notice on Steele
+01/12 IG Horowitz opens investigation into the DOJ
+01/12 News orgs drop reports about Flynn's leaked conversations to Kislyak
+01/12 Trump tweets that Clapper called him yesterday, says the dossier was being passed around illegally
+01/12 Evelyn Farkas publishes "Does Putin Have Something on Trump? Obama Should Tell Us"
+01/13 Obama admin announces new rules to allow NSA to share private data gathered without warrants, court orders or Congressional authorization with 16 other intel agencies
+01/17 Samantha Power uses her final speech in the U.N. to criticize Russia
+01/20 Susan Rice sends herself an email about January 5th Oval Office meeting
+02/14 Page and Strzok confirm (with McCabe) to launch F 302
+03/16 Deripaska lawyer Adam Waldman texts Senator Warner, says Steele requested Waldman contact Warner
+03/17 Secret Service agent in Brooklyn gets packpack w/stolen laptop in it from (HRC?) driveway at 3am.
+03/22 Nunes holds late press conference, says members of Trump campaign were unmasked by Obama officials in capacities that had no relation to the campaign or to Russia
+03/31 Evgeny Buryakov released from federal prison early
+04/03 Ali Watkins breaks story that Carter Page had "met with and passed documents to a Russian intelligence operative" (translated, that might mean Carter Page was a key witness to the US in its successful prosecution of a SVR Agent)
+04/05 Evgeny Buryakov deported to Russia
+05/?? IG Horowitz seeks unsealing of FBI GJ subpoenas demanding testimony of Clinton aides, other search warrants (Yahoo, Google accounts), so as to legally disclose findings for June 14 IG report
+11/29 OIG interviews McCabe for the final time
+11/30 Flynn accepts plea deal
+12/01 Judge Contreras accepts Flynn's guilty plea
+12/02 DOJ releases first batch Page/Strzok texts
+12/04-06 Contreras removed from Flynn case
+12/05 Bruce Ohr demoted for involvement with Fusion Gps
+12/07 new judge orders Mueller to find all exculpatory evidence FBI holds
+12/02 New judge presiding over Flynn case asserts Brady Rule, orders Mueller to find exculpatory evidence held by government sources
+
+[2018]
+03/28 Former FBI agent Terry Albury is charged with leaking Confidential Human Source Policy Guide to The Intercept
+05/11 DOJ announce guilty plea of CIA contractor, Reynaldo B. Regis (arrest date 2016-Nov-3)
+07/10 Judge Emmitt Sullivan schedules status hearing for Gen. Flynn
