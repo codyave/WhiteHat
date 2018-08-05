@@ -25,6 +25,7 @@
 [2013]
 03/?? Justin Cooper gives Monica Hanley a MacBook laptop & remotely (from her apartment) transfers Clinton email archive (5yrs worth) to Apple's mail program for it.
 03/08 John Brennan sworn in as CIA Director
+06/?? Carter Page meets with FBi at New York's Plaza Hotel regarding an ongoing investigation
 06/30 Platte River Networks server (aka "successor server) (runs until October 2015)
 09/04 Comey confirmed 93-1 to a full ten-year term as FBI Director
 
@@ -157,10 +158,12 @@
 09/13 Halper and Papadopolous have dinner at the Connaught Hotel, where Halper brings up his research assistant Azra Turk
 09/14 Lisa Monaco (Homeland Security Advisor) tells people at 10yr anniversary of DOJ/NSD that Russia hacking the election would be "extremely difficult"
 09/15 Halper and Papadopolous meet at the Travellers Colub, again with Azra Turk, Azra is said to have flirted with Pdop
+09/15 Isikoff leaves voicemail for Carter Page, asking for a call back, leaves similar voicemail on September 22
 09/21 DailyMail runs story on Weiner sexts with 15yo girl
 09/22 Schiff and Feinstein release joint statement condeming Russia
 09/23 Isikoff publishes "U.S. intel officials probe ties between Trump adviser and Kremlin" w/info provided by Steele, FBI take notice
 09/22 SDNY issues subpoena for Weiner phone records
+09/25 Carter Page sends cease-and-desist letter to James Comey, informing him about the witch-hunt directed at him
 09/26 John Carlin files notification with FISA court
 09/26 Halper signs fourth contract with DOD's Office of Net Assessment ($411,575.00)
 09/26 ACS alerts man who filed report against Weiner
@@ -203,7 +206,7 @@
 10/26 Giuliana teases big reveals on Fox News
 10/26 NSA briefs w/ written reports the full FISA Court
 10/27 Weiner laptop obstruction raised at Comey staff meeting, McCabe joins via conference call
-10/28 Carter Page writes EU Human Rights commission to report election tampering by spying on him, leaking false info.
+10/28 Carter Page writes EU Human Rights commission (OSCE) to report election tampering by spying on him, leaking false info.
 10/28 Comey notifies Congress reopening Clinton investigation because of Huma's emails
 10/28 Steele's relationship with the FBI breaks down
 10/?? (October 29th?) Steele Skypes with David Corn
@@ -239,6 +242,7 @@
 11/19 Secretary of Defense Ash Carter and ODNI Clapper recommend to Obama that Adm. Rogers be terminated
 11/22 FBI interviews Bruce Ohr or Nellie Ohr (first name unknown on FBI document)
 11/30 Trump meets with Preet Bharara, Preet agrees to remain US Attorney under Trump
+12/?? Russia Today interviews Carter Page (mid-December?)
 12/05 Bruce or Nellie Ohr interviewed again by FBI
 12/08-09-13 McCain delivers dossier to Comey
 12/09 Obama orders a review of Russian interference in US elections going back to 2008
@@ -267,6 +271,7 @@
 01/06 ODNI ICA report on Russian Activities says CIA and FBI give high confidence, NSA moderate confidence
 01/06 Comey briefs Trump on Steele dossier
 01/06 Clapper appears on CNN and tells Jake tapper about the dossier
+01/10 Carter Page asks Lisa Monaco (former Assistant to the President for Homeland Security and Counterterrorism) about apparent violations of U.S. civil rights at a breakfast meeting, and was told to shush by a pro-Obama Admin/Clinton campaign journalist (who?), detailed in a March 8 letter later sent to Senate Intel Committee
 01/10 BuzzFeed drops full dossier
 01/10 Comey testifies before Senate Intelligence Committee, says DNC refused to provide FBI access to hacked computer servers
 01/11 WSJ publishes Steele's name and work with FBI
@@ -279,14 +284,52 @@
 01/13 Obama admin announces new rules to allow NSA to share private data gathered without warrants, court orders or Congressional authorization with 16 other intel agencies
 01/17 Samantha Power uses her final speech in the U.N. to criticize Russia
 01/20 Susan Rice sends herself an email about January 5th Oval Office meeting
+02/12 Carter Page sends letter to the Civil Voting Rights Division of the DOJ
 02/14 Page and Strzok confirm (with McCabe) to launch F 302
+03/?? FBI contacts Carter Page, first time in over a year, as detailed in November 2, 2017 testimony before HPSCI
+03/04 Trump tweets that Obama had his "wires tapped" in Trump Tower before election night
+03/07 WikiLeaks dumps CIA Vault 7
+03/07 Nunes agrees with Schiff the need to investigate Trump's claim of Obama wiretapping
+03/08 Carter Page sends letter to Senate Intel Committee wrt wiretap claims on Trump Tower, details that due to his employment at the IBM Building (590 Madison Avenue), which is connected to Trump Tower via an atrium, that Trump's claim of a wiretap is accurate
+03/09 Nunes and Schiff send demand to DOJ for "any applications to the FISA Court, any orders that court released, and any copies of warrants issued by federal judges" relating to surveillance of Trump team by March 9th
+03/13 DOJ asks for extension of time wrt Nunes and Schiff's demand, Richard Burr says he already has all the answers he needs from "conversations"
+03/15 Grassley threatens to block the nomination of Rod Rosenstein if DOJ does not comply with demands
+03/15 In Fox News interview with Tucker Carlson, Trump says, "We have it before the committee. We're submitting some things."
 03/16 Deripaska lawyer Adam Waldman texts Senator Warner, says Steele requested Waldman contact Warner
+03/16 Spokesman for Nunes says if DOJ does not comply with demands by March 20th, then he may subpoena the DOJ
+03/17 Classified document (Carter Page FISA?) transported to SSCI
+03/17 James Wolfe texts and talks to Ali Watkins (82 texts, 28min phone call)
 03/17 Secret Service agent in Brooklyn gets packpack w/stolen laptop in it from (HRC?) driveway at 3am.
+03/20 Comey and Adm. Rogers testify before House Select Intelligence Committe on Russian interference in the 2016 election
 03/22 Nunes holds late press conference, says members of Trump campaign were unmasked by Obama officials in capacities that had no relation to the campaign or to Russia
-03/31 Evgeny Buryakov released from federal prison early
+03/31 Evgeny Buryakov, scheduled to be released from federal prison July 27, is released early into ICE custody, cited for good behavior
 04/03 Ali Watkins breaks story that Carter Page had "met with and passed documents to a Russian intelligence operative" (translated, that might mean Carter Page was a key witness to the US in its successful prosecution of a SVR Agent)
+04/03 James Wolfe and Ali Watkins exchange 124 electronic communications
+04/03 Ali Watkins relays Top Secret info about Carter Page to Brian Ross of ABC News
+04/04 Brian Ross publishes article "Trump campaign adviser Carter Page targeted for recruitment by Russian spies"
 04/05 Evgeny Buryakov deported to Russia
+04/11 WSJ's Devlin Barrett breaks story on Carter Page's FISA warrant, says it contain "the most closely guarded secrets in the world"
+04/12 Carter Page goes on media blitz, doing six televised interviews
+04/28 Grassley sends letter to FBI, requesting responses to more questions about the FBI's relationship with Steele
 05/?? IG Horowitz seeks unsealing of FBI GJ subpoenas demanding testimony of Clinton aides, other search warrants (Yahoo, Google accounts), so as to legally disclose findings for June 14 IG report
+05/05 SSCI Warner/Burr release statement about Carter Page, saying he may not be cooperating with SSCI as he has promised
+05/06 Grassley sends letter to FBI (not SSCI, right?) seeking records and info from a reported plan at the FBI to pay the former British intelligence officer behind a dossier of compromising but unsubstantiated information about President Donald Trump to continue his work
+05/07 Carter Page sends letter to Burr/Warner at SSCI, details two felony disclosures concerning his identity
+05/14 Carter Page sends mostly-neutral letter to Rod Rosenstein, accuses Comey of leaks
+05/22 Carter Page sends letter to HPSCI, of little material
+05/23 Carter Page sends follow-up letter to HPSCI, heavily criticizing Brennan
+05/29 Carter Page sends letter to SSCI, complains about Brennan
+05/31 HPSCI responds to Page's television appearances, issues statement that they won't be rushed on witnesses
+06/10 Carter Page responds to HPSCI, says committees have blocked him from testifying
+06/23 Carter Page sends letter to HPSCI, details five pages of suggested cross-exam questions for John Podesta
+08/04 Sessions says the FBI has formed a new counterintelligence unit to investigate leaks
+08/22 Glenn Simpsons testifies in closed-door hearing with SSCI
+09/14 Carter Page files defamation lawsuit against OATH, Inc. (parent company of Yahoo, HuffPost) and Broadcasting Board of Governors in SDNY
+09/17 CNN "breaks" Manafort FISA story (literally the only time it's discussed in the news media)
+10/10 Carter Page sends letters to Special Counsel and HPSCI/SSCI, says he will not comply with informal document productions requests, denies main charges leveled against him, demands open-session hearings of his testimony under oath
+10/16 James Wolfe informs Marianna Sotomayor of NBC News that Carter Page had been served with a subpoena to appear before SSCI
+10/17 Marianna Sotomayor requests Carter Page's cell phone number from James Wolfe, publishes an article about Carter Page, and later calls Carter Page for comment
+11/02 In CNN interview with Jake Tapper, Carter Page says he was given advance notice he was being targeted by Steele in September 2016
 11/29 OIG interviews McCabe for the final time
 11/30 Flynn accepts plea deal
 12/01 Judge Contreras accepts Flynn's guilty plea
@@ -297,6 +340,8 @@
 12/02 New judge presiding over Flynn case asserts Brady Rule, orders Mueller to find exculpatory evidence held by government sources
 
 [2018]
+01/02 Glenn Simpsons writes NYT op-ed, demanding that transcripts of his August 22, 2017 testimony in closed-door hearings be made public
+01/10 Dianne Feinstein leaks Simpsons' testimony, says she was pressured, doesn't say who pressured her
 03/28 Former FBI agent Terry Albury is charged with leaking Confidential Human Source Policy Guide to The Intercept
 05/11 DOJ announce guilty plea of CIA contractor, Reynaldo B. Regis (arrest date 2016-Nov-3)
 07/10 Judge Emmitt Sullivan schedules status hearing for Gen. Flynn
