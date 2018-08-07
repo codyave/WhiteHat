@@ -6,15 +6,18 @@
 
 [2006]
 --/--   Manafort receives pro-Putin payments from 2006-14, launders through Podesta Group and Mercury LLC, used to buy politicians and media coverage in DC, as spelled out in SC Mueller's indictment
-08/29 John McCain celebrates his 70th birthday in Montenegro on a yacht owned by Oleg Deripaska
+08/29 John McCain celebrates his 70th birthday in Montenegro on a yacht owned by Oleg Deripaska, published by The Nation
 09/12 At DOJ Annual Awards Ceremony, Enron Task Force is given full honors. In attendance is Aaron Zebley, David Laufman, and Sally Yates
 
 [2008]
 06/01 Hillary's Apple server (runs until March 2009)
 
 [2009]
+--/--   Jonathan Finer befriends Christopher Steele, according to a 2018-Feb-8 WaPo op-ed
 --/--   Deripaska courted by FBI agents (one is McCabe) to assist in recovery of CIA agent Levinson in Iran
-03/--  Hillary's Pagliano bathroom server (runs until June 30, 2013)
+03/06 HRC presents Russian reset button to Sergei Lavrov
+03/--  HRC's Pagliano bathroom server (runs until June 30, 2013)
+07/29 Christopher Steele added to Orbis board of directors
 
 [2010]
 06/--  Nellie Ohr represents CIA's Open Source Works group, along with Bruce Ohr and Glenn Simpson (aka, Nellie used to be a CIA contractor, once upon a time)
@@ -84,7 +87,7 @@
 02/12-14 Munich Security Conference attended by James Clapper, John Kerry, George Soros, Robert Hannigan, John McCain, and Dmitri Alperovich
 02/21 Evelyn Farkas sends an email to John Podesta asking to do surrogate work for Clinton campaign in relation to Eastern European communities
 03/01-03 The RSA Conference includes speakers such as CrowdStrike's Dmitri Alperovitch and Shawn Henry, DOJ's John Carlin, and AG Loretta Lynch
-03/09 DOJ oversight personnel discover they had disclosed raw FISA information (including 702 information) to private contractors (spelled out later in an April 26th document submitted by Adm. Rogers to FISC)
+03/09 US Department of Justice's oversight personnel discover they had disclosed raw FISA information (including 702 information) to private contractors (spelled out later in an April 26th document submitted by Adm. Rogers to FISC)
 03/09 "need to try to fix a HUGE who f-up" (Lisa Page is likely telling Strzok that NSA has learned FBI permitted CIA contractors to access NSA 702's)
 03/11 Preet Bahrara (US Attorney for SDNY) and John P. Carlin (Asst. Attorney General for National Security, DOJ) announce indictment of Evgeny Buryakov (Carter Page likely UCE-1 or UCE-2)
 03/--  (March 14th?) Brennan makes undisclosed trip to Moscow (RVS, FSB, GRU, but not Foreign Ministry)
@@ -95,13 +98,13 @@
 03/21 Trump announces foreign policy advisors: Walid Phares, Carter Page, George Papaopoulos, Joseph Schmitz, and Lt. Gen. Keith Kellogg (Pdop is having conversations with Joseph Mifsud around this time)
 03/26 Page texts Strzok, "You get all our oconus lures approved? ;)"
 03/29 Manafort joins Trump campaign (FISA on him had expired shortly prior to joining campaign)
-03/31 Nellie Ohr emails Robert P. Otto (Deputy Chief of Staff for Intelligence, Surveillance and Reconnaissance Agency), mentions Jennifer Lopez, Telman Ismailov, and Aras Agalarov (father of Emin)
+03/31 Nellie Ohr emails Robert P. Otto (Deputy Chief of Staff for Intelligence, Surveillance and Reconnaissance Agency), mentions Jennifer Lopez, Telman Ismailov, and Aras Agalarov (why is State Dept being informally briefed on Agalarov, who is a client of Bill Browder's nemesis, Natalia Veselnitskaya?)
 04/--  Perkins Coie hires Fusion GPS
 04/03 Panama Papers leaks, reported first by The Guardian
 04/05 FBI General Counsel Jim Baker attends the Global Privacy Summit, along with Michael Sussmann (Perkins Coie)
 04/11 Glenn Simpson attends Logan Symposium, along with Jane Meyer of the New Yorker and Ken Vogel (sent stories to DNC) of Politico
 04/11 Manafort emails Kilimnik, asks how Deripaska can be repaid
-04/18 DOJ shuts down FBI contractor access to 702's (cutting off suspected DNC-affiliated CIA contractors)
+04/18 DOJ shuts down FBI contractor access to 702's (cutting off suspected CIA associates of HRC)
 04/19 Mary Jacoby (Glenn Simpson's wife) signs visitor guestbook at White House
 04/--  Brennan receives tape recording from a Baltic state showing Kremlin money going into a presidential campaign (Trump campaign not specified), reports BBC's Paul Wood
 04/--  Brennan creates two task forces to get around problem of being unable to act domestically - the Domestic task force (FBI, DOJ and Treasury) and the Foreign task force (CIA, ODNI and NSA)
@@ -128,7 +131,8 @@
 06/--  Natalia Veselnitskaya granted permission from US Government to visit US on B-status non-immigrant visa (waiver possibly expedited by Strzok, per Michael R. Caputo)
 06/03 Rob Goldstone begins emailing Don Jr
 06/06 Natalia Veselnitskaya receives a 3-year B1 visa (normally, B1 visas are good for up to only 1 year)
-06/06 Bill Browder forwards an email to Kyle Parker (Chief of Staff of the U.S. Helsinki Commission) of Natalia Veselnitskaya's house
+06/06 Bill Browder forwards an email to Kyle Parker (Chief of Staff of the U.S. Helsinki Commission) of Natalia Veselnitskaya's London residence
+06/07 Kyle Parker forwards Browder email to Robert Otto at the State Department (if Veselnitskaya gets a passport expedited, it means she will leave London for a predetermined amount of time, maybe long enough for her residence to be more closely surveilled?)
 06/08 Natalia Veselnitskaya arrives in New York, dinner with Glenn Simpson
 06/09 Rinat Akhmetshin rides an Acela train with Joe Lieberman on way to Trump Tower meeting, according to 2017-Nov-14 testimony before Senate Judiciary Committee
 06/09 Trump Tower meeting with Don Jr, Kushner, Manafort, Rinat Akhmetshin, Anatoli Samochornov, and Natalia Veselnitskaya (on directives from Rob Goldstone, longtime friend of Trump family and publicist for Emin Agalarov, who is the son of Aras Agaralov)
@@ -139,7 +143,7 @@
 06/13 Natalia Veselnitskaya and Akhmetshin host anti-Magnitsky Act film in Washington, which was attended by several Congressional staffers and one State Department official
 06/14 Natalia Veselnitskaya goes to House hearing on "U.S. Policy Toward Putin's Russia", sits behind Michael McFaul
 06/14 Crowdstrike and DNC demand FBI announce that Russian entities hacked their servers
-06/15 Guccifer 2.0 (possible NSA operation? DNC oppo against Trump leaked first, which NSA might claim was stolen from them by DNC associates, all as a way to pretend oppo was open source research, only a day prior was DNC demanding FBI blame Russia for hack that might've secretly been NSA)
+06/14 Guccifer 2.0 (alleged Romanian hacker, but...possible NSA operation? DNC oppo against Trump leaked first, which NSA might claim was stolen from them by DNC associates, all as a way to pretend oppo was open source research, only a day prior was DNC demanding FBI blame Russia for hack that might've secretly been NSA)
 06/16 Natalia Veselnitskaya returns to New York
 06/17 Natalia Veselnitskaya meets with U.S. lawyers, returns to Russia
 06/20 Steele files first Trump-Russia memo
@@ -157,6 +161,7 @@
 07/07 IC IG McCullough testifies before HPSCI (Chaffetz) that he can not provide the committee with a certain segment of HRC's emails because 1) Yates likely denied IG access per 58-page memo, and 2) too sensitive to discuss in public hearing
 07/08 Carter Page invited to the Race to Change the World Symposium by a University of Cambridge doctoral candidate
 07/11-12 Carter Page travels to the Race to Change the World conference, where he meets Stefan Halper, who tells Page that he knew Paul Manafort
+07/--  Victoria Nuland, in response to Senator Burr, says she caught her first glimpse of the Steele dossier in mid-July (2016), in a June 20, 2017 open hearing before SSCI
 07/18 GOP convention in Ohio begins
 07/19 Lisa Monaco meets Clapper and Tonya Ugoretz at ODNI
 07/19 Trump becomes official GOP nominee
@@ -176,6 +181,7 @@
 08/11 Clapper visits Estonia
 08/11 Brennan personally briefs Reid, McConnell, Feinstein, Burr, Ryan, Pelosi, Nunes, and Schiff wrt Russian hacking attempts
 08/12 Matthew Axelrod (deputy to Sally Yates) contacts McCabe, says FBI agents at NY Field Office "seemed to be disregarding or disobeying their instructions" wrt Clinton Foundation investigation
+08/12 
 08/14 NYT Ukrainian bank ledger story on Manafort
 08/15 DOH's Jeh Johnson calls state officials to gain support for election defense, but was met with "a wall of resistance"
 08/15 Strzok and Page discuss "insurance policy"
@@ -191,7 +197,7 @@
 08/31 Report filed against Anthony Weiner to ACS
 09/--  Deripaska (on diplomatic passport) visited by three FBI agents (McCabe?) in NYC to talk Trump-Russia collusion
 09/--  (September 28th?) Comey, while testifying before Congress, does not confirm existence of any investigation into Trump's campaign aides
-09/--  Steele briefs Jonathon Winer (Special Envoy for Libya, Senior Advisor for MEK Resettlement) on dossier, Winer then gives 2-page dossier summary to Nuland and Jon Finer
+09/--  Steele briefs Jonathon Winer (Special Envoy for Libya, Senior Advisor for MEK Resettlement) on dossier at a Washington hotel, Winer then gives 2-page dossier summary to Victoria Nuland (Ukraine expert at State Dept) and Jon Finer (chief of staff to Secretary Kerry)
 09/--  In an FBI memo, Steele admits to Nellie Ohr his feelings against then-candidate Trump, says he was desperate to stop his election chances
 09/--  Clovis meets Halper in lobby of DoubleTree hotel in Arlington, Virginia, where Halper discusses his research on China, and for help in getting in touch with Papadopolous
 09/--  Paul Ahern (attorney at Treasury Dept) argues with half a dozen FinCEN employees, possibly over allegations that Office of Intelligence and Analysis has been illegally collecting info on US citizens
