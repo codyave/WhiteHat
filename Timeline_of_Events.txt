@@ -396,7 +396,7 @@
 01/27 Adam Waldman visits Julian Assange in London
 01/27 Steele texts Bruce Ohr, "Hi B! Our guy's OK for the time being but I would like to keep our channel open on him and his situation if that's all right?"
 01/30 Sally Yates fired
-01/30 Matthew Axelrod – Principal Associate Deputy Attorney General resigns
+01/30 Matthew Axelrod (Principal Associate Deputy Attorney General) resigns
 01/31 Steele texts Bruce Ohr, sympathizes over Sally Yates' firing
 01/31 Steele texts Bruce Ohr, asks if he can still assist FBI, asks for more FBI contacts, says "We can’t allow our guy to be forced to go back home. It would be disastrous.”
 02/--  Michael B. Steinbach (FBI Executive Assistant Director for the National Security Branch) retires
@@ -412,7 +412,8 @@
 03/--  FBI contacts Carter Page, first time in over a year, as detailed in Carter Page's testimony before HPSCI on November 2, 2017
 03/04 Trump tweets that Obama had his "wires tapped" in Trump Tower before election night
 03/06 Grassley sends letter to Comey, asking for any relevant info on Steele's extracurricular activities with DOJ officials, including 302's, contracts, agreements, payments, WH briefings, etc.
-03/07 WikiLeaks dumps CIA Vault 7
+03/07 At 7:00am EST, in a text to Bruce Ohr, Steele says, "Would it be possible to speak later today? We're very concerned by the Grassley letter and it's possible implications for us, our operations, and our sources. We need some reassurances. Many thanks." (texts published in The Hill by John Solomon on August 7, 2018)
+03/07 WikiLeaks dumps CIA Vault 7 @1:30pm EST
 03/07 Nunes agrees with Schiff for the need to investigate Trump's claim of Obama wiretapping
 03/08 Carter Page sends letter to Senate Intel Committee wrt wiretap claims on Trump Tower, detailing that, due to his employment at the IBM Building (590 Madison Avenue), which is connected to Trump Tower via an atrium, that Trump's claim of wiretapping is accurate
 03/09 Nunes and Schiff send demand to DOJ for "any applications to the FISA Court, any orders that court released, and any copies of warrants issued by federal judges" relating to surveillance of Trump team by March 9th
@@ -481,6 +482,7 @@
 08/02 Rosenstein issues classified memo to Mueller, outline scope of investigation
 08/04 Heat Street closes
 08/04 Sessions says the FBI has formed a new counterintelligence unit to investigate leaks
+08/16-18-29 Bil Browder tweets criticisms of Dana Rohrabacher being in contact with Julian Assange
 08/16 Strzok demoted to FBI Human Resources
 08/22 Glenn Simpsons testifies in closed-door hearing with SSCI
 09/14 Carter Page files defamation lawsuit against OATH, Inc. (parent company of Yahoo, HuffPost) and Broadcasting Board of Governors in SDNY
@@ -512,14 +514,17 @@
 01/09 James Turgal (FBI Executive Assistant Director for Information and Technology Branch) retires
 01/10 Dianne Feinstein leaks Simpsons' testimony, says she was pressured, doesn't say who pressured her
 01/23 James Rybicki (Chief of Staff to FBI Director James Comey & successor Chris Wray) resigns
+01/27 Julian Assange allegedly DM's fake Sean Hannity twitter account, promises info on Senator Warner (reported by Ben Collins in The Daily Beast two days later)
 01/31 Mueller files Status Report to postpone Gen. Flynn sentencing hearing for 90 days (May 1st, 2018)
 02/02 Josh Campbell (Special Assistant to James Comey) resigns
 02/07 David Laufman (DOJ National Security Division, Deputy Asst. Attorney General in charge of counterintelligence) resigns
 02/08 Michael Kortan (FBI Assistant Director of Public Affairs) resigns
+02/08 Fox News publishes leaked text messages between Senator Warner and Adam Waldman regarding their efforts to convince Christopher Steele to testify before SSCI
 02/08 In letter to HPSCI Chairman Nunes, Counsel to the President, McGahn, cites a closed-door hearing of Bill Priestap (date unknown), who says that corroboration of Steele dossier was in its infancy at the time of the initial FISA application used to surveil Carter Page in October 2017
 02/14 Judge Sullivan, presiding over Flynn case, asserts Brady Rule, orders Mueller to find exculpatory evidence held by government sources
 02/28 Grassley sends letter to IG Horowitz requested a “comprehensive review of potential improper political influence, misconduct, or mismanagement in the conduct of the counterintelligence and criminal investigation” into Russia and Trump, also attached is a letter to Sessions asking for a second Special Counsel, and a less de-classified version of the Grassley memo
 03/16 McCabe fired
+03/28 Ecuadorian Embassy severs Julian Assange's internet connection, says Assange is breaking agreement not to interfere in another State's matter (U.K., allegedly)
 03/28 OIG release announcement to review DOJ and FBI compliance with legal requirements with regards to FISA of a certain U.S. person
 03/28 Former FBI agent Terry Albury is charged with leaking Confidential Human Source Policy Guide to The Intercept
 03/30 Greg Brower (FBI Assistant Director for the Office of Congressional Affairs) resigns
