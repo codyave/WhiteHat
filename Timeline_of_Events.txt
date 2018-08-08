@@ -22,6 +22,7 @@
 [2010]
 06/--  Nellie Ohr represents CIA's Open Source Works group, along with Bruce Ohr and Glenn Simpson (aka, Nellie used to be a CIA contractor, once upon a time)
 06/25 Comey joins Bridgewater Associates LP
+09/21 Fred Burton, chief security officer at Stratfor (American geopolitical intelligence platform), sends an email to Stratfor security dept, says John Brennan (then-U.S. Homeland Security Advisor) is behind witch hunt targeting journalists who are investigating D.C. sources, according to a tweet by Sharyl Atkinson on 2018-Jul-26
 
 [2011]
 12/--  Secretary of State Clinton says elections in Russia are not free nor fair
@@ -54,6 +55,7 @@
 03/25-31 Combetta, Bleachbit
 04/07 DNC leaked memo reveals Pied Piper strategy to push weakened candidates (Cruz, Trump, Carson) to top of GOP ticket
 05/15 Michael Morrell says he believes some foreign intelligence agencies possess contents of HRC's private email server
+06/03 Marie Harf sends an email to Carlos DeJuana, mentions that Robert Otto is married to Anne Joblonski, says she was handler for kidnapped CIA agent Bob Levinson
 07/10 FBI opens investigation into HRC server
 08/--  Trump meets with Gen. Flynn, meeting lasts 90min
 09/-- Washington Free Beacon hires Fusion GPS
@@ -75,7 +77,9 @@
 
 [2016]
 01/--  Mikk Marran confirmed as Director General of the Estonian Foreign Intelligence Service
+01/04 Natalia Veselnitskaya's U.S. visa parole extension request is denied
 01/06 Mis Department Inc. IT help desk technician, Yared Tamene, meets with FBI agent Hawkins (and later between January and March) to install "a robust set of monitoring tools"
+01/07 Natalia Veselnitskaya's U.S. visa parole expires
 01/11 DOJ sends letter Aaron Zebley, where the DOJ memorializes their agreement that Zebley will back-up all relevant email communications
 01/11 Zebley gives the data to Hillary lawyers and informs the DOJ (per their agreement).
 01/28 Reception for the Cuba Consortium hosted at the Cuban Embassy in Washington is attended by Daniel Jones and Ben Rhodes
@@ -96,6 +100,7 @@
 03/16 Lisa Page texts Strzok, "Our guy is talking..."
 03/18 John Schindler publishes an article in The Observer titled "Hillary Clinton Has an NSA Problem"
 03/21 Trump announces foreign policy advisors: Walid Phares, Carter Page, George Papaopoulos, Joseph Schmitz, and Lt. Gen. Keith Kellogg (Pdop is having conversations with Joseph Mifsud around this time)
+03/25 Bill Browder first tweets about Carter Page
 03/26 Page texts Strzok, "You get all our oconus lures approved? ;)"
 03/29 Manafort joins Trump campaign (FISA on him had expired shortly prior to joining campaign)
 03/31 Nellie Ohr emails Robert P. Otto (Deputy Chief of Staff for Intelligence, Surveillance and Reconnaissance Agency), mentions Jennifer Lopez, Telman Ismailov, and Aras Agalarov (why is State Dept being informally briefed on Agalarov, who is a client of Bill Browder's nemesis, Natalia Veselnitskaya?)
@@ -106,6 +111,7 @@
 04/11 Manafort emails Kilimnik, asks how Deripaska can be repaid
 04/18 DOJ shuts down FBI contractor access to 702's (cutting off suspected CIA associates of HRC)
 04/19 Mary Jacoby (Glenn Simpson's wife) signs visitor guestbook at White House
+04/19 Andrea Chalupa forwards an email to herself, says, "Exciting day: Paul Manafort resigned from the Trump campaign and will likely face an investigation for not declaring being a foreign agent while lobbying for Yanukovych and his party."
 04/--  Brennan receives tape recording from a Baltic state showing Kremlin money going into a presidential campaign (Trump campaign not specified), reports BBC's Paul Wood
 04/--  Brennan creates two task forces to get around problem of being unable to act domestically - the Domestic task force (FBI, DOJ and Treasury) and the Foreign task force (CIA, ODNI and NSA)
 04/25 Michael Isikoff publishes "Trump's campaign chief is questioned about ties to Russian billionaire" on April 25 about Manafort, while Papadopoulos starts sending e-mails to try and set up a meeting between Russia and Trump (unsuccessful)
@@ -132,7 +138,7 @@
 06/03 Rob Goldstone begins emailing Don Jr
 06/06 Natalia Veselnitskaya receives a 3-year B1 visa (normally, B1 visas are good for up to only 1 year)
 06/06 Bill Browder forwards an email to Kyle Parker (Chief of Staff of the U.S. Helsinki Commission) of Natalia Veselnitskaya's London residence
-06/07 Kyle Parker forwards Browder email to Robert Otto at the State Department (if Veselnitskaya gets a passport expedited, it means she will leave London for a predetermined amount of time, maybe long enough for her residence to be more closely surveilled?)
+06/07 Kyle Parker forwards Browder email to Robert Otto at the State Department (if Veselnitskaya gets a passport expedited, it means she can quickly leave London for a predetermined amount of time, maybe long enough for her residence to be more closely surveilled?)
 06/08 Natalia Veselnitskaya arrives in New York, dinner with Glenn Simpson
 06/09 Rinat Akhmetshin rides an Acela train with Joe Lieberman on way to Trump Tower meeting, according to 2017-Nov-14 testimony before Senate Judiciary Committee
 06/09 Trump Tower meeting with Don Jr, Kushner, Manafort, Rinat Akhmetshin, Anatoli Samochornov, and Natalia Veselnitskaya (on directives from Rob Goldstone, longtime friend of Trump family and publicist for Emin Agalarov, who is the son of Aras Agaralov)
@@ -146,6 +152,7 @@
 06/14 Guccifer 2.0 (alleged Romanian hacker, but...possible NSA operation? DNC oppo against Trump leaked first, which NSA might claim was stolen from them by DNC associates, all as a way to pretend oppo was open source research, only a day prior was DNC demanding FBI blame Russia for hack that might've secretly been NSA)
 06/16 Natalia Veselnitskaya returns to New York
 06/17 Natalia Veselnitskaya meets with U.S. lawyers, returns to Russia
+06/19 Stephanie Burant emails Robert Otto in response to a request from Adrian Harmata (political analyst at State), asks Otto for his take on a WaPo article about Manafort 
 06/20 Steele files first Trump-Russia memo
 06/24 Brexit
 06/24 Simpson contacts Steele (Steele's birthday) to arrange to receive a copy of the dossier, sent courier from the UK
@@ -154,7 +161,9 @@
 06/--  Robert Hannigan, head of GCHQ, passes material in summer 2016 to CIA's John Brennan at "director level"
 07/--  DOJ/NSD submit narrowed FISA application (still on two Russian banks?), fails again
 07/01 Bruno Kahl confirmed as President of the Federal Intelligence Service in Germany
+07/01 Steele writes to Bruce Ohr, “There is something separate I wanted to discuss with you informally and separately. It concerns our favourite business tycoon!” (apparent reference to Trump)
 07/02 Hillary interviewed by FBI agents
+07/--  (July 3-4th?) Bruce Ohr schedules a Skype call with Steele
 07/05 Steele meets FBI agent Gaeta in London
 07/05 Comey defers HRC prosecution recommendation
 07/07 Carter Page travels to Moscow on a campaign-approved visit to deliver a lecture at the prestigious New Economic School
@@ -164,11 +173,15 @@
 07/--  Victoria Nuland, in response to Senator Burr, says she caught her first glimpse of the Steele dossier in mid-July (2016), in a June 20, 2017 open hearing before SSCI
 07/18 GOP convention in Ohio begins
 07/19 Lisa Monaco meets Clapper and Tonya Ugoretz at ODNI
+07/19 Steele memo says, "Source E, an ethnic Russian" and "close associate of Trump" alleges that the "Russian regime" had been behind the DNC emails "to the Wikileaks platform."
 07/19 Trump becomes official GOP nominee
 07/25 Page and Strzok text each other about Strzok's relationship to Judge Rudolph Contreras
 07/26 Steele files another memo, this time placing the blame of the DNC hacks on Russia, two days after Robby Mook said the same on ABC, who cites CrowdStrike as his source
 07/26 Obama signs directive, places FBI in charge of all cyber threats
+07/26 At press conference, Trump says, "Russia, I hope you can find Hillary's missing emails"
 07/27 Aspen Security Forum
+07/--  Bruce Ohr is in contact with Steele days before Crossfire Hurricane begins, engages Steele as a "confidential human source"
+07/30 Bruce Ohr (accompanied by Nellie) meet with Christopher Steele in Washington at the Mayflower Hotel, Steele later follows up with a text and says to keep in touch, also says Glenn Simpson would like to help
 07/31 Meet the Press questions Manafort on RNC platform changes for Ukraine (also part of dossier, included in Carter Page FISA)
 07/31 Crossfire Hurricane officially begins
 08/--  A Belarusian woman, going by the name Nastya Rybka, posts photos and videos to her Instagram account of her and Oleg Deripaska, as well as Sergei Prikhodko (deputy prime minister and top foreign policy advisor) on Deripaska's yacht, according to a 2017-2-7 expose by Aleksei Navalny
@@ -188,6 +201,7 @@
 08/19 Manafort resigns from Trump campaign
 08/--  (Another FISA starts on Manafort?)
 08/21 Obama depart Martha's Vineyard
+08/22 Bruce Ohr meets with Glenn Simpson, Simpson offers several intermediaries between Trump campaign and Russia, including a Russian associate of Carter Page, and the now-discredited Alfa Bank computer server
 08/24 Clapper and Brennan attend Presidential Daily Briefs Symposium at Nixon Library
 08/25 Brennan briefs Harry Reid personally, says Russia's hacking appeared aimed at helping Trump win the November election, tells Reid to direct pressure towards FBI, who can lead domestic intelligence against Trump campaign
 08/27 Reid sends letter to Comey about Russia investigation, demanding new investigation be opened (Reid was not aware of Crossfire Hurricane), cites Carter Page in letter
@@ -223,7 +237,7 @@
 09/26 ACS alerts man who filed report against Weiner
 09/27 Halper's third contract with DOD expires ($244,960.00)
 09/27 John Carlin announces resignation (does not resign immediately)
-09/27 ACS contacts man once more
+09/27 During the first presidential debate, Trump suggests a 400-lb hacker stole the DNC's emails
 09/28 Ryan, Pelosi, McConnel, and Reid sent letter to Todd Valentine (President of National Association of State Election Directors) about potential cyber attacks
 09/28 Weiner's lawyer turns over subpoenad emails to SDNY
 09/29 Strzok texts Page that he's sending a team up to SDNY the next day to review Anthony Wiener's subpoenaed documents
@@ -280,7 +294,8 @@
 10/31 Comey and McCabe have face-to-face conversation about 10/30 WSJ article
 10/31 Obama admin calls Moscow on a secure line (matter unknown)
 10/31 Slate publishes article about Trump Tower server possibly communicating to Alfa Bank (Hillary tweets about it)
-10/31 David Corn publishes an article about a veteran spy's finding on Trump and Russia, prompting FBI to terminate Steele
+10/31 David Corn publishes an article about a veteran spy's finding on Trump and Russia
+11/01 FBI terminates its relationship with Christopher Steele
 11/01 Moscow confirms it received Obama admin's call on the secure line
 11/01 McCabe recuses himself from Clinton Foundation investigation
 11/01 FBI leaks to Mother Jones, says no evidence of collusion in Trump campaign
@@ -301,33 +316,42 @@
 11/17 At the Halifax Internation Security Forum, Sir Andrew Wood (on instructions from Steele) meets Senator McCain to discuss Steele dossier, McCaine aide, David Kramer, is instructed to meet Steele in London to view dossier (later provided a copy in DC)
 11/18 Trump transition team relocates to Trump National Golf Club in Bedminster, where later Pompeo is chosen to be CIA Director, and Sessions to be Attorney General
 11/19 Secretary of Defense Ash Carter and ODNI Clapper recommend Obama fire Adm. Rogers
+11/21 Bruce Ohr meets up with Peter Strzok, Lisa Page, and an unknown FBI agent (purpose unknown)
+11/21 FBI officials tell Bruce Ohr that they "may go back to Chris" (apparent reference to Steele), according to notes written by Bruce Ohr
 11/21 COPY of Anthony Weiner laptop secured in certified SCIF, located at FBI HQ, available for inspection under approval from Asst Director of Counterintelligence (Priestap?), per FBI Vault, part 23, pgs 142-143
-11/22 FBI interviews Bruce Ohr or Nellie Ohr (first name unknown on FBI document)
+11/22 FBI interviews Bruce Ohr (Ohr FD-302 December 19, 2016)
 11/28 In an interview, Bruno Kahl suggests Russia may try to interfere in upcoming German elections
 11/30 Trump meets with Preet Bharara, Preet agrees to remain US Attorney under Trump
 12/--  Russia Today interviews Carter Page (mid-December?)
-12/05 Bruce or Nellie Ohr interviewed again by FBI
+12/05 FBI interviews Bruce Ohr (Ohr FD-302 December 19, 2016)
 12/08[09?][13?] McCain delivers dossier to Comey
+12/09 Brennan provides ICA assessment to Obama, showing Russia preferring Trump over Clinton
 12/09 Obama orders review of Russian interference in US elections going back to 2008
-12/12 Bruce or Nellie Ohr interviewed again by FBI agents
+12/12 FBI interviews Bruce Ohr (Ohr FD-302 December 19, 2016)
 12/12 Evelyn Farkas publishes an article in Politico about Trump and Russia
+12/13 Steele writes his last memo, says Michael Cohen traveled to Prague in August 2016 (Cohen denies)
 12/13 "The Perfect Weapon: How Russian Cyberpower Invaded the U.S." is published in the NYT
 12/13 Neil King informs colleagues he is joining Fusion GPS
 12/15 Lisa Monaco at Defense One Summit says that the Trump transition team has not contacted her personally
 12/15 Evelyn Farkas discusses Russian meddling on CNN
+12/15 Clapper signs off Executive Order 12333 (NSA data-sharing order)
 12/16 Obama gives end-of-the-year press conference, says election overrun with leaked information
 12/17 Sir Richard Dearlove, Stefan Halper, and Peter Martland resign from Cambridge Intelligence Seminar, citing Russian infilitration by Venuscript
-12/20 Bruce or Nellie Ohr interviewed again by FBI agents
+12/20 FBI interviews Bruce Ohr (Ohr FD-302 December 27, 2016)
+12/22 Gen. Flynn speaks to unknown Russian officials regarding Israel
 12/23 Lawfare's Matt Tait published "Putin's Way of War" in Politico
 12/28 Obama orders sanctions against Russia in response to Russian interference in U.S. elections
 12/28 Gen. Flynn speaks to Ambassador Kislyak
 12/29 Obama expels 35 officials from the Russian Embassy in Maryland's Eastern Shore
+12/29 Russian Malicious Activity Report, GRIZZLY STEPPE, is released
 12/29 Flynn speaks again to Ambassador Kislyak
 12/30 FBI concludes it has not found any evidence of wrongdoing or illicit ties of Trump campaign officials to the Russian government
 
 [2017]
 01/--  Obama spells out succession order, listing three U.S. attorneys as being in line to succeed as AG, Trump ignores and nominates Dana Boente
+01/--  Steele (and Fusion?) may have gone to work for Daniel Jones at Penn Quarterly Group post-election
 01/03 Schumer, in an interview with Maddow, says "the intelligence community, they have six ways from Sunday at getting back at you"
+01/03 Loretta Lynch signs Section 2.3 of Executive Order 12333 (Obama's NSA data-sharing order)
 01/05 Obama and Biden briefed on dossier and report, presented by Clapper, Comey, Brennan, and Rogers
 01/05 Obama, Comey, Yates, Biden, and Susan Rice meet in the Oval Office to discuss the FBI's investigation and the Steele dossier
 01/06 FBI interviews Huma (why?)
@@ -349,11 +373,19 @@
 01/13 Obama admin announces new rules to allow NSA to share private data gathered without warrants, court orders or Congressional authorization with 16 other intel agencies
 01/17 Samantha Power uses final speech in U.N. to criticize Russia
 01/20 Susan Rice sends herself an email about January 5th Oval Office meeting
+01/23 FBI interviews Bruce Ohr (Ohr FD-302 January 31, 2017)
+01/25 FBI interviews Bruce Ohr (Ohr FD-302 January 27, 2017)
+01/27 FBI interviews Bruce Ohr (Ohr FD-302 January 27, 2017)
 01/27 Adam Waldman visits Julian Assange in London
+01/30 Sally Yates fired
+01/31 Steele texts Bruce Ohr, sympathizes over Sally Yates' firing
+01/31 Steele texts Bruce Ohr, asks if he can still assist FBI, Bruce says he can still "help as discussed", Steele asks for other FBI contacts in case Bruce gets the axe
+02/06 FBI interviews Bruce Ohr (Ohr FD-302 February 8, 2017)
 02/08 "Democratic Sen. Mark Warner texted with Russian oligarch lobbyist in effort to contact dossier author Christopher Steele", reports Ed Henry of Fox News
-02/18 Joseph Mifsud features as speaker at Global Ties national conference, sponsored by the State Dept's Office of International Visitors
 02/12 Carter Page sends letter to the Civil Voting Rights Division of the DOJ
+02/14 FBI interviews Bruce Ohr (Ohr FD-302 February 15, 2017)
 02/14 Page and Strzok confirm (with McCabe) to launch F 302
+02/18 Joseph Mifsud features as speaker at Global Ties national conference, sponsored by the State Dept's Office of International Visitors
 03/--  FBI contacts Carter Page, first time in over a year, as detailed in Carter Page's testimony before HPSCI on November 2, 2017
 03/04 Trump tweets that Obama had his "wires tapped" in Trump Tower before election night
 03/07 WikiLeaks dumps CIA Vault 7
@@ -384,13 +416,18 @@
 05/05 SSCI Warner/Burr release statement about Carter Page, saying he may not be cooperating with SSCI as he has promised
 05/06 Grassley sends letter to FBI (not SSCI, right?) seeking records and info from a reported plan at the FBI to pay the former British intelligence officer behind a dossier of compromising but unsubstantiated information about President Donald Trump to continue his work
 05/07 Carter Page sends letter to Burr/Warner at SSCI, details two felony disclosures concerning his identity
+05/08 FBI interviews Bruce Ohr (Ohr FD-302 May 10, 2017)
+05/12 FBI interviews Bruce Ohr (Ohr FD-302 May 12, 2017)
 05/14 Carter Page sends mostly-neutral letter to Rod Rosenstein, accuses Comey of leaks
+05/15 FBI interviews Bruce Ohr (Ohr FD-302 May 16, 2017)
 05/17 Mueller appointed to lead special counsel investigation
 05/22 Carter Page sends letter to HPSCI, of little material
 05/23 Carter Page sends follow-up letter to HPSCI, heavily criticizing Brennan
 05/29 Carter Page sends letter to SSCI, complains about Brennan
 05/31 HPSCI responds to Page's television appearances, issues statement that they won't be rushed on witnesses
 06/10 Carter Page responds to HPSCI, says committees have blocked him from testifying
+06/14 Debbie Wasserman Schultz hosts DNC conference, says Russians hacked their servers, stole Trump opposition research
+06/14 "Russian government hackers penetrated DNC, stole opposition research on Trump", published by Ellen Nakashima in WaPo
 06/22 Senate Judiciary Committee sends letter to Loretta Lynch and others regarding an email written by Debbie Wasserman Schultz, sent to Leonard Benardo (Open Society Foundation), intercepted by Russian intelligence, and sent to the FBI in March 2016 by source unknown, it purportedly details an assurance from Lynch to Amanda Renteria (Clinton campaign staffer) that HRC's emails would not be looked at too closely
 06/23 Carter Page sends letter to HPSCI, details five pages of suggested cross-exam questions for John Podesta
 07/26 Manafort home raided
@@ -423,6 +460,7 @@
 01/02 Glenn Simpsons writes NYT op-ed, demanding that transcripts of his August 22, 2017 testimony in closed-door hearings be made public
 01/10 Dianne Feinstein leaks Simpsons' testimony, says she was pressured, doesn't say who pressured her
 02/08 In letter to HPSCI Chairman Nunes, Counsel to the President, McGahn, cites a closed-door hearing of Bill Priestap (date unknown), who says that corroboration of Steele dossier was in its infancy at the time of the initial FISA application used to surveil Carter Page in October 2017
+02/28 Grassley sends letter to IG Horowitz requested a “comprehensive review of potential improper political influence, misconduct, or mismanagement in the conduct of the counterintelligence and criminal investigation” into Russia and Trump, also attached is a letter to Sessions asking for a second Special Counsel, and a less de-classified version of the Grassley memo
 03/28 OIG release announcement to review DOJ and FBI compliance with legal requirements with regards to FISA of a certain U.S. person
 03/28 Former FBI agent Terry Albury is charged with leaking Confidential Human Source Policy Guide to The Intercept
 04/19 DOJ files FARA case against Pakistani national and U.S. permanent resident, Nisar Ahmed Chaudhry
@@ -434,3 +472,4 @@
 07/10 Judge Emmitt Sullivan schedules status hearing for Gen. Flynn
 08/03 FBI turns over 70 pages of heavily redacted records about Christopher Steele, per Judicial Watch FOIA request
 08/06 OIG press release says FBI Special Agent (unnamed) had inappropriate relationship with a Confidential Human Source (bribes, etc.), criminal prosecution declined
+08/07 Rick Gates tells Judge Ellis he embezzled cash from Manafort to pay for London apartments where he had an extra-marital affair
