@@ -274,7 +274,7 @@
 10/20 Halper talks at the China Forum in Washington
 10/20 NSA compliance officer briefs Adm. Rogers on illegal FBI spying
 10/20 Lisa Monaco meets with financial executives to discuss cyber security
-10/21 FISA Court approves secret surveillance order on two banks based on info from Estonia, as well as an order to monitor Carter Page
+10/21 First FISA approved on Carter Page (also, two Russian banks?)
 10/21 NSA notifies DOJ & FIS Court of spying
 10/24 Benjamin Wittes writes an article about insurance policies in Lawfare Blog
 10/24 NSA verbally briefs FISA Court regarding non-compliance with NSA's minimization procedures involving quers of data acquired under Section 702 using U.S. person identifiers
@@ -367,6 +367,7 @@
 01/11 WSJ publishes Steele's name and work with FBI
 01/11 Jake tapper releases statement from ODNI's Clapper about meeting with Trump
 01/11 10 Downing Street confirms they have a DA-notice on Steele
+01/12 First renewal on Carter Page FISA
 01/12-13 Adam Waldman visits Julian Assange in London
 01/12 IG Horowitz opens investigation into the DOJ
 01/12 Flynn conversation with Ambassador Kislyak is leaked to the Washington Post
@@ -434,6 +435,7 @@
 04/05 Evgeny Buryakov deported to Russia
 04/05 Adam Waldman texts Senator Warner, says Steele is getting cold feet, wants bipartisan letter with written list of questions
 04/06 Adam Waldman texts Senator Warner, says WSJ just called, said SSCI and Steele are speaking through an intermediary, Waldman says he was asked by SSCI if he was the intermediary
+04/07 Second renewal on Carter Page FISA
 04/10 Adam Waldman texts Senator Warner, says he has convinced Assange to make concessions and has relayed that to DOJ, also Deripaska says he can testify before Congress, but first wants to know state of play with Manafort, Waldman says he will be with Deripaska from April 18-24th
 04/11 WSJ's Devlin Barrett breaks story on Carter Page's FISA warrant, says it contain "the most closely guarded secrets in the world"
 04/12 Carter Page goes on media blitz, doing six televised interviews
@@ -462,6 +464,7 @@
 06/14 "Russian government hackers penetrated DNC, stole opposition research on Trump", published by Ellen Nakashima in WaPo
 06/22 Senate Judiciary Committee sends letter to Loretta Lynch and others regarding an email written by Debbie Wasserman Schultz, sent to Leonard Benardo (Open Society Foundation), intercepted by Russian intelligence, and sent to the FBI in March 2016 by source unknown, it purportedly details an assurance from Lynch to Amanda Renteria (Clinton campaign staffer) that HRC's emails would not be looked at too closely
 06/23 Carter Page sends letter to HPSCI, details five pages of suggested cross-exam questions for John Podesta
+06/29 Third and final renewal on Carter Page FISA
 07/26 Manafort home raided
 07/27 Horowitz discovers Strzok/Page texts, OIC informs Mueller
 07/27 Papadopoulos arrested at Dulles Airport outside Washington, D.C.
