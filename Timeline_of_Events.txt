@@ -54,7 +54,7 @@
 [2015]
 01/26 Evgeny Buryakov arrested, charged with, and pleading guilty to, spying on the United States for the Russian Foreign Intelligence Service (SVR), sentenced 30 months in federal prison and fined $100,000
 03/25-31 Combetta, Bleachbit
-04/07 DNC leaked memo reveals Pied Piper strategy to push weakened candidates (Cruz, Trump, Carson) to top of GOP ticket
+04/07 Leaked DNC memo reveals Pied Piper strategy to push weakened candidates (Cruz, Trump, Carson) to top of GOP ticket
 05/15 Michael Morrell says he believes some foreign intelligence agencies possess contents of HRC's private email server
 05/19 Peter Kadzik tips off John Podesta about upcoming investigation into HRC State Dept emails
 06/03 Marie Harf sends an email to Carlos DeJuana, mentions that Robert Otto is married to Anne Joblonski, says she was handler for kidnapped CIA agent Bob Levinson
@@ -132,6 +132,7 @@
 05/25 Natalia Veselnitskaya submits an application for a US entry visa (did Robert Otto in State Dept flag this, somehow getting notification to Strzok for expediting?)
 05/26 Trump locks in necessary 1,237 delegates after winning Indiana primary
 05/31 Natalia Veselnitskaya receives confirmation that she is to be interviewed for a B1 visa within the Moscow Business/Tourism/Crew/Journalist category
+06/--  (late spring/early summer?) In a highly-classified memo, Loretta Lynch allegedly assures Amanda Renteria (Clinton campaign aide) that the DOJ would not allow the FBI to look too far into the investigation of Hillary's emails
 06/01 Natalia Veselnitskaya arrives at the U.S. Embassy in Moscow for an interview
 06/--  Sergei Skripa visits Estonian intelligence officers, arranged by British intelligence (possibly to retrieve secret recording of alleged Kremlin money being transmitted to a U.S. presidential campaign, passed to GCHQ's Hannigan, then passed to Brennan at "director level" in DC)
 06/--  Fusion GPS hires Christopher Steele
@@ -265,6 +266,7 @@
 10/--  Steele meets with several reporters again in mid-October
 10/15 John Carlinn resigns
 10/16 WikiLeaks tweets that Julian Assange's internet link has been severed by a state party
+10/18 WikiLeaks tweets leaked "Pied Piper" DNC memo
 10/18 Crossfire Hurricane team email each other about rushing to get approval for another FISA warrant for another Russia-related investigation code-named "Dragon" (Sergei Millian?), per John Solomon in The Hill
 10/18 Obama hosts Italian PM Matteo Renzi for State dinner, attended also by Biden, Susan Rice, Ian Cameron (Susan Rice's husband, ABC News executive), DOD Carter, Valeria and Laura Jarrett, Jeh Johnson, John Kerry, Shalaigh Murray (Obama senior advisor, former WaPo reporter), Neil King (Shalaigh Murray's husband, WSJ editor), Loretta Lynch, Denis McDonough (former WH Chief of Staff), Lisa Monaco, Victoria Nuland (Assistant Secretary of State for European and Eurasian Affairs), Nancy Pelosi, Tom Perez, Samantha Power, Ben Rhodes, George Stephanopoulos, Chuck Todd, Jonathon Winer (Special Envoy to Libya), and various celebrities
 10/19 Lisa Page texts Andrew McCabe, "Hey, can you give me a call when you get out? Meeting with WH counsel is finally set up and I want to talk about timing. Thanks."
@@ -274,7 +276,7 @@
 10/20 Halper talks at the China Forum in Washington
 10/20 NSA compliance officer briefs Adm. Rogers on illegal FBI spying
 10/20 Lisa Monaco meets with financial executives to discuss cyber security
-10/21 First FISA approved on Carter Page (also, two Russian banks?)
+10/21 FISA Court approves secret surveillance order on two banks based on info from Estonia, as well as an order to monitor Carter Page
 10/21 NSA notifies DOJ & FIS Court of spying
 10/24 Benjamin Wittes writes an article about insurance policies in Lawfare Blog
 10/24 NSA verbally briefs FISA Court regarding non-compliance with NSA's minimization procedures involving quers of data acquired under Section 702 using U.S. person identifiers
@@ -360,14 +362,16 @@
 01/06 ODNI ICA report on Russian Activities says CIA and FBI give high confidence, NSA moderate confidence
 01/06 Comey briefs Trump on Steele dossier
 01/06 Clapper appears on CNN and tells Jake tapper about the dossier
-01/10 Kurt Eichenwald publishes article connecting 
-01/10 Carter Page asks Lisa Monaco (former Assistant to the President for Homeland Security and Counterterrorism) about apparent violations of U.S. civil rights at a breakfast meeting, and was told to shush by a pro-Obama Admin/Clinton campaign journalist (who?), detailed in a March 8 letter later sent to Senate Intel Committee
+01/10 Kurt Eichenwald publishes "Trump, Putin, and the Hidden History of How Russia Interfered in the U.S. Presidential Election", surreptitiously aligning claims about key Kremlin officals and overseas intel organizations that also happen to be mentioned in the Steele dossier 
+01/10 Carter Page asks Lisa Monaco about apparent violations of U.S. civil rights at a breakfast meeting, told to shush by pro-Obama Admin/Clinton campaign journalist (?), detailed in a March 8, 2017 letter to SSCI
 01/10 BuzzFeed publishes 35-page dossier
 01/10 Comey testifies before Senate Intelligence Committee, says DNC refused to provide FBI access to hacked computer servers
 01/11 WSJ publishes Steele's name and work with FBI
 01/11 Jake tapper releases statement from ODNI's Clapper about meeting with Trump
 01/11 10 Downing Street confirms they have a DA-notice on Steele
 01/12 First renewal on Carter Page FISA
+01/12 "If Obama grants Manning clemency Assange will agree to US extradition despite clear unconstitutionality of DoJ case," tweets WikiLeaks
+01/12 Adam Waldman texts Bruce Ohr, the two agree to speak later in the day (texts published in a June 25, 2018 article in The Hill)
 01/12-13 Adam Waldman visits Julian Assange in London
 01/12 IG Horowitz opens investigation into the DOJ
 01/12 Flynn conversation with Ambassador Kislyak is leaked to the Washington Post
@@ -375,6 +379,8 @@
 01/12 Evelyn Farkas publishes "Does Putin Have Something on Trump? Obama Should Tell Us"
 01/13 Obama admin announces new rules to allow NSA to share private data gathered without warrants, court orders or Congressional authorization with 16 other intel agencies
 01/17 Samantha Power uses final speech in U.N. to criticize Russia
+01/17 Obama commutes sentence of Chelsea Manning
+01/18 "Julian Assange ready for US extradition, one of his lawyers suggests," reports The Guardian
 01/19 Several agencies (FBI, CIA, NSA, Treasurey) aer monitorying several associates of the Trump campaign who are suspected of Russian ties, reports NYT
 01/19 Top Obama intel and law enforcement deputies meet to talk about Flynn's conversation with Ambassador Kislyak
 01/20 Susan Rice sends herself an email about January 5th Oval Office meeting
@@ -388,13 +394,13 @@
 01/27 Sally Yates returns to the White House for a second discussion about Gen. Flynn
 01/27 FBI interviews Bruce Ohr (Ohr FD-302 January 27, 2017)
 01/27 Adam Waldman visits Julian Assange in London
+01/27 Steele texts Bruce Ohr, "Hi B! Our guy's OK for the time being but I would like to keep our channel open on him and his situation if that's all right?"
 01/30 Sally Yates fired
 01/30 Matthew Axelrod – Principal Associate Deputy Attorney General resigns
 01/31 Steele texts Bruce Ohr, sympathizes over Sally Yates' firing
-01/31 Steele texts Bruce Ohr, asks if he can still assist FBI, Bruce says he can still "help as discussed", Steele asks for other FBI contacts in case Bruce gets the axe, says "We can’t allow our guy to be forced to go back home. It would be disastrous.” (Is "our guy" Edward Baumgartner?)
+01/31 Steele texts Bruce Ohr, asks if he can still assist FBI, asks for more FBI contacts, says "We can’t allow our guy to be forced to go back home. It would be disastrous.”
 02/--  Michael B. Steinbach (FBI Executive Assistant Director for the National Security Branch) retires
 02/06 FBI interviews Bruce Ohr (Ohr FD-302 February 8, 2017)
-02/07 David Laufman (DOJ National Security Division, Deputy Asst. Attorney General in charge of counterintelligence) resigns
 02/09 Gen. Flynn discussed sanctions with Ambassador Kislyak, reports NYT and WaPo
 02/09 Rachel Brand (Associate Attorney General, number three official behind Deputy AG Rosenstein) resigns
 02/12 Carter Page sends letter to the Civil Voting Rights Division of the DOJ
@@ -405,6 +411,7 @@
 02/18 Joseph Mifsud features as speaker at Global Ties national conference, sponsored by the State Dept's Office of International Visitors
 03/--  FBI contacts Carter Page, first time in over a year, as detailed in Carter Page's testimony before HPSCI on November 2, 2017
 03/04 Trump tweets that Obama had his "wires tapped" in Trump Tower before election night
+03/06 Grassley sends letter to Comey, asking for any relevant info on Steele's extracurricular activities with DOJ officials, including 302's, contracts, agreements, payments, WH briefings, etc.
 03/07 WikiLeaks dumps CIA Vault 7
 03/07 Nunes agrees with Schiff for the need to investigate Trump's claim of Obama wiretapping
 03/08 Carter Page sends letter to Senate Intel Committee wrt wiretap claims on Trump Tower, detailing that, due to his employment at the IBM Building (590 Madison Avenue), which is connected to Trump Tower via an atrium, that Trump's claim of wiretapping is accurate
@@ -424,6 +431,7 @@
 03/22 Nunes holds late press conference, says members of Trump campaign were unmasked by Obama officials in capacities that had no relation to the campaign or to Russia
 03/25 Adam Waldman texts Senator Warner, says Deripaska will be in London from March 27-30
 03/27 On MSNBC with Mika Brzizinski, Evelyn Farkas says, "that the Trump folks – if they found out HOW we knew what we knew about their, the Trump staff, dealing with Russians – that they would try to compromise those sources and methods; meaning we no longer have access to that intelligence"
+03/28 Email sent to Adam Laufman
 03/30 Adam Waldman texts Senator Warner, reports that Steele is concered about leaks in previous day's press, Steele apparently "run off" by press, "huddled w lawyers"
 03/31 Senator Warner says to Adam Waldman, "Keep me informed also any news about ur other guy on Manafort", Waldman says his other guy is mistrustful of U.S. government, says he's been run out of the country, says "Update re other other guy my contact at DOJ has gone silent for 72 hrs"
 03/31 Evgeny Buryakov, scheduled to be released from federal prison July 27, is released early into ICE custody, cited for good behavior
@@ -506,6 +514,7 @@
 01/23 James Rybicki (Chief of Staff to FBI Director James Comey & successor Chris Wray) resigns
 01/31 Mueller files Status Report to postpone Gen. Flynn sentencing hearing for 90 days (May 1st, 2018)
 02/02 Josh Campbell (Special Assistant to James Comey) resigns
+02/07 David Laufman (DOJ National Security Division, Deputy Asst. Attorney General in charge of counterintelligence) resigns
 02/08 Michael Kortan (FBI Assistant Director of Public Affairs) resigns
 02/08 In letter to HPSCI Chairman Nunes, Counsel to the President, McGahn, cites a closed-door hearing of Bill Priestap (date unknown), who says that corroboration of Steele dossier was in its infancy at the time of the initial FISA application used to surveil Carter Page in October 2017
 02/14 Judge Sullivan, presiding over Flynn case, asserts Brady Rule, orders Mueller to find exculpatory evidence held by government sources
@@ -521,7 +530,9 @@
 05/11 DOJ announce guilty plea of CIA contractor, Reynaldo B. Regis (arrest date 2016-Nov-3)
 05/16 U.S. District Judge Denise Cote orders Search and Seizure Warrant against Anthony Weiner be unsealed
 06/04 FBI arrests former defense intelligence officer Ron Hansen, accused of attempted transmission of national defense information to the People’s Republic of China
+06/07 James Wolfe (SSCI Head of Security) arrested and charged with one count of lying to the FBI
 06/12 Article "Ukrainian Diplomat Andrey Telizhenko: I Was Told Directly that the Task Was to Remove Trump from the Elections" is published on stalkerzone.org
+06/21 Carter Page redacted FISA application (October 2016) released to FBI vault (FISAs are not generally applicable to FOIA)
 07/10 Judge Emmitt Sullivan schedules status hearing for Gen. Flynn
 08/03 FBI turns over 70 pages of heavily redacted records about Christopher Steele, per Judicial Watch FOIA request
 08/06 OIG press release says FBI Special Agent (unnamed) had inappropriate relationship with a Confidential Human Source (bribes, etc.), criminal prosecution declined
