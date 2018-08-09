@@ -155,7 +155,7 @@
 06/16 Natalia Veselnitskaya returns to New York
 06/17 Natalia Veselnitskaya meets with U.S. lawyers, returns to Russia
 06/19 Stephanie Burant emails Robert Otto in response to a request from Adrian Harmata (political analyst at State), asks Otto for his take on a WaPo article about Manafort 
-06/20 Steele files first Trump-Russia memo
+06/20 Steele files first Trump-Russia memo, cites Source D (Millian is referred to in the dossier as Source D, according a Jan 24th WSJ article) who told an unidentified intermediary that the Kremlin has kompromot of a sexual nature on Trump
 06/24 Brexit
 06/24 Simpson contacts Steele (Steele's birthday) to arrange to receive a copy of the dossier, sent courier from the UK
 06/--  DOJ/NSD submit first FISA application for permission to intercept the electronic records from two Russian banks (fails)
@@ -168,6 +168,7 @@
 07/--  (July 3-4th?) Bruce Ohr schedules a Skype call with Steele
 07/05 Steele meets FBI agent Gaeta in London
 07/05 Comey defers HRC prosecution recommendation
+07/07 Manafort writes in an email, "If he needs private briefings, we can accomodate", allegedly referring to Oleg Deripaska
 07/07 Carter Page travels to Moscow on a campaign-approved visit to deliver a lecture at the prestigious New Economic School
 07/07 IC IG McCullough testifies before HPSCI (Chaffetz) that he can not provide the committee with a certain segment of HRC's emails because 1) Yates likely denied IG access per 58-page memo, and 2) too sensitive to discuss in public hearing
 07/08 Carter Page invited to the Race to Change the World Symposium by a University of Cambridge doctoral candidate
@@ -177,12 +178,14 @@
 07/19 Lisa Monaco meets Clapper and Tonya Ugoretz at ODNI
 07/19 Steele memo says, "Source E, an ethnic Russian" and "close associate of Trump" alleges that the "Russian regime" had been behind the DNC emails "to the Wikileaks platform."
 07/19 Trump becomes official GOP nominee
+07/22 Papadopoulos allegedly messages FOREIGN CONTACT #2 [Ivan Timofeev, Russian acamemic with close ties to the Kremlin] through Facebook, asks if "knew a particular individual with extensive ties to Russian-based businesses and persons."
 07/25 Page and Strzok text each other about Strzok's relationship to Judge Rudolph Contreras
 07/26 Steele files another memo, this time placing the blame of the DNC hacks on Russia, two days after Robby Mook said the same on ABC, who cites CrowdStrike as his source
 07/26 Obama signs directive, places FBI in charge of all cyber threats
 07/26 At press conference, Trump says, "Russia, I hope you can find Hillary's missing emails"
 07/27 Aspen Security Forum
 07/--  Bruce Ohr is in contact with Steele days before Crossfire Hurricane begins, engages Steele as a "confidential human source"
+07/29 Steele likely arrives in DC late afternoon/evening
 07/30 Bruce Ohr (accompanied by Nellie) meet with Christopher Steele in Washington at the Mayflower Hotel, Steele later follows up with a text and says to keep in touch, also says Glenn Simpson would like to help
 07/31 Meet the Press questions Manafort on RNC platform changes for Ukraine (also part of dossier, included in Carter Page FISA)
 07/31 Crossfire Hurricane officially begins
@@ -196,7 +199,7 @@
 08/11 Clapper visits Estonia
 08/11 Brennan personally briefs Reid, McConnell, Feinstein, Burr, Ryan, Pelosi, Nunes, and Schiff wrt Russian hacking attempts
 08/12 Matthew Axelrod (deputy to Sally Yates) contacts McCabe, says FBI agents at NY Field Office "seemed to be disregarding or disobeying their instructions" wrt Clinton Foundation investigation
-08/14 NYT Ukrainian bank ledger story on Manafort
+08/14 Secret Manafort ledger found by Ukrainian government, reports NYT
 08/15 DOH's Jeh Johnson calls state officials to gain support for election defense, but was met with "a wall of resistance"
 08/15 Strzok and Page discuss "insurance policy"
 08/16 Rick Gates interviewed by FBI, provides misleading info about interactions with Mercury
@@ -226,8 +229,11 @@
 09/11 Hillary collapses in NYC, claims pneumonia
 09/13 Halper and Papadopolous have dinner at the Connaught Hotel, where Halper brings up his research assistant Azra Turk
 09/14 Lisa Monaco (Homeland Security Advisor) tells people at 10yr anniversary of DOJ/NSD that Russia hacking the election would be "extremely difficult"
+09/14 Steele dates three installments of the dossier
 09/15 Halper and Papadopolous meet at the Travellers Colub, again with Azra Turk, Azra is said to have flirted with Pdop
 09/15 Isikoff leaves voicemail for Carter Page, asking for a call back, leaves similar voicemail on September 22
+09/16 Steele texts Bruce Ohr, says he will be back in town "on business of mutual interest"
+09/21 Steele texts bruce Ohr, says he is in town, says "keen to meet up with you"
 09/21 DailyMail runs story on Weiner sexts with 15yo girl
 09/22 Schiff and Feinstein release joint statement condeming Russia
 09/23 Isikoff publishes "U.S. intel officials probe ties between Trump adviser and Kremlin" w/info provided by Steele (FBI take notice)
@@ -265,7 +271,6 @@
 10/--  Steele meets with several reporters again in mid-October
 10/15 John Carlinn resigns
 10/16 WikiLeaks tweets that Julian Assange's internet link has been severed by a state party
-10/18 WikiLeaks tweets leaked "Pied Piper" DNC memo
 10/18 Crossfire Hurricane team email each other about rushing to get approval for another FISA warrant for another Russia-related investigation code-named "Dragon" (Sergei Millian?), per John Solomon in The Hill
 10/18 Obama hosts Italian PM Matteo Renzi for State dinner, attended also by Biden, Susan Rice, Ian Cameron (Susan Rice's husband, ABC News executive), DOD Carter, Valeria and Laura Jarrett, Jeh Johnson, John Kerry, Shalaigh Murray (Obama senior advisor, former WaPo reporter), Neil King (Shalaigh Murray's husband, WSJ editor), Loretta Lynch, Denis McDonough (former WH Chief of Staff), Lisa Monaco, Victoria Nuland (Assistant Secretary of State for European and Eurasian Affairs), Nancy Pelosi, Tom Perez, Samantha Power, Ben Rhodes, George Stephanopoulos, Chuck Todd, Jonathon Winer (Special Envoy to Libya), and various celebrities
 10/19 Lisa Page texts Andrew McCabe, "Hey, can you give me a call when you get out? Meeting with WH counsel is finally set up and I want to talk about timing. Thanks."
@@ -405,6 +410,7 @@
 02/09 Rachel Brand (Associate Attorney General, number three official behind Deputy AG Rosenstein) resigns
 02/12 Carter Page sends letter to the Civil Voting Rights Division of the DOJ
 02/13 Gen. Flynn resigns as national security advisor
+02/14 Trump, in a private one-on-one meeting, asks Comey to drop the investigation into Gen. Flynn
 02/14 FBI interviews Bruce Ohr (Ohr FD-302 February 15, 2017)
 02/14 Page and Strzok confirm (with McCabe) to "launch on F 302" (Flynn conversation likely edited post-FBI interview, possibly by McCabe)
 02/16 Adam Waldman texts Senator Warner, "this guy [Julian Assange] is going to do something catastrophic for the dems, Obama, CIA and national security. I hope someone will consider getting him to US to ameliorate the damage."
@@ -462,12 +468,14 @@
 05/09 Comey fired
 05/11 Peter Kadzik (Acting Assistant Attorney General – Acting Head of DOJ’s National Security Division, replacing John Carlin) resigns
 05/11 Adam Waldman texts Senator Warner, says Deripaska is getting questions about Manafort from multiple directions
+05/12 Trump tweets, "James Comey better hope that there are no 'tapes' of our conversations before he starts leaking to the press!"
 05/12 FBI interviews Bruce Ohr (Ohr FD-302 May 12, 2017)
-05/13 Steele texts Bruce Ohr, agrees to have a conversation later that day at 2pm (a Saturday)
+05/13 Steele texts Bruce Or, agrees to have a conversation later that day at 2pm (a Saturday)
 05/14 Carter Page sends mostly-neutral letter to Rod Rosenstein, accuses Comey of leaks
 05/15 Steele texts Bruce Ohr, says he has "consulted my wife and business partner about the question we discussed on Saturday I'm pleased to say yes, we should go ahead with it", Bruce responds, "I will let them know and we will follow up"
 05/15 Adam Waldman texts Senator Warner, asks if he wants to discuss Deripaska, or if he respond to HPSCI instead
 05/15 FBI interviews Bruce Ohr (Ohr FD-302 May 16, 2017)
+05/16 Disclosure of Comey's memos published in NYT
 05/17 Mueller appointed to lead special counsel investigation
 05/22 Carter Page sends letter to HPSCI, of little material
 05/23 Carter Page sends follow-up letter to HPSCI, heavily criticizing Brennan
@@ -476,9 +484,14 @@
 06/10 Carter Page responds to HPSCI, says committees have blocked him from testifying
 06/14 Debbie Wasserman Schultz hosts DNC conference, says Russians hacked their servers, stole Trump opposition research
 06/14 "Russian government hackers penetrated DNC, stole opposition research on Trump", published by Ellen Nakashima in WaPo
+06/19 Mark Meadows unmasks Kevin Clinesmith and Sally Moyer, two members of the Special Counsel who sent anti-Trump text messages
+06/22 Steele texts Bruce Ohr, asks "any news on reengagement yet?", Bruce says he will inquire later
 06/22 Senate Judiciary Committee sends letter to Loretta Lynch and others regarding an email written by Debbie Wasserman Schultz, sent to Leonard Benardo (Open Society Foundation), intercepted by Russian intelligence, and sent to the FBI in March 2016 by source unknown, it purportedly details an assurance from Lynch to Amanda Renteria (Clinton campaign staffer) that HRC's emails would not be looked at too closely
 06/23 Carter Page sends letter to HPSCI, details five pages of suggested cross-exam questions for John Podesta
 06/29 Third and final renewal on Carter Page FISA
+07/16 Steele texts Bruce Ohr about reengagement, Bruce says he will pass along the message
+07/20 Wray confirmed 92-5 by Senate to be FBI Director
+07/24 The Wall Street Journal reports that Sergei Millian was reportedly the source for some of the salacious allegations in the dossier, which includes 17 separate reports dated from June 20, 2016 to Dec. 13, 2016, and is listed as both Source D and Source E in the dossier
 07/26 Manafort home raided
 07/27 Horowitz discovers Strzok/Page texts, OIC informs Mueller
 07/27 Papadopoulos arrested at Dulles Airport outside Washington, D.C.
@@ -488,23 +501,28 @@
 08/04 Heat Street closes
 08/04 Sessions says the FBI has formed a new counterintelligence unit to investigate leaks
 08/06 Steele texts Bruce Ohr, says "we are frustrated with how long this reengagement with the Bureau and Mueller is taking", asks Bruce if things can be sped up
+08/07 Steele texts Bruce Ohr, asks if he can give Bruce a call tomorrow, Bruce tells him before 10am
 08/16-18-29 Bil Browder tweets criticisms of Dana Rohrabacher being in contact with Julian Assange
 08/16 Strzok demoted to FBI Human Resources
 08/22 Glenn Simpsons testifies in closed-door hearing with SSCI
 09/14 Carter Page files defamation lawsuit against OATH, Inc. (parent company of Yahoo, HuffPost) and Broadcasting Board of Governors in SDNY
 09/17 CNN "breaks" Manafort FISA story (literally the only time it's discussed in the news media)
 09/30 Chuck Rosenberg (Former Acting Head of the Drug Enforcement Administration, twice serving as Chief of Staff to former FBI Director James Comey) resigns
+10/05 Papadopoulos pleads guilty to lying to the FBI about the timing of his contacts with Mifsud
 10/10 Carter Page sends letters to Special Counsel and HPSCI/SSCI, says he will not comply with informal document productions requests, denies main charges leveled against him, demands open-session hearings of his testimony under oath
 10/16 James Wolfe informs Marianna Sotomayor of NBC News that Carter Page had been served with a subpoena to appear before SSCI
 10/17 Marianna Sotomayor requests Carter Page's cell phone number from James Wolfe, publishes an article about Carter Page, and later calls Carter Page for comment
+10/24 "Clinton campaign, DNC paid for research that led to Russia dossier", reports Adam Entous and Devlin Barrett of WaPo
 10/26 Steele texts Bruce, says he's just seen a story about FBI turning over documents to Congress about his work and his contacts, says lives may be endangered, says he will "reach out to my other (SC) contacts on this issue tomorrow."
 10/30 Steele texts Bruce, says he's spoken with Glenn Simpson that day, says "I now understand and appreciate what you were talking about on Saturday." (Saturday is October 28)
 10/30 Press release of Mueller indictment against Manafort, Podesta Group, Mercury LLC
 11/02 In CNN interview with Jake Tapper, Carter Page says he was given advance notice he was being targeted by Steele in September 2016
 11/08 Glenn Simpson testifies in a closed-door hearing before HPSCI
 11/07 CIA Director Pompeo meets with former NSA official, William Binney, who helped author an analysis casting doubt on the U.S. intelligence community’s assessment that Russia was behind email hacks targeting the Democratic National Committee in 2016
+11/11 Steele texts Bruce Ohr, asks if there's been any response to a question he had last week (re:Glenn Simpson?), Bruce says nothing yet
 11/14 Glenn Simpson testifies in a closed-door hearing before HPSCI
 11/14 Russian lobbyist who attended Trump Tower meeting, Rinat Akhmetshin, testifies before Senate Judiciary Committee
+11/15 "Christopher Steele believes his dossier on Trump-Russia is 70-90% accurate", reports Julian Borger in The Guardian
 11/18 Steele texts Bruce Ohr, says he hasn't heard back from his SC colleagues, says he's in dark on what's been briefed to Congress pertaining to his work and his contacts
 11/27 Steele texts Bruce Ohr, asks to schedule a Whatsapp call
 11/29 OIG questions McCabe, McCabe clarifies further the statements he gave to OIG from August 1, 2018
@@ -552,3 +570,4 @@
 08/03 FBI turns over 70 pages of heavily redacted records about Christopher Steele, per Judicial Watch FOIA request
 08/06 OIG press release says FBI Special Agent (unnamed) had inappropriate relationship with a Confidential Human Source (bribes, etc.), criminal prosecution declined
 08/07 Rick Gates tells Judge Ellis he embezzled cash from Manafort to pay for London apartments where he had an extra-marital affair
+08/24 Flynn hearing
