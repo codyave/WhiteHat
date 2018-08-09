@@ -48,13 +48,13 @@
 02/--  Monica Hanley tries remotely uploading Clinton email archives to PRN server from MacBook laptop. Fails. Ships (thru FedEx) laptop to Combetta's house. Combetta transfers emails to PRN server, then ships laptop to redacted Hillary aidem Laptop "lost"
 05/--  Michael Gaeta joined the FBI’s Legal Attaché Office in Rome as the Assistant Legal Attaché
 06/--  Buryakov meets multiple times with confidential sources for the FBI (Carter Page, Felix Satir, Michael Cohen, Trump?)
+06/14 Natalia Veselnitskaya goes to House hearing on "U.S. Policy Toward Putin's Russia", sits behind Michael McFaul (photo taken by Michael Weiss)
 07/31 NYT reports an internal investigation by the CIA finds that one of its officers penetrated a computer network used by the Senate Intelligence Committee in preparing a daming report on the CIA's detention and interrogation program
 08/07 Gen. Flynn resigns from Defense Intelligence Agency
 
 [2015]
 01/26 Evgeny Buryakov arrested, charged with, and pleading guilty to, spying on the United States for the Russian Foreign Intelligence Service (SVR), sentenced 30 months in federal prison and fined $100,000
 03/25-31 Combetta, Bleachbit
-04/07 Leaked DNC memo reveals Pied Piper strategy to push weakened candidates (Cruz, Trump, Carson) to top of GOP ticket
 05/15 Michael Morrell says he believes some foreign intelligence agencies possess contents of HRC's private email server
 05/19 Peter Kadzik tips off John Podesta about upcoming investigation into HRC State Dept emails
 06/03 Marie Harf sends an email to Carlos DeJuana, mentions that Robert Otto is married to Anne Joblonski, says she was handler for kidnapped CIA agent Bob Levinson
@@ -129,7 +129,7 @@
 05/19 D.C. Judge Rudolph Contreras appointed to FISC
 05/23 Nellie Ohr obtains ham radio license
 05/25 FBI interviews Secret Service agent, SSA says he was asked for help w/HRC's private server by Justin Cooper and Bryan Pagliano
-05/25 Natalia Veselnitskaya submits an application for a US entry visa (did Robert Otto in State Dept flag this, somehow getting notification to Strzok for expediting?)
+05/25 Natalia Veselnitskaya submits an application for a US entry visa (did Robert Otto in State Dept flag this for expediting, Strzok possibly notified?)
 05/26 Trump locks in necessary 1,237 delegates after winning Indiana primary
 05/31 Natalia Veselnitskaya receives confirmation that she is to be interviewed for a B1 visa within the Moscow Business/Tourism/Crew/Journalist category
 06/--  (late spring/early summer?) In a highly-classified memo, Loretta Lynch allegedly assures Amanda Renteria (Clinton campaign aide) that the DOJ would not allow the FBI to look too far into the investigation of Hillary's emails
@@ -150,9 +150,8 @@
 06/10 Comey draft memo changes "gross negligence" to "extremely careless"
 06/12 SDNY convicts Florida man, Timothy Sedlak, for attempted hacking into HRC server from June-July 2015
 06/13 Natalia Veselnitskaya and Akhmetshin host anti-Magnitsky Act film in Washington, which was attended by several Congressional staffers and one State Department official
-06/14 Natalia Veselnitskaya goes to House hearing on "U.S. Policy Toward Putin's Russia", sits behind Michael McFaul
 06/14 Crowdstrike and DNC demand FBI announce that Russian entities hacked their servers
-06/14 Guccifer 2.0 (alleged Romanian hacker, but...possible NSA operation? DNC oppo against Trump leaked first, which NSA might claim was stolen from them by DNC associates, all as a way to pretend oppo was open source research, only a day prior was DNC demanding FBI blame Russia for hack that might've secretly been NSA)
+06/14 Guccifer 2.0
 06/16 Natalia Veselnitskaya returns to New York
 06/17 Natalia Veselnitskaya meets with U.S. lawyers, returns to Russia
 06/19 Stephanie Burant emails Robert Otto in response to a request from Adrian Harmata (political analyst at State), asks Otto for his take on a WaPo article about Manafort 
@@ -433,7 +432,8 @@
 03/22 Nunes holds late press conference, says members of Trump campaign were unmasked by Obama officials in capacities that had no relation to the campaign or to Russia
 03/25 Adam Waldman texts Senator Warner, says Deripaska will be in London from March 27-30
 03/27 On MSNBC with Mika Brzizinski, Evelyn Farkas says, "that the Trump folks – if they found out HOW we knew what we knew about their, the Trump staff, dealing with Russians – that they would try to compromise those sources and methods; meaning we no longer have access to that intelligence"
-03/28 Email sent to Adam Laufman
+03/29 "Senate Intel Committee May Interview Ex-UK Spy Christopher Steele", reports NBC News
+03/30 Steele texts Bruce Ohr, asks for any news, says SSCI "is leaking like a sieve, giving us pause for thought on engagement"
 03/30 Adam Waldman texts Senator Warner, reports that Steele is concered about leaks in previous day's press, Steele apparently "run off" by press, "huddled w lawyers"
 03/31 Senator Warner says to Adam Waldman, "Keep me informed also any news about ur other guy on Manafort", Waldman says his other guy is mistrustful of U.S. government, says he's been run out of the country, says "Update re other other guy my contact at DOJ has gone silent for 72 hrs"
 03/31 Evgeny Buryakov, scheduled to be released from federal prison July 27, is released early into ICE custody, cited for good behavior
@@ -450,9 +450,11 @@
 04/11 WSJ's Devlin Barrett breaks story on Carter Page's FISA warrant, says it contain "the most closely guarded secrets in the world"
 04/12 Carter Page goes on media blitz, doing six televised interviews
 04/17 Mary McCord resigns
+04/25 Rod Rosenstein confirmed Deputy Attorney General
 04/25 Adam Waldman texts Senator Warner, says Steele is under a lot of duress, says Daniel Jones will be visiting with Warner soon, 
 04/28 Grassley sends letter to FBI, requesting responses to more questions about the FBI's relationship with Steele
 05/--  IG Horowitz seeks unsealing of FBI GJ subpoenas demanding testimony of Clinton aides, other search warrants (Yahoo, Google accounts), so as to legally disclose findings for June 14 IG report
+05/12 Steele texts Bruce Ohr, asks to schedule a Whatsapp call, Bruce says tomorrow at 1pm
 05/05 SSCI Warner/Burr release statement about Carter Page, saying he may not be cooperating with SSCI as he has promised
 05/06 Grassley sends letter to FBI (not SSCI, right?) seeking records and info from a reported plan at the FBI to pay the former British intelligence officer behind a dossier of compromising but unsubstantiated information about President Donald Trump to continue his work
 05/07 Carter Page sends letter to Burr/Warner at SSCI, details two felony disclosures concerning his identity
@@ -461,7 +463,9 @@
 05/11 Peter Kadzik (Acting Assistant Attorney General – Acting Head of DOJ’s National Security Division, replacing John Carlin) resigns
 05/11 Adam Waldman texts Senator Warner, says Deripaska is getting questions about Manafort from multiple directions
 05/12 FBI interviews Bruce Ohr (Ohr FD-302 May 12, 2017)
+05/13 Steele texts Bruce Ohr, agrees to have a conversation later that day at 2pm (a Saturday)
 05/14 Carter Page sends mostly-neutral letter to Rod Rosenstein, accuses Comey of leaks
+05/15 Steele texts Bruce Ohr, says he has "consulted my wife and business partner about the question we discussed on Saturday I'm pleased to say yes, we should go ahead with it", Bruce responds, "I will let them know and we will follow up"
 05/15 Adam Waldman texts Senator Warner, asks if he wants to discuss Deripaska, or if he respond to HPSCI instead
 05/15 FBI interviews Bruce Ohr (Ohr FD-302 May 16, 2017)
 05/17 Mueller appointed to lead special counsel investigation
@@ -483,6 +487,7 @@
 08/02 Rosenstein issues classified memo to Mueller, outline scope of investigation
 08/04 Heat Street closes
 08/04 Sessions says the FBI has formed a new counterintelligence unit to investigate leaks
+08/06 Steele texts Bruce Ohr, says "we are frustrated with how long this reengagement with the Bureau and Mueller is taking", asks Bruce if things can be sped up
 08/16-18-29 Bil Browder tweets criticisms of Dana Rohrabacher being in contact with Julian Assange
 08/16 Strzok demoted to FBI Human Resources
 08/22 Glenn Simpsons testifies in closed-door hearing with SSCI
@@ -492,12 +497,16 @@
 10/10 Carter Page sends letters to Special Counsel and HPSCI/SSCI, says he will not comply with informal document productions requests, denies main charges leveled against him, demands open-session hearings of his testimony under oath
 10/16 James Wolfe informs Marianna Sotomayor of NBC News that Carter Page had been served with a subpoena to appear before SSCI
 10/17 Marianna Sotomayor requests Carter Page's cell phone number from James Wolfe, publishes an article about Carter Page, and later calls Carter Page for comment
+10/26 Steele texts Bruce, says he's just seen a story about FBI turning over documents to Congress about his work and his contacts, says lives may be endangered, says he will "reach out to my other (SC) contacts on this issue tomorrow."
+10/30 Steele texts Bruce, says he's spoken with Glenn Simpson that day, says "I now understand and appreciate what you were talking about on Saturday." (Saturday is October 28)
 10/30 Press release of Mueller indictment against Manafort, Podesta Group, Mercury LLC
 11/02 In CNN interview with Jake Tapper, Carter Page says he was given advance notice he was being targeted by Steele in September 2016
 11/08 Glenn Simpson testifies in a closed-door hearing before HPSCI
 11/07 CIA Director Pompeo meets with former NSA official, William Binney, who helped author an analysis casting doubt on the U.S. intelligence community’s assessment that Russia was behind email hacks targeting the Democratic National Committee in 2016
 11/14 Glenn Simpson testifies in a closed-door hearing before HPSCI
 11/14 Russian lobbyist who attended Trump Tower meeting, Rinat Akhmetshin, testifies before Senate Judiciary Committee
+11/18 Steele texts Bruce Ohr, says he hasn't heard back from his SC colleagues, says he's in dark on what's been briefed to Congress pertaining to his work and his contacts
+11/27 Steele texts Bruce Ohr, asks to schedule a Whatsapp call
 11/29 OIG questions McCabe, McCabe clarifies further the statements he gave to OIG from August 1, 2018
 11/30 Flynn accepts plea deal
 12/01 Judge Contreras accepts Flynn's guilty plea
