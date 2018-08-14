@@ -8,11 +8,11 @@
 [2009_??_??] Jonathan Finer befriends Christopher Steele, according to a 2018-Feb-8 WaPo op-ed
 [2009_??_??] Deripaska courted by FBI agents (one is McCabe) to assist in recovery of CIA agent Levinson in Iran
 [2009_03_06] HRC presents Russian reset button to Sergei Lavrov
-[2009_03_??] HRC's Pagliano bathroom server (runs until June 30, 2013)
+[2009_03_??]  HRC's Pagliano bathroom server (runs until June 30, 2013)
 [2009_07_29] Christopher Steele added to Orbis board of directors
 [2010_06_??] Nellie Ohr represents CIA's Open Source Works group, along with Bruce Ohr and Glenn Simpson (aka, Nellie used to be a CIA contractor, once upon a time)
 [2010_06_25] Comey joins Bridgewater Associates LP
-[2010_09_21] Fred Burton, chief security officer at Stratfor (American geopolitical intelligence platform), sends an email to Stratfor security dept, says John Brennan (then-U.S. Homeland Security Advisor) is behind witch hunt targeting journalists who are investigating D.C. sources, according to a tweet by Sharyl Atkinson on 2018-Jul-26
+[2010_09_21] Fred Burton, chief security officer at Stratfor, sends email to Stratfor security, says Brennan (then-U.S. Homeland Security Advisor) is behind witch hunt targeting journalists, according to Sharyl Atkinson
 [2011_12_??] Secretary of State Clinton says elections in Russia are not free nor fair
 [2012_??_??] Carter Page begins working for NY CI, likely under Bill Priestap, probably on loan from DIA (headed by Gen. Flynn at the time)
 [2012_07_12] Homeland Security issues press release, says HSBC Holdings was involved in a $1.6T global money laundering and tax evasion scheme (Iran, Mexico)
@@ -29,13 +29,13 @@
 [2013_10_13] Mikk Marran nominated to Director General of the Estonian Information Board (now known as the Estonian Foreign Intelligence Service)
 [2013_11_21] Maiden uprising in Ukraine
 [2014_01_27] Jim Baker appointed as FBI General Counsel by Director Comey
-[2014_02_??] Monica Hanley tries remotely uploading Clinton email archives to PRN server from MacBook laptop. Fails. Ships (thru FedEx) laptop to Combetta's house. Combetta transfers emails to PRN server, then ships laptop to redacted Hillary aidem Laptop "lost"
+[2014_02_??] Monica Hanley uploads HRC email archives to PRN server from MacBook laptop, fails. Laptop shipped to Combetta's house, emails transferred to PRN server, laptop shipped back, but gets "lost"
 [2014_05_??] Michael Gaeta joined the FBI’s Legal Attaché Office in Rome as the Assistant Legal Attaché
 [2014_05_13] Joe Biden's Son Appointed to Board of Ukraine's Largest Gas Producer
 [2014_05_15] Evan Perez indicates wiretapping of Paul Manafort began sometime in 2014
 [2014_06_??] Buryakov meets multiple times with confidential sources for the FBI (Carter Page, Felix Satir, Michael Cohen, Trump?)
 [2014_06_14] Natalia Veselnitskaya goes to House hearing on "U.S. Policy Toward Putin's Russia", sits behind Michael McFaul (photo taken by Michael Weiss)
-[2014_07_31] NYT reports an internal investigation by the CIA finds that one of its officers penetrated a computer network used by the Senate Intelligence Committee in preparing a daming report on the CIA's detention and interrogation program
+[2014_07_31] NYT reports CIA internal investigation, finds one of its officers penetrated a computer network used by SSCI in preparing a report on CIA's detention and interrogation program
 [2014_08_07] Gen. Flynn resigns from Defense Intelligence Agency
 [2014_08_22] Russia invades Ukraine
 [2015_01_26] Evgeny Buryakov arrested, charged with, and pleading guilty to, spying on the United States for the Russian Foreign Intelligence Service (SVR), sentenced 30 months in federal prison and fined $100,000
@@ -46,7 +46,7 @@
 [2015_05_19] Peter Kadzik tips off John Podesta about upcoming investigation into HRC State Dept emails
 [2015_06_03] Marie Harf sends an email to Carlos DeJuana, mentions that Robert Otto is married to Anne Joblonski, says she was handler for kidnapped FBI agent Bob Levinson
 [2015_07_10] FBI opens investigation into HRC server
-[2015_08_??] Trump meets with Gen. Flynn, meeting lasts 90min
+[2015_08_??]  Trump meets with Gen. Flynn, meeting lasts 90min
 [2015_09_??] Washington Free Beacon hires Fusion GPS
 [2015_09_??] Yared Tamene, part-time IT help desk technician for Mis Department Inc. (contractor in charge of DNC operating system), receives call from FBI agent Hawkins wrt comprised server on DNC network ("Dukes" malware)
 [2015_09_25] Stefan Halper hired on contractor basis by DOD's Office of Net Assessment for a total of $244,960.00
@@ -81,8 +81,8 @@
 [2016_02_12] Munich Security Conference attended by James Clapper, John Kerry, George Soros, Robert Hannigan, John McCain, and Dmitri Alperovich
 [2016_02_21] Evelyn Farkas sends an email to John Podesta asking to do surrogate work for Clinton campaign in relation to Eastern European communities
 [2016_03_01] The RSA Conference includes speakers such as CrowdStrike's Dmitri Alperovitch and Shawn Henry, DOJ's John Carlin, and AG Loretta Lynch
-[2016_03_09] US Department of Justice's oversight personnel discover they had disclosed raw FISA information (including 702 information) to private contractors (spelled out later in an April 26th document submitted by Adm. Rogers to FISC)
-[2016_03_09] "need to try to fix a HUGE who f-up" (Lisa Page is likely telling Strzok that NSA has learned FBI permitted CIA contractors to access NSA 702's)
+[2016_03_09] DOJ oversight personnel discover they had disclosed raw FISA information (including 702 information) to private contractors (spelled out later in an April 26th document submitted by Adm. Rogers to FISC)
+[2016_03_09] "need to try to fix a HUGE who f-up"
 [2016_03_11] Preet Bahrara (US Attorney for SDNY) and John P. Carlin (Asst. Attorney General for National Security, DOJ) announce indictment of Evgeny Buryakov (Carter Page likely UCE-1 or UCE-2)
 [2016_03_??] (March 14th?) Brennan makes undisclosed trip to Moscow (RVS, FSB, GRU, but not Foreign Ministry)
 [2016_03_14] Papadopoulos, while traveling in Italy, meets up with Joseph Mifsud
@@ -98,7 +98,7 @@
 [2016_03_26] Page texts Strzok, "You get all our oconus lures approved? ;)"
 [2016_03_28] Manafort joins Trump campaign (FISA on him had expired shortly prior to joining campaign)
 [2016_03_30] Alexandra Chalupa becomes hot topic after prediction comes true and briefs DNC staff on Russia ties to Paul Manafort and Trump
-[2016_03_31] Nellie Ohr emails Robert P. Otto (Deputy Chief of Staff for Intelligence, Surveillance and Reconnaissance Agency), mentions Jennifer Lopez, Telman Ismailov, and Aras Agalarov (why is State Dept being informally briefed on Agalarov, who is a client of Bill Browder's nemesis, Natalia Veselnitskaya?)
+[2016_03_31] Nellie Ohr emails Robert Otto (Deputy Chief of Staff for Intelligence, mentions Aras Agalarov
 [2016_04_??] Perkins Coie hires Fusion GPS
 [2016_04_01] Council on Foreign Relations-see CrowdStrike, Evelyn Farkas, Atlantic Council
 [2016_04_03] Panama Papers leaks, reported first by The Guardian
@@ -110,17 +110,17 @@
 [2016_04_12] Olga Bielkova and a colleague meet with David Kramer, Liz Zentos, and Michael Kimmage
 [2016_04_18] DOJ shuts down FBI contractor access to 702's (cutting off suspected CIA associates of HRC)
 [2016_04_19] Mary Jacoby (Glenn Simpson's wife) signs visitor guestbook at White House
-[2016_04_19] Andrea Chalupa forwards an email to herself, says, "Exciting day: Paul Manafort resigned from the Trump campaign and will likely face an investigation for not declaring being a foreign agent while lobbying for Yanukovych and his party."
+[2016_04_19] Andrea Chalupa email says, "Exciting day: Paul Manafort resigned from the Trump campaign and will likely face an investigation for not declaring being a foreign agent while lobbying for Yanukovych and his party."
 [2016_04_??] Brennan receives tape recording from a Baltic state showing Kremlin money going into a presidential campaign (Trump campaign not specified), reports BBC's Paul Wood
 [2016_04_??] Brennan creates two task forces to get around problem of being unable to act domestically - the Domestic task force (FBI, DOJ and Treasury) and the Foreign task force (CIA, ODNI and NSA)
-[2016_04_25] Michael Isikoff publishes "Trump's campaign chief is questioned about ties to Russian billionaire" on April 25 about Manafort, while Papadopoulos starts sending e-mails to try and set up a meeting between Russia and Trump (unsuccessful)
+[2016_04_25] Isikoff publishes "Trump's campaign chief is questioned about ties to Russian billionaire" on April 25 about Manafort, while Papadopoulos sends e-mails set up a meeting between Russia and Trump
 [2016_04_25] Obama For America begins paying funds into Perkins Coie for "legal services"
 [2016_04_26] Michael Isikoff reports on Paul Manafort connections to a billionaire Russian oligarch
 [2016_04_27] Bruno Kahl nominated to be President of the Federal Intelligence Service in Germany
-[2016_04_27] Papadopoulos sends an email to Corey Lewandowski, says he was receiving "a lot of calls over the past month" about arranging a Russian meeting, also sent Stephen Miller an email about a promising meeting that could happen with Russian officials
-[2016_04_28] Alexandra Chalupa is invited to discuss her research about Paul Manafort with 68 investigative journalists from Ukraine at Library of Congress for Open World Leadership Center, a U.S. congressional agency. Chalupa invites investigative reporter Michael Isikoff to “connect(s) him to the Ukrainians
+[2016_04_27] Papadopoulos sends email to Lewandowski, says he was receiving "a lot of calls over the past month" about arranging a Russian meeting, also sends Stephen Miller email about meeting with Russian officials
+[2016_04_28] Alexandra Chalupa is invited to discuss her research about Paul Manafort with 68 investigative journalists from Ukraine at Library of Congress for Open World Leadership Center, a U.S. congressional agency
 [2016_04_29] DNC notices their servers have been penetrated, FBI not informed, Michael Sussman (Perkins Coie) summoned to emergency meeting
-[2016_05_??] Roger Stone and Michael Caputo solicited by Russian national and known FBI informant Henry Greenberg (Henry Oknyansky), as well as an allegedly fired Clinton Foundation staffer who goes by the name Alexei, as reported in a 2018-Jun-17 WaPo article
+[2016_05_??] Roger Stone and Michael Caputo solicited by Russian national and known FBI informant Henry Greenberg (Henry Oknyansky), as well as an allegedly fired Clinton Foundation staffer who goes by the name Alexei
 [2016_05_??] Stefan Halper communicates with Steele, according to Yaacov Appelbaum
 [2016_05_03] Alexandra Chalupa emails DNC that she’ll share sensitive info about Paul Manafort “offline” including “a big Trump component…that will hit in next few weeks.
 [2016_05_04] Papadopoulos forwards an email he receives from Ivan Timofeev (Mifsud associate) to Corey Lewandowski, Sam Clovis and other members of the Trump campaign
@@ -140,19 +140,19 @@
 [2016_05_31] Natalia Veselnitskaya receives confirmation that she is to be interviewed for a B1 visa within the Moscow Business/Tourism/Crew/Journalist category
 [2016_06_??] (late spring/early summer?) In a highly-classified memo, Loretta Lynch allegedly assures Amanda Renteria (Clinton campaign aide) that the DOJ would not allow the FBI to look too far into the investigation of Hillary's emails
 [2016_06_01] Natalia Veselnitskaya arrives at the U.S. Embassy in Moscow for an interview
-[2016_06_??] Sergei Skripa visits Estonian intelligence officers, arranged by British intelligence (possibly to retrieve secret recording of alleged Kremlin money being transmitted to a U.S. presidential campaign, passed to GCHQ's Hannigan, then passed to Brennan at "director level" in DC)
+[2016_06_??] Sergei Skripal visits Estonian intelligence officers, arranged by British intelligence (alleged Kremlin bribe intercepted by Estonian intel?)
 [2016_06_??] Steele flies to Rome to brief FBI agent Gaeta about dossier
 [2016_06_??] Natalia Veselnitskaya granted permission from US Government to visit US on B-status non-immigrant visa (waiver possibly expedited by Strzok, per Michael R. Caputo)
 [2016_06_03] Rob Goldstone begins emailing Don Jr
 [2016_06_??] (June 4th) Glenn Simpson meets with Steele at Heathrow to commission work, according to Isikoff/Corn book Russian Roulette (at the time, Simpson was one of those who knew of DNC hack)
 [2016_06_06] Natalia Veselnitskaya receives a 3-year B1 visa (normally, B1 visas are good for up to only 1 year)
 [2016_06_06] Bill Browder forwards an email to Kyle Parker (Chief of Staff of the U.S. Helsinki Commission) of Natalia Veselnitskaya's London residence
-[2016_06_07] Kyle Parker forwards Browder email to Robert Otto at the State Department (if Veselnitskaya gets a passport expedited, it means she can quickly leave London for a predetermined amount of time, maybe long enough for her residence to be more closely surveilled?)
+[2016_06_07] Kyle Parker forwards Browder email to Robert Otto at State
 [2016_06_07] Paul Manafort was not wiretapped by the FBI at this time
 [2016_06_08] Natalia Veselnitskaya arrives in New York, dinner with Glenn Simpson
 [2016_06_09] Melanne Verveer attends the House of Ukraine event in Washington, DC
 [2016_06_09] Rinat Akhmetshin rides an Acela train with Joe Lieberman on way to Trump Tower meeting, according to 2017-Nov-14 testimony before Senate Judiciary Committee
-[2016_06_09] Trump Tower meeting with Don Jr, Kushner, Manafort, Rinat Akhmetshin, Anatoli Samochornov, and Natalia Veselnitskaya (on directives from Rob Goldstone, longtime friend of Trump family and publicist for Emin Agalarov, who is the son of Aras Agaralov)
+[2016_06_09] Trump Tower meeting with Don Jr, Kushner, Manafort, Rinat Akhmetshin, Anatoli Samochornov, and Natalia Veselnitskaya
 [2016_06_09] Natalia Veselnitskaya attends post-Trump Tower meeting with Fusion GPS's Glenn Simpson (possibly Peter Strzok attends, too?)
 [2016_06_10] Natalia Veselnitskaya goes to Washington, DC to meet with a key lawyer (unknown)
 [2016_06_10] Comey draft memo changes "gross negligence" to "extremely careless"
@@ -160,13 +160,13 @@
 [2016_06_13] Natalia Veselnitskaya and Akhmetshin host anti-Magnitsky Act film in Washington, which was attended by several Congressional staffers and one State Department official
 [2016_06_14] Crowdstrike and DNC demand FBI announce that Russian entities hacked their servers
 [2016_06_14] Guccifer 2.0
-[2016_06_15] Stanislav Yezhov, an interpreter for Ukraine's Prime Minister, Volodymr Groysman, is present for a meeting with Joe Biden at the White House, according The Guardian on December 21, 2017 (Yezhov would later be found to acting as a spy for Russia)
+[2016_06_15] Stanislav Yezhov, an interpreter for Ukraine's Prime Minister, Volodymr Groysman, is present for a meeting with Joe Biden at the White House (Yezhov would later be found to acting as a spy for Russia)
 [2016_06_15] Alexandra Chalupa's consulting contract with the DNC ends (needs citation)
 [2016_06_15] Fusion GPS hires Christopher Steele (needs citation)
 [2016_06_16] Natalia Veselnitskaya returns to New York
 [2016_06_17] Natalia Veselnitskaya meets with U.S. lawyers, returns to Russia
 [2016_06_19] Stephanie Burant emails Robert Otto in response to a request from Adrian Harmata (political analyst at State), asks Otto for his take on a WaPo article about Manafort 
-[2016_06_20] Steele files first Trump-Russia memo, cites Source D (Millian is referred to in the dossier as Source D, according a Jan 24th WSJ article) who told an unidentified intermediary that the Kremlin has kompromot of a sexual nature on Trump
+[2016_06_20] Steele files first Trump-Russia memo, cites Source D who told an unidentified intermediary that the Kremlin has kompromot of a sexual nature on Trump
 [2016_06_23] Brexit
 [2016_06_24] John Podesta meets with Claire McCombs (chief of staff to WH Counsel) @2pm, Podesta makes follow-up appointment on June 27th in VP residence with Robby Mook and Natsec advisor Tom Donolin
 [2016_06_24] Simpson contacts Steele (Steele's birthday) to arrange to receive a copy of the dossier, sent courier from the UK to Washington, DC
@@ -178,12 +178,12 @@
 [2016_07_01] Bruno Kahl confirmed as President of the Federal Intelligence Service in Germany
 [2016_07_01] Steele writes to Bruce Ohr, “There is something separate I wanted to discuss with you informally and separately. It concerns our favourite business tycoon!” (apparent reference to Trump)
 [2016_07_02] Hillary interviewed by FBI agents
-[2016_07_03] Bruce Ohr schedules a Skype call with Steele
+[2016_07_??] (July 3-4th?) Bruce Ohr schedules a Skype call with Steele
 [2016_07_05] FBI agent Gaeta meets Steele in London, receives copy of Steele's memo, says he has to notify headquarters
 [2016_07_05] Comey defers HRC prosecution recommendation
 [2016_07_07] Manafort writes in an email, "If he needs private briefings, we can accomodate", allegedly referring to Oleg Deripaska
 [2016_07_07] Carter Page travels to Moscow on a campaign-approved visit to deliver a lecture at the prestigious New Economic School
-[2016_07_07] IC IG McCullough testifies before HPSCI (Chaffetz) that he can not provide the committee with a certain segment of HRC's emails because 1) Yates likely denied IG access per 58-page memo, and 2) too sensitive to discuss in public hearing
+[2016_07_07] IC IG McCullough testifies before HPSCI that he can not provide committee with certain segment of HRC's emails because it would be too sensitive to discuss in public hearing
 [2016_07_08] Carter Page invited to the Race to Change the World Symposium by a University of Cambridge doctoral candidate
 [2016_07_11] Carter Page travels to the Race to Change the World conference, where he meets Stefan Halper, who tells Page that he knew Paul Manafort
 [2016_07_??] Victoria Nuland, in response to Senator Burr, says she caught her first glimpse of the Steele dossier in mid-July (2016), in a June 20, 2017 open hearing before SSCI
@@ -193,7 +193,7 @@
 [2016_07_19] Lisa Monaco meets Clapper and Tonya Ugoretz at ODNI
 [2016_07_19] Steele memo says, "Source E, an ethnic Russian" and "close associate of Trump" alleges that the "Russian regime" had been behind the DNC emails "to the Wikileaks platform."
 [2016_07_19] Trump becomes official GOP nominee
-[2016_07_22] Papadopoulos allegedly messages FOREIGN CONTACT #2 [Ivan Timofeev, Russian acamemic with close ties to the Kremlin] through Facebook, asks if "knew a particular individual with extensive ties to Russian-based businesses and persons."
+[2016_07_22] Papadopoulos allegedly messages FOREIGN CONTACT #2 (Ivan Timofeev?) through Facebook, asks if "knew a particular individual with extensive ties to Russian-based businesses and persons."
 [2016_07_25] Page and Strzok text each other about Strzok's relationship to Judge Rudolph Contreras
 [2016_07_26] Steele files another memo, this time placing the blame of the DNC hacks on Russia, two days after Robby Mook said the same on ABC, who cites CrowdStrike as his source
 [2016_07_26] Obama signs directive, places FBI in charge of all cyber threats
@@ -206,7 +206,7 @@
 [2016_07_30] Bruce Ohr (accompanied by Nellie) meet with Christopher Steele in Washington at the Mayflower Hotel, Steele later follows up with a text and says to keep in touch, also says Glenn Simpson would like to help
 [2016_07_31] Meet the Press questions Manafort on RNC platform changes for Ukraine (also part of dossier, included in Carter Page FISA)
 [2016_07_31] Crossfire Hurricane officially begins
-[2016_08_??] A Belarusian woman, going by the name Nastya Rybka, posts photos and videos to her Instagram account of her and Oleg Deripaska, as well as Sergei Prikhodko (deputy prime minister and top foreign policy advisor) on Deripaska's yacht, according to a 2017-2-7 expose by Aleksei Navalny
+[2016_08_??] Belarusian woman, Nastya Rybka, posts photos and videos to her Instagram of her and Oleg Deripaska, as well as Sergei Prikhodko (deputy prime minister and top foreign policy advisor) on Deripaska's yacht
 [2016_08_02] Two FBI agents (Strzok and ??) in London send summary to Washington of an interview with Alexander Downer wrt Papadopolous
 [2016_08_04] Ukranian Ambassador Valeriy Chaly writes op-ed against Trump
 [2016_08_04] Brennan phones FSB's head of intelligence, Alexander Bortnikov, says to cease further interference in U.S. elections. Bortnikov denies Brennan's allegation
@@ -228,14 +228,14 @@
 [2016_08_21] Obama depart Martha's Vineyard
 [2016_08_22] Bruce Ohr meets with Glenn Simpson, Simpson offers several intermediaries between Trump campaign and Russia, including a Russian associate of Carter Page, and the now-discredited Alfa Bank computer server
 [2016_08_24] Clapper and Brennan attend Presidential Daily Briefs Symposium at Nixon Library
-[2016_08_25] Brennan briefs Harry Reid personally, says Russia's hacking appeared aimed at helping Trump win the November election, tells Reid to direct pressure towards FBI, who can lead domestic intelligence against Trump campaign
+[2016_08_25] Brennan briefs Harry Reid personally, says Russia's hacking appeared aimed at helping Trump win the November election, tells Reid to direct pressure towards FBI
 [2016_08_27] Reid sends letter to Comey about Russia investigation, demanding new investigation be opened (Reid was not aware of Crossfire Hurricane), cites Carter Page in letter
 [2016_08_28] NYPOST published explicit but blurred photo of Anthony Weiner sext w/1yo son in frame
 [2016_08_29] Stefan Halper reaches out to Sam Clovis, mentions Carter Page said they should meet
 [2016_08_31] Report filed against Anthony Weiner to ACS
-[2016_09_??] Deripaska (on diplomatic passport) in NYC is visited by three FBI agents (one is McCabe) to talk Trump-Russia collusion
-[2016_09_28] Comey declines to confirm existence of any investigation into Trump's campaign aides
-[2016_09_??] Steele briefs Jonathon Winer (Special Envoy for Libya, Senior Advisor for MEK Resettlement) on dossier at a Washington hotel, Winer then gives 2-page dossier summary to Victoria Nuland (Ukraine expert at State Dept) and Jon Finer (chief of staff to Secretary Kerry)
+[2016_09_??] Deripaska (on diplomatic passport) visited by three FBI agents (McCabe?) in NYC to talk Trump-Russia collusion
+[2016_09_??] (September 28th?) Comey, while testifying before Congress, does not confirm existence of any investigation into Trump's campaign aides
+[2016_09_??] Steele briefs Jonathon Winer (Special Envoy for Libya, Senior Advisor for MEK Resettlement) on dossier at a Washington hotel, Winer gives 2-page summary to Nuland and Jon Finer (chief of staff to Secretary Kerry)
 [2016_09_??] In an FBI memo, Steele admits to Nellie Ohr his feelings against then-candidate Trump, says he was desperate to stop his election chances
 [2016_09_??] Clovis meets Halper in lobby of DoubleTree hotel in Arlington, Virginia, where Halper discusses his research on China, and for help in getting in touch with Papadopolous
 [2016_09_??] Paul Ahern (attorney at Treasury Dept) argues with half a dozen FinCEN employees, possibly over allegations that Office of Intelligence and Analysis has been illegally collecting info on US citizens
@@ -271,12 +271,12 @@
 [2016_09_28] Weiner's lawyer turns over subpoenad emails to SDNY
 [2016_09_29] Strzok texts Page that he's sending a team up to SDNY the next day to review Anthony Wiener's subpoenaed documents
 [2016_09_29] Obama for America pays Perkins Coie $700,000
-[2016_09_29] Mikk Marran attends CEPA Forum at the Meridian International Center in Washington, DC, on a panel with Urve Eslas, Thomas Kent (Radio Free Europe), Mustafa Nayyem (Ukraine Parliament) and Michael Weiss (Daily Beast) about Russia, followed by a speech about self-defense by Lawfare's Benjamin Wittes
+[2016_09_29] Mikk Marran attends CEPA Forum in Washington, DC, on a panel Thomas Kent (Radio Free Europe), Mustafa Nayyem (Ukraine Parliament) and Michael Weiss (Daily Beast), followed by a speech by Benjamin Wittes
 [2016_09_??] Steele attends several off-the-record meetings with U.S. journalists from NYT, WaPo, Yahoo, New Yorker, and CNN in late September
 [2016_10_??] Steele is debriefed by the FBI, hands over Cody Shearer memo
 [2016_10_??] Kerry's top aides produce an "action memo" that includes relatiatory measures against Russia, but is not to be published until after initial votes are counted on election night
 [2016_10_03] NY FBI confiscates Weiner laptop, iPad, phone, wifi router
-[2016_10_06] WaPo hosts Cybersecurity Summit, attended by Lisa Monaco, Ellen Nakashima, and DNC's Michael Sussmann (former cybercrimes prosecutor at DOJ, now working for Perkins Coie), Monaco again states Russian interference would be extremely difficult
+[2016_10_06] WaPo hosts Cybersecurity Summit, attended by Lisa Monaco, Ellen Nakashima, and DNC's Michael Sussmann (former cybercrimes prosecutor at DOJ, now Perkins Coie)
 [2016_10_07] Homeland Security and ODNI release joint statement blaming Russia for DNC leaks, Podesta emails, Guccifer 2.0 (Comey declines to attach his name)
 [2016_10_07] Susan Rice summons Ambassador Kislyak to the White House to relay a message to Vladimir Putin
 [2016_10_07] Access Hollywood tape
@@ -287,14 +287,13 @@
 [2016_10_13] Trump delivers "Slings and Arrows" speech in Florida
 [2016_10_14] Michael Morrell publishes an article in Yahoo that says Trump, Manafort, Roger Stone, and Carter Page are tied through financial connections, and suggests they are all agaents of Russia
 [2016_10_14] Michael McFaul tweets about bumping into Ambassador Kislyak at the White House
-[2016_10_14] Lisa Page texts Strozk, "Just called.  Apparently the DAG now wants to be there, and WH wants DOJ to host. So we are setting that up now. We will very much need to get Cohen's view before we meet with her. Better, have him weigh in with her before the meeting. We need to speak with one voice."
+[2016_10_14] Lisa Page texts Strozk, "...DAG now wants to be there, and WH wants DOJ to host...We will very much need to get Cohen's view before we meet with her...We need to speak with one voice."
 [2016_10_14] Strzok emails Lisa Page "at a minimum, that keeps the hurry the F up pressure on him"
 [2016_10_14] Melissa Hodgman-Strzok is promoted to Associate Director in the SEC's Enfocement Division
 [2016_10_??] Steele meets with several reporters again in mid-October
 [2016_10_15] John Carlinn resigns
 [2016_10_16] WikiLeaks tweets that Julian Assange's internet link has been severed by a state party
 [2016_10_18] Crossfire Hurricane team email each other about rushing to get approval for another FISA warrant for another Russia-related investigation code-named "Dragon" (Sergei Millian?), per John Solomon in The Hill
-[2016_10_18] Obama hosts Italian PM Matteo Renzi for State dinner, attended also by Biden, Susan Rice, Ian Cameron (Susan Rice's husband, ABC News executive), DOD Carter, Valeria and Laura Jarrett, Jeh Johnson, John Kerry, Shalaigh Murray (Obama senior advisor, former WaPo reporter), Neil King (Shalaigh Murray's husband, WSJ editor), Loretta Lynch, Denis McDonough (former WH Chief of Staff), Lisa Monaco, Victoria Nuland (Assistant Secretary of State for European and Eurasian Affairs), Nancy Pelosi, Tom Perez, Samantha Power, Ben Rhodes, George Stephanopoulos, Chuck Todd, Jonathon Winer (Special Envoy to Libya), and various celebrities
 [2016_10_19] Lisa Page texts Andrew McCabe, "Hey, can you give me a call when you get out? Meeting with WH counsel is finally set up and I want to talk about timing. Thanks."
 [2016_10_19] Lisa Page texts Strzok, "DAG approved. I told [REDACTED] already to stand by for one edit." (Sally Yates likely gives approval of edit. Text sent two days before Carter Page FISA warrant approved)
 [2016_10_19] Hillary accuses Trump of being Putin's puppet
@@ -343,7 +342,7 @@
 [2016_11_15] Mike Rogers (R-MI) resigns from Trump transition
 [2016_11_17] Adm. Mike Rogers makes unexpected visit to Trump Tower
 [2016_11_17] White House begins remodeling/renovations?
-[2016_11_17] At the Halifax Internation Security Forum, Sir Andrew Wood (on instructions from Steele) meets Senator McCain to discuss Steele dossier, McCaine aide, David Kramer, is instructed to meet Steele in London to view dossier (later provided a copy in DC)
+[2016_11_17] At the Halifax Internation Security Forum, Sir Andrew Wood (on instructions from Steele) meets Senator McCain, then David Kramer is instructed to meet Steele in London to view dossier (later provided a copy in DC)
 [2016_11_18] Trump transition team relocates to Trump National Golf Club in Bedminster, where later Pompeo is chosen to be CIA Director, and Sessions to be Attorney General
 [2016_11_19] Secretary of Defense Ash Carter and ODNI Clapper recommend Obama fire Adm. Rogers
 [2016_11_21] Bruce Ohr meets up with Peter Strzok, Lisa Page, and an unknown FBI agent (purpose unknown)
@@ -352,7 +351,7 @@
 [2016_11_22] FBI interviews Bruce Ohr (Ohr FD-302 December 19, 2016)
 [2016_11_28] In an interview, Bruno Kahl suggests Russia may try to interfere in upcoming German elections
 [2016_11_30] Trump meets with Preet Bharara, Preet agrees to remain US Attorney under Trump
-[2016_12_??] Russia Today interviews Carter Page (mid-December?)
+[2016_12_??]  Russia Today interviews Carter Page (mid-December?)
 [2016_12_05] FBI interviews Bruce Ohr (Ohr FD-302 December 19, 2016)
 [2016_12_08] McCain delivers dossier to Comey
 [2016_12_09] Brennan provides ICA assessment to Obama, showing Russia preferring Trump over Clinton
@@ -390,8 +389,8 @@
 [2017_01_06] ODNI ICA report on Russian Activities says CIA and FBI give high confidence, NSA moderate confidence
 [2017_01_06] Comey briefs Trump on Steele dossier
 [2017_01_06] Clapper appears on CNN and tells Jake tapper about the dossier
-[2017_01_10] Kurt Eichenwald publishes "Trump, Putin, and the Hidden History of How Russia Interfered in the U.S. Presidential Election", surreptitiously aligning claims about key Kremlin officals and overseas intel organizations that also happen to be mentioned in the Steele dossier 
-[2017_01_10] Carter Page asks Lisa Monaco about apparent violations of U.S. civil rights at a breakfast meeting, told to shush by pro-Obama Admin/Clinton campaign journalist (?), detailed in a March 8, 2017 letter to SSCI
+[2017_01_10] Kurt Eichenwald publishes "Trump, Putin, and the Hidden History of How Russia Interfered in the U.S. Presidential Election"
+[2017_01_10] Carter Page asks Lisa Monaco about apparent violations of U.S. civil rights at a breakfast meeting, hushed by pro-Obama Admin/Clinton campaign journalist (?), detailed in a March 8, 2017 letter to SSCI
 [2017_01_10] BuzzFeed publishes 35-page dossier
 [2017_01_10] Comey testifies before Senate Intelligence Committee, says DNC refused to provide FBI access to hacked computer servers
 [2017_01_11] WSJ publishes Steele's name and work with FBI
@@ -439,7 +438,7 @@
 [2017_02_14] Trump, in a private one-on-one meeting, asks Comey to drop the investigation into Gen. Flynn
 [2017_02_14] FBI interviews Bruce Ohr (Ohr FD-302 February 15, 2017)
 [2017_02_14] Page and Strzok confirm (with McCabe) to "launch on F 302" (Flynn conversation likely edited post-FBI interview, possibly by McCabe)
-[2017_02_16] Adam Waldman texts Senator Warner, "this guy [Julian Assange] is going to do something catastrophic for the dems, Obama, CIA and national security. I hope someone will consider getting him to US to ameliorate the damage."
+[2017_02_16] Waldman texts Warner, says, "this guy is going to do something catastrophic for the dems, Obama, CIA and national security. I hope someone will consider getting him to US to ameliorate the damage."
 [2017_02_18] Joseph Mifsud features as speaker at Global Ties national conference, sponsored by the State Dept's Office of International Visitors
 [2017_02_23] Paul Manafort's daughter's phone is hacked showing unknown persons were trying to blackmail Manafort
 [2017_03_??] FBI contacts Carter Page, first time in over a year, as detailed in Carter Page's testimony before HPSCI on November 2, 2017
@@ -447,18 +446,18 @@
 [2017_03_03] Adam Waldman texts Warner, suggests they meet with Jack (Goldsmith?), their wives, also someone named BB (Bill Browder, Bob Bauer?)
 [2017_03_04] Trump tweets that Obama had his "wires tapped" in Trump Tower before election night
 [2017_03_06] Grassley sends letter to Comey, asking for any relevant info on Steele's extracurricular activities with DOJ officials, including 302's, contracts, agreements, payments, WH briefings, etc.
-[2017_03_07] At 7:00am EST, in a text to Bruce Ohr, Steele says, "Would it be possible to speak later today? We're very concerned by the Grassley letter and it's possible implications for us, our operations, and our sources. We need some reassurances. Many thanks." (texts published in The Hill by John Solomon on August 7, 2018)
-[2017_03_07] WikiLeaks dumps CIA Vault 7 @1:30pm EST
+[2017_03_07] Steele texts Bruce Ohr, says, "Would it be possible to speak later today? We're very concerned by the Grassley letter and it's possible implications for us, our operations, and our sources."
+[2017_03_07] WikiLeaks dumps CIA Vault 7
 [2017_03_07] Nunes agrees with Schiff for the need to investigate Trump's claim of Obama wiretapping
-[2017_03_08] Carter Page sends letter to Senate Intel Committee wrt wiretap claims on Trump Tower, detailing that, due to his employment at the IBM Building (590 Madison Avenue), which is connected to Trump Tower via an atrium, that Trump's claim of wiretapping is accurate
-[2017_03_09] Nunes and Schiff send demand to DOJ for "any applications to the FISA Court, any orders that court released, and any copies of warrants issued by federal judges" relating to surveillance of Trump team by March 9th
+[2017_03_08] Carter Page sends letter to SSCI wrt wiretap claims, says the IBM Building where he works is connected to Trump Tower via an atrium, states Trump's claim of a wiretaps is accurate
+[2017_03_09] Nunes and Schiff send demand to DOJ for "any applications to the FISA Court, any orders that court released, and any copies of warrants issued by federal judges" relating to surveillance of Trump team
 [2017_03_11] Preet Bharara (U.S. District Attorney) fired by Trump
 [2017_03_13] DOJ asks for extension of time wrt Nunes and Schiff's demand, Richard Burr says he already has all the answers he needs from "conversations"
 [2017_03_15] Grassley threatens to block the nomination of Rod Rosenstein if DOJ does not comply with demands
 [2017_03_15] In Fox News interview with Tucker Carlson, Trump says, "We have it before the committee. We're submitting some things."
 [2017_03_16] Adam Waldman texts Senator Warner, says Steele requests that Waldman contact Warner
 [2017_03_16] Spokesman for Nunes says if DOJ does not comply with demands by March 20th, then he may subpoena the DOJ
-[2017_03_17] User FreshCamel posts on the dark web a conversation on the secure messaging network Gliph purpoted supposedly about Louise Mensch, Christopher Steele, Gen. Flynn, Robert Mueller, Rod Rosenstein, and WaPo's Adam Entous
+[2017_03_17] User FreshCamel posts on the dark web a conversation on the secure messaging network Gliph purportedly about Louise Mensch, Steele, Gen. Flynn, Mueller, Rosenstein, and WaPo's Adam Entous
 [2017_03_17] Kevin McCarthy jokingly says Trump is paid by Putin and caught in a secret recording, published by WaPo's Adam Entous
 [2017_03_17] Classified document (Carter Page FISA?) transported to SSCI
 [2017_03_17] James Wolfe texts and talks to Ali Watkins (82 texts, 28min phone call)
@@ -466,32 +465,32 @@
 [2017_03_20] Comey and Adm. Rogers testify before House Select Intelligence Committe on Russian interference in the 2016 election
 [2017_03_21] Ukranian politician/journalist Sergiy Leschenko gives news conference showing 10-yr. old document supposedly involving Paul Manafort
 [2017_03_22] Nunes holds a 1pm press conference, says members of Trump campaign were unmasked by Obama officials in capacities that had no relation to the campaign or to Russia
-[2017_03_25] Adam Waldman texts Senator Warner, says Deripaska will be in London from March 27-30
-[2017_03_27] On MSNBC with Mika Brzizinski, Evelyn Farkas says, "that the Trump folks – if they found out HOW we knew what we knew about their, the Trump staff, dealing with Russians – that they would try to compromise those sources and methods; meaning we no longer have access to that intelligence"
+[2017_03_25] Waldman texts Warner, says Deripaska will be in London from March 27-30
+[2017_03_27] Evelyn Farkas says, "that the Trump folks – if they found out HOW we knew what we knew about their, the Trump staff, dealing with Russians – that they would try to compromise those sources and methods"
 [2017_03_29] "Senate Intel Committee May Interview Ex-UK Spy Christopher Steele", reports NBC News
 [2017_03_30] Steele texts Bruce Ohr, asks for any news, says SSCI "is leaking like a sieve, giving us pause for thought on engagement"
-[2017_03_30] Adam Waldman texts Senator Warner, reports that Steele is concered about leaks in previous day's press, Steele apparently "run off" by press, "huddled w lawyers"
-[2017_03_31] Senator Warner says to Adam Waldman, "Keep me informed also any news about ur other guy on Manafort", Waldman says his other guy is mistrustful of U.S. government, says he's been run out of the country, says "Update re other other guy my contact at DOJ has gone silent for 72 hrs"
+[2017_03_30] Waldman texts Warner, reports that Steele is concered about leaks in previous day's press, Steele apparently "run off" by press, "huddled w lawyers"
+[2017_03_31] Warner says to Waldman, "Keep me informed also any news about ur other guy on Manafort", Waldman says his other guy is mistrustful of U.S. government, says he's been run out of the country
 [2017_03_31] Evgeny Buryakov, scheduled to be released from federal prison July 27, is released early into ICE custody, cited for good behavior
 [2017_04_??] Richard H. Ledgett Jr (Deputy Director of the NSA) retires
-[2017_04_03] Ali Watkins breaks story that Carter Page had "met with and passed documents to a Russian intelligence operative" (translated, that might mean Carter Page was a key witness to the US in its successful prosecution of a SVR Agent)
+[2017_04_03] Ali Watkins breaks story that Carter Page had "met with and passed documents to a Russian intelligence operative"
 [2017_04_03] James Wolfe and Ali Watkins exchange 124 electronic communications
 [2017_04_03] Ali Watkins relays Top Secret info about Carter Page to Brian Ross of ABC News
 [2017_04_04] Brian Ross publishes article "Trump campaign adviser Carter Page targeted for recruitment by Russian spies"
 [2017_04_05] Evgeny Buryakov deported to Russia
-[2017_04_05] Adam Waldman texts Senator Warner, says Steele is getting cold feet, wants bipartisan letter with written list of questions
-[2017_04_06] Adam Waldman texts Senator Warner, says WSJ just called, said SSCI and Steele are speaking through an intermediary, Waldman says he was asked by SSCI if he was the intermediary
+[2017_04_05] Waldman texts Warner, says Steele is getting cold feet, wants bipartisan letter with written list of questions
+[2017_04_06] Waldman texts Warner, says WSJ just called, said SSCI and Steele are speaking through an intermediary, Waldman says he was asked by SSCI if he was the intermediary
 [2017_04_07] Second renewal on Carter Page FISA
-[2017_04_10] Adam Waldman texts Senator Warner, says he has convinced Assange to make concessions and has relayed that to DOJ, also Deripaska says he can testify before Congress, but first wants to know state of play with Manafort, Waldman says he will be with Deripaska from April 18-24th
+[2017_04_10] Waldman texts Warner, says he's convinced Assange to make concessions and has relayed that to DOJ
 [2017_04_11] WSJ's Devlin Barrett breaks story on Carter Page's FISA warrant, says it contain "the most closely guarded secrets in the world"
 [2017_04_12] Carter Page goes on media blitz, doing six televised interviews
 [2017_04_17] Mary McCord resigns
 [2017_04_25] Rod Rosenstein confirmed Deputy Attorney General
 [2017_04_25] Adam Waldman texts Senator Warner, says Steele is under a lot of duress, says Daniel Jones will be visiting with Warner soon, 
 [2017_04_28] Grassley sends letter to FBI, requesting responses to more questions about the FBI's relationship with Steele
-[2017_05_??] IG Horowitz seeks unsealing of FBI GJ subpoenas demanding testimony of Clinton aides, other search warrants (Yahoo, Google accounts), so as to legally disclose findings for June 14 IG report
+[2017_05_??] IG Horowitz seeks unsealing of FBI grand jury subpoenas demanding testimony of Clinton aides, other search warrants
 [2017_05_05] SSCI Warner/Burr release statement about Carter Page, saying he may not be cooperating with SSCI as he has promised
-[2017_05_06] Grassley sends letter to FBI (not SSCI, right?) seeking records and info from a reported plan at the FBI to pay the former British intelligence officer behind a dossier of compromising but unsubstantiated information about President Donald Trump to continue his work
+[2017_05_06] Grassley sends letter to FBI seeking records of a reported plan to pay Steele for the dossier
 [2017_05_07] Carter Page sends letter to Burr/Warner at SSCI, details two felony disclosures concerning his identity
 [2017_05_08] FBI interviews Bruce Ohr (Ohr FD-302 May 10, 2017)
 [2017_05_09] Comey fired
@@ -502,7 +501,7 @@
 [2017_05_12] FBI interviews Bruce Ohr (Ohr FD-302 May 12, 2017)
 [2017_05_13] Steele texts Bruce Ohr, agrees to have a conversation later that day at 2pm (a Saturday)
 [2017_05_14] Carter Page sends mostly-neutral letter to Rod Rosenstein, accuses Comey of leaks
-[2017_05_15] Steele texts Bruce Ohr, says he has "consulted my wife and business partner about the question we discussed on Saturday I'm pleased to say yes, we should go ahead with it", Bruce responds, "I will let them know and we will follow up"
+[2017_05_15] Steele texts Bruce Ohr, says he has "consulted my wife and business partner about the question we discussed on Saturday I'm pleased to say yes, we should go ahead with it"
 [2017_05_15] Adam Waldman texts Senator Warner, asks if he wants to discuss Deripaska, or if he respond to HPSCI instead
 [2017_05_15] FBI interviews Bruce Ohr (Ohr FD-302 May 16, 2017)
 [2017_05_16] Comey's memos reported by NYT 
@@ -516,12 +515,12 @@
 [2017_06_14] "Russian government hackers penetrated DNC, stole opposition research on Trump", published by Ellen Nakashima in WaPo
 [2017_06_19] Mark Meadows unmasks Kevin Clinesmith and Sally Moyer, two members of the Special Counsel who sent anti-Trump text messages
 [2017_06_22] Steele texts Bruce Ohr, asks "any news on reengagement yet?", Bruce says he will inquire later
-[2017_06_22] Senate Judiciary Committee sends letter to Loretta Lynch and others regarding an email written by Debbie Wasserman Schultz, sent to Leonard Benardo (Open Society Foundation), intercepted by Russian intelligence, and sent to the FBI in March 2016 by source unknown, it purportedly details an assurance from Lynch to Amanda Renteria (Clinton campaign staffer) that HRC's emails would not be looked at too closely
+[2017_06_22] SSCI sends letter to Lynch about an email written by DWS purportedly detailing an assurance to Amanda Renteria that HRC's emails would not be looked at too closely
 [2017_06_23] Carter Page sends letter to HPSCI, details five pages of suggested cross-exam questions for John Podesta
 [2017_06_29] Third and final renewal on Carter Page FISA
 [2017_07_16] Steele texts Bruce Ohr about reengagement, Bruce says he will pass along the message
 [2017_07_20] Wray confirmed 92-5 by Senate to be FBI Director
-[2017_07_24] The Wall Street Journal reports that Sergei Millian was reportedly the source for some of the salacious allegations in the dossier, which includes 17 separate reports dated from June 20, 2016 to Dec. 13, 2016, and is listed as both Source D and Source E in the dossier
+[2017_07_24] WSJ reports Sergei Millian iss reportedly the source for some of the salacious allegations in the dossier
 [2017_07_26] Manafort home raided
 [2017_07_27] Horowitz discovers Strzok/Page texts, OIC informs Mueller
 [2017_07_27] Papadopoulos arrested at Dulles Airport outside Washington, D.C.
@@ -540,16 +539,16 @@
 [2017_09_17] CNN "breaks" Manafort FISA story (literally the only time it's discussed in the news media)
 [2017_09_30] Chuck Rosenberg (Former Acting Head of the Drug Enforcement Administration, twice serving as Chief of Staff to former FBI Director James Comey) resigns
 [2017_10_05] Papadopoulos pleads guilty to lying to the FBI about the timing of his contacts with Mifsud
-[2017_10_10] Carter Page sends letters to Special Counsel and HPSCI/SSCI, says he will not comply with informal document productions requests, denies main charges leveled against him, demands open-session hearings of his testimony under oath
+[2017_10_10] Carter Page sends letters to Special Counsel and HPSCI/SSCI, denies main charges leveled against him, demands open-session hearings of his testimony under oath
 [2017_10_16] James Wolfe informs Marianna Sotomayor of NBC News that Carter Page had been served with a subpoena to appear before SSCI
 [2017_10_17] Marianna Sotomayor requests Carter Page's cell phone number from James Wolfe, publishes an article about Carter Page, and later calls Carter Page for comment
 [2017_10_24] "Clinton campaign, DNC paid for research that led to Russia dossier", reports Adam Entous and Devlin Barrett of WaPo
-[2017_10_26] Steele texts Bruce, says he's just seen a story about FBI turning over documents to Congress about his work and his contacts, says lives may be endangered, says he will "reach out to my other (SC) contacts on this issue tomorrow."
+[2017_10_26] Steele texts Bruce, says he saw a story about FBI turning over docs to Congress about his work and his contacts, says he will "reach out to my other (SC) contacts on this issue tomorrow."
 [2017_10_30] Steele texts Bruce, says he's spoken with Glenn Simpson that day, says "I now understand and appreciate what you were talking about on Saturday." (Saturday is October 28)
 [2017_10_30] Press release of Mueller indictment against Manafort, Podesta Group, Mercury LLC
 [2017_11_02] In CNN interview with Jake Tapper, Carter Page says he was given advance notice he was being targeted by Steele in September 2016
 [2017_11_08] Glenn Simpson testifies in a closed-door hearing before HPSCI
-[2017_11_07] CIA Director Pompeo meets with former NSA official, William Binney, who helped author an analysis casting doubt on the U.S. intelligence community’s assessment that Russia was behind email hacks targeting the Democratic National Committee in 2016
+[2017_11_07] CIA Director Pompeo meets with former NSA official, William Binney, who helped author an analysis casting doubt on U.S. intel assessment that Russia was behind email hacks
 [2017_11_11] Steele texts Bruce Ohr, asks if there's been any response to a question he had last week (re:Glenn Simpson?), Bruce says nothing yet
 [2017_11_14] Glenn Simpson testifies in a closed-door hearing before HPSCI
 [2017_11_14] Russian lobbyist who attended Trump Tower meeting, Rinat Akhmetshin, testifies before Senate Judiciary Committee
@@ -578,9 +577,9 @@
 [2018_02_07] David Laufman (DOJ National Security Division, Deputy Asst. Attorney General in charge of counterintelligence) resigns
 [2018_02_08] Michael Kortan (FBI Assistant Director of Public Affairs) resigns
 [2018_02_08] Fox News publishes leaked text messages between Senator Warner and Adam Waldman regarding their efforts to convince Christopher Steele to testify before SSCI
-[2018_02_08] In letter to HPSCI Chairman Nunes, Counsel to the President, McGahn, cites a closed-door hearing of Bill Priestap (date unknown), who says that corroboration of Steele dossier was in its infancy at the time of the initial FISA application used to surveil Carter Page in October 2017
+[2018_02_08] In letter to HPSCI Chairman Nunes, Don McGahn, cites a closed-door hearing of Bill Priestap, who says corroboration of Steele dossier was in its infancy for initial FISA on Carter Page
 [2018_02_14] Judge Sullivan, presiding over Flynn case, asserts Brady Rule, orders Mueller to find exculpatory evidence held by government sources
-[2018_02_28] Grassley sends letter to IG Horowitz requested a “comprehensive review of potential improper political influence, misconduct, or mismanagement in the conduct of the counterintelligence and criminal investigation” into Russia and Trump, also attached is a letter to Sessions asking for a second Special Counsel, and a less de-classified version of the Grassley memo
+[2018_02_28] Grassley sends letter to OIC, requests “review of potential improper political influence, misconduct, or mismanagement in the conduct of the counterintelligence and criminal investigation”
 [2018_03_04] Sergei Skripal (former Russian military officer, double agent for UK intelligence) poisoned, discharged from the hospital on May 18
 [2018_03_08] Oleg Deripaska pens op-ed in The Daily Caller
 [2018_03_16] McCabe fired
@@ -591,7 +590,7 @@
 [2018_04_19] DOJ files FARA case against Pakistani national and U.S. permanent resident, Nisar Ahmed Chaudhry
 [2018_05_04] Lisa Page resigns
 [2018_05_04] James Baker (FBI General Counsel) resigns
-[2018_05_07] Pakistani national and U.S. permanent resident from Maryland, Nisar Ahmed Chaudhry, pleads guilty to failing to register as a foreign agent in connection with lobbying work done for the Pakistani government
+[2018_05_07] Pakistani national and U.S. resident, Nisar Ahmed Chaudhry, pleads guilty to failing to register as a foreign agent in connection with lobbying work done for the Pakistani government
 [2018_05_11] DOJ announce guilty plea of CIA contractor, Reynaldo B. Regis (arrest date 2016-Nov-3)
 [2018_05_11] In an interview with New Yorker's David Remnick, Senator Warner says Trump campaign aides' contact with Russian could be "a set of coincidences", not collusion
 [2018_05_15] Bob Bauer resigns from Perkins Coie after 35 years
