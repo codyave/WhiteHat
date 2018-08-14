@@ -8,7 +8,7 @@
 [2009_??_??] Jonathan Finer befriends Christopher Steele, according to a 2018-Feb-8 WaPo op-ed
 [2009_??_??] Deripaska courted by FBI agents (one is McCabe) to assist in recovery of CIA agent Levinson in Iran
 [2009_03_06] HRC presents Russian reset button to Sergei Lavrov
-[2009_03_??]  HRC's Pagliano bathroom server (runs until June 30, 2013)
+[2009_03_??] HRC's Pagliano bathroom server (runs until June 30, 2013)
 [2009_07_29] Christopher Steele added to Orbis board of directors
 [2010_06_??] Nellie Ohr represents CIA's Open Source Works group, along with Bruce Ohr and Glenn Simpson (aka, Nellie used to be a CIA contractor, once upon a time)
 [2010_06_25] Comey joins Bridgewater Associates LP
@@ -46,16 +46,16 @@
 [2015_05_19] Peter Kadzik tips off John Podesta about upcoming investigation into HRC State Dept emails
 [2015_06_03] Marie Harf sends an email to Carlos DeJuana, mentions that Robert Otto is married to Anne Joblonski, says she was handler for kidnapped FBI agent Bob Levinson
 [2015_07_10] FBI opens investigation into HRC server
-[2015_08_??]  Trump meets with Gen. Flynn, meeting lasts 90min
+[2015_08_??] Trump meets with Gen. Flynn, meeting lasts 90min
 [2015_09_??] Washington Free Beacon hires Fusion GPS
-[2015_09_??]  Yared Tamene, part-time IT help desk technician for Mis Department Inc. (contractor in charge of DNC operating system), receives call from FBI agent Hawkins wrt comprised server on DNC network ("Dukes" malware)
+[2015_09_??] Yared Tamene, part-time IT help desk technician for Mis Department Inc. (contractor in charge of DNC operating system), receives call from FBI agent Hawkins wrt comprised server on DNC network ("Dukes" malware)
 [2015_09_25] Stefan Halper hired on contractor basis by DOD's Office of Net Assessment for a total of $244,960.00
 [2015_09_29] Evelyn Farkas, deputy assistant secretary of defense for Russia, announces resignation to take place in late October 2015
-[2015_10_??]  FBI agent Hawkins leaves multiple voicemails to DNC help desk, Tamene doesn't return calls because he says he has nothing new to report to FBI
+[2015_10_??] FBI agent Hawkins leaves multiple voicemails to DNC help desk, Tamene doesn't return calls because he says he has nothing new to report to FBI
 [2015_10_01] Alexandra Chalupa begins investigating Trump's ties to Russia
 [2015_10_30] Joseph Mifsud's profile disappears from a London legal practice's website, reports qz.com
-[2015_11_??]  FBI agent Hawkins calls DNC help desk, says FBI suspects one DNC server is "calling home" to Moscow as part of a state-sponsored attack
-[2015_11_??]  Ben Carson's campaign announces George Papadopoulos has joined an advisor
+[2015_11_??] FBI agent Hawkins calls DNC help desk, says FBI suspects one DNC server is "calling home" to Moscow as part of a state-sponsored attack
+[2015_11_??] Ben Carson's campaign announces George Papadopoulos has joined an advisor
 [2015_12_04] Daniel Jones leaves Feinstein staff, Congressional records show 
 [2015_12_07] Stefan Halper and Peter Navarro host round table for Navarro's book, "Crouching Tiger"
 [2015_12_10] Gen. Flynn photographed seated next to Putin for Russia Today's 10th anniversary
@@ -63,7 +63,7 @@
 [2015_12_15] DOJ sends letter to Zebley, agrees that the FBI will not review the back-up Blackberry files
 [2015_12_15] Dana Boente confirmed EDVA U.S. Attorney
 [2015_12_18] Bernie campaign staffers alleged to have improper access of DNC voter data after outside firm NGP VAN unintentionally caused "dropped firewall"
-[2015_12_??]  GCHQ picks up intelligence about Trump associates connected to Russians (later revealed in 2017 in The Guardian)
+[2015_12_??] GCHQ picks up intelligence about Trump associates connected to Russians (later revealed in 2017 in The Guardian)
 [2016_01_??] Mikk Marran confirmed as Director General of the Estonian Foreign Intelligence Service
 [2016_01_04] Natalia Veselnitskaya's U.S. visa parole extension request is denied
 [2016_01_06] Mis Department Inc. IT help desk technician, Yared Tamene, meets with FBI agent Hawkins (and later between January and March) to install "a robust set of monitoring tools"
@@ -73,7 +73,7 @@
 [2016_01_15] Alexandra Chalupa warns DNC about Paul Manafort
 [2016_01_28] Reception for the Cuba Consortium hosted at the Cuban Embassy in Washington is attended by Daniel Jones and Ben Rhodes
 [2016_01_29] Andrew McCabe becomes Deputy Director of the FBI
-[2016_02_??]  Steele admonished by FBI (what in the world does this mean?), per August 8, 2018 Judicial Watch FOIA request
+[2016_02_??] Steele admonished by FBI (what in the world does this mean?), per August 8, 2018 Judicial Watch FOIA request
 [2016_02_04] Email mentioned in 2017-11-14 Senate Judiciary Committee hearing details dinner plans among Rinat Akhmetshin, Glenn Simpson, and Natalia Veselnitskaya (presumably about the Prevezon case)
 [2016_02_08] Adm. Rogers announces reorganization project to merge spying and hacking arms with the Computer Security Division into one Directorate of Operations
 [2016_02_08] Adm. Rogers meets GCHQ's Hannigan at Bletchley Park
@@ -84,7 +84,7 @@
 [2016_03_09] US Department of Justice's oversight personnel discover they had disclosed raw FISA information (including 702 information) to private contractors (spelled out later in an April 26th document submitted by Adm. Rogers to FISC)
 [2016_03_09] "need to try to fix a HUGE who f-up" (Lisa Page is likely telling Strzok that NSA has learned FBI permitted CIA contractors to access NSA 702's)
 [2016_03_11] Preet Bahrara (US Attorney for SDNY) and John P. Carlin (Asst. Attorney General for National Security, DOJ) announce indictment of Evgeny Buryakov (Carter Page likely UCE-1 or UCE-2)
-[2016_03_??]  (March 14th?) Brennan makes undisclosed trip to Moscow (RVS, FSB, GRU, but not Foreign Ministry)
+[2016_03_??] (March 14th?) Brennan makes undisclosed trip to Moscow (RVS, FSB, GRU, but not Foreign Ministry)
 [2016_03_14] Papadopoulos, while traveling in Italy, meets up with Joseph Mifsud
 [2016_03_15] Manafort begins to have ties with Trump campaign
 [2016_03_16] Carter Page meets with FBI over purported closing of CI case (briefed by Priestap before entering Trump campaign?)
@@ -99,7 +99,7 @@
 [2016_03_28] Manafort joins Trump campaign (FISA on him had expired shortly prior to joining campaign)
 [2016_03_30] Alexandra Chalupa becomes hot topic after prediction comes true and briefs DNC staff on Russia ties to Paul Manafort and Trump
 [2016_03_31] Nellie Ohr emails Robert P. Otto (Deputy Chief of Staff for Intelligence, Surveillance and Reconnaissance Agency), mentions Jennifer Lopez, Telman Ismailov, and Aras Agalarov (why is State Dept being informally briefed on Agalarov, who is a client of Bill Browder's nemesis, Natalia Veselnitskaya?)
-[2016_04_??]  Perkins Coie hires Fusion GPS
+[2016_04_??] Perkins Coie hires Fusion GPS
 [2016_04_01] Council on Foreign Relations-see CrowdStrike, Evelyn Farkas, Atlantic Council
 [2016_04_03] Panama Papers leaks, reported first by The Guardian
 [2016_04_05] Olga Bielkova reportedly seeks meetings with five dozen members of U.S. Congress and reporters
@@ -111,8 +111,8 @@
 [2016_04_18] DOJ shuts down FBI contractor access to 702's (cutting off suspected CIA associates of HRC)
 [2016_04_19] Mary Jacoby (Glenn Simpson's wife) signs visitor guestbook at White House
 [2016_04_19] Andrea Chalupa forwards an email to herself, says, "Exciting day: Paul Manafort resigned from the Trump campaign and will likely face an investigation for not declaring being a foreign agent while lobbying for Yanukovych and his party."
-[2016_04_??]  Brennan receives tape recording from a Baltic state showing Kremlin money going into a presidential campaign (Trump campaign not specified), reports BBC's Paul Wood
-[2016_04_??]  Brennan creates two task forces to get around problem of being unable to act domestically - the Domestic task force (FBI, DOJ and Treasury) and the Foreign task force (CIA, ODNI and NSA)
+[2016_04_??] Brennan receives tape recording from a Baltic state showing Kremlin money going into a presidential campaign (Trump campaign not specified), reports BBC's Paul Wood
+[2016_04_??] Brennan creates two task forces to get around problem of being unable to act domestically - the Domestic task force (FBI, DOJ and Treasury) and the Foreign task force (CIA, ODNI and NSA)
 [2016_04_25] Michael Isikoff publishes "Trump's campaign chief is questioned about ties to Russian billionaire" on April 25 about Manafort, while Papadopoulos starts sending e-mails to try and set up a meeting between Russia and Trump (unsuccessful)
 [2016_04_25] Obama For America begins paying funds into Perkins Coie for "legal services"
 [2016_04_26] Michael Isikoff reports on Paul Manafort connections to a billionaire Russian oligarch
@@ -170,15 +170,15 @@
 [2016_06_23] Brexit
 [2016_06_24] John Podesta meets with Claire McCombs (chief of staff to WH Counsel) @2pm, Podesta makes follow-up appointment on June 27th in VP residence with Robby Mook and Natsec advisor Tom Donolin
 [2016_06_24] Simpson contacts Steele (Steele's birthday) to arrange to receive a copy of the dossier, sent courier from the UK to Washington, DC
-[2016_06_??]  DOJ/NSD submit first FISA application for permission to intercept the electronic records from two Russian banks (fails)
+[2016_06_??] DOJ/NSD submit first FISA application for permission to intercept the electronic records from two Russian banks (fails)
 [2016_06_27] Podesta, Mook, Donolin meet with Obama, Biden in VP residence 
 [2016_06_27] Clinton/Lynch Phoenix airport tarmac meeting
-[2016_06_??]  Robert Hannigan, head of GCHQ, passes material in summer 2016 to CIA's John Brennan at "director level"
+[2016_06_??] Robert Hannigan, head of GCHQ, passes material in summer 2016 to CIA's John Brennan at "director level"
 [2016_07_??] DOJ/NSD submit narrowed FISA application (still on two Russian banks?), fails again
 [2016_07_01] Bruno Kahl confirmed as President of the Federal Intelligence Service in Germany
 [2016_07_01] Steele writes to Bruce Ohr, “There is something separate I wanted to discuss with you informally and separately. It concerns our favourite business tycoon!” (apparent reference to Trump)
 [2016_07_02] Hillary interviewed by FBI agents
-[2016_07_??] (July 3-4th?) Bruce Ohr schedules a Skype call with Steele
+[2016_07_03] Bruce Ohr schedules a Skype call with Steele
 [2016_07_05] FBI agent Gaeta meets Steele in London, receives copy of Steele's memo, says he has to notify headquarters
 [2016_07_05] Comey defers HRC prosecution recommendation
 [2016_07_07] Manafort writes in an email, "If he needs private briefings, we can accomodate", allegedly referring to Oleg Deripaska
@@ -233,8 +233,8 @@
 [2016_08_28] NYPOST published explicit but blurred photo of Anthony Weiner sext w/1yo son in frame
 [2016_08_29] Stefan Halper reaches out to Sam Clovis, mentions Carter Page said they should meet
 [2016_08_31] Report filed against Anthony Weiner to ACS
-[2016_09_??] Deripaska (on diplomatic passport) visited by three FBI agents (McCabe?) in NYC to talk Trump-Russia collusion
-[2016_09_??] (September 28th?) Comey, while testifying before Congress, does not confirm existence of any investigation into Trump's campaign aides
+[2016_09_??] Deripaska (on diplomatic passport) in NYC is visited by three FBI agents (one is McCabe) to talk Trump-Russia collusion
+[2016_09_28] Comey declines to confirm existence of any investigation into Trump's campaign aides
 [2016_09_??] Steele briefs Jonathon Winer (Special Envoy for Libya, Senior Advisor for MEK Resettlement) on dossier at a Washington hotel, Winer then gives 2-page dossier summary to Victoria Nuland (Ukraine expert at State Dept) and Jon Finer (chief of staff to Secretary Kerry)
 [2016_09_??] In an FBI memo, Steele admits to Nellie Ohr his feelings against then-candidate Trump, says he was desperate to stop his election chances
 [2016_09_??] Clovis meets Halper in lobby of DoubleTree hotel in Arlington, Virginia, where Halper discusses his research on China, and for help in getting in touch with Papadopolous
@@ -352,7 +352,7 @@
 [2016_11_22] FBI interviews Bruce Ohr (Ohr FD-302 December 19, 2016)
 [2016_11_28] In an interview, Bruno Kahl suggests Russia may try to interfere in upcoming German elections
 [2016_11_30] Trump meets with Preet Bharara, Preet agrees to remain US Attorney under Trump
-[2016_12_??]  Russia Today interviews Carter Page (mid-December?)
+[2016_12_??] Russia Today interviews Carter Page (mid-December?)
 [2016_12_05] FBI interviews Bruce Ohr (Ohr FD-302 December 19, 2016)
 [2016_12_08] McCain delivers dossier to Comey
 [2016_12_09] Brennan provides ICA assessment to Obama, showing Russia preferring Trump over Clinton
