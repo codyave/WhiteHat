@@ -38,6 +38,7 @@
 [2014_07_31] NYT reports CIA internal investigation, finds one of its officers penetrated a computer network used by SSCI in preparing a report on CIA's detention and interrogation program
 [2014_08_07] Gen. Flynn resigns from Defense Intelligence Agency
 [2014_08_22] Russia invades Ukraine
+[2015_09_15] Lisa Page: "Honestly, I thought it was weird that [Comey] would let you brief clapper before he got a recent update..." (re: Cornryn calling for a special prosecutor on Hillary email investigation)
 [2015_01_26] Evgeny Buryakov arrested, charged with, and pleading guilty to, spying on the United States for the Russian Foreign Intelligence Service (SVR), sentenced 30 months in federal prison and fined $100,000
 [2015_02_09] Senate forms Ukrainian caucus to further Ukrainian interests. John McCain is a member.
 [2015_03_25] Combetta, Bleachbit
@@ -77,6 +78,7 @@
 [2016_02_04] Email mentioned in 2017-11-14 Senate Judiciary Committee hearing details dinner plans among Rinat Akhmetshin, Glenn Simpson, and Natalia Veselnitskaya (presumably about the Prevezon case)
 [2016_02_08] Adm. Rogers announces reorganization project to merge spying and hacking arms with the Computer Security Division into one Directorate of Operations
 [2016_02_08] Adm. Rogers meets GCHQ's Hannigan at Bletchley Park
+[2016_02_06] Strzok: "Agengy F*ed up big."
 [2016_02_28] Manafort contacts Trump campaign
 [2016_02_12] Munich Security Conference attended by James Clapper, John Kerry, George Soros, Robert Hannigan, John McCain, and Dmitri Alperovich
 [2016_02_21] Evelyn Farkas sends an email to John Podesta asking to do surrogate work for Clinton campaign in relation to Eastern European communities
@@ -112,6 +114,7 @@
 [2016_03_31] Papadopoulos attends a national security meeting with Donald Trump and other foreign policy members of the Trump campaign in Washington, DC.
 [2016_04_??] Perkins Coie hires Fusion GPS
 [2016_04_01] Council on Foreign Relations-see CrowdStrike, Evelyn Farkas, Atlantic Council
+[2016_04_02] Lisa Page: "So look, you say we text on that phone when we talk about hillary because it can't be traced..."
 [2016_04_03] Panama Papers leaks, reported first by The Guardian
 [2016_04_05] Olga Bielkova reportedly seeks meetings with five dozen members of U.S. Congress and reporters
 [2016_04_05] FBI General Counsel Jim Baker attends the Global Privacy Summit, along with Michael Sussmann (Perkins Coie)
@@ -262,6 +265,7 @@
 [2016_09_05] At G20 Summit, Obama and Putin discuss US presidential election, Obama allegedly warns Putin to stop interfering
 [2016_09_06] FBI, NSA, and ODNI hold classified briefings with Congressional staff members about Russian interference
 [2016_09_07] Intelligence and National Security Summit begins, attended by Schiff, McCabe, Comey, Brennan, John Carlin, Adm. Rogers, and CrowdStrike's Shawn Henry
+[2016_09_10] Strzok: "thing is, there are VERY inflammatory things in the 302s we didn't turn over to Congress (because they weren't relevant to understanding the focus of the investigation)..."
 [2016_09_11] Hillary collapses in NYC, claims pneumonia
 [2016_09_13] Halper and Papadopolous have dinner at the Connaught Hotel, where Halper brings up his research assistant Azra Turk
 [2016_09_14] Lisa Monaco (Homeland Security Advisor) tells people at 10yr anniversary of DOJ/NSD that Russia hacking the election would be "extremely difficult"
@@ -533,10 +537,11 @@
 [2017_05_23] Carter Page sends follow-up letter to HPSCI, heavily criticizing Brennan
 [2017_05_29] Carter Page sends letter to SSCI, complains about Brennan
 [2017_05_31] HPSCI responds to Page's television appearances, issues statement that they won't be rushed on witnesses
+[2017_06_07] Lisa Page: "We're starting obstruction team brief but just come. Sit in on whatever comes next."
 [2017_06_10] Carter Page responds to HPSCI, says committees have blocked him from testifying
+[2017_06_13] Strzok: "Need to talk to you before you talk to him so you know what I said (Which was nothing, but we need to coordinate) He knows who has them now but not how they got them"
 [2017_06_14] Debbie Wasserman Schultz hosts DNC conference, says Russians hacked their servers, stole Trump opposition research
 [2017_06_14] "Russian government hackers penetrated DNC, stole opposition research on Trump", published by Ellen Nakashima in WaPo
-[2017_06_19] Mark Meadows unmasks Kevin Clinesmith and Sally Moyer, two members of the Special Counsel who sent anti-Trump text messages
 [2017_06_22] Steele texts Bruce Ohr, asks "any news on reengagement yet?", Bruce says he will inquire later
 [2017_06_22] SSCI sends letter to Lynch about an email written by DWS purportedly detailing an assurance to Amanda Renteria that HRC's emails would not be looked at too closely
 [2017_06_23] Carter Page sends letter to HPSCI, details five pages of suggested cross-exam questions for John Podesta
@@ -625,6 +630,7 @@
 [2018_06_04] FBI arrests former defense intelligence officer Ron Hansen, accused of attempted transmission of national defense information to the People’s Republic of China
 [2018_06_07] James Wolfe (SSCI Head of Security) arrested and charged with one count of lying to the FBI
 [2018_06_12] Article "Ukrainian Diplomat Andrey Telizhenko: I Was Told Directly that the Task Was to Remove Trump from the Elections" is published on stalkerzone.org
+[2018_06_19] Mark Meadows unmasks Kevin Clinesmith and Sally Moyer, two members of the Special Counsel who sent anti-Trump text messages
 [2018_06_21] Carter Page redacted FISA application (October 2016) released to FBI vault (FISAs are not generally applicable to FOIA)
 [2018_07_10] Judge Emmitt Sullivan schedules status hearing for Gen. Flynn
 [2018_08_??] Carl Ghattas to resign in August, according to a July 19 WSJ article
