@@ -80,25 +80,36 @@
 [2016_02_28] Manafort contacts Trump campaign
 [2016_02_12] Munich Security Conference attended by James Clapper, John Kerry, George Soros, Robert Hannigan, John McCain, and Dmitri Alperovich
 [2016_02_21] Evelyn Farkas sends an email to John Podesta asking to do surrogate work for Clinton campaign in relation to Eastern European communities
+[2016_03_01] Yared Tamene of Mis Department, Inc. had met twice in person with the FBI to confirm that Agent Hawkins was a real U.S. agent
 [2016_03_01] The RSA Conference includes speakers such as CrowdStrike's Dmitri Alperovitch and Shawn Henry, DOJ's John Carlin, and AG Loretta Lynch
+[2016_03_02] Strzok attends a MYE briefing
+[2016_03_04] Ben Carson suspends campaign after a disappointing presidential debate at Fox Theater in Michigan
+[2016_03_05] Donna Brazile emails a CNN debate question in advance to John Podesta
+[2016_03_06] Papadopoulos learns he'll be joining the Trump campaign
+[2016_03_08] Loretta Lynch defers a future seat on the Supreme Court
 [2016_03_09] DOJ oversight personnel discover they had disclosed raw FISA information (including 702 information) to private contractors (spelled out later in an April 26th document submitted by Adm. Rogers to FISC)
 [2016_03_09] "need to try to fix a HUGE who f-up"
+[2016_03_11] Michelle Fields files charges against Corey Lewandowski
 [2016_03_11] Preet Bahrara (US Attorney for SDNY) and John P. Carlin (Asst. Attorney General for National Security, DOJ) announce indictment of Evgeny Buryakov (Carter Page likely UCE-1 or UCE-2)
-[2016_03_??] (March 14th?) Brennan makes undisclosed trip to Moscow (RVS, FSB, GRU, but not Foreign Ministry)
-[2016_03_14] Papadopoulos, while traveling in Italy, meets up with Joseph Mifsud
+[2016_03_14] Brennan makes undisclosed trip to Moscow (RVS, FSB, GRU, but not Foreign Ministry)
+[2016_03_14] Papadopoulos meets Joseph Mifsud in Italy, Misfus promises contacts with Russian officials
+[2016_03_15] Rubio suspends his campaign after losing Florida
 [2016_03_15] Manafort begins to have ties with Trump campaign
 [2016_03_16] Carter Page meets with FBI over purported closing of CI case (briefed by Priestap before entering Trump campaign?)
 [2016_03_16] Lisa Page texts Strzok, "Our guy is talking..."
 [2016_03_18] John Schindler publishes an article in The Observer titled "Hillary Clinton Has an NSA Problem"
 [2016_03_19] Alexandra Chalupa starts consulting with DNC on Trump's Russia ties
-[2016_03_21] Trump announces foreign policy advisors: Walid Phares, Carter Page, George Papaopoulos, Joseph Schmitz, and Lt. Gen. Keith Kellogg (Pdop is having conversations with Joseph Mifsud around this time)
+[2016_03_21] Trump announces foreign policy advisors at a WaPo editorial board: Walid Phares, Carter Page, George Papaopoulos, Joseph Schmitz, and Lt. Gen. Keith Kellogg
 [2016_03_24] Papadopoulos sends an email to members of the Trump campaign, titled "Meeting with Russian Leadership -- including Putin", campaign dismisses proposal
+[2016_03_24] Papadopoulos meets with Mifsud, who introduces Pdop to a woman he claims to be Putin's niece
 [2016_03_25] Alexandra Chalupa makes prediction and warns Ukraine’s ambassador to the U.S. about Paul Manafort
 [2016_03_25] Bill Browder first tweets about Carter Page
 [2016_03_26] Page texts Strzok, "You get all our oconus lures approved? ;)"
 [2016_03_28] Manafort joins Trump campaign (FISA on him had expired shortly prior to joining campaign)
+[2016_03_29] Strzok texts Lisa Page about an article explaining Combetta's use of BleachBit
 [2016_03_30] Alexandra Chalupa becomes hot topic after prediction comes true and briefs DNC staff on Russia ties to Paul Manafort and Trump
 [2016_03_31] Nellie Ohr emails Robert Otto (Deputy Chief of Staff for Intelligence, mentions Aras Agalarov
+[2016_03_31] Papadopoulos attends a national security meeting with Donald Trump and other foreign policy members of the Trump campaign in Washington, DC.
 [2016_04_??] Perkins Coie hires Fusion GPS
 [2016_04_01] Council on Foreign Relations-see CrowdStrike, Evelyn Farkas, Atlantic Council
 [2016_04_03] Panama Papers leaks, reported first by The Guardian
@@ -115,30 +126,34 @@
 [2016_04_??] Brennan creates two task forces to get around problem of being unable to act domestically - the Domestic task force (FBI, DOJ and Treasury) and the Foreign task force (CIA, ODNI and NSA)
 [2016_04_25] Isikoff publishes "Trump's campaign chief is questioned about ties to Russian billionaire" on April 25 about Manafort, while Papadopoulos sends e-mails set up a meeting between Russia and Trump
 [2016_04_25] Obama For America begins paying funds into Perkins Coie for "legal services"
+[2016_04_26] Mifsud tells Papadopoulos about Russian officials who have damaging material on HRC (Pdop will falsely tell FBI he learned of this information before joining the Trump campaign)
 [2016_04_26] Michael Isikoff reports on Paul Manafort connections to a billionaire Russian oligarch
 [2016_04_27] Bruno Kahl nominated to be President of the Federal Intelligence Service in Germany
 [2016_04_27] Papadopoulos sends email to Lewandowski, says he was receiving "a lot of calls over the past month" about arranging a Russian meeting, also sends Stephen Miller email about meeting with Russian officials
 [2016_04_28] Alexandra Chalupa is invited to discuss her research about Paul Manafort with 68 investigative journalists from Ukraine at Library of Congress for Open World Leadership Center, a U.S. congressional agency
 [2016_04_29] DNC notices their servers have been penetrated, FBI not informed, Michael Sussman (Perkins Coie) summoned to emergency meeting
+[2016_04_30] Strzok texts Page, "And now we've switched from the Patriot Act to a wire carrying current."
 [2016_05_??] Roger Stone and Michael Caputo solicited by Russian national and known FBI informant Henry Greenberg (Henry Oknyansky), as well as an allegedly fired Clinton Foundation staffer who goes by the name Alexei
 [2016_05_??] Stefan Halper communicates with Steele, according to Yaacov Appelbaum
 [2016_05_03] Alexandra Chalupa emails DNC that she’ll share sensitive info about Paul Manafort “offline” including “a big Trump component…that will hit in next few weeks.
 [2016_05_04] Papadopoulos forwards an email he receives from Ivan Timofeev (Mifsud associate) to Corey Lewandowski, Sam Clovis and other members of the Trump campaign
 [2016_05_04] Sussman calls CrowdStrike's Shawn Henry regarding DNC server
 [2016_05_05] CrowdStrikes installs FalcoHost software in DNC servers
+[2016_05_09] Bill Priestap is likely in London, possibly meeting with Downer and Pdop, around this time
 [2016_05_10] Papadopoulos meets Alexander Downer in London (arranged by Downer) where Pdop brings up possibility of Russia having damaging info on Hillary
-[2016_05_10] Bill Priestap is likely in London, possibly meeting with Downer and Pdop, around this time
+[2016_05_13] Mifsud emails Papadopoulos an update about "recent conversations"
 [2016_05_15] Evan Perez indicates wiretapping of Paul Manafort ends sometime in 2016 due to lack of evidence
 [2016_05_17] Sidney Blumenthal attends a book party at John and Christina Ritch's home, where Sid meets Jamie Raskin (D-MD)
 [2016_05_17] Grassley sends letter to Comey about Clinton's server
 [2016_05_19] Paul Manafort elevated to campaign chairman
 [2016_05_19] D.C. Judge Rudolph Contreras appointed to FISC
+[2016_05_21] Papadopoulos emails a senior Trump campaign official that begins "Request from Russia to meet Mr. Trump" 
 [2016_05_23] Nellie Ohr obtains ham radio license
 [2016_05_25] FBI interviews Secret Service agent, SSA says he was asked for help w/HRC's private server by Justin Cooper and Bryan Pagliano
 [2016_05_25] Natalia Veselnitskaya submits an application for a US entry visa (did Robert Otto in State Dept flag this for expediting, Strzok possibly notified?)
 [2016_05_26] Trump locks in necessary 1,237 delegates after winning Indiana primary
 [2016_05_31] Natalia Veselnitskaya receives confirmation that she is to be interviewed for a B1 visa within the Moscow Business/Tourism/Crew/Journalist category
-[2016_06_??] (late spring?) In a highly-classified memo, Loretta Lynch allegedly assured Amanda Renteria that the DOJ would not allow the FBI to look too far into the investigation of Hillary's emails
+[2016_06_??] (late spring/early summer?) In a highly-classified memo, Loretta Lynch allegedly assures Amanda Renteria (Clinton campaign aide) that the DOJ would not allow the FBI to look too far into the investigation of Hillary's emails
 [2016_06_01] Natalia Veselnitskaya arrives at the U.S. Embassy in Moscow for an interview
 [2016_06_??] Sergei Skripal visits Estonian intelligence officers, arranged by British intelligence (alleged Kremlin bribe intercepted by Estonian intel?)
 [2016_06_??] Steele flies to Rome to brief FBI agent Gaeta about dossier
@@ -193,7 +208,8 @@
 [2016_07_19] Lisa Monaco meets Clapper and Tonya Ugoretz at ODNI
 [2016_07_19] Steele memo says, "Source E, an ethnic Russian" and "close associate of Trump" alleges that the "Russian regime" had been behind the DNC emails "to the Wikileaks platform."
 [2016_07_19] Trump becomes official GOP nominee
-[2016_07_22] Papadopoulos allegedly messages FOREIGN CONTACT #2 (Ivan Timofeev?) through Facebook, asks if "knew a particular individual with extensive ties to Russian-based businesses and persons."
+[2016_07_22] Papadopoulos messages Ivan Timofeev through Facebook, asks if "knew a particular individual with extensive ties to Russian-based businesses and persons."
+[2016_07_22] Australia supposedly tells the FBI of Papadopoulos’ comments to Downer from May 10, 2016.
 [2016_07_25] Page and Strzok text each other about Strzok's relationship to Judge Rudolph Contreras
 [2016_07_26] Steele files another memo, this time placing the blame of the DNC hacks on Russia, two days after Robby Mook said the same on ABC, who cites CrowdStrike as his source
 [2016_07_26] Obama signs directive, places FBI in charge of all cyber threats
@@ -275,6 +291,7 @@
 [2016_09_??] Steele attends several off-the-record meetings with U.S. journalists from NYT, WaPo, Yahoo, New Yorker, and CNN in late September
 [2016_10_??] Steele is debriefed by the FBI, hands over Cody Shearer memo
 [2016_10_??] Kerry's top aides produce an "action memo" that includes relatiatory measures against Russia, but is not to be published until after initial votes are counted on election night
+[2016_10_01] FBI asks Steele if he knows Papadopoulos
 [2016_10_03] NY FBI confiscates Weiner laptop, iPad, phone, wifi router
 [2016_10_06] WaPo hosts Cybersecurity Summit, attended by Lisa Monaco, Ellen Nakashima, and DNC's Michael Sussmann (former cybercrimes prosecutor at DOJ, now Perkins Coie)
 [2016_10_07] Homeland Security and ODNI release joint statement blaming Russia for DNC leaks, Podesta emails, Guccifer 2.0 (Comey declines to attach his name)
@@ -421,6 +438,7 @@
 [2017_01_25] FBI interviews Bruce Ohr (Ohr FD-302 January 27, 2017)
 [2017_01_26] Sally Yates travels to the White House with Mary McCord to discuss Gen. Flynn
 [2017_01_27] Sally Yates returns to the White House for a second discussion about Gen. Flynn
+[2017_01_27] FBI (Strzok?) interviews Papadopoulos
 [2017_01_27] FBI interviews Bruce Ohr (Ohr FD-302 January 27, 2017)
 [2017_01_27] Adam Waldman visits Julian Assange in London
 [2017_01_27] Steele texts Bruce Ohr, "Hi B! Our guy's OK for the time being but I would like to keep our channel open on him and his situation if that's all right?"
@@ -431,6 +449,7 @@
 [2017_02_??] Michael B. Steinbach (FBI Executive Assistant Director for the National Security Branch) retires
 [2017_02_06] FBI interviews Bruce Ohr (Ohr FD-302 February 8, 2017)
 [2017_02_08] Sessions confirmed Attorney General
+[2017_02_08] FBI interviews Mifsud
 [2017_02_09] Gen. Flynn discussed sanctions with Ambassador Kislyak, reports NYT and WaPo
 [2017_02_09] Rachel Brand (Associate Attorney General, number three official behind Deputy AG Rosenstein) resigns
 [2017_02_12] Carter Page sends letter to the Civil Voting Rights Division of the DOJ
@@ -438,8 +457,11 @@
 [2017_02_14] Trump, in a private one-on-one meeting, asks Comey to drop the investigation into Gen. Flynn
 [2017_02_14] FBI interviews Bruce Ohr (Ohr FD-302 February 15, 2017)
 [2017_02_14] Page and Strzok confirm (with McCabe) to "launch on F 302" (Flynn conversation likely edited post-FBI interview, possibly by McCabe)
+[2017_02_16] FBI interviews Papadopoulos again
+[2017_02_17] Papadopoulos deletes his Facebook account
 [2017_02_16] Waldman texts Warner, says, "this guy is going to do something catastrophic for the dems, Obama, CIA and national security. I hope someone will consider getting him to US to ameliorate the damage."
 [2017_02_18] Joseph Mifsud features as speaker at Global Ties national conference, sponsored by the State Dept's Office of International Visitors
+[2017_02_23] Papadopoulos changes cell phone numbers
 [2017_02_23] Paul Manafort's daughter's phone is hacked showing unknown persons were trying to blackmail Manafort
 [2017_03_??] FBI contacts Carter Page, first time in over a year, as detailed in Carter Page's testimony before HPSCI on November 2, 2017
 [2017_03_03] Sessions recuses himself from Russia probe
@@ -485,6 +507,7 @@
 [2017_04_11] WSJ's Devlin Barrett breaks story on Carter Page's FISA warrant, says it contain "the most closely guarded secrets in the world"
 [2017_04_12] Carter Page goes on media blitz, doing six televised interviews
 [2017_04_17] Mary McCord resigns
+[2017_04_18] Mifsud connects Papadopoulos with Ivan Timofeev
 [2017_04_25] Rod Rosenstein confirmed Deputy Attorney General
 [2017_04_25] Adam Waldman texts Senator Warner, says Steele is under a lot of duress, says Daniel Jones will be visiting with Warner soon, 
 [2017_04_28] Grassley sends letter to FBI, requesting responses to more questions about the FBI's relationship with Steele
@@ -518,14 +541,17 @@
 [2017_06_22] SSCI sends letter to Lynch about an email written by DWS purportedly detailing an assurance to Amanda Renteria that HRC's emails would not be looked at too closely
 [2017_06_23] Carter Page sends letter to HPSCI, details five pages of suggested cross-exam questions for John Podesta
 [2017_06_29] Third and final renewal on Carter Page FISA
+[2017_07_14] Horowitz discovers Strzok/Page texts around this time
 [2017_07_16] Steele texts Bruce Ohr about reengagement, Bruce says he will pass along the message
 [2017_07_20] Wray confirmed 92-5 by Senate to be FBI Director
 [2017_07_24] WSJ reports Sergei Millian iss reportedly the source for some of the salacious allegations in the dossier
 [2017_07_26] Manafort home raided
 [2017_07_27] Horowitz discovers Strzok/Page texts, OIC informs Mueller
 [2017_07_27] Papadopoulos arrested at Dulles Airport outside Washington, D.C.
+[2017_07_28] Papadopoulos appears in court without a lawyer, case is sealed, agrees to cooperate with Mueller, forbidden from speaking to Trump team
 [2017_07_28] Reince Priebus resigns as Chief of Staff
 [2017_07_28] McCabe interviewed by OIG, later to be determined to have lied about leaking to WSJ
+[2017_08_??] (late summer?) Mueller's team interviews Ivan Timofeev
 [2017_08_01] McCabe calls OIG Assistant Inspector General to correct statements he gave to OIG on July 28, 2017
 [2017_08_02] Rosenstein issues revised and very classified memo to Mueller, outlines scope of investigation
 [2017_08_04] Heat Street closes
@@ -538,12 +564,13 @@
 [2017_09_14] Carter Page files defamation lawsuit against OATH, Inc. (parent company of Yahoo, HuffPost) and Broadcasting Board of Governors in SDNY
 [2017_09_17] CNN "breaks" Manafort FISA story (literally the only time it's discussed in the news media)
 [2017_09_30] Chuck Rosenberg (Former Acting Head of the Drug Enforcement Administration, twice serving as Chief of Staff to former FBI Director James Comey) resigns
-[2017_10_05] Papadopoulos pleads guilty to lying to the FBI about the timing of his contacts with Mifsud
+[2017_10_05] Papadopoulos pleads guilty to lying to the FBI about the timing of his contacts with Mifsud, case held under seal, 
 [2017_10_10] Carter Page sends letters to Special Counsel and HPSCI/SSCI, denies main charges leveled against him, demands open-session hearings of his testimony under oath
 [2017_10_16] James Wolfe informs Marianna Sotomayor of NBC News that Carter Page had been served with a subpoena to appear before SSCI
 [2017_10_17] Marianna Sotomayor requests Carter Page's cell phone number from James Wolfe, publishes an article about Carter Page, and later calls Carter Page for comment
 [2017_10_24] "Clinton campaign, DNC paid for research that led to Russia dossier", reports Adam Entous and Devlin Barrett of WaPo
 [2017_10_26] Steele texts Bruce, says he saw a story about FBI turning over docs to Congress about his work and his contacts, says he will "reach out to my other (SC) contacts on this issue tomorrow."
+[2017_10_30] Court unseals Papadopoulos case, documents show he sent multiple emails to Trump campaign about Russia
 [2017_10_30] Steele texts Bruce, says he's spoken with Glenn Simpson that day, says "I now understand and appreciate what you were talking about on Saturday." (Saturday is October 28)
 [2017_10_30] Press release of Mueller indictment against Manafort, Podesta Group, Mercury LLC
 [2017_11_02] In CNN interview with Jake Tapper, Carter Page says he was given advance notice he was being targeted by Steele in September 2016
