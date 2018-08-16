@@ -98,7 +98,7 @@
 [2016_03_15] Rubio suspends his campaign after losing Florida
 [2016_03_15] Manafort begins to have ties with Trump campaign
 [2016_03_16] Carter Page meets with FBI over purported closing of CI case (briefed by Priestap before entering Trump campaign?)
-[2016_03_16] Lisa Page texts Strzok, "Our guy is talking..."
+[2016_03_16] Strzok: "Just waiting for Baker, then done", Lisa Page: "Our guy is talking..." (likely referring to ONA Director, James Baker, and Baker's approval of Mifsud as CHS)
 [2016_03_18] John Schindler publishes an article in The Observer titled "Hillary Clinton Has an NSA Problem"
 [2016_03_19] Alexandra Chalupa starts consulting with DNC on Trump's Russia ties
 [2016_03_21] Trump announces foreign policy advisors at a WaPo editorial board: Walid Phares, Carter Page, George Papaopoulos, Joseph Schmitz, and Lt. Gen. Keith Kellogg
@@ -119,6 +119,7 @@
 [2016_04_05] Olga Bielkova reportedly seeks meetings with five dozen members of U.S. Congress and reporters
 [2016_04_05] FBI General Counsel Jim Baker attends the Global Privacy Summit, along with Michael Sussmann (Perkins Coie)
 [2016_04_07] WFB paints Trump-Russia collusion conspiracy
+[2016_04_09] ONA Director Baker likely tattletales on Strzok (very upset) to Counsel (FBI Baker?) wrt March 9 discovery that CIA contractors (coordinated by ONA?) were accessing 702s (see, 2016-Apr-10 Strzok text messages)
 [2016_04_11] Glenn Simpson attends Logan Symposium, along with Jane Meyer of the New Yorker and Ken Vogel (sent stories to DNC) of Politico
 [2016_04_11] Manafort emails Kilimnik, asks how Deripaska can be repaid
 [2016_04_12] Olga Bielkova and a colleague meet with David Kramer, Liz Zentos, and Michael Kimmage
@@ -209,6 +210,7 @@
 [2016_07_07] IC IG McCullough testifies before HPSCI that he can not provide committee with certain segment of HRC's emails because it would be too sensitive to discuss in public hearing
 [2016_07_08] Carter Page invited to the Race to Change the World Symposium by a University of Cambridge doctoral candidate
 [2016_07_11] Carter Page travels to the Race to Change the World conference, where he meets Stefan Halper, who tells Page that he knew Paul Manafort
+[2016_07_13] Lisa Page: "Hey, let me ask what Baker (James Baker, ONA Director) what the meeting with Fine was about. It might be better not to get Jim (FBI Counsel James Baker) deep in the facts of this yet..."
 [2016_07_??] Victoria Nuland, in response to Senator Burr, says she caught her first glimpse of the Steele dossier in mid-July (2016), in a June 20, 2017 open hearing before SSCI
 [2016_07_15] Arsen Avakov attacks Trump and Paul Manafort on Twitter and FB, calling Trump “an even bigger danger to the US than terrorism.”
 [2016_07_15] Arseny Yatseniuk writes on Facebook that Trump has challenged the very values of the free world
@@ -218,6 +220,7 @@
 [2016_07_19] Steele memo says, "Source E, an ethnic Russian" and "close associate of Trump" alleges that the "Russian regime" had been behind the DNC emails "to the Wikileaks platform."
 [2016_07_19] Trump becomes official GOP nominee
 [2016_07_22] Papadopoulos messages Ivan Timofeev through Facebook, asks if "knew a particular individual with extensive ties to Russian-based businesses and persons."
+[2016_07_22] Reportedly out of the blue, Sergei Millian messages Papadopoulos on LinkedIn (the two would go on to become fast friends, and met several times afterwards)
 [2016_07_22] Australia supposedly tells the FBI of Papadopoulos’ comments to Downer from May 10, 2016.
 [2016_07_25] Page and Strzok text each other about Strzok's relationship to Judge Rudolph Contreras
 [2016_07_26] Steele files another memo, this time placing the blame of the DNC hacks on Russia, two days after Robby Mook said the same on ABC, who cites CrowdStrike as his source
@@ -280,6 +283,7 @@
 [2016_09_15] Halper and Papadopolous meet at the Travellers Colub, again with Azra Turk, Azra is said to have flirted with Pdop
 [2016_09_15] Isikoff leaves voicemail for Carter Page, asking for a call back, leaves similar voicemail on September 22
 [2016_09_16] Steele texts Bruce Ohr, says he will be back in town "on business of mutual interest"
+[2016_09_20] Strzok: "Plus I'm supposed to talk to Glenn Fine (DOD IG) at 145 with Baker (ONA Director)..." (likely describing setting up a meeting to renew Halper's CHS contract)
 [2016_09_21] Steele texts bruce Ohr, says he is in town, says "keen to meet up with you"
 [2016_09_21] DailyMail runs story on Weiner sexts with 15yo girl
 [2016_09_22] Schiff and Feinstein release joint statement condeming Russia
@@ -302,6 +306,7 @@
 [2016_09_29] Strzok texts Page that he's sending a team up to SDNY the next day to review Anthony Wiener's subpoenaed documents
 [2016_09_29] Obama for America pays Perkins Coie $700,000
 [2016_09_29] Mikk Marran attends CEPA Forum in Washington, DC, on a panel Thomas Kent (Radio Free Europe), Mustafa Nayyem (Ukraine Parliament) and Michael Weiss (Daily Beast), followed by a speech by Benjamin Wittes
+[2016_09_30] Whistleblower Adam Lovinger sends a letter to Office of Net Assessment Director James H. Baker, detailing nepotism and cronyism in ONA
 [2016_09_??] Steele attends several off-the-record meetings with U.S. journalists from NYT, WaPo, Yahoo, New Yorker, and CNN in late September
 [2016_10_??] Steele is debriefed by the FBI, hands over Cody Shearer memo
 [2016_10_??] Kerry's top aides produce an "action memo" that includes relatiatory measures against Russia, but is not to be published until after initial votes are counted on election night
@@ -451,6 +456,7 @@
 [2017_01_19] Top Obama intel and law enforcement deputies meet to talk about Flynn's conversation with Ambassador Kislyak
 [2017_01_19] LEO intercept communications of Trump officials, including Paul Manafort
 [2017_01_20] Brennan resigns
+[2017_01_20] Loretta Lynch resigns
 [2017_01_20] Susan Rice sends herself an email about January 5th Oval Office meeting
 [2017_01_23] FBI reports nothing unlawful in content of Flynn call
 [2017_01_23] Strzok texts Lisa Page, "I can feel my heart beating harder, I'm so stressed about all the ways THIS has the potential to go fully off the rails."
@@ -458,6 +464,7 @@
 [2017_01_23] FBI interviews Bruce Ohr (Ohr FD-302 January 31, 2017)
 [2017_01_25] DOJ receives detailed briefing on Flynn from FBI
 [2017_01_25] FBI interviews Bruce Ohr (Ohr FD-302 January 27, 2017)
+[2017_01_26] FBI interviews Papadopoulos (no lawyer present), Pdop is claimed to have said he met Mifsud before joining the Trump campaign (he met Mifsud afterwards)
 [2017_01_26] Sally Yates travels to the White House with Mary McCord to discuss Gen. Flynn
 [2017_01_27] Sally Yates returns to the White House for a second discussion about Gen. Flynn
 [2017_01_27] FBI (Strzok?) interviews Papadopoulos
@@ -540,6 +547,7 @@
 [2017_04_25] Adam Waldman texts Senator Warner, says Steele is under a lot of duress, says Daniel Jones will be visiting with Warner soon, 
 [2017_04_28] Grassley sends letter to FBI, requesting responses to more questions about the FBI's relationship with Steele
 [2017_05_??] IG Horowitz seeks unsealing of FBI grand jury subpoenas demanding testimony of Clinton aides, other search warrants
+[2017_05_01] Adam Lovinger is stripped of security clearance, relegated to clerical chores in ONA due to criticism of FBI contracts given to Stefan Halper
 [2017_05_05] SSCI Warner/Burr release statement about Carter Page, saying he may not be cooperating with SSCI as he has promised
 [2017_05_06] Grassley sends letter to FBI seeking records of a reported plan to pay Steele for the dossier
 [2017_05_07] Carter Page sends letter to Burr/Warner at SSCI, details two felony disclosures concerning his identity
@@ -661,6 +669,7 @@
 [2018_06_19] Mark Meadows unmasks Kevin Clinesmith and Sally Moyer, two members of the Special Counsel who sent anti-Trump text messages
 [2018_06_21] Carter Page redacted FISA application (October 2016) released to FBI vault (FISAs are not generally applicable to FOIA)
 [2018_07_10] Judge Emmitt Sullivan schedules status hearing for Gen. Flynn
+[2018_07_18] Adam Lovinger files a complaint with the Pentagon's senior ethics official, charging that his superiors misused the security clearance process to punish him
 [2018_07_26] First reports of Omarosa's book "Unhinged" said to be released soon
 [2018_07_26] White House prepares statement wrt revoking Brennan's security clearance (not released till August 15)
 [2018_08_02] Daily Mail obtains an excerpt from Omarosa's book
@@ -675,4 +684,5 @@
 [2018_08_16] George Toscas (DOJ national security lawyer) deposed by House Judiciary and House Oversight Committees
 [2018_08_23] Reality Winner scheduled to be sentenced
 [2018_08_24] Flynn hearing
+[2018_09_07] Papadopoulos sentencing date
 [2018_08_28] Bruce Ohr closed-door hearing 
