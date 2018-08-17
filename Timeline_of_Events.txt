@@ -400,6 +400,7 @@
 [2016_11_30] Trump meets with Preet Bharara, Preet agrees to remain US Attorney under Trump
 [2016_12_01] Strzok: "And I keep thinking about what the D said, what was it, sick to one's stomach?"
 [2016_12_??] Russia Today interviews Carter Page (mid-December?)
+[2016_12_??] Bruce Ohr meets Glenn Simpson in Chinatown, Bruce is handed a memory stick
 [2016_12_05] FBI interviews Bruce Ohr (Ohr FD-302 December 19, 2016)
 [2016_12_08] McCain delivers dossier to Comey
 [2016_12_09] Brennan provides ICA assessment to Obama, showing Russia preferring Trump over Clinton
@@ -516,11 +517,12 @@
 [2017_03_09] Nunes and Schiff send demand to DOJ for "any applications to the FISA Court, any orders that court released, and any copies of warrants issued by federal judges" relating to surveillance of Trump team
 [2017_03_11] Preet Bharara (U.S. District Attorney) fired by Trump
 [2017_03_13] DOJ asks for extension of time wrt Nunes and Schiff's demand, Richard Burr says he already has all the answers he needs from "conversations"
+[2017_03_14] Judge Napolitano: "President Obama went outside the chain of command. He didn't use the NSA. He didn't use the CIA. He didn't use the FBI. And he didn't use the Department of Justice. He used GCHQ."
+[2017_03_15] Bruce Ohr writes: "Special Counsel, right to question in U.K.?", Steele later messages Bruce Ohr, "Must protect sources." (youtube.com/watch?v=eTtveyYnJGg&t=19m25s)
 [2017_03_15] Grassley threatens to block the nomination of Rod Rosenstein if DOJ does not comply with demands
 [2017_03_15] In Fox News interview with Tucker Carlson, Trump says, "We have it before the committee. We're submitting some things."
 [2017_03_16] Adam Waldman texts Senator Warner, says Steele requests that Waldman contact Warner
 [2017_03_16] Spokesman for Nunes says if DOJ does not comply with demands by March 20th, then he may subpoena the DOJ
-[2017_03_17] User FreshCamel posts on the dark web a conversation on the secure messaging network Gliph purportedly about Louise Mensch, Steele, Gen. Flynn, Mueller, Rosenstein, and WaPo's Adam Entous
 [2017_03_17] Kevin McCarthy jokingly says Trump is paid by Putin and caught in a secret recording, published by WaPo's Adam Entous
 [2017_03_17] Classified document (Carter Page FISA?) transported to SSCI
 [2017_03_17] James Wolfe texts and talks to Ali Watkins (82 texts, 28min phone call)
@@ -565,7 +567,7 @@
 [2017_05_07] Carter Page sends letter to Burr/Warner at SSCI, details two felony disclosures concerning his identity
 [2017_05_08] FBI interviews Bruce Ohr (Ohr FD-302 May 10, 2017)
 [2017_05_09] Comey fired
-[2017_05_10] Bruce Ohr: "Call with Chris," notes Steele is "very concerned about Comey hearing, afraid they will be exposed”, as well as inquiring letter from SSCI
+[2017_05_10] Bruce Ohr: "Call with Chris," notes Steele is "very concerned about Comey firing, afraid they will be exposed”, as well as inquiring letter from SSCI
 [2017_05_11] Peter Kadzik (Acting Assistant Attorney General – Acting Head of DOJ’s National Security Division, replacing John Carlin) resigns
 [2017_05_11] Adam Waldman texts Senator Warner, says Deripaska is getting questions about Manafort from multiple directions
 [2017_05_12] Trump tweets, "James Comey better hope that there are no 'tapes' of our conversations before he starts leaking to the press!"
@@ -578,6 +580,7 @@
 [2017_05_15] Adam Waldman texts Senator Warner, asks if he wants to discuss Deripaska, or if he respond to HPSCI instead
 [2017_05_15] FBI interviews Bruce Ohr (Ohr FD-302 May 16, 2017)
 [2017_05_16] Comey's memos reported by NYT 
+[2017_05_17] User FreshCamel posts on the dark web a conversation on the secure messaging network Gliph purportedly about Louise Mensch, Steele, Gen. Flynn, Mueller, Rosenstein, and WaPo's Adam Entous
 [2017_05_17] Mueller appointed to lead special counsel investigation
 [2017_05_18] Strzok: "I disagree with the ["spy's"? "DOJ's"? "ONA's"?] decision, though I know that counts for nothing..." "...needless Rome boondoggle..."
 [2017_05_21] Lisa Page: In business wear. Because Mueller. (likely interviewing for Mueller's Special Counsel)
@@ -586,6 +589,7 @@
 [2017_05_24] Strzok says he's staying on the Special Counsel, possibly out of loyalty to Baker and McCabe (seems uneasy, though)
 [2017_05_29] Carter Page sends letter to SSCI, complains about Brennan
 [2017_05_31] HPSCI responds to Page's television appearances, issues statement that they won't be rushed on witnesses
+[2017_06_??] CNN: "Exclusive: Mueller's team met (in Summer 2017) with Russia dossier author", according to a 2017-Oct-25 article
 [2017_06_??] Steele tells Ohr,  “We are frustrated with how long this reengagement (w/Bu, RM) is taking...There are some new, perishable, operational opportunities which we do not want to miss out on.” (See, June 22)
 [2017_06_07] Lisa Page: "We're starting obstruction team brief but just come. Sit in on whatever comes next."
 [2017_06_10] Carter Page responds to HPSCI, says committees have blocked him from testifying
