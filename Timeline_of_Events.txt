@@ -50,7 +50,7 @@
 [2015_08_??]  Trump meets with Gen. Flynn, meeting lasts 90min
 [2015_09_??] Washington Free Beacon hires Fusion GPS
 [2015_09_??] Yared Tamene, part-time IT help desk technician for Mis Department Inc. (contractor in charge of DNC operating system), receives call from FBI agent Hawkins wrt comprised server on DNC network ("Dukes" malware)
-[2015_09_25] Stefan Halper hired on contractor basis by DOD's Office of Net Assessment for a total of $244,960.00
+[2015_09_25] Stefan Halper hired on contractor basis by DOD's ONA for a total of $244,960.00
 [2015_09_29] Evelyn Farkas, deputy assistant secretary of defense for Russia, announces resignation to take place in late October 2015
 [2015_10_??] FBI agent Hawkins leaves multiple voicemails to DNC help desk, Tamene doesn't return calls because he says he has nothing new to report to FBI
 [2015_10_01] Alexandra Chalupa begins investigating Trump's ties to Russia
@@ -210,6 +210,7 @@
 [2016_07_07] IC IG McCullough testifies before HPSCI that he can not provide committee with certain segment of HRC's emails because it would be too sensitive to discuss in public hearing
 [2016_07_08] Carter Page invited to the Race to Change the World Symposium by a University of Cambridge doctoral candidate
 [2016_07_11] Carter Page travels to the Race to Change the World conference, where he meets Stefan Halper, who tells Page that he knew Paul Manafort
+[2016_07_11] (?) Elizabeth Dibble (Deputy Chief of Mission at the London Embassy) likely submits a referral to the FBI about the Downer and Papadopoulos bar conversation
 [2016_07_13] Lisa Page: "Hey, let me ask what Baker (James Baker, ONA Director) what the meeting with Fine was about. It might be better not to get Jim (FBI Counsel James Baker) deep in the facts of this yet..."
 [2016_07_??] Victoria Nuland, in response to Senator Burr, says she caught her first glimpse of the Steele dossier in mid-July (2016), in a June 20, 2017 open hearing before SSCI
 [2016_07_15] Arsen Avakov attacks Trump and Paul Manafort on Twitter and FB, calling Trump “an even bigger danger to the US than terrorism.”
@@ -219,6 +220,7 @@
 [2016_07_19] Brennan attends the Leadership Dinner at the Intelligence and National Security Alliance in McLean, Virginia
 [2016_07_19] Steele memo says, "Source E, an ethnic Russian" and "close associate of Trump" alleges that the "Russian regime" had been behind the DNC emails "to the Wikileaks platform."
 [2016_07_19] Trump becomes official GOP nominee
+[2016_07_20] Wash Field Office and Office General Counsel review referall from Dibble, set up meeting with higher ups including Comey and Lynch
 [2016_07_22] Papadopoulos messages Ivan Timofeev through Facebook, asks if "knew a particular individual with extensive ties to Russian-based businesses and persons."
 [2016_07_22] Reportedly out of the blue, Sergei Millian messages Papadopoulos on LinkedIn (the two would go on to become fast friends, and met several times afterwards)
 [2016_07_22] Australia supposedly tells the FBI of Papadopoulos’ comments to Downer from May 10, 2016.
@@ -228,6 +230,7 @@
 [2016_07_26] At press conference, Trump says, "Russia, I hope you can find Hillary's missing emails"
 [2016_07_26] Alexandra Chalupa leaves the DNC to work full-time on her research into Manafort, Trump and Russia; and provides off-the-record guidance to a lot of journalists.
 [2016_07_27] Trump states he would recognise Moscow’s annexation of Crimea
+[2016_07_27] Comey and Lynch "CI Threat" briefing, Lisa Page and Jon Moffa there.
 [2016_07_27] Aspen Security Forum
 [2016_07_??] Bruce Ohr is in contact with Steele days before Crossfire Hurricane begins, engages Steele as a "confidential human source"
 [2016_07_29] Steele likely arrives in DC late afternoon/evening
@@ -269,6 +272,7 @@
 [2016_09_??] Clovis meets Halper in lobby of DoubleTree hotel in Arlington, Virginia, where Halper discusses his research on China, and for help in getting in touch with Papadopolous
 [2016_09_??] Paul Ahern (attorney at Treasury Dept) argues with half a dozen FinCEN employees, possibly over allegations that Office of Intelligence and Analysis has been illegally collecting info on US citizens
 [2016_09_??] Jeh Johnson, Comey, Lisa Monaco arrive on Capitol Hill to meet with Gang of Twelve on Obama's orders to be briefed on Russian hacking attempts
+[2016_09_??] Stefan Halper pays $3,000 to Papadopoulos
 [2016_09_02] Halper unsolicitly invites Papadopolous to join him in London, free of charge, to discuss a policy paper about energy issues in Turkey, Cyprus, and Israel (Pdop accepts)
 [2016_09_02] Peter Smith sets up KLS Research LLC to find Clinton emails
 [2016_09_02] Page texts Strzok that Comey was preparing a meeting with Obama, who wanted to know what they were doing
@@ -290,6 +294,7 @@
 [2016_09_22] SDNY issues subpoena for Anthony Weiner phone records
 [2016_09_23] Isikoff publishes "U.S. intel officials probe ties between Trump adviser and Kremlin" w/info provided by Steele (FBI take notice)
 [2016_09_23] "Who Is Carter Page? The mystery of Trump’s man in Moscow" writes Politico
+[2016_09_23] Bruce Ohr records from a meeting with Steele that Steele "was desperate that Donald Trup not get elected and was passionate about him not being president."
 [2016_09_24] Strzok sends a text to Lisa Page with a link to a Politico article about Carter Page
 [2016_09_25] Carter Page sends cease-and-desist letter to James Comey, informing him about the witch-hunt directed at him
 [2016_09_26] Carter Page leaves Trump campaign
@@ -372,12 +377,15 @@
 [2016_11_05] John Kerry and aides travel to Antarctica
 [2016_11_06] Clinton investigation closes again after Strzok & 2 others review 650,000 emails in about six days
 [2016_11_07] Louise Mensch in Heat Street discoses FISA warrant into Trump campaign ties to Russia
+[2016_11_08] Strzok: "Managed to get into a huge fight here about the Bu and Clinton. Because [redacted] just can't stop at fair observations. She has to assert her mastery of things about which she has NO knowledge."
 [2016_11_08] Presidential election
 [2016_11_09] FBI logs intrusion analysis into HRC server (what?)
+[2016_11_09] Strzok send Lisa Page a Lawfare article titled "The Burden on Donald Trump"
 [2016_11_11] Chris Christie demoted from leading the Trump transition team, replaced by Mike Pence
 [2016_11_11] Michael McFaul tweets photo of Ambassador Kislyak at the Stanford Graduate School of Business giving a speech
 [2016_11_13] Lisa Page purchases "All the President's Men" to brush up on Watergate
 [2016_11_15] Mike Rogers (R-MI) resigns from Trump transition
+[2016_11_15] Lisa Page: "Yeah, and then the Deputy Director (Yates) told you to go to London on 24 hours notice."
 [2016_11_17] Adm. Mike Rogers makes unexpected visit to Trump Tower
 [2016_11_17] White House begins remodeling/renovations?
 [2016_11_17] At the Halifax Internation Security Forum, Sir Andrew Wood (on instructions from Steele) meets Senator McCain, then David Kramer is instructed to meet Steele in London to view dossier (later provided a copy in DC)
@@ -388,7 +396,9 @@
 [2016_11_21] COPY of Anthony Weiner laptop secured in certified SCIF, located at FBI HQ, available for inspection under approval from Asst Director of Counterintelligence (Priestap?), per FBI Vault, part 23, pgs 142-143
 [2016_11_22] FBI interviews Bruce Ohr (Ohr FD-302 December 19, 2016)
 [2016_11_28] In an interview, Bruno Kahl suggests Russia may try to interfere in upcoming German elections
+[2016_11_29] Strzok, Lisa Page discuss withholding info wrt McCabe and MYE ("Can we tailor what we send, ie, give them some some subset of what they're asking for?")
 [2016_11_30] Trump meets with Preet Bharara, Preet agrees to remain US Attorney under Trump
+[2016_12_01] Strzok: "And I keep thinking about what the D said, what was it, sick to one's stomach?"
 [2016_12_??] Russia Today interviews Carter Page (mid-December?)
 [2016_12_05] FBI interviews Bruce Ohr (Ohr FD-302 December 19, 2016)
 [2016_12_08] McCain delivers dossier to Comey
@@ -520,6 +530,7 @@
 [2017_03_20] Comey confirms investigation into Trump associates and Russia
 [2017_03_21] Ukranian politician/journalist Sergiy Leschenko gives news conference showing 10-yr. old document supposedly involving Paul Manafort
 [2017_03_22] Nunes holds a 1pm press conference, says members of Trump campaign were unmasked by Obama officials in capacities that had no relation to the campaign or to Russia
+[2017_03_23] CNN: "FBI has info indicating Trump associates communicated with suspected Russians to coordinate release info damaging to HRC." Lisa Page: "CNN said officials. I assume dems on Gang of 8"
 [2017_03_25] Waldman texts Warner, says Deripaska will be in London from March 27-30
 [2017_03_27] Evelyn Farkas says, "that the Trump folks – if they found out HOW we knew what we knew about their, the Trump staff, dealing with Russians – that they would try to compromise those sources and methods"
 [2017_03_29] "Senate Intel Committee May Interview Ex-UK Spy Christopher Steele", reports NBC News
@@ -546,6 +557,7 @@
 [2017_04_25] Rod Rosenstein confirmed Deputy Attorney General
 [2017_04_25] Adam Waldman texts Senator Warner, says Steele is under a lot of duress, says Daniel Jones will be visiting with Warner soon, 
 [2017_04_28] Grassley sends letter to FBI, requesting responses to more questions about the FBI's relationship with Steele
+[2017_04_30] Glenn Simpson and Jonathan Winer attend the OffshoreAlert Conference in Miami.
 [2017_05_??] IG Horowitz seeks unsealing of FBI grand jury subpoenas demanding testimony of Clinton aides, other search warrants
 [2017_05_01] Adam Lovinger is stripped of security clearance, relegated to clerical chores in ONA due to criticism of FBI contracts given to Stefan Halper
 [2017_05_05] SSCI Warner/Burr release statement about Carter Page, saying he may not be cooperating with SSCI as he has promised
@@ -553,6 +565,7 @@
 [2017_05_07] Carter Page sends letter to Burr/Warner at SSCI, details two felony disclosures concerning his identity
 [2017_05_08] FBI interviews Bruce Ohr (Ohr FD-302 May 10, 2017)
 [2017_05_09] Comey fired
+[2017_05_10] Bruce Ohr: "Call with Chris," notes Steele is "very concerned about Comey hearing, afraid they will be exposed”, as well as inquiring letter from SSCI
 [2017_05_11] Peter Kadzik (Acting Assistant Attorney General – Acting Head of DOJ’s National Security Division, replacing John Carlin) resigns
 [2017_05_11] Adam Waldman texts Senator Warner, says Deripaska is getting questions about Manafort from multiple directions
 [2017_05_12] Trump tweets, "James Comey better hope that there are no 'tapes' of our conversations before he starts leaking to the press!"
@@ -566,10 +579,14 @@
 [2017_05_15] FBI interviews Bruce Ohr (Ohr FD-302 May 16, 2017)
 [2017_05_16] Comey's memos reported by NYT 
 [2017_05_17] Mueller appointed to lead special counsel investigation
+[2017_05_18] Strzok: "I disagree with the ["spy's"? "DOJ's"? "ONA's"?] decision, though I know that counts for nothing..." "...needless Rome boondoggle..."
+[2017_05_21] Lisa Page: In business wear. Because Mueller. (likely interviewing for Mueller's Special Counsel)
 [2017_05_22] Carter Page sends letter to HPSCI, of little material
 [2017_05_23] Carter Page sends follow-up letter to HPSCI, heavily criticizing Brennan
+[2017_05_24] Strzok says he's staying on the Special Counsel, possibly out of loyalty to Baker and McCabe (seems uneasy, though)
 [2017_05_29] Carter Page sends letter to SSCI, complains about Brennan
 [2017_05_31] HPSCI responds to Page's television appearances, issues statement that they won't be rushed on witnesses
+[2017_06_??] Steele tells Ohr,  “We are frustrated with how long this reengagement (w/Bu, RM) is taking...There are some new, perishable, operational opportunities which we do not want to miss out on.” (See, June 22)
 [2017_06_07] Lisa Page: "We're starting obstruction team brief but just come. Sit in on whatever comes next."
 [2017_06_10] Carter Page responds to HPSCI, says committees have blocked him from testifying
 [2017_06_13] Strzok: "Need to talk to you before you talk to him so you know what I said (Which was nothing, but we need to coordinate) He knows who has them now but not how they got them"
@@ -623,13 +640,17 @@
 [2017_11_27] Steele texts Bruce Ohr, asks to schedule a Whatsapp call
 [2017_11_29] OIG questions McCabe, McCabe clarifies further the statements he gave to OIG from August 1, 2018
 [2017_11_30] Flynn accepts plea deal
+[2017_12_01] Brian Ross: "Michael Flynn promised full cooperation to the Mueller team and is prepared to testify that as a candidate, Donald Trump directed him to make contact with the Russians." (Fake)
 [2017_12_01] Judge Contreras accepts Flynn's guilty plea
 [2017_12_02] Incriminating text messages from Peter Strzok and Lisa Page is published in WaPo and NYT
 [2017_12_02] Inspector General issues statement in response to inquiries
 [2017_12_04] Strzok had changed wording of Clinton investigation to avoid criminal charges, reports CNN
+[2017_12_04] ABC News: "Paul Manafort was working with a Russian intelligence-connected official as recently as last week, special prosecutors allege" (Fake)
+[2017_12_05] Bloomberg: "Mueller Subpoenaed Deutsche Bank Records on Trump Several Weeks Ago" (Fake)
 [2017_12_06] Bruce Ohr stripped of Associate Deputy Attorney General title
 [2017_12_07] Bruce Ohr was in contact with Fusion GPS at the same time the FISA application against Carter Page was submitted and granted, reports Fox News
 [2017_12_07] Judge Contreras removed from Flynn case
+[2017_12_08] CNN's Manu Raju: "Email pointed Trump campaign to WikiLeaks documents" (Fake)
 [2017_12_20] James Baker (FBI General Counsel) demoted and reassigned
 [2018_01_02] Glenn Simpsons writes NYT op-ed, demanding that transcripts of his August 22, 2017 testimony in closed-door hearings be made public
 [2018_01_08] Bruce Ohr removed as head of the Organized Crime Drug Enforcement Task Force
@@ -649,6 +670,7 @@
 [2018_03_04] Sergei Skripal (former Russian military officer, double agent for UK intelligence) poisoned, discharged from the hospital on May 18
 [2018_03_08] Oleg Deripaska pens op-ed in The Daily Caller
 [2018_03_16] McCabe fired
+[2018_03_21] U.S. District Court Judge Lorna Schofield rejects portion of lawsuit filed by Carter Page (w/o attorney) seeking damages ($1.00) against Yahoo's parent company, Oath, Inc.
 [2018_03_28] Ecuadorian Embassy severs Julian Assange's internet connection, says Assange is breaking agreement not to interfere in another State's matter (U.K., allegedly)
 [2018_03_28] OIG release announcement to review DOJ and FBI compliance with legal requirements with regards to FISA of a certain U.S. person
 [2018_03_28] Former FBI agent Terry Albury is charged with leaking Confidential Human Source Policy Guide to The Intercept
@@ -684,7 +706,9 @@
 [2018_08_15] Brennan's security clearance revoked, also clearances up for review are Clapper, Yates, Ohr, Comey, Hayden, Rice, McCabe, Strzok
 [2018_08_15] Simona Mangiante suggests Papadopoulos may seek new counsel as well as discard plea deal with Mueller
 [2018_08_16] George Toscas (DOJ national security lawyer) deposed by House Judiciary and House Oversight Committees
+[2018_08_16] Rush Limbaugh says Nellie Ohr wrote the dossier
 [2018_08_23] Reality Winner scheduled to be sentenced
 [2018_08_24] Flynn hearing
 [2018_09_07] Papadopoulos sentencing date
 [2018_08_28] Bruce Ohr closed-door hearing 
+[2018_08_30] Fusion GPS will be deposed in Washington, DC for Gubarev v Buzzfeed lawsuit
