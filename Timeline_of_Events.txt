@@ -567,14 +567,15 @@
 [2017_03_20] Comey and Adm. Rogers testify before House Select Intelligence Committee on Russian interference in the 2016 election
 [2017_03_20] Comey confirms investigation into Trump associates and Russia
 [2017_03_21] Ukranian politician/journalist Sergiy Leschenko gives news conference showing 10-yr. old document supposedly involving Paul Manafort
-[2017_03_22] Nunes says members of Trump transition were unmasked and info widely disseminated by Obama officials with no relation to Russia (mostly in November, December, and January)
+[2017_03_22] Nunes press conference: Says members of Trump transition were unmasked and info widely disseminated by Obama officials with no relation to Russia (mostly in November, December, and January)
 [2017_03_23] CNN: "FBI has info indicating Trump associates communicated with suspected Russians to coordinate release info damaging to HRC." Lisa Page: "CNN said officials. I assume dems on Gang of 8"
 [2017_03_25] Waldman texts Warner, says Deripaska will be in London from March 27-30
-[2017_03_27] Evelyn Farkas says, "that the Trump folks – if they found out HOW we knew what we knew about their, the Trump staff, dealing with Russians – that they would try to compromise those sources and methods"
-[2017_03_29] "Senate Intel Committee May Interview Ex-UK Spy Christopher Steele", reports NBC News
+[2017_03_27] Evelyn Farkas: "that the Trump folks – if they found out HOW we knew what we knew about their, the Trump staff, dealing with Russians – that they would try to compromise those sources and methods"
+[2017_03_29] WaPo: "Who is ‘Source D’? The man said to be behind the Trump-Russia dossier’s most salacious claim"
+[2017_03_29] NBC News: "Senate Intel Committee May Interview Ex-UK Spy Christopher Steele"
 [2017_03_30] Steele texts Bruce Ohr, asks for any news, says SSCI "is leaking like a sieve, giving us pause for thought on engagement"
 [2017_03_30] Waldman texts Warner, reports that Steele is concered about leaks in previous day's press, Steele apparently "run off" by press, "huddled w lawyers"
-[2017_03_31] Warner says to Waldman, "Keep me informed also any news about ur other guy on Manafort", Waldman says his other guy is mistrustful of U.S. government, says he's been run out of the country
+[2017_03_31] Warner:"Keep me informed also any news about ur other guy on Manafort", Waldman says his other guy is mistrustful of U.S. government, says he's been run out of the country
 [2017_03_31] Evgeny Buryakov, scheduled to be released from federal prison July 27, is released early into ICE custody, cited for good behavior
 [2017_04_??] Richard H. Ledgett Jr (Deputy Director of the NSA) retires
 [2017_04_03] Ali Watkins breaks story that Carter Page had "met with and passed documents to a Russian intelligence operative"
@@ -583,15 +584,15 @@
 [2017_04_04] Brian Ross publishes article "Trump campaign adviser Carter Page targeted for recruitment by Russian spies"
 [2017_04_04] "Russian Spies Tried to Recruit Carter Page Before He Advised Trump" reports NYT
 [2017_04_05] Evgeny Buryakov deported to Russia
-[2017_04_05] Waldman texts Warner, says Steele is getting cold feet, wants bipartisan letter with written list of questions
-[2017_04_06] Waldman texts Warner, says WSJ just called, said SSCI and Steele are speaking through an intermediary, Waldman says he was asked by SSCI if he was the intermediary
+[2017_04_05] Waldman: Steele is getting cold feet, wants bipartisan letter with written list of questions
+[2017_04_06] Waldman: Says WSJ just called, said SSCI and Steele are speaking through an intermediary, Waldman says he was asked by SSCI if he was the intermediary
 [2017_04_07] Second renewal on Carter Page FISA
-[2017_04_10] Waldman texts Warner, says he's convinced Assange to make concessions and has relayed that to DOJ
+[2017_04_10] Waldman: Says he's convinced Assange to make concessions and has relayed that to DOJ
 [2017_04_11] "FBI obtained FISA warrant to monitor former Trump adviser Carter Page" reports WaPo (existence of Carter Page October 2016 FISA warrant first disclosed)
 [2017_04_11] WSJ's Devlin Barrett breaks story on Carter Page's FISA warrant, says it contain "the most closely guarded secrets in the world"
 [2017_04_12] Carter Page goes on media blitz, doing six televised interviews
 [2017_04_17] Mary McCord resigns
-[2017_04_19] Waldman replies to Warner, says he's in the Maldives
+[2017_04_19] Waldman says he's in the Maldives
 [2017_04_25] Rod Rosenstein confirmed Deputy Attorney General
 [2017_04_25] Adam Waldman texts Senator Warner, says Steele is under a lot of duress, says Daniel Jones will be visiting with Warner soon
 [2017_04_26] Judge Collyer presides as signatory for FIS Court's 99-page opinion in response to DOJ/FBI/NSA 702 access
@@ -645,26 +646,24 @@
 [2017_07_14] Horowitz discovers Strzok/Page texts around this time
 [2017_07_16] Steele texts Bruce Ohr about reengagement, Bruce says he will pass along the message
 [2017_07_20] Wray confirmed 92-5 by Senate to be FBI Director
-[2017_07_21] Scaramucci appointed WH Comms Director
+[2017_07_21] Scaramucci appointed White House Communications Director
 [2017_07_26] Manafort home raided
-[2017_07_26] Scaramucci calls Ryan Lizza
-[2017_07_??] Pdop receives $10k from Charles Tawil in an Israeli hotel room on Mykonos (some time in July, but before the 27th)
+[2017_07_26] Scaramucci interview with Ryan Lizza
+[2017_07_??] Pdop receives $10k from Charles Tawil on the Greek island of Mykonos (some time in July, but before the 27th)
 [2017_07_27] Horowitz informs Mueller of Strzok/Page texts
-[2017_07_27] The Atlantic: "Anthony Scaramucci Called Me to Unload About White House Leakers, Reince Priebus, and Steve Bannon"
 [2017_07_27] Papadopoulos arrested at Dulles Airport outside Washington, D.C.
 [2017_07_28] Papadopoulos appears in court w/o lawyer, case is sealed, forbidden from speaking to Trump team
 [2017_07_28] Priebus resigns as Chief of Staff
-[2017_07_28] McCabe interviewed by OIG (later determined to have lied to investigators about leaks to WSJ)
+[2017_07_28] McCabe interviewed by OIG (later determined to have lied about leaking to WSJ)
 [2017_07_31] Scaramucci resigns
 [2017_08_??] Mueller's team interviews Ivan Timofeev (late summer?)
 [2017_08_01] McCabe calls OIC to correct statements he gave to investigators on July 28, 2017
 [2017_08_02] Rosenstein issues revised and very classified memo to Mueller, outlines scope of investigation
 [2017_08_04] Heat Street closes
 [2017_08_04] Sessions says the FBI has formed a new counterintelligence unit to investigate leaks
-[2017_08_06] Rosenstein interviewd by Charles Wallace, says Mueller can investigate any crime he uncovers in Russia probe
 [2017_08_06] Steele frustrated with FBI and Mueller reengagement, asks Bruce to speed things up
-[2017_08_07] Steele texts Bruce Ohr, asks if he can give Bruce a call tomorrow, Bruce tells him before 10am
-[2017_08_14] WaPo: "Trump campaign emails show aide’s repeated efforts to set up Russia meetings" (first mention of Papadopoulos)
+[2017_08_07] Steele asks if he can give Bruce a call tomorrow, Bruce tells him before 10am
+[2017_08_14] WaPo: "Trump campaign emails show aide’s repeated efforts to set up Russia meetings"
 [2017_08_16] Bill Browder tweets criticisms of Dana Rohrabacher being in contact with Julian Assange
 [2017_08_16] Strzok demoted to FBI Human Resources
 [2017_08_22] Glenn Simpsons testifies in closed-door hearing with SSCI
