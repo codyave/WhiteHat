@@ -491,7 +491,7 @@
 [2017_01_17] Samantha Power uses final speech in U.N. to criticize Russia
 [2017_01_17] Obama commutes sentence of Chelsea Manning
 [2017_01_17] George Nader accosted by Mueller's team at Dulles airport while on his way to Mar-A-Lago, electronics seized, agrees to cooperate with Mueller
-[2017_01_08] Imran Awan visits the Congressional Federal Credit Union
+[2017_01_18] Imran Awan visits the Congressional Federal Credit Union
 [2017_01_18] "FBI, 5 other agencies probe possible covert Kremlin aid to Trump" reports McClatchly (Susan Hennessy quoted, Brennan/Clapper likely unnamed source)
 [2017_01_18] "Julian Assange ready for US extradition, one of his lawyers suggests," reports The Guardian
 [2017_01_19] El Chapo extradited to the U.S.
@@ -506,6 +506,7 @@
 [2017_01_23] Strzok texts Lisa Page, "I can feel my heart beating harder, I'm so stressed about all the ways THIS has the potential to go fully off the rails."
 [2017_01_23] Peter Strzok and FBI Agent Pientka interview Gen. Flynn without notice
 [2017_01_23] FBI interviews Bruce Ohr (Ohr FD-302 January 31, 2017)
+[2017_01_24] WSJ reports Sergei Millian iss reportedly the source for some of the salacious allegations in the dossier
 [2017_01_25] DOJ receives detailed briefing on Flynn from FBI
 [2017_01_25] FBI interviews Bruce Ohr (Ohr FD-302 January 27, 2017)
 [2017_01_26] FBI interviews Papadopoulos (no lawyer present), Pdop is claimed to have said he met Mifsud before joining the Trump campaign (he met Mifsud afterwards)
@@ -566,7 +567,7 @@
 [2017_03_20] Comey and Adm. Rogers testify before House Select Intelligence Committee on Russian interference in the 2016 election
 [2017_03_20] Comey confirms investigation into Trump associates and Russia
 [2017_03_21] Ukranian politician/journalist Sergiy Leschenko gives news conference showing 10-yr. old document supposedly involving Paul Manafort
-[2017_03_22] Nunes holds a 1pm press conference, says members of Trump campaign were unmasked by Obama officials in capacities that had no relation to the campaign or to Russia
+[2017_03_22] Nunes says members of Trump transition were unmasked and info widely disseminated by Obama officials with no relation to Russia (mostly in November, December, and January)
 [2017_03_23] CNN: "FBI has info indicating Trump associates communicated with suspected Russians to coordinate release info damaging to HRC." Lisa Page: "CNN said officials. I assume dems on Gang of 8"
 [2017_03_25] Waldman texts Warner, says Deripaska will be in London from March 27-30
 [2017_03_27] Evelyn Farkas says, "that the Trump folks – if they found out HOW we knew what we knew about their, the Trump staff, dealing with Russians – that they would try to compromise those sources and methods"
@@ -644,24 +645,26 @@
 [2017_07_14] Horowitz discovers Strzok/Page texts around this time
 [2017_07_16] Steele texts Bruce Ohr about reengagement, Bruce says he will pass along the message
 [2017_07_20] Wray confirmed 92-5 by Senate to be FBI Director
-[2017_07_21] Scaramucci appointed White House Communications Director
-[2017_07_24] WSJ reports Sergei Millian is reportedly the source for some of the salacious allegations in the dossier
+[2017_07_21] Scaramucci appointed WH Comms Director
 [2017_07_26] Manafort home raided
-[2017_07_??] Pdop receives $10k from Charles Tawil in an Israeli hotel (some time in July, but before the 27th)
+[2017_07_26] Scaramucci calls Ryan Lizza
+[2017_07_??] Pdop receives $10k from Charles Tawil in an Israeli hotel room on Mykonos (some time in July, but before the 27th)
 [2017_07_27] Horowitz informs Mueller of Strzok/Page texts
+[2017_07_27] The Atlantic: "Anthony Scaramucci Called Me to Unload About White House Leakers, Reince Priebus, and Steve Bannon"
 [2017_07_27] Papadopoulos arrested at Dulles Airport outside Washington, D.C.
-[2017_07_28] Papadopoulos appears in court w/o lawyer, case sealed, forbidden from speaking to Trump team
+[2017_07_28] Papadopoulos appears in court w/o lawyer, case is sealed, forbidden from speaking to Trump team
 [2017_07_28] Priebus resigns as Chief of Staff
-[2017_07_28] McCabe interviewed by OIG (later determined to have lied about leaking to WSJ)
+[2017_07_28] McCabe interviewed by OIG (later determined to have lied to investigators about leaks to WSJ)
 [2017_07_31] Scaramucci resigns
 [2017_08_??] Mueller's team interviews Ivan Timofeev (late summer?)
-[2017_08_01] McCabe calls OIC to correct statements he gave to OIG on July 28, 2017
+[2017_08_01] McCabe calls OIC to correct statements he gave to investigators on July 28, 2017
 [2017_08_02] Rosenstein issues revised and very classified memo to Mueller, outlines scope of investigation
 [2017_08_04] Heat Street closes
 [2017_08_04] Sessions says the FBI has formed a new counterintelligence unit to investigate leaks
-[2017_08_06] Rosenstein interviewd by Charles Wallace on Fox News, says special counsel Mueller can investigate any crime he uncovers in Russia probe
-[2017_08_06] Steele texts Bruce Ohr, says "we are frustrated with how long this reengagement with the Bureau and Mueller is taking", asks Bruce if things can be sped up
+[2017_08_06] Rosenstein interviewd by Charles Wallace, says Mueller can investigate any crime he uncovers in Russia probe
+[2017_08_06] Steele frustrated with FBI and Mueller reengagement, asks Bruce to speed things up
 [2017_08_07] Steele texts Bruce Ohr, asks if he can give Bruce a call tomorrow, Bruce tells him before 10am
+[2017_08_14] WaPo: "Trump campaign emails show aide’s repeated efforts to set up Russia meetings" (first mention of Papadopoulos)
 [2017_08_16] Bill Browder tweets criticisms of Dana Rohrabacher being in contact with Julian Assange
 [2017_08_16] Strzok demoted to FBI Human Resources
 [2017_08_22] Glenn Simpsons testifies in closed-door hearing with SSCI
@@ -726,8 +729,10 @@
 [2018_02_08] In letter to HPSCI Chairman Nunes, Don McGahn, cites a closed-door hearing of Bill Priestap, who says corroboration of Steele dossier was in its infancy for initial FISA on Carter Page
 [2018_02_14] Judge Sullivan, presiding over Flynn case, asserts Brady Rule, orders Mueller to find exculpatory evidence held by government sources
 [2018_02_24] Schiff memo
+[2018_02_27] WaPo: "A self-described sex expert says she will spill information on Trump and Russia to get out of a Thai jail" (Anastasis Vashukevich, aka Nastya Rybka, aka Red Sparrow)
 [2018_02_28] Grassley sends letter to OIC, requests “review of potential improper political influence, misconduct, or mismanagement in the conduct of the counterintelligence and criminal investigation”
-[2018_03_04] Sergei Skripal (former Russian military officer, double agent for UK intelligence) poisoned, discharged from the hospital on May 18
+[2018_03_04] Sergei Skripal poisoned in U.K. (discharged from the hospital May 18)
+[2018_03_05] Grabien: "CNN travels to Thailand to speak with prostitute who claims to have dirt on Trump"
 [2018_03_08] Oleg Deripaska pens op-ed in The Daily Caller
 [2018_03_13] Tillerson fired
 [2018_03_16] McCabe fired
@@ -737,6 +742,7 @@
 [2018_03_28] Former FBI agent Terry Albury is charged with leaking Confidential Human Source Policy Guide to The Intercept
 [2018_03_30] Greg Brower (FBI Assistant Director for the Office of Congressional Affairs) resigns
 [2018_04_05] Manafort issued warrant to search his storage locker
+[2018_04_17] Vice News: "‘Sex huntress’ who claims to have dirt on Trump and Russia may spend years in Thai prison"
 [2018_04_19] DOJ files FARA case against Pakistani national and U.S. permanent resident, Nisar Ahmed Chaudhry
 [2018_04_26] Pompeo confirmed Secretary of State
 [2018_05_04] Lisa Page resigns
@@ -774,6 +780,8 @@
 [2018_08_17] Senator Warner announces that in the following week he will introduce legislation to prevent President Trump from revoking security clearances
 [2018_08_17] AP: "...[Senator] Burr said there is 'no factual evidence today that we’ve received' on collusion or conspiracy between Russia and President Donald Trump’s campaign."
 [2018_08_17] Mueller indictment on Papadopoulos recommends 0-6 months jail time for lying to FBI
+[2018_08_19] Fox News: "Escort says oligarch now has tapes on Russia interference" (
+[2018_08_20] DOJ releases statement, charging Ghorbani and Doostdar as unregistered agents of Iran tasked with surveilling Israeli/Jewish communities (filed August 8th)
 [2018_08_23] Reality Winner scheduled to be sentenced
 [2018_08_24] Flynn hearing
 [2018_09_07] Papadopoulos sentencing date
