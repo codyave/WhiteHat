@@ -429,6 +429,7 @@
 [2016_12_08] McCain delivers dossier to Comey
 [2016_12_09] Brennan provides ICA assessment to Obama, showing Russia preferring Trump over Clinton
 [2016_12_09] Obama orders review of Russian interference in US elections going back to 2008
+[2016_12_09] Imran Awan returns to the U.S.
 [2016_12_10] Glenn Simpson tells Bruce Ohr during a meeting in a Washington coffee shop that he believes Trump’s longtime lawyer, Michael Cohen, was the “go-between from Russia to the Trump campaign.”
 [2016_12_12] FBI interviews Bruce Ohr (Ohr FD-302 December 19, 2016)
 [2016_12_12] Evelyn Farkas publishes an article in Politico about Trump and Russia
@@ -489,10 +490,12 @@
 [2017_01_13] Obama admin announces new rules to allow NSA to share private data gathered without warrants, court orders or Congressional authorization with 16 other intel agencies
 [2017_01_17] Samantha Power uses final speech in U.N. to criticize Russia
 [2017_01_17] Obama commutes sentence of Chelsea Manning
-[2017_01_07] George Nader accosted by Mueller's team at Dulles airport while on his way to Mar-A-Lago, electronics seized, agrees to cooperate with Mueller
+[2017_01_17] George Nader accosted by Mueller's team at Dulles airport while on his way to Mar-A-Lago, electronics seized, agrees to cooperate with Mueller
+[2017_01_08] Imran Awan visits the Congressional Federal Credit Union
 [2017_01_18] "FBI, 5 other agencies probe possible covert Kremlin aid to Trump" reports McClatchly (Susan Hennessy quoted, Brennan/Clapper likely unnamed source)
 [2017_01_18] "Julian Assange ready for US extradition, one of his lawyers suggests," reports The Guardian
-[2017_01_19] Several agencies (FBI, CIA, NSA, Treasurey) aer monitorying several associates of the Trump campaign who are suspected of Russian ties, reports NYT
+[2017_01_19] El Chapo extradited to the U.S.
+[2017_01_19] Several agencies (FBI, CIA, NSA, Treasurey) are monitorying several associates of the Trump campaign who are suspected of Russian ties, reports NYT
 [2017_01_19] Top Obama intel and law enforcement deputies meet to talk about Flynn's conversation with Ambassador Kislyak
 [2017_01_19] LEO intercept communications of Trump officials, including Paul Manafort
 [2017_01_20] Brennan resigns
@@ -644,6 +647,7 @@
 [2017_07_21] Scaramucci appointed White House Communications Director
 [2017_07_24] WSJ reports Sergei Millian iss reportedly the source for some of the salacious allegations in the dossier
 [2017_07_26] Manafort home raided
+[2017_07_??] Pdop receives $10k from Charles Tawil in an Israeli hotel (some time in July, but before the 27th)
 [2017_07_27] Horowitz informs Mueller of Strzok/Page texts
 [2017_07_27] Papadopoulos arrested at Dulles Airport outside Washington, D.C.
 [2017_07_28] Papadopoulos appears in court w/o lawyer, case is sealed, agrees to cooperate with Mueller, forbidden from speaking to Trump team
@@ -655,7 +659,7 @@
 [2017_08_02] Rosenstein issues revised and very classified memo to Mueller, outlines scope of investigation
 [2017_08_04] Heat Street closes
 [2017_08_04] Sessions says the FBI has formed a new counterintelligence unit to investigate leaks
-[2017_08_06] WaPo: "Rosenstein: Special counsel Mueller can investigate any crime he uncovers in Russia probe"
+[2017_08_06] Rosenstein interviewd by Charles Wallace on Fox News, says special counsel Mueller can investigate any crime he uncovers in Russia probe
 [2017_08_06] Steele texts Bruce Ohr, says "we are frustrated with how long this reengagement with the Bureau and Mueller is taking", asks Bruce if things can be sped up
 [2017_08_07] Steele texts Bruce Ohr, asks if he can give Bruce a call tomorrow, Bruce tells him before 10am
 [2017_08_16] Bill Browder tweets criticisms of Dana Rohrabacher being in contact with Julian Assange
@@ -775,3 +779,4 @@
 [2018_09_07] Papadopoulos sentencing date
 [2018_08_28] Bruce Ohr closed-door hearing 
 [2018_08_30] Fusion GPS will be deposed in Washington, DC for Gubarev v Buzzfeed lawsuit
+[2018_11_05] El Chapo hearing
