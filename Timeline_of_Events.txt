@@ -157,7 +157,7 @@
 [2016_05_04] Sussman calls CrowdStrike's Shawn Henry regarding DNC server
 [2016_05_05] CrowdStrikes installs FalcoHost software in DNC servers
 [2016_05_09] Bill Priestap is likely in London, possibly meeting with Downer and Pdop, around this time
-[2016_05_10] Papadopoulos meets Alexander Downer in London (arranged by Downer) where Pdop brings up possibility of Russia having damaging info on Hillary
+[2016_05_10] Papadopoulos meets Downer in London, Downer accompanied by 
 [2016_05_13] Mifsud emails Papadopoulos an update about "recent conversations"
 [2016_05_15] Evan Perez indicates wiretapping of Paul Manafort ends sometime in 2016 due to lack of evidence
 [2016_05_17] "Former Mafia-linked figure describes association with Trump", reports WaPo (article is about Felix Sater)
@@ -288,7 +288,6 @@
 [2016_08_28] NYPOST published explicit but blurred photo of Anthony Weiner sext w/1yo son in frame
 [2016_08_29] Stefan Halper reaches out to Sam Clovis, mentions Carter Page said they should meet
 [2016_08_31] Report filed against Anthony Weiner to ACS
-[2016_09_??] Deripaska (on diplomatic passport) visited by three FBI agents (McCabe?) in NYC to talk Trump-Russia collusion
 [2016_09_??] (September 28th?) Comey, while testifying before Congress, does not confirm existence of any investigation into Trump's campaign aides
 [2016_09_??] Steele briefs Jonathon Winer (Special Envoy for Libya, Senior Advisor for MEK Resettlement) on dossier at a Washington hotel, Winer gives 2-page summary to Nuland and Jon Finer (chief of staff to Secretary Kerry)
 [2016_09_??] In an FBI memo, Steele admits to Nellie Ohr his feelings against then-candidate Trump, says he was desperate to stop his election chances
@@ -510,12 +509,13 @@
 [2017_01_25] DOJ receives detailed briefing on Flynn from FBI
 [2017_01_25] FBI interviews Bruce Ohr (Ohr FD-302 January 27, 2017)
 [2017_01_26] FBI interviews Papadopoulos (no lawyer present), Pdop is claimed to have said he met Mifsud before joining the Trump campaign (he met Mifsud afterwards)
+[2017_01_26] Trump at GOP Retreat: "Where is Pompeo? Where the hell is he? Did he ever come here? Oh, he's working!"
 [2017_01_26] Sally Yates travels to the White House with Mary McCord to discuss Gen. Flynn
 [2017_01_27] Sally Yates returns to the White House for a second discussion about Gen. Flynn
 [2017_01_27] FBI (Strzok?) interviews Papadopoulos
 [2017_01_27] FBI interviews Bruce Ohr (Ohr FD-302 January 27, 2017)
 [2017_01_27] Adam Waldman visits Julian Assange in London
-[2017_01_27] Steele texts Bruce Ohr, "Hi B! Our guy's OK for the time being but I would like to keep our channel open on him and his situation if that's all right?"
+[2017_01_27] Steele texts Bruce Ohr, "Hi B! Our guy's OK for the time being but I would like to keep our channel open on him and his situation if that's all right?" ("our guy" = Oleg?)
 [2017_01_30] Sally Yates fired
 [2017_01_30] Matthew Axelrod (Principal Associate Deputy Attorney General) resigns
 [2017_01_31] Steele texts Bruce Ohr, sympathizes over Sally Yates' firing
@@ -584,14 +584,15 @@
 [2017_04_04] Brian Ross publishes article "Trump campaign adviser Carter Page targeted for recruitment by Russian spies"
 [2017_04_04] "Russian Spies Tried to Recruit Carter Page Before He Advised Trump" reports NYT
 [2017_04_05] Evgeny Buryakov deported to Russia
+[2017_04_05] Waldman ends represenation of Rusal/Deripaska, according to FARA papers filed on June 29, 2018
 [2017_04_05] Waldman: Steele is getting cold feet, wants bipartisan letter with written list of questions
+[2017_04_06] Deripaska added to sanctions list
 [2017_04_06] Waldman: Says WSJ just called, said SSCI and Steele are speaking through an intermediary, Waldman says he was asked by SSCI if he was the intermediary
 [2017_04_07] Second renewal on Carter Page FISA
 [2017_04_10] Waldman: Says he's convinced Assange to make concessions and has relayed that to DOJ
 [2017_04_11] "FBI obtained FISA warrant to monitor former Trump adviser Carter Page" reports WaPo (existence of Carter Page October 2016 FISA warrant first disclosed)
 [2017_04_11] WSJ's Devlin Barrett breaks story on Carter Page's FISA warrant, says it contain "the most closely guarded secrets in the world"
 [2017_04_12] Carter Page goes on media blitz, doing six televised interviews
-[2017_04_17] Mary McCord resigns
 [2017_04_19] Waldman says he's in the Maldives
 [2017_04_25] Rod Rosenstein confirmed Deputy Attorney General
 [2017_04_25] Adam Waldman texts Senator Warner, says Steele is under a lot of duress, says Daniel Jones will be visiting with Warner soon
@@ -607,6 +608,7 @@
 [2017_05_09] Comey fired
 [2017_05_10] Bruce Ohr: "Call with Chris," notes Steele is "very concerned about Comey firing, afraid they will be exposed”, as well as inquiring letter from SSCI
 [2017_05_11] Peter Kadzik (Acting Assistant Attorney General – Acting Head of DOJ’s National Security Division, replacing John Carlin) resigns
+[2017_05_11] Mary McCord resigns
 [2017_05_11] Adam Waldman texts Senator Warner, says Deripaska is getting questions about Manafort from multiple directions
 [2017_05_12] Trump tweets, "James Comey better hope that there are no 'tapes' of our conversations before he starts leaking to the press!"
 [2017_05_12] Steele texts Bruce Ohr, asks to schedule a Whatsapp call, Bruce says tomorrow at 1pm
@@ -647,7 +649,7 @@
 [2017_07_16] Steele asks Bruce Ohr about reengagement, Bruce says he will pass along the message
 [2017_07_20] Wray confirmed 92-5 by Senate to be FBI Director
 [2017_07_21] Scaramucci appointed White House Communications Director
-[2017_07_??] Pdop receives $10k from Charles Tawil on the Greek island of Mykonos (sometime in July, but before the 27th)
+[2017_07_??] Pdop receives $10k from Charles Tawil in a hotel room in Tel Aviv (sometime in July, before the 27th)
 [2017_07_26] Manafort home raided
 [2017_07_26] Scaramucci calls Ryan Lizza
 [2017_07_27] Horowitz informs Mueller of Strzok/Page texts
@@ -663,6 +665,7 @@
 [2017_08_04] Heat Street closes
 [2017_08_04] Sessions says the FBI has formed a new counterintelligence unit to investigate leaks
 [2017_08_06] Steele frustrated with FBI and Mueller reengagement, asks Bruce to speed things up
+
 [2017_08_07] Steele texts Bruce Ohr, asks if he can give Bruce a call tomorrow, Bruce tells him before 10am
 [2017_08_14] WaPo: "Trump campaign emails show aide’s repeated efforts to set up Russia meetings"
 [2017_08_16] Bill Browder tweets criticisms of Dana Rohrabacher being in contact with Julian Assange
@@ -696,6 +699,7 @@
 [2017_11_30] Flynn accepts plea deal
 [2017_12_01] Brian Ross: "Michael Flynn promised full cooperation to the Mueller team and says candidate Trump directed him to make contact with Russians." (Fake)
 [2017_12_01] Judge Contreras accepts Flynn's guilty plea
+[2017_12_02] Mueller's team interviews WH Counsel Don McGahn
 [2017_12_02] Incriminating text messages from Peter Strzok and Lisa Page is published in WaPo and NYT
 [2017_12_02] Inspector General issues statement in response to inquiries
 [2017_12_04] CNN: Strzok changed wording of Clinton investigation to avoid criminal charges
@@ -751,6 +755,7 @@
 [2018_05_08] Trump withdraws from Iran Deal
 [2018_05_11] DOJ announce guilty plea of CIA contractor, Reynaldo B. Regis (arrest date 2016-Nov-3)
 [2018_05_11] In an interview with New Yorker's David Remnick, Senator Warner says Trump campaign aides' contact with Russian could be "a set of coincidences", not collusion
+[2018_05_14] The Hill: "Mueller may have a conflict — and it leads directly to a Russian oligarch" (Deripaska visited by FBI in NYC Sep 2016, Waldman likely source of story)
 [2018_05_15] Bob Bauer resigns from Perkins Coie after 35 years
 [2018_05_16] U.S. District Judge Denise Cote orders Search and Seizure Warrant against Anthony Weiner be unsealed
 [2016_06_04] In an interview with The Daily Caller, Simona Mangiante says George agreed to cooperate with Mueller only because he was threatened to be charged as an agent of the Israel government
@@ -760,6 +765,7 @@
 [2018_06_19] Mark Meadows unmasks Kevin Clinesmith and Sally Moyer, two members of the Special Counsel who sent anti-Trump text messages
 [2018_06_21] Carter Page redacted FISA application (October 2016) released to FBI vault (FISAs are not generally applicable to FOIA)
 [2018_07_10] Judge Emmitt Sullivan schedules status hearing for Gen. Flynn
+[2018_07_14] White House Counsel recused from Russia probe
 [2018_07_18] Adam Lovinger files a complaint with the Pentagon's senior ethics official, charging that his superiors misused the security clearance process to punish him
 [2018_07_26] First reports of Omarosa's book "Unhinged" said to be released soon
 [2018_07_26] White House prepares statement wrt revoking Brennan's security clearance (not released till August 15)
@@ -782,9 +788,13 @@
 [2018_08_17] Mueller indictment on Papadopoulos recommends 0-6 months jail time for lying to FBI
 [2018_08_19] Fox News: "Escort says oligarch now has tapes on Russia interference" (
 [2018_08_20] DOJ releases statement, charging Ghorbani and Doostdar as unregistered agents of Iran tasked with surveilling Israeli/Jewish communities (filed August 8th)
+[2018_08_21] Imran Awan sentenced to time served, three months supervised released
+[2018_08_21] Manfort sentenced on 8 of 18 counts
+[2018_08_21] Cohen sentenced to 8 counts, faced 3-6 years jail time
 [2018_08_23] Reality Winner scheduled to be sentenced
-[2018_08_24] Flynn hearing
-[2018_09_07] Papadopoulos sentencing date
+[2018_08_21] Flynn hearing rescheduled
 [2018_08_28] Bruce Ohr closed-door hearing 
 [2018_08_30] Fusion GPS will be deposed in Washington, DC for Gubarev v Buzzfeed lawsuit
+[2018_09_07] Papadopoulos sentencing date
+[2018_09_17] Flynn sentencing date
 [2018_11_05] El Chapo hearing
