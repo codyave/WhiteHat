@@ -27,9 +27,9 @@ Twitter accounts that posted on March 27th, 2017 just after @20Committee's repos
 | 2017_Mar_27 | 1949 | https://web.archive.org/web/20180822101805/https://twitter.com/HenryWallaceVP/status/846554732768387072 | HenryWallaceVP
 | 2017_Mar_27 | 2058 | https://web.archive.org/web/20180822102048/https://twitter.com/goodlittletiger/status/846572193446277120 | goodlittletiger
 | 2017_Mar_28 | 0831 | https://web.archive.org/web/20180822102319/https:/twitter.com/D_Robertson41/status/846746602954014720 | D_Robertson41
-| 2017_Mar_28 | 1413 | https://web.archive.org/web/20180822102507/https://twitter.com/HenryWallaceVP/status/846832583014952960 | HenryWallaceVP
-| 2017_Mar_28 | 1417 | https://web.archive.org/web/20180822102743/https://twitter.com/HenryWallaceVP/status/846833659457921024 | HenryWallaceVP
-| 2017_Mar_28 | 2144 | https://web.archive.org/web/20180822102955/https:/twitter.com/AdamHileman/status/846946068638187521 | AdamHileman
 | 2017_Mar_28 | 1344 | https://web.archive.org/web/20180822103215/https:/twitter.com/wendy161966/status/847187851368370176 | wendy161966
 | 2017_Mar_28 | 1346 | https://web.archive.org/web/20180822103400/https://twitter.com/20committee/status/847188202851094529 | 20committee
+| 2017_Mar_28 | 1413 | https://web.archive.org/web/20180822102507/https://twitter.com/HenryWallaceVP/status/846832583014952960 | HenryWallaceVP
+| 2017_Mar_28 | 1417 | https://web.archive.org/web/20180822102743/https://twitter.com/HenryWallaceVP/status/846833659457921024 | HenryWallaceVP
 | 2017_Mar_28 | 1527 | https://web.archive.org/web/20180822103611/https:/twitter.com/goodlittletiger/status/847213534308126720 | goodlittletiger
+| 2017_Mar_28 | 2144 | https://web.archive.org/web/20180822102955/https:/twitter.com/AdamHileman/status/846946068638187521 | AdamHileman
