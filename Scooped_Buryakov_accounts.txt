@@ -31,5 +31,5 @@ https://imgur.com/a/dL2yqs0
 | 2017_Mar_28 | 1346 | https://web.archive.org/web/20180822103400/https://twitter.com/20committee/status/847188202851094529 | 20committee
 | 2017_Mar_28 | 1413 | https://web.archive.org/web/20180822102507/https://twitter.com/HenryWallaceVP/status/846832583014952960 | HenryWallaceVP
 | 2017_Mar_28 | 1417 | https://web.archive.org/web/20180822102743/https://twitter.com/HenryWallaceVP/status/846833659457921024 | HenryWallaceVP
-| 2017_Mar_28 | 1527 | https://web.archive.org/web/20180822103611/https:/twitter.com/goodlittletiger/status/847213534308126720 | goodlittletiger
 | 2017_Mar_28 | 2144 | https://web.archive.org/web/20180822102955/https:/twitter.com/AdamHileman/status/846946068638187521 | AdamHileman
+| 2017_Mar_29 | 1527 | https://web.archive.org/web/20180822103611/https:/twitter.com/goodlittletiger/status/847213534308126720 | goodlittletiger
