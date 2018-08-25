@@ -401,7 +401,7 @@
 | 2016_11_01 | McCabe recuses himself from Clinton Foundation investigation
 | 2016_11_02 | Grassley sends letter to Comey about the relationship between Andrew McCabe, Jill McCabe, and Terry McAuliffe
 | 2016_11_03 | Sputnik News interviews Halper, who says HRC would be better for UK-USA relations than Trump
-| 2016_11_03 | FBI CI seize 60 notebooks of classified info from CIA contractor's house regarding unauthorized About Queries using CIA & other databases on US Persons from 2006-16
+| 2016_11_03 | CIA contractor, Reynaldo Regis, arrested by FBI (see: May 11, 2018, CBS News article)
 | 2016_11_04 | "Why Vladimir Putin's Russia Is Backing Donald Trump" reports Newsweek (Gen. Flynn, Michael Cohen's trip to Prague mentioned)
 | 2016_11_05 | John Kerry and aides travel to Antarctica
 | 2016_11_06 | Clinton investigation closes again after Strzok & 2 others review 650,000 emails in about six days
@@ -543,79 +543,84 @@
 | 2017_02_14 | Trump, in a private one-on-one meeting, asks Comey to drop the investigation into Gen. Flynn
 | 2017_02_14 | FBI interviews Bruce Ohr (Ohr FD-302 February 15, 2017)
 | 2017_02_14 | Page and Strzok confirm (with McCabe) to "launch on F 302" (Flynn conversation likely edited post-FBI interview, possibly by McCabe)
-| 2017_02_16 | FBI interviews Papadopoulos again
+| 2017_02_16 | FBI interviews Papadopoulos
 | 2017_02_17 | "Trump Campaign Aides Had Repeated Contacts With Russian Intelligence" reports NYT ("Trump associates had repeated contacts with senior Russian intelligence officials in the year before the election...")
 | 2017_02_17 | Papadopoulos deletes Facebook
 | 2017_02_16 | Waldman: "this guy is going to do something catastrophic for the dems, Obama, CIA and national security. I hope someone will consider getting him to US to ameliorate the damage."
 | 2017_02_18 | Mifsud speaks at Global Ties national conference, sponsored by the State Dept's Office of International Visitors
 | 2017_02_23 | Papadopoulos changes cell phone numbers
 | 2017_02_23 | Paul Manafort's daughter's phone is hacked showing unknown persons were trying to blackmail Manafort
-| 2017_02_24 | Evan Osnos: "Jared Kushner met w/ Russian Amb Kislyak in Trump Tower during transition; White House says to establish “more open line of communication."
+| 2017_02_24 | Evan Osnos: "Jared Kushner met w/ Russian Amb Kislyak in Trump Tower during transition"
 | 2017_03_?? | FBI contacts Carter Page (first time in over a year)
 | 2017_03_01 | "Obama Administration Rushed to Preserve Intelligence of Russian Election Hacking" reports NYT
-| 2017_03_03 | Sessions recuses himself from Russia probe
-| 2017_03_03 | Adam Waldman texts Warner, suggests they meet with Jack (Goldsmith?), their wives, also someone named BB (Bill Browder, Bob Bauer?)
-| 2017_03_04 | Trump tweets that Obama had his "wires tapped" in Trump Tower before election night
-| 2017_03_09 | Business Insider: "Foreign policy adviser disavowed by Trump team says he ‘spent many hours’ at Trump campaign headquarters"
-| 2017_03_06 | Grassley sends letter to Comey, asking for any relevant info on Steele's extracurricular activities with DOJ officials, including 302's, contracts, agreements, payments, WH briefings, etc.
-| 2017_03_07 | Steele texts Bruce Ohr, says, "Would it be possible to speak later today? We're very concerned by the Grassley letter and it's possible implications for us, our operations, and our sources."
+| 2017_03_03 | The Guardian: "Jeff Sessions recuses himself from Russia inquiry amid calls for resignation"
+| 2017_03_03 | Waldman: "Hey Mark, am back in Washington and hope we can get together, maybe w Jack? And our wives?"
+| 2017_03_04 | Trump: "Just found out that Obama had my "wires tapped" in Trump Tower just before the victory."
+| 2017_03_09 | B.I.: "Foreign policy adviser disavowed by Trump team says he ‘spent many hours’ at Trump campaign headquarters"
+| 2017_03_06 | Grassley: "FBI Plan to Pay Ex-Spy...Sparks Questions of Obama Admin’s Use of Federal Authorities for Political Gain"
+| 2017_03_07 | Steele: "concerned by the Grassley letter and it's possible implications for us, our operations, and our sources."
 | 2017_03_07 | WikiLeaks dumps CIA Vault 7
-| 2017_03_07 | Nunes agrees with Schiff for the need to investigate Trump's claim of Obama wiretapping
-| 2017_03_09 | Nunes and Schiff send demand to DOJ for "any applications to the FISA Court, any orders that court released, and any copies of warrants issued by federal judges" relating to surveillance of Trump team
-| 2017_03_11 | Preet Bharara (U.S. District Attorney) fired by Trump
-| 2017_03_13 | DOJ asks for extension of time wrt Nunes and Schiff's demand, Richard Burr says he already has all the answers he needs from "conversations"
-| 2017_03_14 | Judge Napolitano: "President Obama went outside the chain of command. He didn't use the NSA. He didn't use the CIA. He didn't use the FBI. And he didn't use the Department of Justice. He used GCHQ."
-| 2017_03_15 | In a handwritten note, Bruce Ohr jots down: "Special Counsel, right to question in U.K.?", Steele later messages Bruce Ohr, "Must protect sources."
+| 2017_03_09 | WaPo: "House Intelligence Committee chiefs ask Justice for proof of wiretaps on Trump"
+| 2017_03_11 | CNN: "Ukraine lawyer seeks probe of alleged hacked texts of Manafort's daughter"
+| 2017_03_11 | Bharara: "I did not resign. Moments ago I was fired."
+| 2017_03_14 | CNN: "Justice department asks for more time to collect evidence on Trump wiretap claims"
+| 2017_03_14 | CNBC: "US Senate Intelligence chairman plans public hearing on Russia"
+| 2017_03_14 | Napolitano: "Obama...didn't use the NSA...CIA...FBI. And he didn't use the Department of Justice. He used GCHQ."
+| 2017_03_15 | Bruce Ohr: "Special Counsel, right to question in U.K.?"
+| 2017_03_15 | Steele: "Must protect sources."
 | 2017_03_15 | Grassley threatens to block the nomination of Rod Rosenstein if DOJ does not comply with demands
-| 2017_03_15 | In Fox News interview with Tucker Carlson, Trump says, "We have it before the committee. We're submitting some things."
-| 2017_03_16 | Waldman: Steele requests that Waldman contact Warner
-| 2017_03_16 | Spokesman for Nunes says if DOJ does not comply with demands by March 20th, then he may subpoena the DOJ
-| 2017_03_17 | Kevin McCarthy jokingly says Trump is paid by Putin and caught in a secret recording, published by WaPo's Adam Entous
-| 2017_03_17 | Classified document (Carter Page FISA?) transported to SSCI
+| 2017_03_15 | Trump: "We have it before the committee. We're submitting some things."
+| 2017_03_16 | Marie Argentieri's (Secret Service) van is broken into, laptop stolen at 3am (see: March 22, 2017, NYDN article)
+| 2017_03_16 | Waldman: "Chris Steele asked me to call you"
+| 2017_03_16 | The Daily Beast: "DOJ Blows Wiretap Deadline, Asks Intelligence Committee for More Time"
+| 2017_03_17 | McCarthy and Ryan joke that Trump is paid by Putin (see: May 21, 2017 WaPo article)
+| 2017_03_17 | Carter Page 2016 FISA application transported to SSCI
 | 2017_03_17 | James Wolfe texts and talks to Ali Watkins (82 texts, 28min phone call)
-| 2017_03_17 | Secret Service agent in Brooklyn gets packpack w/stolen laptop in it from (HRC?) driveway at 3am.
-| 2017_03_20 | Steels texts Bruce Ohr: "We’re a bit apprehensive given scheduled appearance at Congress on Monday. Hoping that important firewalls will hold."
-| 2017_03_20 | Comey and Adm. Rogers testify before House Select Intelligence Committee on Russian interference in the 2016 election
+| 2017_03_20 | Steele: "bit apprehensive given scheduled appearance at Congress on Monday. Hoping that important firewalls will hold."
+| 2017_03_20 | CNBC: "FBI's Comey and NSA's Rogers get grilled on Capitol Hill about Russia probe, leaks"
 | 2017_03_20 | Comey confirms investigation into Trump associates and Russia
-| 2017_03_21 | Sergiy Leschenko gives news conference showing 10-yr. old document supposedly involving Paul Manafort
-| 2017_03_22 | Nunes press conference: Says members of Trump transition were unmasked and info widely disseminated by Obama officials with no relation to Russia (mostly in November, December, and January)
-| 2017_03_23 | CNN: "FBI has info indicating Trump associates communicated with suspected Russians to coordinate release info damaging to HRC." Lisa Page: "CNN said officials. I assume dems on Gang of 8"
-| 2017_03_25 | Waldman texts Warner, says Deripaska will be in London from March 27-30
-| 2017_03_27 | Natasha Bertrand: "Kushner met with Kislyak & Sergey Gorkov, chief of Russia's Vnesheconombank, in Dec. Now the Senate wants to question him (via @maggieNYT)"
-| 2017_03_27 | Evelyn Farkas: "that the Trump folks – if they found out HOW we knew what we knew about their, the Trump staff, dealing with Russians – that they would try to compromise those sources and methods"
-| 2017_03_27 | "Chairman Burr and Vice Chairman Warner Statement on Kushner’s Voluntary Participation in SSCI Investigation" (SSCI to interview Kushner at a later date)
+| 2017_03_21 | CNN: "Paul Manafort faces fresh accusations in Ukraine after document find"
+| 2017_03_22 | NYDN: "Laptop holding Trump Tower floor plans, Hillary Clinton email investigation info stolen from Secret Service agent"
+| 2017_03_22 | WaPo: "House Intelligence chair says Trump campaign officials were ensnared in surveillance operations"
+| 2017_03_23 | CNN: "US officials: Info suggests Trump associates may have coordinated with Russians"
+| 2017_03_23 | Page: "CNN said officials. I assume dems on Gang of 8"
+| 2017_03_25 | Waldman: "Deripaska is in London Monday-Thursday and I might be able to arrange a mtg with him too if you wish."
+| 2017_03_26 | Waldman: "I have an idea to explore with you."
+| 2017_03_27 | Natasha Bertrand: "Kushner met with Kislyak & Sergey Gorkov...in Dec. Now the Senate wants to question him"
+| 2017_03_27 | Farkas: "Trump folks – if they found out HOW we knew...about...Russians...they would try to compromise those sources"
+| 2017_03_27 | Burr: "Chairman Burr and Vice Chairman Warner Statement on Kushner’s Voluntary Participation in SSCI Investigation"
 | 2017_03_29 | WaPo: "Who is ‘Source D’? The man said to be behind the Trump-Russia dossier’s most salacious claim"
 | 2017_03_29 | NBC News: "Senate Intel Committee May Interview Ex-UK Spy Christopher Steele"
 | 2017_03_30 | USA vs Buryakov et al: "MEMO ENDORSEMENT as to Evgeny Buryakov" signed by Judge Richard Berman
 | 2017_03_30 | Steele texts Bruce Ohr, asks for any news, says SSCI "is leaking like a sieve, giving us pause for thought on engagement"
-| 2017_03_30 | Waldman: Steele concered about leaks in previous day's press, Steele apparently "run off" by press, "huddled w lawyers"
-| 2017_03_31 | Warner: "Keep me informed also any news about ur other guy on Manafort"
-| 2017_03_31 | Waldman: Other guy mistrustful of U.S. government, says he's been run out of the country
+| 2017_03_30 | Waldman: "Chris is concered about the leaks yesterday", "press might have run him off", "huddled w lawyers"
 | 2017_03_31 | Graham Kates: "Banker who worked as Russian secret agent to be released early, deported"
+| 2017_03_31 | Warner: "Keep me informed also any news about ur other guy on Manafort"
+| 2017_03_31 | Waldman: "My other guy, like Steele, very mistrustful of USG", "shut out of the country", "dragged through the mud"
+| 2017_03_31 | Waldman: "Update re the other other guy, my contact at DOJ has gone silent last 72 hrs. I gave him what he asked for."
 | 2017_04_01 | Evgeny Burakov released into ICE custody
-| 2017_04_?? | Richard H. Ledgett Jr (Deputy Director of the NSA) retires
-| 2017_04_03 | Ali Watkins breaks story that Carter Page had "met with and passed documents to a Russian intelligence operative"
+| 2017_04_03 | Ali Watkins: "A Former Trump Adviser Met With A Russian Spy"
 | 2017_04_03 | James Wolfe and Ali Watkins exchange 124 electronic communications
 | 2017_04_03 | Ali Watkins relays Top Secret info about Carter Page to Brian Ross of ABC News
-| 2017_04_04 | Brian Ross publishes article "Trump campaign adviser Carter Page targeted for recruitment by Russian spies"
+| 2017_04_04 | Brian Ross: "Trump campaign adviser Carter Page targeted for recruitment by Russian spies"
 | 2017_04_04 | NYT: "Russian Spies Tried to Recruit Carter Page Before He Advised Trump"
 | 2017_04_05 | CBS News: "U.S. deports Russian spy who posed as bank employee"
-| 2017_04_05 | Waldman ends represenation of Rusal/Deripaska, according to FARA papers filed on June 29, 2018
-| 2017_04_05 | Waldman: Steele is getting cold feet, wants bipartisan letter with written list of questions
-| 2017_04_06 | Imran Awan leave DWS' laptop on a Capitol Hill phone booth at 3am with an envelope that says "Attorney-Client privilege"
-| 2017_04_07 | NYT: "Kushner Omitted Meeting With Russians on Security Clearance Forms"
-| 2017_04_06 | Deripaska added to sanctions list
-| 2017_04_06 | Waldman: Says WSJ just called, said SSCI and Steele are speaking through an intermediary, Waldman says he was asked by SSCI if he was the intermediary
+| 2017_04_05 | FARA filings (submitted June 29, 2018) indicate Waldman has ended represenation of Rusal/Deripaska
+| 2017_04_05 | Waldman: "[Steele] seems to have cold feet from the leaks. Said he wanted a bi partisan letter"
+| 2017_04_06 | Imran Awan leaves laptop in phone booth at 3am (see: September 9, 2017, Daily Caller article)
+| 2017_04_06 | NYT: "Kushner Omitted Meeting With Russians on Security Clearance Forms"
+| 2017_04_06 | Waldman: "WSJ just called me and said they heard from senate intel comm that the committee and Steele are speaking"
 | 2017_04_07 | Second renewal on Carter Page FISA
-| 2017_04_10 | Waldman: Says he's convinced Assange to make concessions and has relayed that to DOJ
+| 2017_04_10 | Waldman: "Steele: would like to get a bipartisan letter from committee"
+| 2017_04_10 | Waldman: "Assange: I convinced him to make serious and important concessions and am discussing those w DOJ"
+| 2017_04_10 | Waldman: "Deripaska: willing to testify to congress but interested in state of play with Manafort"
 | 2017_04_11 | WaPo: "FBI obtained FISA warrant to monitor former Trump adviser Carter Page"
-| 2017_04_11 | WSJ's Devlin Barrett breaks story on Carter Page's FISA warrant, says it contain "the most closely guarded secrets in the world"
 | 2017_04_12 | Carter Page goes on media blitz, doing six televised interviews
 | 2017_04_13 | Politico: "House Democrats want Jared Kushner's security clearance suspended"
-| 2017_04_19 | Waldman says he's in the Maldives
+| 2017_04_19 | Waldman: "Maldives" (possibly traveling with Deripaska, see: April 10, 2017 text)
 | 2017_04_25 | Rod Rosenstein confirmed Deputy Attorney General
-| 2017_04_25 | Waldman: Steele under duress, says Daniel Jones will be visiting with Warner soon
-| 2017_04_26 | Judge Collyer presides as signatory for FIS Court's 99-page opinion in response to DOJ/FBI/NSA 702 access
+| 2017_04_25 | Waldman: "[Steele] fearful of the triumvirate of cost, time suck and reputation"
+| 2017_04_26 | Judge Collyer presides as signatory for FISC 99-page opinion in response to DOJ/FBI/NSA 702 access
 | 2017_04_28 | Grassley sends letter to FBI, requesting responses to more questions about the FBI's relationship with Steele
 | 2017_04_30 | Glenn Simpson and Jonathan Winer attend the OffshoreAlert Conference in Miami.
 | 2017_05_?? | IG Horowitz seeks unsealing of FBI grand jury subpoenas demanding testimony of Clinton aides, other search warrants
@@ -647,7 +652,7 @@
 | 2017_05_21 | Lisa Page: In business wear. Because Mueller. (likely interviewing for Mueller's Special Counsel)
 | 2017_05_21 | Trump touches the orb
 | 2017_05_21 | Mifsud attends the Riyadh Forum on Countering Extremism and Fighting Terrorism at Kings College London
-| 2017_05_21 | WaPo: "House Majority Leader to Colleagues in 2016: 'I think Putin pays' Trump" (Entous byline, Kiev listed as location)
+| 2017_05_21 | WaPo: "House Majority Leader to Colleagues in 2016: 'I think Putin pays' Trump" (Adam Entous byline, "Kiev")
 | 2017_05_22 | Carter Page sends letter to HPSCI, of little material
 | 2017_05_23 | Carter Page sends follow-up letter to HPSCI, heavily criticizing Brennan
 | 2017_05_24 | Strzok says he's staying on the Special Counsel, possibly out of loyalty to Baker and McCabe (seems uneasy, though)
@@ -692,6 +697,7 @@
 | 2017_08_16 | Bill Browder tweets criticisms of Dana Rohrabacher being in contact with Julian Assnge
 | 2017_08_16 | Strzok demoted to FBI Human Resources
 | 2017_08_22 | Glenn Simpsons testifies in closed-door hearing with SSCI
+| 2017_09_06 | The Daily Caller: "Police report indicates Wasserman Schultz IT aide planted computer for investigators to find"
 | 2017_09_14 | Carter Page files defamation lawsuit against OATH, Inc. (parent company of Yahoo, HuffPost) and Broadcasting Board of Governors in SDNY
 | 2017_09_17 | CNN "breaks" Manafort FISA story (literally the only time it's discussed in the news media)
 | 2017_09_20 | Brennan opens a Twitter account
@@ -767,14 +773,15 @@
 | 2018_03_28 | Former FBI agent Terry Albury is charged with leaking Confidential Human Source Policy Guide to The Intercept
 | 2018_03_30 | Greg Brower (FBI Assistant Director for the Office of Congressional Affairs) resigns
 | 2018_04_05 | Manafort issued warrant to search his storage locker
+| 2018_04_06 | Reuters: "Russian businessmen, officials on new U.S. sanctions list"
 | 2018_04_17 | Vice News: "‘Sex huntress’ who claims to have dirt on Trump and Russia may spend years in Thai prison"
 | 2018_04_19 | DOJ files FARA case against Pakistani national and U.S. permanent resident, Nisar Ahmed Chaudhry
 | 2018_04_26 | Pompeo confirmed Secretary of State
 | 2018_05_04 | Lisa Page resigns
 | 2018_05_04 | James Baker (FBI General Counsel) resigns
-| 2018_05_07 | Pakistani national and U.S. resident, Nisar Ahmed Chaudhry, pleads guilty to failing to register as a foreign agent in connection with lobbying work done for the Pakistani government
-| 2018_05_08 | Trump withdraws from Iran Deal
-| 2018_05_11 | DOJ announce guilty plea of CIA contractor, Reynaldo B. Regis (arrest date 2016-Nov-3)
+| 2018_05_07 | Nisar Chaudhry pleads guilty to failing to register as a foreign agent in connection with Pakistani lobbying work
+| 2018_05_08 | CNN: "Trump withdraws US from Iran nuclear deal"
+| 2018_05_11 | CBS News: "Ex-CIA contractor pleads guilty after FBI finds notebooks with classified info at home"
 | 2018_05_11 | In an interview with New Yorker's David Remnick, Senator Warner says Trump campaign aides' contact with Russian could be "a set of coincidences", not collusion
 | 2018_05_15 | Bob Bauer resigns from Perkins Coie
 | 2018_05_16 | U.S. District Judge Denise Cote orders Search and Seizure Warrant against Anthony Weiner be unsealed
