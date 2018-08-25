@@ -1,6 +1,6 @@
-| 2001_01_09 | DOJ forms Enron Task Force, initially led by Lisa Monaco, Andrew Weissmann, James Comey, Christopher Wray, and Robert Mueller
-| 2005_08_04 | Comey hired as general counsel and senior vice president of Lockheed Martin
-| 2006_??_?? | Manafort receives pro-Putin payments from 2006-14, launders through Podesta Group and Mercury LLC, used to buy politicians and media coverage in DC, as spelled out in SC Mueller's indictment
+| 2001_01_09 | DOJ forms Enron Task Force, led by Lisa Monaco, Andrew Weissmann, James Comey, Christopher Wray, and Robert Mueller
+| 2005_08_04 | WSJ: "Deputy Attorney General Comey To Take Post at Lockheed Martin"
+| 2006_??_?? | Manafort receives pro-Putin payments (~$75m) from 2006-14
 | 2006_08_29 | John McCain celebrates his 70th birthday in Montenegro on a yacht owned by Oleg Deripaska, published by The Nation
 | 2006_09_12 | At DOJ Annual Awards Ceremony, Enron Task Force is given full honors. In attendance is Aaron Zebley, David Laufman, and Sally Yates
 | 2008_06_01 | Hillary's Apple server (runs until March 2009)
@@ -773,6 +773,7 @@
 | 2018_03_28 | Former FBI agent Terry Albury is charged with leaking Confidential Human Source Policy Guide to The Intercept
 | 2018_03_30 | Greg Brower (FBI Assistant Director for the Office of Congressional Affairs) resigns
 | 2018_04_05 | Manafort issued warrant to search his storage locker
+| 2018_04_05 | CNN: "Sex coach who claims to have US election dirt charged with prostitution"
 | 2018_04_06 | Reuters: "Russian businessmen, officials on new U.S. sanctions list"
 | 2018_04_17 | Vice News: "‘Sex huntress’ who claims to have dirt on Trump and Russia may spend years in Thai prison"
 | 2018_04_19 | DOJ files FARA case against Pakistani national and U.S. permanent resident, Nisar Ahmed Chaudhry
@@ -792,7 +793,8 @@
 | 2018_06_12 | Article "Ukrainian Diplomat Andrey Telizhenko: I Was Told Directly that the Task Was to Remove Trump from the Elections" is published on stalkerzone.org
 | 2018_06_19 | Mark Meadows unmasks Kevin Clinesmith and Sally Moyer
 | 2018_06_21 | Carter Page 2016 FISA application released to FBI vault
-| 2018_07_03 | NYT reassigns Ali Watkins
+| 2018_07_03 | CNN: "New York Times DC reporter who dated Senate intelligence staffer reassigned to New York"
+| 2019_07_09 | Radio Free Europe: "Russian Tycoon Deripaska Wins Million-Ruble Claim Against 'Nastya Rybka,' 'Sex-Guru' Partner"
 | 2018_07_10 | Judge Emmitt Sullivan schedules status hearing for Gen. Flynn
 | 2018_07_14 | White House Counsel recused from Russia probe
 | 2018_07_18 | Adam Lovinger files complaint with Pentagon senior ethics official
