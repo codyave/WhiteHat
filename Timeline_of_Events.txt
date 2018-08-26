@@ -672,29 +672,31 @@
 | 2017_06_29 | Third and final renewal on Carter Page FISA
 | 2017_07_16 | Steele asks Bruce Ohr about reengagement, Bruce says he will pass along the message
 | 2017_07_20 | FBI delivers to OIG Sep 2015 - Nov 30, 2016 Strzok/Page texts [see: Dec 13, 2017 Horowitz letter to Grassley, Johnson]
-| 2017_07_21 | Scaramucci appointed White House Communications Director
-| 2017_07_?? | Pdop receives $10k from Charles Tawil in a hotel room in Tel Aviv (sometime in July, before the 27th)
+| 2017_07_21 | USA Today: "Anthony Scaramucci to be White House communications director"
+| 2017_07_?? | Papadopoulos receives $10k from Charles Tawil (sometime before July 27th) [see: August 20, 2018 Daily Caller article]
 | 2017_07_24 | Imran Awan arrested at Dulles International Airport [see: July 25, 2017 Daily Caller article]
 | 2017_07_25 | Daily Caller: "Wasserman Schultz's IT aide arrested at airport after wiring 300k to Pakistan from House office"
-| 2017_07_26 | Manafort home raided
-| 2017_07_26 | Scaramucci calls Ryan Lizza
-| 2017_07_27 | Horowitz informs Mueller of Strzok/Page texts
+| 2017_07_26 | Manafort home raided [see: August 9, 2017 CNBC article]
+| 2017_07_26 | Scaramucci calls Ryan Lizza [see: July 27, 2017 New Yorker article]
+| 2017_07_27 | Horowitz informs Mueller of Strzok/Page texts [see: December 13, 2017 Fox News article]
 | 2017_07_27 | New Yorker: "Anthony Scaramucci Called Me to Unload About White House Leakers, Reince Priebus, and Steve Bannon"
-| 2017_07_27 | Papadopoulos arrested at Dulles International Airport outside Washington, D.C.
-| 2017_07_28 | Papadopoulos appears in court w/o lawyer, cooperates with Mueller, case is sealed, forbidden from speaking to Trump team
-| 2017_07_28 | Priebus resigns as Chief of Staff
+| 2017_07_27 | Papadopoulos arrested at Dulles International Airport [see: December 4, 2017 Politico article]
+| 2017_07_28 | Papadopoulos appears in court w/o lawyer, cooperates with Mueller, case sealed [see: December 4, 2017 Politico article]
+| 2017_07_28 | CNN: "Priebus latest high-profile departure from Trump admin"
 | 2017_07_28 | McCabe interviewed by OIG (later determined to have lied about leaking to WSJ)
 | 2017_07_28 | Trump: "I am pleased to inform you that I have named General/Secretary John F Kelly as White House Chief of Staff."
-| 2017_07_31 | Scaramucci resigns
+| 2017_07_30 | B.I.: "Rupert Murdoch is closing 'punky libertarian' website Heat Street after little more than a year"
+| 2017_07_31 | CNN: "Anthony Scaramucci out as White House communications director"
 | 2017_08_?? | Mueller's team interviews Ivan Timofeev (late summer?)
 | 2017_08_01 | McCabe calls OIC to correct statements he gave to investigators on July 28th
-| 2017_08_02 | Wray sworn in as FBI Director
-| 2017_08_02 | Rosenstein issues revised and very classified memo to Mueller, outlines scope of investigation
-| 2017_08_04 | Heat Street closes
+| 2017_08_02 | CNN: "Chris Wray sworn in as FBI Director"
+| 2017_08_02 | Rosenstein issues revised memo to Mueller, outlines scope of investigation [see: April 3, 2018 CBS News article]
+| 2017_08_04 | Heat Street closes [see: July 30, 2017 Business Insider article]
 | 2017_08_04 | CNN: "While Trump's away, 'much-needed' White House renovations begin"
-| 2017_08_04 | Sessions says the FBI has formed a new counterintelligence unit to investigate leaks
+| 2017_08_04 | Fox News: "Sessions announces hunt for leakers, says cases have 'exploded'"
 | 2017_08_06 | Steele frustrated with FBI and Mueller reengagement, asks Bruce to speed things up
 | 2017_08_07 | Steele texts Bruce Ohr, asks if he can give Bruce a call tomorrow, Bruce tells him befoe 10am
+| 2017_08_09 | CNBC: "FBI raided Paul Manafort's home in July"
 | 2017_08_10 | FBI delivers to OIG Nov 2016 - Jul 28, 2017 Strzok/Page texts [see: Dec 13, 2017 Horowitz letter to Grassley, Johnson]
 | 2017_08_14 | WaPo: "Trump campaign emails show aide’s repeated efforts to set up Russia meetigs"
 | 2017_08_16 | Bill Browder tweets criticisms of Dana Rohrabacher being in contact with Julian Assnge
@@ -732,6 +734,7 @@
 | 2017_12_02 | Mueller's team interviews WH Counsel Don McGahn
 | 2017_12_02 | Incriminating text messages from Peter Strzok and Lisa Page is published in WaPo and NYT
 | 2017_12_02 | Inspector General issues statement in response to inquiries
+| 2017_12_04 | Politico: "George Papadopoulos' late night with the FBI"
 | 2017_12_04 | CNN: Strzok changed wording of Clinton investigation to avoid criminal charges
 | 2017_12_04 | ABC News: "Paul Manafort was working with a Russian intelligence-connected official as recently as last week, special prosecutors allege" (Fake)
 | 2017_12_05 | Bloomberg: "Mueller Subpoenaed Deutsche Bank Records on Trump Several Weeks Ago" (Fake)
@@ -744,6 +747,7 @@
 | 2017_12_08 | CNN's Manu Raju: "Email pointed Trump campaign to WikiLeaks documents" (Fake)
 | 2017_12_11 | Fox News reveals Nellie Ohr works for Fusion GPS
 | 2017_12_12 | NYT: "Donald Trump Jr. Demands Leak Inquiry of House Intelligence Committee"
+| 2017_12_13 | Fox News: "Watchdog reveals how ex-Mueller agents' anti-Trump texts came to light"
 | 2017_12_15 | Wolfe interviewd by FBI, lies
 | 2017_12_20 | James Baker (FBI General Counsel) demoted and reassigned
 | 2017_12_21 | The Guardian: "Ukrainian interpreter who visited May arrested on Russian spying charges"
@@ -779,6 +783,7 @@
 | 2018_03_28 | Fox News: "DOJ Inspector General reviews alleged FISA abuses by DOJ, FBI"
 | 2018_03_28 | The Intercept: "Department of Justice charges whistleblower under espionage act"
 | 2018_03_30 | Greg Brower (FBI Assistant Director for the Office of Congressional Affairs) resigns
+| 2018_04_03 | CBS News: "Rod Rosenstein outlined scope for special counsel probe in August 2017"
 | 2018_04_05 | CNN: "Mueller using information related to searches of Manafort's belongings for ongoing investigation"
 | 2018_04_05 | CNN: "Sex coach who claims to have US election dirt charged with prostitution"
 | 2018_04_06 | Reuters: "Russian businessmen, officials on new U.S. sanctions list"
@@ -825,6 +830,7 @@
 | 2018_08_17 | AP: "...Burr said there is 'no factual evidence today that we’ve received' on collusion or conspiracy between Russia and President Donald Trump’s campaign."
 | 2018_08_17 | Mueller indictment on Papadopoulos recommends 0-6 months jail time for lying to FBI
 | 2018_08_19 | Fox News: "Escort says oligarch now has tapes on Russia interference" (
+| 2018_08_20 | Daily Caller: "Papadopoulos told feds he received $10,000 from foreign national he believed was a spy"
 | 2018_08_20 | DOJ releases statement, charging Ghorbani and Doostdar as unregistered agents of Iran tasked with surveilling Israeli/Jewish communities (filed August 8th)
 | 2018_08_21 | Imran Awan sentenced to time served, three months supervised released
 | 2018_08_21 | Manfort sentenced on 8 of 18 counts (1 juror was single holdout on 10 other charges)
