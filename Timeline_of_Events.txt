@@ -641,6 +641,7 @@
 | 2017_05_14 | Carter Page sends mostly-neutral letter to Rod Rosenstein, accuses Comey of leaks
 | 2017_05_14 | Peter Smith found dead
 | 2017_05_15 | Steele: "consulted my wife and business partner about the question we discussed on Saturday I'm pleased to say yes, we should go ahead with it"
+| 2017_05_15 | NYT: "Trump Revealed Highly Classified Intelligence to Russia, in Break With Ally, Officials Say"
 | 2017_05_15 | Waldman: asks if he wants to discuss Deripaska, or if he respond to HPSCI instead
 | 2017_05_15 | FBI interviews Bruce Ohr (Ohr FD-302 May 16, 2017)
 | 2017_05_16 | Comey's memos reported by NYT 
