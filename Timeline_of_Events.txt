@@ -774,13 +774,13 @@
 | 2018_02_08 | In letter to HPSCI Chairman Nunes, Don McGahn, cites a closed-door hearing of Bill Priestap, who says corroboration of Steele dossier was in its infancy for initial FISA on Carter Page
 | 2018_02_14 | Judge Sullivan asserts Brady Rule, orders Mueller to submit exculpatory evidence on Gen. Flynn held by government sources
 | 2018_02_18 | DOJ sends letter to Ali Watkins, details that they are seizing her communications as far back as her college years
-| 2018_02_24 | Schiff memo
+| 2018_02_24 | Time: "Adam Schiff's Memo Has Been Released. Here's What It Says"
 | 2018_02_27 | WaPo: "A self-described sex expert says she will spill information on Trump and Russia to get out of a Thai jail"
 | 2018_02_28 | Grassley sends letter to OIC, requests “review of potential improper political influence, misconduct, or mismanagement in the conduct of the counterintelligence and criminal investigation”
 | 2018_03_05 | "NYT: In Poisoning of Sergei Skripal, Russian Ex-Spy, U.K. Sees Cold War Echoes"
 | 2018_03_05 | Grabien: "CNN travels to Thailand to speak with prostitute who claims to have dirt on Trump"
-| 2018_03_08 | Oleg Deripaska pens op-ed in The Daily Caller
-| 2018_03_13 | Tillerson fired
+| 2018_03_08 | Daily Caller: "Oleg Deripaska Op-Ed: The Ever-changing 'Russia narrative' is false public manipulation"
+| 2018_03_13 | CNN: "Trump fires Tillerson, taps Pompeo as next secretary of state"
 | 2018_03_16 | WaPo: "Texts show judge who recused himself in Flynn case was friendly with FBI agent involved in probe"
 | 2018_03_16 | USA Today: "In war of words with Trump, fired FBI's McCabe says he will no longer be silent"
 | 2018_03_21 | Politico: "Judge nixes ex-Trump adviser Carter Page's suit over Yahoo Russia article"
@@ -794,6 +794,7 @@
 | 2018_04_06 | Reuters: "Russian businessmen, officials on new U.S. sanctions list"
 | 2018_04_17 | Vice News: "‘Sex huntress’ who claims to have dirt on Trump and Russia may spend years in Thai prison"
 | 2018_04_19 | DOJ files FARA case against Pakistani national and U.S. permanent resident, Nisar Ahmed Chaudhry
+| 2018_04_24 | Bloomberg: "Skadden Lawyer Craig Leaves Firm After Inquiry on Ukraine Report"
 | 2018_04_26 | Pompeo confirmed Secretary of State
 | 2018_05_03 | James Wolfe grand jury proceedings begin
 | 2018_05_04 | Washington Examiner: "FBI's James Baker, Lisa Page resign"
