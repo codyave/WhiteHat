@@ -752,7 +752,7 @@
 | 2017_12_11 | Fox News reveals Nellie Ohr works for Fusion GPS
 | 2017_12_12 | NYT: "Donald Trump Jr. Demands Leak Inquiry of House Intelligence Committee"
 | 2017_12_13 | Fox News: "Watchdog reveals how ex-Mueller agents' anti-Trump texts came to light"
-| 2017_12_15 | Wolfe interviewd by FBI, lies
+| 2017_12_15 | James Wolfe lies to FBI in interview
 | 2017_12_20 | James Baker (FBI General Counsel) demoted and reassigned
 | 2017_12_21 | The Guardian: "Ukrainian interpreter who visited May arrested on Russian spying charges"
 | 2018_01_02 | Glenn Simpsons NYT op-ed, demands August 22, 2017 transcripts be made public
@@ -773,6 +773,7 @@
 | 2018_02_08 | Fox News publishes leaked text messages between Senator Warner and Adam Waldman regarding their efforts to convince Christopher Steele to testify before SSCI
 | 2018_02_08 | In letter to HPSCI Chairman Nunes, Don McGahn, cites a closed-door hearing of Bill Priestap, who says corroboration of Steele dossier was in its infancy for initial FISA on Carter Page
 | 2018_02_14 | Judge Sullivan asserts Brady Rule, orders Mueller to submit exculpatory evidence on Gen. Flynn held by government sources
+| 2018_02_18 | DOJ sends letter to Ali Watkins, details that they are seizing her communications as far back as her college years
 | 2018_02_24 | Schiff memo
 | 2018_02_27 | WaPo: "A self-described sex expert says she will spill information on Trump and Russia to get out of a Thai jail"
 | 2018_02_28 | Grassley sends letter to OIC, requests “review of potential improper political influence, misconduct, or mismanagement in the conduct of the counterintelligence and criminal investigation”
@@ -794,11 +795,13 @@
 | 2018_04_17 | Vice News: "‘Sex huntress’ who claims to have dirt on Trump and Russia may spend years in Thai prison"
 | 2018_04_19 | DOJ files FARA case against Pakistani national and U.S. permanent resident, Nisar Ahmed Chaudhry
 | 2018_04_26 | Pompeo confirmed Secretary of State
+| 2018_05_03 | James Wolfe grand jury proceedings begin
 | 2018_05_04 | Washington Examiner: "FBI's James Baker, Lisa Page resign"
 | 2018_05_07 | Nisar Chaudhry pleads guilty to failing to register as a foreign agent in connection with Pakistani lobbying work
 | 2018_05_08 | CNN: "Trump withdraws US from Iran nuclear deal"
 | 2018_05_11 | CBS News: "Ex-CIA contractor pleads guilty after FBI finds notebooks with classified info at home"
-| 2018_05_11 | In an interview with New Yorker's David Remnick, Senator Warner says Trump campaign aides' contact with Russian could be "a set of coincidences", not collusion
+| 2018_05_11 | The New Yorker Radio Hour: "Senator Mark Warner on the Threat of Russia"
+| 2018_05_13 | Daily Caller: "Mark Warner: Trump aides' contacts with Russians could be 'coincidences,' not collusion"
 | 2018_05_15 | Bob Bauer resigns from Perkins Coie
 | 2018_05_16 | U.S. District Judge Denise Cote orders Search and Seizure Warrant against Anthony Weiner be unsealed
 | 2018_05_17 | Daily Caller: "Cambridge prof with CIA, MI6 ties met with Trump adviser during campaign, beyond"
