@@ -590,7 +590,7 @@
 | 2017_03_29 | WaPo: "Who is ‘Source D’? The man said to be behind the Trump-Russia dossier’s most salacious claim"
 | 2017_03_29 | NBC News: "Senate Intel Committee May Interview Ex-UK Spy Christopher Steele"
 | 2017_03_29 | Reuters: "U.S. State Dept. employee charged in making contacts with Chinese agents"
-| 2017_03_30 | CNN: "Bank that Kushner met with paid Russian intelligence agent's legal tab"
+| 2017_03_29 | CNN: "Bank that Kushner met with paid Russian intelligence agent's legal tab"
 | 2017_03_30 | USA vs Buryakov et al: "MEMO ENDORSEMENT as to Evgeny Buryakov" signed by Judge Richard Berman
 | 2017_03_30 | Steele texts Bruce Ohr, asks for any news, says SSCI "is leaking like a sieve, giving us pause for thought on engagement"
 | 2017_03_30 | Waldman: "Chris is concered about the leaks yesterday", "press might have run him off", "huddled w lawyers"
