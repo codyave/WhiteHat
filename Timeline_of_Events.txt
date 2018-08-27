@@ -668,7 +668,8 @@
 | 2017_06_09 | Strzok: "Just got an Agency coin. With Brennan's signature"
 | 2017_06_10 | Carter Page responds to HPSCI, says committees have blocked him from testifying
 | 2017_06_13 | Strzok: "Need to talk to you before you talk to him so you know what I said (Which was nothing, but we need to coordinate) He knows who has them now but not how they got them"
-| 2017_06_20 | Strzok: "And I deeply sincerely meant it earlier when I said I simply want you happy." Lisa Page: "Then don't join the team."
+| 2017_06_20 | Strzok: "And I deeply sincerely meant it earlier when I said I simply want you happy."
+| 2017_06_20 | Page: "Then don't join the team."
 | 2017_06_22 | Steele texts Bruce Ohr, asks "any news on reengagement yet?", Bruce says he will inquire later
 | 2017_06_22 | SSCI sends letter to Lynch about an email written by DWS purportedly detailing an assurance to Amanda Renteria that HRC's emails would not be looked at too closely
 | 2017_06_23 | Carter Page sends letter to HPSCI, details five pages of suggested cross-exam questions for John Podesta
@@ -800,7 +801,7 @@
 | 2018_05_04 | Washington Examiner: "FBI's James Baker, Lisa Page resign"
 | 2018_05_07 | Nisar Chaudhry pleads guilty to failing to register as a foreign agent in connection with Pakistani lobbying work
 | 2018_05_08 | CNN: "Trump withdraws US from Iran nuclear deal"
-| 2018_05_11 | CBS News: "Ex-CIA contractor pleads guilty after FBI finds notebooks with classified info at home"
+| 2018_05_11 | Washington Examiner: "Ex-CIA contractor pleads guilty to taking classified information home"
 | 2018_05_11 | The New Yorker Radio Hour: "Senator Mark Warner on the Threat of Russia"
 | 2018_05_13 | Daily Caller: "Mark Warner: Trump aides' contacts with Russians could be 'coincidences,' not collusion"
 | 2018_05_15 | Bob Bauer resigns from Perkins Coie
@@ -853,4 +854,5 @@
 | 2018_08_30 | Fusion GPS to be deposed in Washington, DC for Gubarev v Buzzfeed lawsuit
 | 2018_09_07 | Papadopoulos sentencing date
 | 2018_09_17 | Flynn sentencing date
+| 2018_09_21 | Reynaldo Regis sentencind date [see: May 11, 2018 Washington Examiner article]
 | 2018_11_05 | El Chapo hearing
