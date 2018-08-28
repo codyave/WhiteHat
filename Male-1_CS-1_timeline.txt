@@ -55,6 +55,10 @@
 | 2016_05_25 | ABC News: "Russian Spy Who Posed as Manhattan Banker Is Heading to Prison"
 | 2016_09_11 | NBC News: "Hillary Clinton Leaves 9/11 Memorial Early After Feeling ‘Overheated,’ Has Pneumonia"
 | 2016_09_21 | DailyMail: "Anthony Weiner carried on a months-long online sexual relationship with a troubled 15-year-old girl"
+| 2017_03_21 | CNN: "Paul Manafort faces fresh accusations in Ukraine after document find"
+| 2017_03_22 | NYDN: "Laptop holding Trump Tower floor plans, Hillary Clinton email investigation info stolen from Secret Service agent"
+| 2017_03_22 | WaPo: "House Intelligence chair says Trump campaign officials were ensnared in surveillance operations"
+| 2017_03_23 | CNN: "US officials: Info suggests Trump associates may have coordinated with Russians"
 | 2017_03_31 | Graham Kates: "Banker who worked as Russian secret agent to be released early, deported"
 | 2017_04_03 | Ali Watkins: "A Former Trump Adviser Met With A Russian Spy"
 | 2017_04_04 | Brian Ross: "Trump campaign adviser Carter Page targeted for recruitment by Russian spies"
@@ -63,3 +67,4 @@
 | 2017_04_11 | WaPo: "FBI obtained FISA warrant to monitor former Trump adviser Carter Page"
 | 2017_10_22 | The Hill: "FBI watched, then acted as Russian spy moved closer to Hillary Clinton"
 | 2018_06_14 | CNN: "Key dates in the FBI probe of Hillary Clinton's emails"
+
