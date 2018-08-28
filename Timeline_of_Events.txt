@@ -12,24 +12,25 @@
 | 2009_07_29 | Christopher Steele added to Orbis board of directors
 | 2010_06_?? | Nellie Ohr represents CIA's Open Source Works group, along with Bruce Ohr and Glenn Simpson (aka, Nellie used to be a CIA contractor, once upon a time)
 | 2010_06_25 | Comey joins Bridgewater Associates LP
-| 2010_09_21 | Fred Burton, chief security officer at Stratfor, sends email to Stratfor security, says Brennan (then-U.S. Homeland Security Advisor) is behind witch hunt targeting journalists, according to Sharyl Atkinson
-| 2011_12_?? | Secretary of State Clinton says elections in Russia are not free nor fair
-| 2012_??_?? | Buryakov works in the U.S. as an undercover SVR agent posing as an employee of a Russian bank (Vnesheconombank, "VEB") in a Manhattan office
-| 2012_??_?? | Carter Page begins working for NY CI, likely under Bill Priestap, probably on loan from DIA (headed by Gen. Flynn at the time)
-| 2012_07_12 | Homeland Security issues press release, says HSBC Holdings was involved in a $1.6T global money laundering and tax evasion scheme (Iran, Mexico)
-| 2012_10_11 | Former FBI Cyber Lawyer Steven Chabinsky announces he had joined CrowdStrike on September 10, 2016 as senior vice president and chief risk officer
-| 2012_11_06 | Obama wins presidential election
-| 2012_11_09 | CIA Director Patreus resigns
+| 2010_06_28 | Reuters: U.S. arrests 10 for allegedly spying for Russia
+| 2010_09_21 | Leaked email from Fred Burton (Stratfor) says then-U.S. Homeland Security Advisor John Brennan is behind DC witch hunt
+| 2011_12_?? | CNN: "Clinton cites 'serious concerns' about Russian election"
+| 2012_??_?? | SVR official, Evgeny Buryakov, works undercover as a banker at a Vnesheconombank office in Manhattan
+| 2012_??_?? | Carter Page begins working for NY FBI counterintelligence
+| 2012_09_06 | Reuters: "Security startup CrowdStrike hires one of FBI's top lawyers"
+| 2012_11_06 | BBC: "President Barack Obama defeats Romney to win re-election"
+| 2012_11_09 | The Guardian: "CIA director David Petraeus resigns over 'unacceptable' extramarital affair"
+| 2012_12_12 | Reuters: "HSBC to pay $1.9 billion U.S. fine in money-laundering case"
+| 2013_01_30 | HSBC.com: "Former US Deputy Attorney General joins HSBC Board"
 | 2013_03_?? | Justin Cooper gives Monica Hanley MacBook laptop, remotely transfers HRC emails to Apple mail program
-| 2013_03_04 | Comey appointed Director of HSBC
-| 2013_03_08 | John Brennan sworn in as CIA Director
+| 2013_03_08 | NPR: "John Brennan Is Sworn In As CIA Directo"
 | 2013_06_?? | Carter Page meets with FBI at New York's Plaza Hotel regarding ongoing investigation
 | 2013_06_06 | Robert Mueller meets Viktor Yanukovytch
 | 2013_06_30 | Platte River Networks server ("successor server) (runs until October 2015)
-| 2013_09_04 | Comey confirmed 93-1 to a full ten-year term as FBI Director
+| 2013_09_05 | NYDN: "James Comey sworn in as director of FBI"
 | 2013_10_13 | Mikk Marran nominated to Director General of the Estonian Information Board
-| 2013_11_21 | Maiden uprising in Ukraine
-| 2014_01_27 | Jim Baker appointed as FBI General Counsel by Director Comey
+| 2013_11_24 | The Guardian: "Ukrainian protesters flood Kiev after president pulls out of EU deal"
+| 2014_01_27 | Lawfare: "Jim Baker Appointed as FBI General Counsel"
 | 2014_02_?? | Monica Hanley uploads HRC email archives to PRN server from MacBook laptop, fails. Laptop shipped to Combetta's house, emails transferred to PRN server, laptop shipped back, but gets "lost"
 | 2014_05_?? | Michael Gaeta joined the FBI’s Legal Attaché Office in Rome as the Assistant Legal Attaché
 | 2014_05_13 | Joe Biden's Son Appointed to Board of Ukraine's Largest Gas Producer
