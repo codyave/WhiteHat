@@ -21,10 +21,14 @@
 | 2013_06_13 | FBI agents interview Male-1, ask how Male-1 first met Podobnyy
 | 2013_11_24 | The Guardian: "Ukrainian protesters flood Kiev after president pulls out of EU deal"
 | 2014_02_13 | Buzzfeed: "36 Hours On The Fake Campaign Trail With Donald Trump"
+| 2014_02_20 | NYT: "E.U. Imposes Sanctions Despite Russian Criticism"
 | 2014_03_18 | The Guardian: "Putin confirms Crimea annexation as Ukraine soldier becomes first casualty"
+| 2014_03_21 | NYT: "As Sanctions Start, Russia Feels a Sting"
 | 2014_03_28 | Sporyshev tells Buryakov that he needs help researching "the effects of economic sanctions on our country"
 | 2014_04_02 | Sporyshev calls Buryakov, asks to meet outside Vnesheconombank
 | 2014_04_04 | Buryakov calls Sporyshev, says he "wrote you an order list", suggest they meet
+| 2014_04_14 | NYT: "With Ukraine Tensions Mounting, U.S. Weighs New Sanctions Against Russia "
+| 2014_04_17 | NYT: "Russia Economy Worsens Even Before Sanctions Hit"
 | 2014_06_?? | In summer 2014, Buryakov meets often with CS-1, who represents a wealthy investor looking to build casinos in Russia
 | 2014_07_12 | Press of Atlantic City: "Trump Plaza owners confirm plan to close in September"
 | 2014_07_22 | CS-1 calls Buryakov, arranges to meet Buryakov at Vnesheconombank on July 25th
