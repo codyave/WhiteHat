@@ -1,26 +1,26 @@
 | 2010_06_28 | Reuters: "Reuters: U.S. arrests 10 for allegedly spying for Russia"
 | 2010_06_29 | Bill Clinton receives $500k for a speech in Moscow given to Renaissance Capital
 | 2010_07_08 | Fox News: "10 Russian Spies Deported After N.Y. Guilty Pleas"
-| 2010_09_21 | Leaked email from Fred Burton (Stratfor) says John Brennan is behind DC witch hunt of journalists
+| 2010_09_21 | Leaked email from Fred Burton (Stratfor) indicates Homeland Security's John Brennan is behind DC witch hunt of journalists
 | 2010_10_?? | FBI opens investigation of a new group of SVR agents in NYC
 | 2011_12_06 | CNN: "Clinton cites 'serious concerns' about Russian election"
 | 2012_??_?? | Sporyshev, Podobnyy, Buryakov begin meeting with each other
-| 2013_03_08 | NPR: "John Brennan Is Sworn In As CIA Director"
 | 2012_03_?? | FBI conducts physsical and electronic surveillance of Buryakov and Sporyshev
 | 2013_01_?? | Male-1 meets Podobnyy at an energy symposium in NYC
 | 2013_01_31 | Sporyshev and unidentified SVR agent have a discussion inside the Residentura
+| 2013_03_08 | NPR: "John Brennan Is Sworn In As CIA Director"
 | 2013_04_08 | Sporyshev and Podobnyy discuss Podobnyy's efforts to recruit a male working as a consultant in NYC
-| 2013_04_25 | Sporyshev and Podobnyy discuss nontraditional cover for SVR officers, in particular 2010 the Illegals Program
+| 2013_04_25 | Sporyshev and Podobnyy discuss nontraditional cover for SVR officers, in particular the 2010 Illegals Program
 | 2013_06_06 | Ukrainian Embassy in U.S. shares on Facebook a photo of FBI Director Mueller with Ukraine President Viktor Yanukovytch
 | 2013_06_13 | Robin Leach: "Donald Trump, Miss Universe sign document with Russian partner for Miss USA move to Moscow November 9"
 | 2013_06_13 | Trump: 'The Miss Universe Pageant will be broadcast live from MOSCOW, RUSSIA on November 9th."
-| 2013_06_13 | FBI agents interview Male-1, ask how he first met Podobnyy
+| 2013_06_13 | FBI agents interview Male-1, ask how Male-1 first met Podobnyy
 | 2013_11_24 | The Guardian: "Ukrainian protesters flood Kiev after president pulls out of EU deal"
 | 2014_02_13 | Buzzfeed: "36 Hours On The Fake Campaign Trail With Donald Trump"
 | 2014_03_28 | Sporyshev tells Buryakov that he needs help researching "the effects of economic sanctions on our country"
 | 2014_04_02 | Sporyshev calls Buryakov, asks to meet outside Vnesheconombank
 | 2014_04_04 | Buryakov calls Sporyshev, says he "wrote you an order list", suggest they meet
-| 2014_06_?? | In summer 2014, Buryakov meets many times with CS-1, who represents a wealthy investor looking to build casinos in Russia
+| 2014_06_?? | In summer 2014, Buryakov meets often with CS-1, who represents a wealthy investor looking to build casinos in Russia
 | 2014_07_12 | Press of Atlantic City: "Trump Plaza owners confirm plan to close in September"
 | 2014_07_22 | CS-1 calls Buryakov, arranges to meet Buryakov at Vnesheconombank on July 25th
 | 2014_07_25 | CS-1 meets Buryakov at Vnesheconombank, CS-1 later invites Buryakov to his office in Atlantic City
@@ -30,3 +30,18 @@
 | 2014_08_22 | NYMag: "Russia Inching Closer to War in Ukraine With Convoy ‘Invasion’"
 | 2014_08_28 | CS-1 meets with Buryakov at Vnesheconombank, CS-1 give Buryakov a USG document labeled "UNCLASSIFIED, FOUO"
 | 2014_08_28 | Buryakov calls Sporyshev after the meeting with CS-1
+| 2015_01_26 | Shimon Prokupecz: "FBI in New York has arrested a man for acting as a Russian Spy collecting Intel in the Bronx."
+| 2015_01_28 | DailyMail: "Russian 'undercover agent'...part of Kremlin spy ring in New York is a former Moscow tax inspector"
+| 2015_03_02 | NYT: "Hillary Clinton Used Personal Email Account at State Dept., Possibly Breaking Rules"
+| 2015_05_15 | Politico: "Michael Morell: Foreign governments have Hillary's email"
+| 2015_06_04 | CNN: "China might be building vast database of federal worker info, experts say"
+| 2015_06_15 | CNBC: "Donald Trump announces candidacy for president"
+| 2015_06_22 | CNN: "U.S. data hack may be 4 times larger than the government originally said"
+| 2015_07_10 | CNN: "OPM government data breach impacted 21.5 million"
+| 2015_07_10 | FBI opens investigation into Hillary Clinton email server [see: June 8, 2018 CNN article]
+| 2015_07_14 | CNN: "Landmark deal reached on Iran nuclear program"
+| 2015_08_05 | New York Post: "FBI investigation of Hillary’s emails is ‘criminal probe’"
+| 2016_01_29 | FBI.gov: "Andrew McCabe Named Deputy Director of the FBI"
+| 2016_03_11 | Yahoo: "Russian banker pleads guilty in US 'spy ring'"
+| 2016_03_18 | The Observer: "Hillary Clinton Has an NSA Problem"
+| 2016_03_21 | CNN: "Donald Trump unveils foreign policy advisers"
