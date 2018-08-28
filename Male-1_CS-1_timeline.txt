@@ -41,7 +41,7 @@
 | 2015_06_15 | CNBC: "Donald Trump announces candidacy for president"
 | 2015_06_22 | CNN: "U.S. data hack may be 4 times larger than the government originally said"
 | 2015_07_10 | CNN: "OPM government data breach impacted 21.5 million"
-| 2015_07_10 | FBI opens investigation into Hillary Clinton email server [see: June 8, 2018 CNN article]
+| 2015_07_10 | FBI opens investigation into Hillary Clinton email server [see: June 14, 2018 CNN article]
 | 2015_07_14 | CNN: "Landmark deal reached on Iran nuclear program"
 | 2015_08_05 | New York Post: "FBI investigation of Hillary’s emails is ‘criminal probe’"
 | 2016_01_29 | FBI.gov: "Andrew McCabe Named Deputy Director of the FBI"
@@ -52,4 +52,14 @@
 | 2016_04_27 | Politico: "How Donald Trump became the Kremlin's Candidate"
 | 2016_05_05 | Politico: "When Donald Trump brought Miss Universe to Moscow"
 | 2016_05_17 | WaPo: "Former Mafia-linked figure describes association with Trump"
+| 2016_05_25 | ABC News: "Russian Spy Who Posed as Manhattan Banker Is Heading to Prison"
+| 2016_09_11 | NBC News: "Hillary Clinton Leaves 9/11 Memorial Early After Feeling ‘Overheated,’ Has Pneumonia"
+| 2016_09_21 | DailyMail: "Anthony Weiner carried on a months-long online sexual relationship with a troubled 15-year-old girl"
+| 2017_03_31 | Graham Kates: "Banker who worked as Russian secret agent to be released early, deported"
+| 2017_04_03 | Ali Watkins: "A Former Trump Adviser Met With A Russian Spy"
+| 2017_04_04 | Brian Ross: "Trump campaign adviser Carter Page targeted for recruitment by Russian spies"
+| 2017_04_04 | NYT: "Russian Spies Tried to Recruit Carter Page Before He Advised Trump"
+| 2017_04_05 | CBS News: "U.S. deports Russian spy who posed as bank employee"
+| 2017_04_11 | WaPo: "FBI obtained FISA warrant to monitor former Trump adviser Carter Page"
 | 2017_10_22 | The Hill: "FBI watched, then acted as Russian spy moved closer to Hillary Clinton"
+| 2018_06_14 | CNN: "Key dates in the FBI probe of Hillary Clinton's emails"
