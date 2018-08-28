@@ -62,7 +62,7 @@
 | 2015_06_15 | CNBC: "Donald Trump announces candidacy for president"
 | 2015_06_22 | CNN: "U.S. data hack may be 4 times larger than the government originally said"
 | 2015_07_10 | CNN: "OPM government data breach impacted 21.5 million"
-| 2015_07_10 | FBI opens investigation into Hillary Clinton email server [see: June 8, 2018 CNN article]
+| 2015_07_10 | FBI opens investigation into Hillary Clinton email server [see: June 14, 2018 CNN article]
 | 2015_07_14 | CNN: "Landmark deal reached on Iran nuclear program"
 | 2015_07_22 | Yates releases 58-page memo, denies IG access and oversight to info collected by DOJ & FBI under Title III
 | 2015_07_27 | “In July 2015, Russian Intelligence gained access to Democratic National Committee (DNC) networks and maintained that access until at least June 2016." (according to June 2018 IC report)
