@@ -25,9 +25,9 @@
 | 2012_12_12 | Reuters: "HSBC to pay $1.9 billion U.S. fine in money-laundering case"
 | 2013_01_30 | HSBC.com: "Former US Deputy Attorney General joins HSBC Board"
 | 2013_03_?? | Justin Cooper gives Monica Hanley MacBook laptop, remotely transfers HRC emails to Apple mail program
-| 2013_03_08 | NPR: "John Brennan Is Sworn In As CIA Directo"
+| 2013_03_08 | NPR: "John Brennan Is Sworn In As CIA Director"
 | 2013_06_?? | Carter Page meets with FBI at New York's Plaza Hotel regarding ongoing investigation
-| 2013_06_06 | Robert Mueller meets Viktor Yanukovytch
+| 2013_06_06 | Ukrainian Embassy in U.S. shares on Facebook a photo of FBI Director Mueller with Ukraine President Viktor Yanukovytch
 | 2013_06_13 | Robin Leach: "Donald Trump, Miss Universe sign document with Russian partner for Miss USA move to Moscow November 9"
 | 2013_06_13 | Trump: 'The Miss Universe Pageant will be broadcast live from MOSCOW, RUSSIA on November 9th."
 | 2013_06_30 | Platte River Networks server ("successor server) (runs until October 2015)
@@ -47,7 +47,7 @@
 | 2014_07_12 | Press of Atlantic City: "Trump Plaza owners confirm plan to close in September"
 | 2014_07_31 | NYT reports CIA internal investigation, finds one of its officers penetrated a computer network used by SSCI in preparing a report on CIA's detention and interrogation program
 | 2014_08_07 | Gen. Flynn resigns from Defense Intelligence Agency
-| 2014_08_22 | Russia invades Ukraine
+| 2014_08_22 | NYMag: "Russia Inching Closer to War in Ukraine With Convoy ‘Invasion’"
 | 2015_01_26 | Shimon Prokupecz: "FBI in New York has arrested a man for acting as a Russian Spy collecting Intel in the Bronx."
 | 2015_01_28 | DailyMail: "License to BILL - Russian 'undercover agent' accused of being part of Kremlin spy ring in New York is a former Moscow tax inspector"
 | 2015_02_09 | Senate forms Ukrainian caucus to further Ukrainian interests. John McCain is a member.
