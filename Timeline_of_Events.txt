@@ -49,6 +49,7 @@
 | 2015_05_19 | Peter Kadzik tips off John Podesta about upcoming investigation into HRC State Dept emails
 | 2015_06_03 | Marie Harf sends an email to Carlos DeJuana, mentions that Robert Otto is married to Anne Joblonski, says she was handler for kidnapped FBI agent Bob Levinson
 | 2015_06_15 | Trump announces run for office
+| 2015_07_10 | CNN: "OPM government data breach impacted 21.5 million"
 | 2015_07_10 | FBI opens investigation into HRC server
 | 2015_07_14 | JCPOA announced
 | 2015_07_22 | Yates releases 58-page memo, denies IG access and oversight to info collected by DOJ & FBI under Title III
@@ -722,6 +723,7 @@
 | 2017_08_16 | Bill Browder tweets criticisms of Dana Rohrabacher being in contact with Julian Assnge
 | 2017_08_16 | Strzok demoted to FBI Human Resources
 | 2017_08_22 | Glenn Simpsons testifies in closed-door hearing with SSCI
+| 2017_08_27 | CNN: "FBI arrests Chinese national connected to malware used in OPM data breach"
 | 2017_09_05 | NYT: "At CNN, Retracted Story Leaves an Elite Reporting Team Bruised"
 | 2017_09_06 | The Daily Caller: "Police report indicates Wasserman Schultz IT aide planted computer for investigators to find"
 | 2017_09_14 | Carter Page files defamation lawsuit against OATH, Inc. (parent company of Yahoo, HuffPost) and Broadcasting Board of Governors in SDNY
