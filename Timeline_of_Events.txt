@@ -126,7 +126,7 @@
 | 2016_03_18 | The Observer:"Hillary Clinton Has an NSA Problem"
 | 2016_03_19 | John Podesta clicks on a link from a phishing scam
 | 2016_03_19 | Alexandra Chalupa starts consulting with DNC on Trump's Russia ties
-| 2016_03_21 | Trump announces foreign policy advisors at a WaPo editorial board: Walid Phares, Carter Page, George Papaopoulos, Joseph Schmitz, and Lt. Gen. Keith Kellogg
+| 2016_03_21 | CNN: "Donald Trump unveils foreign policy advisers"
 | 2016_03_24 | Papadopoulos sends email ("Meeting with Russian Leadership -- including Putin") to Trump campaign
 | 2016_03_24 | Papadopoulos meets with Mifsud, Putin's "niece" introduced
 | 2016_03_25 | Alexandra Chalupa makes prediction and warns Ukraine’s ambassador to the U.S. about Paul Manafort
