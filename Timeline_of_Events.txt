@@ -364,9 +364,10 @@
 | 2016_10_15 | John P. Carlin resigns
 | 2016_10_16 | WikiLeaks tweets that Julian Assange's internet link has been severed by a state party
 | 2016_10_18 | The Hill: Crossfire Hurricane team email each other about rushing to get approval for another FISA warrant for another Russia-related investigation code-named "Dragon" (Sergei Millian?)
-| 2016_10_19 | Lisa Page texts Andrew McCabe, "Hey, can you give me a call when you get out? Meeting with WH counsel is finally set up and I want to talk about timing. Thanks."
-| 2016_10_19 | Lisa Page texts Strzok, "DAG approved. I told [?] already to stand by for one edit."
-| 2016_10_19 | Hillary accuses Trump of being Putin's puppet
+| 2016_10_18 | NYO Case Agent alerts SDNY to FBI HQ "inaction", FBIHQ re-engagement regarding Weiner laptop
+| 2016_10_19 | Page: "Meeting with WH counsel is finally set up and I want to talk about timing. Thanks."
+| 2016_10_19 | Page: "DAG approved. I told [?] already to stand by for one edit."
+| 2016_10_19 | Reuters: "Clinton accuses Trump of being Putin's 'puppet'"
 | 2016_10_20 | Steele finishes his memos
 | 2016_10_20 | Halper talks at the China Forum in Washington
 | 2016_10_20 | NSA compliance officer briefs Adm. Rogers on illegal FBI spying
