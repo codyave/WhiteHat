@@ -65,6 +65,9 @@
 | 2017_04_04 | NYT: "Russian Spies Tried to Recruit Carter Page Before He Advised Trump"
 | 2017_04_05 | CBS News: "U.S. deports Russian spy who posed as bank employee"
 | 2017_04_11 | WaPo: "FBI obtained FISA warrant to monitor former Trump adviser Carter Page"
+| 2017_05_15 | WaPo: "Trump revealed highly classified information to Russian foreign minister and ambassador"
+| 2017_05_16 | NYT: "Comey Memo Says Trump Asked Him to End Flynn Investigation"
+| 2017_06_05 | LA Times: "Contractor is charged with leaking top-secret document about Russian hacking"
 | 2017_10_22 | The Hill: "FBI watched, then acted as Russian spy moved closer to Hillary Clinton"
 | 2018_06_14 | CNN: "Key dates in the FBI probe of Hillary Clinton's emails"
 
