@@ -101,6 +101,7 @@
 | 2016_03_10 | First phishing attempts made against the Clinton Campaign, all but one bounce back unopened
 | 2016_03_11 | Second round of phishing attempts, this time to senior Clinton officials
 | 2016_03_11 | Michelle Fields files charges against Corey Lewandowski
+| 2016_03_11 | Yahoo: "Russian banker pleads guilty in US 'spy ring'"
 | 2016_03_11 | Bahrara, John P. Carlin announce indictment of Evgeny Buryakov (Carter Page likely UCE-1 or UCE-2)
 | 2016_03_14 | Brennan makes undisclosed trip to Moscow (RVS, FSB, GRU, but not Foreign Ministry)
 | 2016_03_14 | Papadopoulos meets Joseph Mifsud in Italy, Misfus promises contacts with Russian officials
@@ -174,6 +175,7 @@
 | 2016_05_23 | Nellie Ohr obtains ham radio license
 | 2016_05_25 | FBI interviews Secret Service agent, SSA says he was asked for help w/HRC's private server by Justin Cooper and Bryan Pagliano
 | 2016_05_25 | Natalia Veselnitskaya submits an application for a US entry visa (did Robert Otto in State Dept flag this for expediting, Strzok possibly notified?)
+| 2016_05_25 | ABC News: "Russian Spy Who Posed as Manhattan Banker Is Heading to Prison"
 | 2016_05_25 | @USAttyBharara: "Banker by day, Russian agent by night. Buryakov sentenced for conspiracy to 30 mths in prison"
 | 2016_05_26 | Trump locks in necessary 1,237 delegates after winning Indiana primary
 | 2016_05_31 | Natalia Veselnitskaya receives confirmation that she is to be interviewed for a B1 visa within the Moscow Business/Tourism/Crew/Journalist category
