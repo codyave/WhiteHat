@@ -52,8 +52,8 @@
 | 2015_06_15 | Trump announces run for office
 | 2015_06_22 | CNN: "U.S. data hack may be 4 times larger than the government originally said"
 | 2015_07_10 | CNN: "OPM government data breach impacted 21.5 million"
-| 2015_07_10 | FBI opens investigation into HRC server
-| 2015_07_14 | JCPOA announced
+| 2015_07_10 | FBI opens investigation into Hillary Clinton email server [see: June 8, 2018 CNN article]
+| 2015_07_14 | CNN: "Landmark deal reached on Iran nuclear program"
 | 2015_07_22 | Yates releases 58-page memo, denies IG access and oversight to info collected by DOJ & FBI under Title III
 | 2015_07_27 | “In July 2015, Russian Intelligence gained access to Democratic National Committee (DNC) networks and maintained that access until at least June 2016." (according to June 2018 IC report)
 | 2015_08_?? | Trump meets with Gen. Flynn, meeting lasts 90min
@@ -835,6 +835,7 @@
 | 2018_06_07 | James Wolfe (SSCI Head of Security) arrested and charged with one count of lying to the FBI
 | 2018_06_12 | Stalkerzone.org: "Andrey Telizhenko: I Was Told Directly that the Task Was to Remove Trump from the Elections"
 | 2018_06_13 | Politico: "White House counsel McGahn recused his office from Mueller probe"
+| 2018_06_14 | CNN: "Key dates in the FBI probe of Hillary Clinton's emails"
 | 2018_06_19 | New York Post: "House GOPer unmasks identities of anti-Trump FBI agents"
 | 2018_07_03 | CNN: "New York Times DC reporter who dated Senate intelligence staffer reassigned to New York"
 | 2019_07_09 | Radio Free Europe: "Russian Tycoon Deripaska Wins Million-Ruble Claim Against 'Nastya Rybka,' 'Sex-Guru' Partner"
