@@ -32,13 +32,16 @@
 | 2013_09_05 | NYDN: "James Comey sworn in as director of FBI"
 | 2013_10_13 | Mikk Marran nominated to Director General of the Estonian Information Board
 | 2013_11_24 | The Guardian: "Ukrainian protesters flood Kiev after president pulls out of EU deal"
+| 2013_12_?? | Trump meets with GOP county chairs in Trump Tower, says he'll win 2016 nomination [see: Feb 1, 2016 Politico article]
 | 2014_01_27 | Lawfare: "Jim Baker Appointed as FBI General Counsel"
 | 2014_02_?? | Monica Hanley uploads HRC email archives to PRN server from MacBook laptop, fails. Laptop shipped to Combetta's house, emails transferred to PRN server, laptop shipped back, but gets "lost"
+| 2014_02_13 | Buzzfeed: "36 Hours On The Fake Campaign Trail With Donald Trump"
 | 2014_05_?? | Michael Gaeta joined the FBI’s Legal Attaché Office in Rome as the Assistant Legal Attaché
 | 2014_05_13 | Joe Biden's Son Appointed to Board of Ukraine's Largest Gas Producer
 | 2014_05_15 | Evan Perez indicates wiretapping of Paul Manafort began sometime in 2014
 | 2014_06_?? | Buryakov meets multiple times with confidential sources for the FBI
 | 2014_06_14 | Natalia Veselnitskaya goes to House hearing on "U.S. Policy Toward Putin's Russia", sits behind Michael McFaul (photo taken by Michael Weiss)
+| 2014_07_12 | Press of Atlantic City: "Trump Plaza owners confirm plan to close in September"
 | 2014_07_31 | NYT reports CIA internal investigation, finds one of its officers penetrated a computer network used by SSCI in preparing a report on CIA's detention and interrogation program
 | 2014_08_07 | Gen. Flynn resigns from Defense Intelligence Agency
 | 2014_08_22 | Russia invades Ukraine
@@ -89,6 +92,7 @@
 | 2016_01_28 | Reception for the Cuba Consortium hosted at the Cuban Embassy in Washington is attended by Daniel Jones and Ben Rhodes
 | 2016_01_29 | Andrew McCabe becomes Deputy Director of the FBI
 | 2016_02_?? | Steele admonished by FBI (what in the world does this mean?), per August 8, 2018 Judicial Watch FOIA request
+| 2016_02_01 | Politico: "How Trump Did It"
 | 2016_02_04 | Email mentioned in 2017-11-14 Senate Judiciary Committee hearing details dinner plans among Rinat Akhmetshin, Glenn Simpson, and Natalia Veselnitskaya (presumably about the Prevezon case)
 | 2016_02_08 | Adm. Rogers announces spy/hacking reorganization project
 | 2016_02_08 | Adm. Rogers meets GCHQ's Hannigan at Bletchley Park
