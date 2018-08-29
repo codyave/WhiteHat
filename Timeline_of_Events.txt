@@ -851,9 +851,9 @@
 | 2018_05_18 | Warner: "...Intelligence Committee...the critical importance of protecting sources and methods."
 | 2018_05_23 | Amy Fiscus: "NEW: Jared Kushner got his security clearance, per @mattapuzzo"
 | 2018_06_04 | Daily Caller: "Papadopoulos' wife: Trump aids was 'absolutely not' involved in Russian collusion"
-| 2018_06_04 | FBI arrests former defense intelligence officer Ron Hansen, accused of attempted transmission of national defense information to the People’s Republic of China
+| 2018_06_04 | Daily Caller: "Former DIA officer arrested for allegedly spying for China"
 | 2018_06_07 | Daily Caller: "Soon after Imran Awan's other wife called police on him, gunmen shot at her"
-| 2018_06_07 | James Wolfe (SSCI Head of Security) arrested and charged with one count of lying to the FBI
+| 2018_06_07 | New York Post: "Ex-Senate Intel staffer charged with lying to feds about reporter contacts"
 | 2018_06_12 | Stalkerzone.org: "Andrey Telizhenko: I Was Told Directly that the Task Was to Remove Trump from the Elections"
 | 2018_06_13 | Politico: "White House counsel McGahn recused his office from Mueller probe"
 | 2018_06_14 | CNN: "Key dates in the FBI probe of Hillary Clinton's emails"
@@ -865,40 +865,41 @@
 | 2018_07_21 | NYT: "Carter Page FISA Documents Are Released by Justice Department"
 | 2018_07_26 | First reports of Omarosa's book "Unhinged" said to be released soon
 | 2018_07_26 | Brennan's security clearance revoked [see: August 15, 2018 Kaitlan Collins tweet]
+| 2018_07_26 | Daily Caller: "Judge orders Fusion GPS to reveal dossier details in BuzzFeed lawsuit"
 | 2018_07_27 | CNN: "Cohen claims Trump knew in advance of 2016 Trump Tower meeting"
 | 2018_08_02 | Daily Mail obtains an excerpt from Omarosa's book
 | 2018_08_03 | FBI turns over 70 pages of heavily redacted records about Christopher Steele, per Judicial Watch FOIA request
 | 2018_08_06 | OIG press release says FBI SSA had inappropriate relationship with CHS (bribes, etc.), criminal prosecution declined
-| 2018_08_07 | Rick Gates tells Judge Ellis he embezzled cash from Manafort to pay for London apartments where he had an extra-marital affair
-| 2018_08_10 | Strzok fired (not revealed until August 13th)
-| 2018_08_10 | Omarosa claims Trump said the n-word at the White House
-| 2018_08_13 | Strzok opens a Twitter and GoFundMe account
+| 2018_08_07 | Rick Gates tells Judge Ellis he embezzled from Manafort to pay for a London apartment
+| 2018_08_10 | Strzok fired [see: June 13, 2018 CNN article]
+| 2018_08_10 | New York Post: "Omarosa claims Trump is a racist, used N-word on ‘The Apprentice’"
+| 2018_08_13 | CNN: "Peter Strzok fired from the FBI"
+| 2018_08_13 | Fox News: "Fired FBI agent Peter Strzok sets up anti-Trump Twitter account; GoFundMe page seeks $150G"
 | 2018_08_13 | DOJ/FBI to provide discovery to Papadopoulos, Mueller to seal discovery
-| 2018_08_14 | Omarosa's book "Unhinged" hits bookstores
+| 2018_08_14 | Fortune: "Despite a Press Blitzkrieg, Omarosa's Book Isn't a Top Seller"
 | 2018_08_15 | USA Today: "Donald Trump revokes former CIA director John Brennan's security clearance"
 | 2018_08_15 | Kaitlan Collins: "The date on President Trump's statement about revoking John Brennan's security clearance? July 26."
-| 2018_08_15 | Simona Mangiante suggests Papadopoulos may seek new counsel as well as discard plea deal with Mueller
-| 2018_08_16 | George Toscas deposed by House Judiciary and House Oversight Committees
+| 2018_08_16 | Chuck Ross: "DOJ national security lawyer George Toscas deposed by House Judiciary and House Oversight tomorrow."
 | 2018_08_16 | Rush Limbaugh says Nellie Ohr wrote the dossier
 | 2018_08_16 | U.S. District Judge Amit P. Mehta rules the FBI cannot issue a Glomar response wrt verifying the Steele dossier
-| 2018_08_17 | Warner announces he will introduce legislation to prevent President Trump from revoking security clearances
+| 2018_08_17 | CNN: "Mark Warner wants to block Trump from 'arbitrarily revoking security clearances'"
 | 2018_08_17 | AP: "...Burr said there is 'no factual evidence today that we’ve received' on collusion or conspiracy between Russia and President Donald Trump’s campaign."
-| 2018_08_17 | Mueller indictment on Papadopoulos recommends 0-6 months jail time for lying to FBI
-| 2018_08_19 | Fox News: "Escort says oligarch now has tapes on Russia interference" (
+| 2018_08_17 | Politico: "Mueller recommends sentence up to 6 months for Papadopoulos"
+| 2018_08_19 | Fox News: "Escort says oligarch now has tapes on Russia interference"
 | 2018_08_20 | Daily Caller: "Papadopoulos told feds he received $10,000 from foreign national he believed was a spy"
-| 2018_08_20 | DOJ releases statement, charging Ghorbani and Doostdar as unregistered agents of Iran tasked with surveilling Israeli/Jewish communities (filed August 8th)
-| 2018_08_21 | Imran Awan sentenced to time served, three months supervised released
-| 2018_08_21 | Manfort sentenced on 8 of 18 counts (1 juror was single holdout on 10 other charges)
-| 2018_08_21 | Cohen sentenced to 8 counts, faced 3-6 years jail time
-| 2018_08_23 | Reality Winner scheduled to be sentenced
+| 2018_08_20 | Reuters: "Two arrested for allegedly spying for Iran in U.S."
+| 2018_08_21 | Washington Examiner: "Former Democratic IT staffer Imran Awan avoids jail time"
+| 2018_08_21 | Washington Post: "Ex-Trump campaign chairman Paul Manafort guilty of 8 charges"
+| 2018_08_21 | NPR: "Donald Trump's Attorney And Fixer Michael Cohen Pleads Guilty To 8 Federal Counts"
+| 2018_08_23 | CNN: "NSA leaker Reality Winner sentenced to more than 5 years in prison"
 | 2018_08_21 | Flynn hearing rescheduled
 | 2018_08_23 | Acting CIA Inspector General, Christopher Sharpley, resigns
 | 2018_08_27 | Buzzfeed: "Lanny Davis Says He Was A Source For CNN’s Trump Tower Story"
 | 2018_08_27 | Daily Caller: "Source: FBI agents told Congress the Bureau used leaked stories to obtain spy warrants"
 | 2018_08_27 | Daily Caller: "Sources: China hacked Clinton's private email server"
-| 2018_08_28 | Bruce Ohr closed-door hearing 
+| 2018_08_28 | CNN: "Justice Department official in Trump's crosshairs faces lawmakers Tuesday"
 | 2018_08_28 | The Hill: "Russian oligarch, Justice Department and a clear case of collusion"
-| 2018_08_30 | Fusion GPS to be deposed in Washington, DC for Gubarev v Buzzfeed lawsuit
+| 2018_08_30 | Fusion GPS to be deposed in Washington, DC for Gubarev v Buzzfeed lawsuit [see: July 26, 2018 Daily Caller article]
 | 2018_09_07 | Papadopoulos sentencing date
 | 2018_09_17 | Flynn sentencing date
 | 2018_09_21 | Reynaldo Regis sentencind date [see: May 11, 2018 Washington Examiner article]
