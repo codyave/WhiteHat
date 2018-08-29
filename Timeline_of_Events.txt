@@ -908,9 +908,11 @@
 | 2018_08_23 | CNN: "NSA leaker Reality Winner sentenced to more than 5 years in prison"
 | 2018_08_21 | Flynn hearing rescheduled
 | 2018_08_23 | Acting CIA Inspector General, Christopher Sharpley, resigns
+| 2018_08_27 | NYT: "U.S. and Mexico Agree to Preliminary Nafta Deal"
 | 2018_08_27 | Buzzfeed: "Lanny Davis Says He Was A Source For CNN’s Trump Tower Story"
 | 2018_08_27 | Daily Caller: "Source: FBI agents told Congress the Bureau used leaked stories to obtain spy warrants"
 | 2018_08_27 | Daily Caller: "Sources: China hacked Clinton's private email server"
+| 2018_08_28 | NYT: "Canada and U.S. Meet as Trump Moves Ahead With Mexico Trade Deal"
 | 2018_08_28 | CNN: "Justice Department official in Trump's crosshairs faces lawmakers Tuesday"
 | 2018_08_28 | The Hill: "Russian oligarch, Justice Department and a clear case of collusion"
 | 2018_08_29 | Daily Caller: "Christopher Steele reportedly worked for sanctioned Russian oligarch"
