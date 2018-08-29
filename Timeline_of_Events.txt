@@ -887,6 +887,7 @@
 | 2018_08_16 | Chuck Ross: "DOJ national security lawyer George Toscas deposed by House Judiciary and House Oversight tomorrow."
 | 2018_08_16 | Rush Limbaugh says Nellie Ohr wrote the dossier
 | 2018_08_16 | U.S. District Judge Amit P. Mehta rules the FBI cannot issue a Glomar response wrt verifying the Steele dossier
+| 2018_06_16 | Techno_Fog: "Fusion GPS will be deposed on August 30, 2018 in Washington, DC"
 | 2018_08_17 | CNN: "Mark Warner wants to block Trump from 'arbitrarily revoking security clearances'"
 | 2018_08_17 | AP: "...Burr said there is 'no factual evidence today that we’ve received' on collusion or conspiracy between Russia and President Donald Trump’s campaign."
 | 2018_08_17 | Politico: "Mueller recommends sentence up to 6 months for Papadopoulos"
@@ -906,7 +907,7 @@
 | 2018_08_28 | CNN: "Justice Department official in Trump's crosshairs faces lawmakers Tuesday"
 | 2018_08_28 | The Hill: "Russian oligarch, Justice Department and a clear case of collusion"
 | 2018_08_29 | Daily Caller: "Christopher Steele reportedly worked for sanctioned Russian oligarch"
-| 2018_08_30 | Fusion GPS to be deposed in Washington, DC for Gubarev v Buzzfeed lawsuit [see: July 26, 2018 Daily Caller article]
+| 2018_08_30 | Fusion GPS to be deposed in Washington, DC for Gubarev v Buzzfeed lawsuit [see: July 16, 2018 Techno_Fog tweet]
 | 2018_09_07 | Papadopoulos sentencing date
 | 2018_09_17 | Flynn sentencing date
 | 2018_09_21 | Reynaldo Regis sentencind date [see: May 11, 2018 Washington Examiner article]
