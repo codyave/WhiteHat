@@ -848,6 +848,8 @@
 | 2018_05_04 | Washington Examiner: "FBI's James Baker, Lisa Page resign"
 | 2018_05_07 | Nisar Chaudhry pleads guilty to failing to register as a foreign agent in connection with Pakistani lobbying work
 | 2018_05_08 | CNN: "Trump withdraws US from Iran nuclear deal"
+| 2018_05_08 | Daily Caller: "Michael Cohen allegedly received $500k from Russian oligarch after election"
+| 2018_05_09 | Daily Caller: "Treasury Department opens IG investigation into leak of Michael COhen's records"
 | 2018_05_11 | Daily Caller: "Ex-CIA contractor stole 60 notebooks of classified info, pleads guilty"
 | 2018_05_11 | The New Yorker Radio Hour: "Senator Mark Warner on the Threat of Russia"
 | 2018_05_13 | Daily Caller: "Mark Warner: Trump aides' contacts with Russians could be 'coincidences,' not collusion"
