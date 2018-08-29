@@ -714,6 +714,7 @@
 | 2017_06_25 | Page: "Please don't ever text me again."
 | 2017_06_26 | Buzzfeed: "Three CNN Employees Resign Over Retracted Russia Story"
 | 2017_06_29 | Third and final renewal on Carter Page FISA
+| 2017_06_29 | BuzzFeed: "Heat Street Is Folding"
 | 2017_07_16 | Steele asks Bruce Ohr about reengagement, Bruce says he will pass along the message
 | 2017_07_18 | Fox News: "Hillary Clinton sided with Russia on sanctions as Bill made $500G on Moscow speech"
 | 2017_07_20 | FBI delivers to OIG Sep 2015 - Nov 30, 2016 Strzok/Page texts [see: Dec 13, 2017 Horowitz letter to Grassley, Johnson]
@@ -736,7 +737,7 @@
 | 2017_08_01 | McCabe calls OIC to correct statements he gave to investigators on July 28th
 | 2017_08_02 | CNN: "Chris Wray sworn in as FBI Director"
 | 2017_08_02 | Rosenstein issues revised memo to Mueller, outlines scope of investigation [see: April 3, 2018 CBS News article]
-| 2017_08_04 | Heat Street closes [see: July 30, 2017 Business Insider article]
+| 2017_08_04 | Heat Street closes [see: June 29, 2017 BuzzFeed article]
 | 2017_08_04 | CNN: "While Trump's away, 'much-needed' White House renovations begin"
 | 2017_08_04 | Fox News: "Sessions announces hunt for leakers, says cases have 'exploded'"
 | 2017_08_06 | Steele frustrated with FBI and Mueller reengagement, asks Bruce to speed things up
