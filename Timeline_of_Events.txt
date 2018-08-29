@@ -733,7 +733,6 @@
 | 2017_07_28 | CNN: "Priebus latest high-profile departure from Trump admin"
 | 2017_07_28 | McCabe interviewed by OIG (later determined to have lied about leaking to WSJ)
 | 2017_07_28 | Trump: "I am pleased to inform you that I have named General/Secretary John F Kelly as White House Chief of Staff."
-| 2017_07_30 | B.I.: "Rupert Murdoch is closing 'punky libertarian' website Heat Street after little more than a year"
 | 2017_07_31 | CNN: "Anthony Scaramucci out as White House communications director"
 | 2017_08_?? | Mueller's team interviews Ivan Timofeev (late summer?)
 | 2017_08_01 | McCabe calls OIC to correct statements he gave to investigators on July 28th
