@@ -808,6 +808,7 @@
 | 2018_01_09 | James Turgal (FBI Executive Assistant Director for Information and Technology Branch) retires
 | 2018_01_09 | Washington Times: "Sen. Dianne Feinstein releases transcript of closed-door meeting with Fusion GPS exec"
 | 2018_01_13 | In a self-published book by two Italian friends, Mifsud denies telling Papadopoulos about HRC emails
+| 2018_01_19 | Axios: "How the CIA’s spy network in China collapsed"
 | 2018_01_23 | New York Post: "Comey’s former chief of staff finally quits FBI under pressure from GOP lawmakers"
 | 2018_01_27 | Assange DM's fake Hannity account, promises info on Warner [see: January 29, 2018 Daily Beast article]
 | 2018_01_29 | Daily Beast: "Julian Assange Offered Hannity Impersonator ‘News’ About Top Democrat"
@@ -858,6 +859,7 @@
 | 2018_05_16 | U.S. District Judge Denise Cote orders Search and Seizure Warrant against Anthony Weiner be unsealed
 | 2018_05_17 | Daily Caller: "Cambridge prof with CIA, MI6 ties met with Trump adviser during campaign, beyond"
 | 2018_05_18 | Warner: "...Intelligence Committee...the critical importance of protecting sources and methods."
+| 2018_05_20 | NYT: "Killing C.I.A. Informants, China Crippled U.S. Spying Operations"
 | 2018_05_23 | Amy Fiscus: "NEW: Jared Kushner got his security clearance, per @mattapuzzo"
 | 2018_06_04 | Daily Caller: "Papadopoulos' wife: Trump aids was 'absolutely not' involved in Russian collusion"
 | 2018_06_04 | Daily Caller: "Former DIA officer arrested for allegedly spying for China"
@@ -887,6 +889,7 @@
 | 2018_08_13 | DOJ/FBI to provide discovery to Papadopoulos, Mueller to seal discovery
 | 2018_08_14 | Fortune: "Despite a Press Blitzkrieg, Omarosa's Book Isn't a Top Seller"
 | 2018_08_15 | USA Today: "Donald Trump revokes former CIA director John Brennan's security clearance"
+| 2018_08_15 | Foreign Policy: "Botched CIA Communications System Helped Blow Cover of Chinese Agents"
 | 2018_08_15 | Kaitlan Collins: "The date on President Trump's statement about revoking John Brennan's security clearance? July 26."
 | 2018_08_16 | Chuck Ross: "DOJ national security lawyer George Toscas deposed by House Judiciary and House Oversight tomorrow."
 | 2018_08_16 | Rush Limbaugh says Nellie Ohr wrote the dossier
