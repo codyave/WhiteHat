@@ -12,13 +12,13 @@
 | 2012_Sep_08 | NYT: "Clinton Tells Russia That Sanctions Will Soon End"
 | 2013_Jan_?? | Male-1 meets Podobnyy at energy symposium in NYC
 | 2013_Jan_?? | Male-1 delivers bugged binder to Pobodnyy
-| 2013_Jan_31 | Sporyshev and CC-1 recorded inside SVR NY office
+| 2013_Jan_31 | Sporyshev and CC-1 recorded inside SVR's secure "Residentura" facility in New York
 | 2013_Mar_08 | NPR: "John Brennan Is Sworn In As CIA Director"
-| 2013_Apr_08 | Sporyshev and Podobnyy recorded inside SVR NY office
-| 2013_Apr_10 | Podobnyy and CC-2 recorded inside SVR NY Office
-| 2013_Apr_10 | Sporyshev and Podobnyy recorded inside SVR NY Office
-| 2013_Apr_25 | Sporyshev and Podobnyy recorded inside SVR NY office
-| 2013_May_23 | Sporyshev and Podobnyy recorded inside SVR NY Office
+| 2013_Apr_08 | Sporyshev and Podobnyy recorded inside SVR's secure "Residentura" facility in New York
+| 2013_Apr_10 | Podobnyy and CC-2 recorded inside SVR's secure "Residentura"
+| 2013_Apr_10 | Sporyshev and Podobnyy recorded inside SVR's secure "Residentura" facility in New York
+| 2013_Apr_25 | Sporyshev and Podobnyy recorded inside SVR's secure "Residentura" facility in New York
+| 2013_May_23 | Sporyshev and Podobnyy recorded inside SVR's secure "Residentura" facility in New York
 | 2013_Jun_06 | Ukrainian Embassy in U.S. shares on Facebook a photo of FBI Director Mueller with Ukraine President Viktor Yanukovytch
 | 2013_Jun_13 | Robin Leach: "Donald Trump, Miss Universe sign document with Russian partner for Miss USA move to Moscow November 9"
 | 2013_Jun_13 | Trump: 'The Miss Universe Pageant will be broadcast live from MOSCOW, RUSSIA on November 9th."
