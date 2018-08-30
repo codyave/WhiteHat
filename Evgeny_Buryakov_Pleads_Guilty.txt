@@ -9,6 +9,8 @@ U.S. Attorney Preet Bharara said:  “An unregistered intelligence agent, under 
 Assistant Attorney General John P. Carlin said: “Evgeny Buryakov pleaded guilty to covertly working as a Russian agent in the United States without notifying the Attorney General.  Foreign nations who attempt to illegally gather economic and other intelligence information through espionage pose a direct threat to U.S. national security.  The National Security Division will continue to work with our law enforcement partners to identify and hold accountable those who illegally operate as covert agents within the United States.”           
 
 
+
+
 According to the Complaint, the Indictment, other court filings, and statements made during court proceedings:
 
   Beginning in 2012, Buryakov worked in the United States as an agent of Russia’s foreign intelligence agency, known as the “SVR.”  Buryakov operated under “non-official cover,” meaning he entered and remained in the United States as a private citizen, posing as an employee in the Manhattan office of a Russian bank, Vnesheconombank, also known as “VEB.”  SVR agents operating under such non-official cover – sometimes referred to as “NOCs” – typically are subject to less scrutiny by the host government, and, in many cases, are never identified as intelligence agents by the host government.  As a result, a NOC is an extremely valuable intelligence asset for the SVR.
@@ -16,6 +18,8 @@ According to the Complaint, the Indictment, other court filings, and statements 
   Federal law prohibits individuals from acting as agents of foreign governments within the United States without prior notification to the United States Attorney General.  Department of Justice records indicate that Buryakov never notified the United States Attorney General that he was, in fact, an agent of the Russian Federation.
 
   Buryakov worked in New York with at least two other SVR agents, Igor Sporyshev and Victor Podobnyy.  From November 22, 2010, to November 21, 2014, Sporyshev officially served as a trade representative of the Russian Federation in New York.  From December 13, 2012, to September 12, 2013, Podobnyy officially served as an attaché to the Permanent Mission of the Russian Federation to the United Nations.  The investigation, however, showed that Sporyshev and Podobnyy also worked as officers of the SVR.  For their roles in the charged conspiracy, Sporyshev and Podobnyy were charged along with Buryakov in January 2015.  However, Sporyshev and Podbonyy no longer lived in the United States and thus were not arrested.
+
+
 
 
 BURYAKOV’s Co-Conspirators Are Recorded Inside the SVR’s New York “Residentura”
@@ -33,13 +37,20 @@ BURYAKOV’s Co-Conspirators Are Recorded Inside the SVR’s New York “Residen
   The directives from the SVR to Buryakov, Sporyshev, and Podobnyy, as well as to other covert SVR agents acting within the United States, included requests to gather intelligence on, among other subjects, potential United States sanctions against Russian banks and the United States’ efforts to develop alternative energy resources. 
 
 
+
+
 BURYAKOV’s Intelligence Taskings
 
   Sporyshev was responsible for relaying intelligence assignments from the SVR to Buryakov.
 
+
+
+
 BURYAKOV Drafts a Proposal for the SVR’s “Active Measures Directorate”
 
   In May 2013, Sporyshev and Podbonyy were recorded discussing a proposal that Buryakov had drafted about a planned deal in which Bombardier Aircraft Company (“Bombadier”) in Canada would manufacture certain airplanes in Russia.  Sporyshev noted that Canadian “unions were resisting” and that Buryakov’s “proposal [was] for MS” – the SVR’s Active Measures Directorate – to “pressur[e] the unions and secur[e] from the company a solution that is beneficial to us.”  Other evidence developed during the investigation showed that, around the time of this conversation, Buryakov had conducted Internet searches relating to Bombardier and labor unions and, earlier, had obtained news articles regarding the planned deal and also attended a conference in Canada that Bombardier personnel also attended. 
+
+
 
 
 BURYAKOV Assists Sporyshev in Attempting to Obtain Sensitive Information About the New York Stock Exchange
@@ -47,11 +58,15 @@ BURYAKOV Assists Sporyshev in Attempting to Obtain Sensitive Information About t
   Also, on May 21, 2013, Sporyshev called Buryakov, greeted him, and then described a tasking from “top sources” relating to three questions that ITAR-TASS, a Russian news agency, could put to the New York Stock Exchange.  Sporyshev called the defendant back approximately 20 minutes later.  During the call, Buryakov proposed questions regarding (i) exchange traded funds (ETFs), including the “mechanisms of their use to destabilize the market;” (ii) “curbing of trading robot activities;” and (iii) “technical parameters” and “other regulations directly related to the exchange.”  On July 8, 2013, a purported “bureau chief” for ITAR-TASS sent an email to an employee of the New York Stock Exchange that parroted the questions that Buryakov proposed to Sporyshev.  
 
 
+
+
 BURYAKOV Assists Sporyshev in Analyzing the Effect of Sanctions
 
   Another example of an intelligence tasking occurred in late March 2014.  Specifically, on March 28, 2014, Sporyshev was recorded telling Buryakov that Sporyshev needed help researching the “effects of economic sanctions on our country,” among other things.  A few days later, on April 2, 2014, Sporyshev called Buryakov and stated, in an intercepted conversation, that he had not seen Buryakov in a while, and asked to meet Buryakov outside VEB’s office in Manhattan in 20 minutes.  A court-authorized search of Buryakov’s computer at VEB revealed that, at around the time of this telephone call, Buryakov conducted the following internet searches: “sanctions Russia consiquences” [sic] and “sanctions Russia impact.”
 
   Two days later, on April 4, 2014, Buryakov called Sporyshev and, in an intercepted conversation, stated that he (Buryakov) “wrote you an order list,” and suggested that they meet.  Approximately 20 minutes later, Sporyshev met Buryakov in the driveway of Buryakov’s home.  Their encounter, which was captured by a video surveillance camera located near Buryakov’s residence, lasted approximately two minutes.  On the video footage, the defendants appeared to exchange a small object.
+
+
 
 
 Clandestine Meetings and Communications
@@ -63,6 +78,8 @@ Clandestine Meetings and Communications
   FBI surveillance revealed that, at some of these meetings between Buryakov and Sporyshev, they exchanged documents or other small items.  Notably, despite discussing on approximately a dozen occasions the need to meet to transfer “tickets,” Buryakov and Sporyshev were – other than one occasion where they discussed going to a movie – never observed attending, or discussing in any detail, events that would typically require tickets, such as a sporting event or concert.
 
 
+
+
 BURYAKOV’s Receipt of Purported Official United States Government Documents
 
   In the summer of 2014, Buryakov met multiple times with a confidential source working for the FBI (“CS-1”) and an FBI undercover employee (“UCE-2”).  Both CS-1 and UCE-2 purported to be working on a casino development project in Russia.
@@ -72,7 +89,11 @@ BURYAKOV’s Receipt of Purported Official United States Government Documents
   During the course of the subsequent meetings, and consistent with his interests as a Russian intelligence agent, Buryakov demonstrated his strong desire to obtain information about subjects far outside the scope of his work as a bank employee.  During these meetings, Buryakov also accepted documents that were purportedly obtained from a U.S. government agency and which purportedly contained information potentially useful to Russia, including information about United States sanctions against Russia.
 
 
+
+
   * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+
 
 
   BURYAKOV, 41, pled guilty to one count of conspiring to act in the United States as an agent of the Russian Federation without providing notice to the Attorney General, which carries a maximum sentence of five years.  This statutory maximum sentence is prescribed by Congress and is provided here for informational purposes only, as any sentence imposed on the defendant will be determined by the judge.
