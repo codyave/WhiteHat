@@ -21,15 +21,15 @@ County of Offense: New York
 Southern District of New York, ss.:
 Gregory Monaghan, being duly sworn, deposes and says that he is a Special Agent with the FBI and charges as follows:
 
-COUNT ONE
+  COUNT ONE
 
-Conspiracy to Act as an Unregistered Agent of a Foreign Government
+  Conspiracy to Act as an Unregistered Agent of a Foreign Government
 
 1. From in or about 2012, up to and including the present, in the Southern District of New York and elsewhere, Evgeny Buryakov, Igor Sporyshev, and Victor Podobnyy, and others known and unknown, willfully and knowingly, did combine, conspire, confederate, and agree together and with each other to commit an offense against the United States, to wit, Title 18, United States Code, Section 951.
 
 2. It was a part and an object of the conspiracy that Evgeny Buryakov, willfully and knowingly, would and did act in the United States as an agent of a foreign government, specifically the Russian Federation, and as an agent of foreign officials, specifically intelligence agents working in New York City for the Russian Federation's Foreign Intelligence Service (the "SVR"), without prior notification to the Attorney General, as required by law, in violation of Title 18, United States Code, Section 951.
 
-Overt Acts
+  Overt Acts
 
 3. In furtherance of this conspiracy, and to effect the illegal object thereof, the following overt acts, among others, were committed in the Southern District of New York:
 
@@ -37,9 +37,9 @@ a. From at least in or about March 2012, up to and including in or about Septemb
 
 b. On or about May 23, 2013, Igor Sporyshev and Victor Podobnyys, during a recorded conversation that occurred within a secure office in Manhattan used by SVR agents to send and receive intelligence reports and assignments from Moscow, discussed transmitting to SVR headquarters in Moscow intelligence gathered by Buryakov from "confidential talks" in which he participated under the cover of his position as a banker (Title 18, United States Code, Section 371).
 
-COUNT TWO
+  COUNT TWO
 
-Acting as an Unregistered Agent of a Foreign Government
+  Acting as an Unregistered Agent of a Foreign Government
 
 4. From in or about 2012, up to and including the present, in the Southern District of New York and elsewhere, Evgeny Buryakov, did knowingly act in the United States as an agent of a foreign government, specifically the Russian Federation, and as an agent of foreign officials, specifically intelligence agents working in New York City for the SVR, without prior notification to the Attorney General, as required by law, and Igor Sporyshev and Victor Podobnyy did aid and abet the same, in violation of Title 18, United States Code, Sections 951 and 2.
 
