@@ -1,10 +1,10 @@
-| 2001_01_09 | DOJ forms Enron Task Force, led by Lisa Monaco, Andrew Weissmann, James Comey, Christopher Wray, and Robert Mueller
+| 2001_Jan_09 | DOJ forms Enron Task Force, led by Lisa Monaco, Andrew Weissmann, James Comey, Christopher Wray, and Robert Mueller
 | 2005_08_04 | WSJ: "Deputy Attorney General Comey To Take Post at Lockheed Martin"
 | 2006_??_?? | Manafort receives pro-Putin payments (~$75m) from 2006-14
 | 2006_08_29 | John McCain celebrates his 70th birthday in Montenegro on a yacht owned by Oleg Deripaska, published by The Nation
 | 2006_09_12 | At DOJ Annual Awards Ceremony, Enron Task Force is given full honors. In attendance is Aaron Zebley, David Laufman, and Sally Yates
 | 2008_06_01 | Hillary's Apple server (runs until March 2009)
-| 2008_01_01 | Victor Pinchuk, Ukraine oligarch, pledges five-year, $29-million commitment to the Clinton Global Initiative
+| 2008_Jan_01 | Victor Pinchuk, Ukraine oligarch, pledges five-year, $29-million commitment to the Clinton Global Initiative
 | 2009_??_?? | Jonathan Finer befriends Christopher Steele, according to a 2018-Feb-8 WaPo op-ed
 | 2009_??_?? | Deripaska courted by FBI agents (one is McCabe) to assist in recovery of CIA agent Levinson in Iran
 | 2009_03_06 | Reuters: "Clinton, Lavrov push wrong reset button on ties"
@@ -25,7 +25,7 @@
 | 2012_11_06 | BBC: "President Barack Obama defeats Romney to win re-election"
 | 2012_11_09 | The Guardian: "CIA director David Petraeus resigns over 'unacceptable' extramarital affair"
 | 2012_12_12 | Reuters: "HSBC to pay $1.9 billion U.S. fine in money-laundering case"
-| 2013_01_30 | HSBC.com: "Former US Deputy Attorney General joins HSBC Board"
+| 2013_Jan_30 | HSBC.com: "Former US Deputy Attorney General joins HSBC Board"
 | 2013_03_?? | Justin Cooper gives Monica Hanley MacBook laptop, remotely transfers HRC emails to Apple mail program
 | 2013_03_08 | NPR: "John Brennan Is Sworn In As CIA Director"
 | 2013_06_?? | Carter Page meets with FBI at New York's Plaza Hotel regarding ongoing investigation
@@ -38,7 +38,7 @@
 | 2013_11_11 | MSNBC: "Why bring Miss Universe to Moscow?"
 | 2013_11_24 | The Guardian: "Ukrainian protesters flood Kiev after president pulls out of EU deal"
 | 2013_12_?? | Trump meets with GOP county chairs in Trump Tower, says he'll win 2016 nomination [see: Feb 1, 2016 Politico article]
-| 2014_01_27 | Lawfare: "Jim Baker Appointed as FBI General Counsel"
+| 2014_Jan_27 | Lawfare: "Jim Baker Appointed as FBI General Counsel"
 | 2014_02_?? | Monica Hanley uploads HRC email archives to PRN server from MacBook laptop, fails. Laptop shipped to Combetta's house, emails transferred to PRN server, laptop shipped back, but gets "lost"
 | 2014_02_13 | Buzzfeed: "36 Hours On The Fake Campaign Trail With Donald Trump"
 | 2014_02_20 | NYT: "E.U. Imposes Sanctions Despite Russian Criticism"
@@ -55,8 +55,8 @@
 | 2014_07_31 | NYT reports CIA internal investigation, finds one of its officers penetrated a computer network used by SSCI in preparing a report on CIA's detention and interrogation program
 | 2014_08_07 | Gen. Flynn resigns from Defense Intelligence Agency
 | 2014_08_22 | NYMag: "Russia Inching Closer to War in Ukraine With Convoy ‘Invasion’"
-| 2015_01_26 | Shimon Prokupecz: "FBI in New York has arrested a man for acting as a Russian Spy collecting Intel in the Bronx."
-| 2015_01_28 | DailyMail: "License to BILL - Russian 'undercover agent' accused of being part of Kremlin spy ring in New York is a former Moscow tax inspector"
+| 2015_Jan_26 | Shimon Prokupecz: "FBI in New York has arrested a man for acting as a Russian Spy collecting Intel in the Bronx."
+| 2015_Jan_28 | DailyMail: "License to BILL - Russian 'undercover agent' accused of being part of Kremlin spy ring in New York is a former Moscow tax inspector"
 | 2015_02_09 | Senate forms Ukrainian caucus to further Ukrainian interests. John McCain is a member.
 | 2015_03_02 | NYT: "Hillary Clinton Used Personal Email Account at State Dept., Possibly Breaking Rules"
 | 2015_03_25 | Combetta, Bleachbit
@@ -92,15 +92,15 @@
 | 2015_12_15 | Dana Boente confirmed EDVA U.S. Attorney
 | 2015_12_18 | Bernie campaign staffers alleged to have improper access of DNC voter data after outside firm NGP VAN unintentionally caused "dropped firewall"
 | 2015_12_?? | GCHQ picks up intelligence about Trump associates connected to Russians (later revealed in 2017 in The Guardian)
-| 2016_01_?? | Mikk Marran confirmed as Director General of the Estonian Foreign Intelligence Service
-| 2016_01_04 | Natalia Veselnitskaya's U.S. visa parole extension request is denied
-| 2016_01_06 | Mis Department Inc. IT help desk technician, Yared Tamene, meets with FBI agent Hawkins (and later between January and March) to install "a robust set of monitoring tools"
-| 2016_01_07 | Natalia Veselnitskaya's U.S. visa parole expires
-| 2016_01_11 | DOJ sends letter Aaron Zebley, where the DOJ memorializes their agreement that Zebley will back-up all relevant email communications
-| 2016_01_11 | Zebley gives the data to Hillary lawyers and informs the DOJ (per their agreement).
-| 2016_01_15 | Alexandra Chalupa warns DNC about Paul Manafort
-| 2016_01_28 | Reception for the Cuba Consortium hosted at the Cuban Embassy in Washington is attended by Daniel Jones and Ben Rhodes
-| 2016_01_29 | FBI.gov: "Andrew McCabe Named Deputy Director of the FBI"
+| 2016_Jan_?? | Mikk Marran confirmed as Director General of the Estonian Foreign Intelligence Service
+| 2016_Jan_04 | Natalia Veselnitskaya's U.S. visa parole extension request is denied
+| 2016_Jan_06 | Mis Department Inc.'s Yared Tamene meets with FBI agent Hawkins to install "a robust set of monitoring tools"
+| 2016_Jan_07 | Natalia Veselnitskaya's U.S. visa parole expires
+| 2016_Jan_11 | DOJ sends letter Aaron Zebley, where the DOJ memorializes their agreement that Zebley will back-up all relevant email communications
+| 2016_Jan_11 | Zebley gives the data to Hillary lawyers and informs the DOJ (per their agreement).
+| 2016_Jan_15 | Alexandra Chalupa warns DNC about Paul Manafort
+| 2016_Jan_28 | Reception for the Cuba Consortium hosted at the Cuban Embassy in Washington is attended by Daniel Jones and Ben Rhodes
+| 2016_Jan_29 | FBI.gov: "Andrew McCabe Named Deputy Director of the FBI"
 | 2016_02_?? | Steele admonished by FBI (what in the world does this mean?), per August 8, 2018 Judicial Watch FOIA request
 | 2016_02_01 | Politico: "How Trump Did It"
 | 2016_02_04 | Email mentioned in 2017-11-14 Senate Judiciary Committee hearing details dinner plans among Rinat Akhmetshin, Glenn Simpson, and Natalia Veselnitskaya (presumably about the Prevezon case)
@@ -163,25 +163,25 @@
 | 2016_04_18 | Vanity Fair: "Rupert Murdoch's new libertarian web site comes out swinging at Jane Sanders"
 | 2016_04_18 | Mifsud connects Papadopoulos with Ivan Timofeev
 | 2016_04_19 | Mary Jacoby signs visitor guestbook at White House
-| 2016_04_19 | Andrea Chalupa: "Exciting day: Paul Manafort resigned from the Trump campaign and will likely face an investigation for not declaring being a foreign agent while lobbying for Yanukovych and his party."
-| 2016_04_?? | Brennan receives tape recording from a Baltic state showing Kremlin money going into a presidential campaign (Trump campaign not specified), reports BBC's Paul Wood
-| 2016_04_?? | Brennan creates two task forces to get around problem of being unable to act domestically - the Domestic task force (FBI, DOJ and Treasury) and the Foreign task force (CIA, ODNI and NSA)
+| 2016_04_19 | Andrea Chalupa: "Paul Manafort resigned...likely face an investigation for not declaring being a foreign agent."
+| 2016_04_?? | Brennan receives Baltic tape showing Kremlin money going into a presidential campaign [see: Jan 27, 2017 BBC article]
+| 2016_04_?? | Brennan creates two task forces - Domestic task force (FBI, DOJ, Treasury) and Foreign task force (CIA, ODNI, NSA)
 | 2016_04_22 | Russian intel prepares massive amount of data for exfiltration from DNC servers
-| 2016_04_25 | Isikoff publishes "Trump's campaign chief is questioned about ties to Russian billionaire" on April 25 about Manafort, while Papadopoulos sends e-mails set up a meeting between Russia and Trump
+| 2016_04_25 | Yahoo: "Trump's campaign chief is questioned about ties to Russian billionaire"
 | 2016_04_25 | Obama For America begins paying funds into Perkins Coie for "legal services"
-| 2016_04_26 | Mifsud tells Papadopoulos about Russian officials who have damaging material on HRC (Pdop will falsely tell FBI he learned of this information before joining the Trump campaign)
+| 2016_04_26 | Mifsud tells Papadopoulos about Russian officials who have damaging material on HRC
 | 2016_04_26 | Michael Isikoff reports on Paul Manafort connections to a billionaire Russian oligarch
 | 2016_04_27 | Politico: "How Donald Trump became the Kremlin's Candidate"
 | 2016_04_27 | Bruno Kahl nominated to be President of the Federal Intelligence Service in Germany
 | 2016_04_27 | Papadopoulos sends email to Lewandowski, refers to possible meetings with Russian officials
-| 2016_04_28 | Alexandra Chalupa invited to discuss her research about Paul Manafort with 68 investigative journalists from Ukraine at Library of Congress for Open World Leadership Center
-| 2016_04_28 | DNC detects infiltration of GRU ("Fancy Bear"), FBI not informed, Michael Sussman (Perkins Coie) summoned to emergency meeting
+| 2016_04_28 | Alexandra Chalupa invited to Ukraine at Library of Congress for Open World Leadership Center discuss Manafort research
+| 2016_04_28 | DNC detects infiltration of GRU ("Fancy Bear"), FBI not informed, Michael Sussman summoned to emergency meeting
 | 2016_04_29 | WaPo: "Sanders campaign drops lawsuit against DNC stemming from December data breach"
-| 2016_04_30 | Strzok texts Page, "And now we've switched from the Patriot Act to a wire carrying current."
-| 2016_05_?? | Roger Stone and Michael Caputo solicited by Russian national and known FBI informant Henry Greenberg (Henry Oknyansky), as well as an allegedly fired Clinton Foundation staffer who goes by the name Alexei
+| 2016_04_30 | Strzok:"And now we've switched from the Patriot Act to a wire carrying current."
+| 2016_05_?? | Stone and Caputo approached by Henry Greenberg (Oknyansky) [see: June 17, 2018 CNN article]
 | 2016_05_?? | Stefan Halper communicates with Steele, according to Yaacov Appelbaum
-| 2016_05_03 | Alexandra Chalupa emails DNC that she’ll share sensitive info about Paul Manafort “offline” including “a big Trump component…that will hit in next few weeks.
-| 2016_05_04 | Papadopoulos forwards an email he receives from Ivan Timofeev (Mifsud associate) to Corey Lewandowski, Sam Clovis and other members of the Trump campaign
+| 2016_05_03 | Alexandra Chalupa emails DNC about sharing info “offline”, “a big Trump component…that will hit in next few weeks."
+| 2016_05_04 | Papadopoulos forwards Timofeev email to Lewandowski, Sam Clovis, other members of the Trump campaign
 | 2016_05_04 | Sussman calls CrowdStrike's Shawn Henry regarding DNC server
 | 2016_05_05 | Politico: "When Donald Trump brought Miss Universe to Moscow"
 | 2016_05_05 | CrowdStrikes installs FalcoHost software in DNC servers
@@ -196,20 +196,20 @@
 | 2016_05_19 | D.C. Judge Rudolph Contreras appointed to FISC
 | 2016_05_21 | Papadopoulos emails a senior Trump campaign official that begins "Request from Russia to meet Mr. Trump" 
 | 2016_05_23 | Nellie Ohr obtains ham radio license
-| 2016_05_25 | FBI interviews Secret Service agent, SSA says he was asked for help w/HRC's private server by Justin Cooper and Bryan Pagliano
-| 2016_05_25 | Natalia Veselnitskaya submits an application for a US entry visa (did Robert Otto in State Dept flag this for expediting, Strzok possibly notified?)
+| 2016_05_25 | Secret Service agent interviewed by FBI, says Justin Cooper and Bryan Pagliano asked for help w/HRC's private server
+| 2016_05_25 | Veselnitskaya submits application for US entry visa
 | 2016_05_25 | ABC News: "Russian Spy Who Posed as Manhattan Banker Is Heading to Prison"
 | 2016_05_25 | @USAttyBharara: "Banker by day, Russian agent by night. Buryakov sentenced for conspiracy to 30 mths in prison"
 | 2016_05_26 | Trump locks in necessary 1,237 delegates after winning Indiana primary
-| 2016_05_31 | Natalia Veselnitskaya receives confirmation that she is to be interviewed for a B1 visa within the Moscow Business/Tourism/Crew/Journalist category
-| 2016_06_?? | (late spring/early summer?) In a highly-classified memo, Loretta Lynch allegedly assures Amanda Renteria that the DOJ would not allow the FBI to look too far into the investigation of Hillary's emails
-| 2016_06_01 | Natalia Veselnitskaya arrives at the U.S. Embassy in Moscow for an interview
-| 2016_06_?? | Sergei Skripal visits Estonian intelligence officers, arranged by British intelligence (alleged Kremlin bribe intercepted by Estonian intel?)
+| 2016_05_31 | Veselnitskaya receives confirmation for an interview regarding her B1 visa application
+| 2016_06_?? | Loretta Lynch allegedly assures Amanda Renteria that DOJ won't allow FBI to look too far into Hillary's emails
+| 2016_06_01 | Veselnitskaya arrives at the U.S. Embassy in Moscow for an interview
+| 2016_06_?? | Sergei Skripal visits Estonian intelligence officers, arranged by British intelligence
 | 2016_06_?? | Steele flies to Rome to brief FBI agent Gaeta about dossier
-| 2016_06_?? | Natalia Veselnitskaya granted permission from US Government to visit US on B-status non-immigrant visa (waiver possibly expedited by Strzok, per Michael R. Caputo)
+| 2016_06_?? | Veselnitskaya granted permission from US Government to visit US on B-status non-immigrant visa
 | 2016_06_03 | Rob Goldstone begins emailing Don Jr
-| 2016_06_?? | (June 4th) Glenn Simpson meets with Steele at Heathrow to commission work, according to "Russian Roulette"
-| 2016_06_06 | Veselnitskaya receives 3-year B1 visa (normally, B1 visas are good for up to only 1 year)
+| 2016_06_04 | Glenn Simpson meets with Steele at Heathrow to commission work [see: "Russian Roulette"]
+| 2016_06_06 | Veselnitskaya receives 3-year visa
 | 2016_06_06 | Browder forwards email to Kyle Parker about Veselnitskaya's London residence
 | 2016_06_07 | Kyle Parker forwards Browder email to Robert Otto at State
 | 2016_06_07 | Paul Manafort was not wiretapped by the FBI at this time
@@ -248,62 +248,63 @@
 | 2016_07_?? | DOJ/NSD submit narrowed FISA application (still on two Russian banks?), fails again
 | 2016_07_?? | Unmasking of Trump officials increases
 | 2016_07_01 | Bruno Kahl confirmed as President of the Federal Intelligence Service in Germany
-| 2016_07_01 | Steele writes to Bruce Ohr, “There is something separate I wanted to discuss with you informally and separately. It concerns our favourite business tycoon!” (apparent reference to Trump)
+| 2016_07_01 | Steele: “something separate I wanted to discuss with you...It concerns our favourite business tycoon!”
 | 2016_07_02 | Hillary interviewed by FBI agents
 | 2016_07_03 | Bruce Ohr schedules a Skype call with Steele
 | 2016_07_04 | "Putin's Puppet" is published in Slate, by Franklin Foer
 | 2016_07_05 | FBI agent Gaeta meets Steele in London, receives copy of Steele's memo, says he has to notify headquarters
 | 2016_07_05 | Comey defers HRC prosecution recommendation
-| 2016_07_06 | Guccifer 2.0 releases stolen DNC documents, including DNC strategy documents related to the DNC’s “counter-convention” to the RNC convention
+| 2016_07_06 | Guccifer 2.0 releases stolen DNC documents
 | 2016_07_07 | Manafort writes in an email, "If he needs private briefings, we can accomodate", allegedly referring to Oleg Deripaska
 | 2016_07_07 | Carter Page travels to Moscow on a campaign-approved visit to deliver a lecture at the prestigious New Economic School
-| 2016_07_07 | IC IG McCullough testifies before HPSCI that he can not provide committee with certain segment of HRC's emails because it would be too sensitive to discuss in public hearing
+| 2016_07_07 | IC IG McCullough testifies before HPSCI that he can not provide some segment of HRC's emails
 | 2016_07_08 | Carter Page invited to the Race to Change the World Symposium by a University of Cambridge doctoral candidate
-| 2016_07_11 | Carter Page travels to the Race to Change the World conference, where he meets Stefan Halper, who tells Page that he knew Paul Manafort
+| 2016_07_11 | Carter Page travels to the Race to Change the World conference
 | 2016_07_11 | Elizabeth Dibble submits referral to the FBI about Downer-Papadopoulos bar conversation
-| 2016_07_13 | Lisa Page: "Hey, let me ask what Baker what the meeting with Fine was about. It might be better not to get Jim deep in the facts of this yet..."
-| 2016_07_?? | Victoria Nuland says she first glimpsed Steele dossier mid-July, according to SSCI open hearing
+| 2016_07_13 | Page: "let me ask Baker what the meeting with Fine was about...be better not to get Jim deep in the facts of this yet"
+| 2016_07_?? | Nuland's claim of when she says she first glimpsed Steele dossier
 | 2016_07_15 | Arsen Avakov tweets criticisms of Trump and Manafort, calls Trump “an even bigger danger to the US than terrorism.”
 | 2016_07_15 | Arseny Yatseniuk writes on Facebook that Trump has challenged the very values of the free world
 | 2016_07_18 | GOP convention in Ohio begins
 | 2016_07_19 | Lisa Monaco meets Clapper and Tonya Ugoretz at ODNI
 | 2016_07_19 | Brennan attends the Leadership Dinner at the Intelligence and National Security Alliance in McLean, Virginia
-| 2016_07_19 | Steele memo: "Source E, an ethnic Russian" and "close associate of Trump" alleges that the "Russian regime" had been behind the DNC emails "to the Wikileaks platform."
+| 2016_07_19 | Steele memo: "Source E, an ethnic Russian", "close associate of Trump", "Russian regime" behind DNC emails to WikiLeaks
 | 2016_07_19 | Trump becomes official GOP nominee
 | 2016_07_20 | WFO and Office of General Counsel review Dibble referral, set up meeting with higher ups including Comey and Lynch
 | 2016_07_22 | WikiLeaks disseminates stolen DNC documents, including emails and other sensitive proprietary documents
-| 2016_07_22 | Papadopoulos messages Ivan Timofeev through Facebook, asks if "knew a particular individual with extensive ties to Russian-based businesses and persons."
-| 2016_07_22 | Reportedly out of the blue, Sergei Millian messages Papadopoulos on LinkedIn (the two would go on to become fast friends, and met several times afterwards)
+| 2016_07_22 | Papadopoulos dm's Timofeev, asks if he "knew a particular individual with extensive ties to Russian-based businesses"
+| 2016_07_22 | Millian messages Papadopoulos on LinkedIn
 | 2016_07_22 | Australia supposedly tells the FBI of Papadopoulos’ comments to Downer from May 10, 2016.
+| 2016_07_24 | WaPo: "Clinton campaign — and some cyber experts — say Russia is behind email release"
 | 2016_07_25 | Page and Strzok text each other about Strzok's relationship to Judge Rudolph Contreras
-| 2016_07_26 | Steele files another memo, this time placing the blame of the DNC hacks on Russia, two days after Robby Mook said the same on ABC, who cites CrowdStrike as his source
+| 2016_07_26 | Steele memo filed, blames DNC hacks on Russia
 | 2016_07_26 | Obama signs directive, places FBI in charge of all cyber threats
 | 2016_07_26 | At press conference, Trump says, "Russia, I hope you can find Hillary's missing emails"
 | 2016_07_26 | Alexandra Chalupa leaves the DNC to work full-time on her research into Manafort, Trump and Russia; and provides off-the-record guidance to a lot of journalists.
 | 2016_07_27 | Trump states he would recognise Moscow’s annexation of Crimea
 | 2016_07_27 | Comey and Lynch "CI Threat" briefing, Lisa Page and Jon Moffa there.
 | 2016_07_27 | Aspen Security Forum
-| 2016_07_?? | Bruce Ohr is in contact with Steele days before Crossfire Hurricane begins, engages Steele as a "confidential human source"
+| 2016_07_?? | Bruce Ohr in contact with Steele days before Crossfire Hurricane begins, engages Steele as "confidential human source"
 | 2016_07_29 | Steele likely arrives in DC late afternoon/evening
-| 2016_07_30 | Bruce Ohr (accompanied by Nellie) meet with Christopher Steele in Washington at the Mayflower Hotel, Steele later follows up with a text and says to keep in touch, also says Glenn Simpson would like to help
-| 2016_07_31 | Meet the Press questions Manafort on RNC platform changes for Ukraine (also part of dossier, included in Carter Page FISA)
+| 2016_07_30 | Bruce and Nellie Ohr meet Steele in DC Mayflower Hotel
+| 2016_07_31 | Meet the Press questions Manafort on RNC platform changes for Ukraine
 | 2016_07_31 | Crossfire Hurricane officially begins
-| 2016_08_?? | Belarusian woman, Nastya Rybka, posts photos and videos to her Instagram of her and Oleg Deripaska, as well as Sergei Prikhodko (deputy prime minister and top foreign policy advisor) on Deripaska's yacht
-| 2016_08_02 | Two FBI agents (Strzok and ??) in London send summary to Washington of an interview with Alexander Downer wrt Papadopolous
-| 2016_08_03 | George Nader, alongside Joel Zamel, meets with Donald Trump, Jr. to offer their services to use Zamel's company, Psy-Group, with the election
-| 2016_08_04 | Ukranian Ambassador Valeriy Chaly writes op-ed against Trump
-| 2016_08_04 | Brennan phones FSB's head of intelligence, Alexander Bortnikov, says to cease further interference in U.S. elections. Bortnikov denies Brennan's allegation
+| 2016_08_?? | Nastya Rybka posts photos and videos to her Instagram of her and Oleg Deripaska, as well as Sergei Prikhodko
+| 2016_08_02 | Two FBI agents (Strzok and ??) in London send interview summary of Downer and Papadopoulos to DC
+| 2016_08_03 | George Nader, alongside Joel Zamel, meets Donald Trump, Jr., offers use of Zamel's company, Psy-Group
+| 2016_08_04 | The Hill: "Ukraine's ambassador: Trump's comments send wrong message to world"
+| 2016_08_04 | Brennan contacts Alexander Bortnikov, head of FSB intel, says to cease further interference in U.S. elections
 | 2016_08_05 | WaPo: "Trump adviser’s public comments, ties to Moscow stir unease in both parties" (focuses on Carter Page)
 | 2016_08_05 | Strzok, quoting an unnamed official ("L.C."?): "the White House is running this"
-| 2016_08_06 | Obama orders WH aides to seek bipartisan support from Congress condemning Moscow and to urge states to accept federal help wrt securing election sites
+| 2016_08_06 | Obama seeks bipartisan support condemning Moscow and to urge states to accept federal help wrt securing election sites
 | 2016_08_06 | Hillary tweets first video questioning Trump's relationship to Russia
-| 2016_08_08 | John Schinder publishes an article "Did NSA Try to Destroy Hillary Clinton" in The Observer
-| 2016_08_08 | Lisa page texts Strzok "he's not ever going to be president, right? Right?"
+| 2016_08_08 | The Observer: "Did NSA Try to Destroy Hillary Clinton"
+| 2016_08_08 | Page: "he's not ever going to be president, right? Right?"
 | 2016_08_11 | Clapper visits Estonia
 | 2016_08_11 | Brennan personally briefs Reid, McConnell, Feinstein, Burr, Ryan, Pelosi, Nunes, and Schiff wrt Russian hacking attempts
-| 2016_08_12 | Matthew Axelrod (deputy to Sally Yates) contacts McCabe, says FBI agents at NY Field Office "seemed to be disregarding or disobeying their instructions" wrt Clinton Foundation investigation
-| 2016_08_13 | Lisa Page: "I'm going to forward to Koran. God, makes me want to tell state to go f it." Strzok: "And yeah, States BS just makes me want to include those additional 302s. But that's just vindictiveness talking."
-| 2016_08_14 | Secret Manafort ledger found by Ukrainian government, reports NYT
+| 2016_08_12 | Matthew Axelrod contacts McCabe, says FBI agents at NY Field Office "seemed to be disregarding or disobeying their instructions" wrt Clinton Foundation investigation
+| 2016_08_13 | Lisa Page: "I'm going to forward to Kortan. God, makes me want to tell state to go f it." Strzok: "And yeah, States BS just makes me want to include those additional 302s. But that's just vindictiveness talking."
+| 2016_08_15 | NYT: "Secret Ledger in Ukraine Lists Cash for Donald Trump's Campaign Chief"
 | 2016_08_15 | DOH's Jeh Johnson calls state officials to gain support for election defense, but was met with "a wall of resistance"
 | 2016_08_15 | Strzok and Page discuss "insurance policy"
 | 2016_08_16 | Rick Gates interviewed by FBI, provides misleading info about interactions with Mercury
@@ -549,6 +550,7 @@
 | 2017_01_26 | FBI interviews Papadopoulos (no lawyer present), Pdop is claimed to have said he met Mifsud before joining the Trump campaign (he met Mifsud afterwards)
 | 2017_01_26 | Trump at GOP Retreat: "Where is Pompeo? Where the hell is he? Did he ever come here? Oh, he's working!"
 | 2017_01_26 | Sally Yates travels to the White House with Mary McCord to discuss Gen. Flynn
+| 2017_01_27 | BBC: "Trump 'compromising' claims: How and why did we get here?"
 | 2017_01_27 | Sally Yates returns to the White House for a second discussion about Gen. Flynn
 | 2017_01_27 | FBI (Strzok?) interviews Papadopoulos
 | 2017_01_27 | FBI interviews Bruce Ohr (Ohr FD-302 January 27, 2017)
@@ -868,6 +870,7 @@
 | 2018_06_12 | Stalkerzone.org: "Andrey Telizhenko: I Was Told Directly that the Task Was to Remove Trump from the Elections"
 | 2018_06_13 | Politico: "White House counsel McGahn recused his office from Mueller probe"
 | 2018_06_14 | CNN: "Key dates in the FBI probe of Hillary Clinton's emails"
+| 2018_06_17 | CNN: "Former Trump operative Roger Stone met with Russian who wanted $2M for Clinton dirt"
 | 2018_06_19 | New York Post: "House GOPer unmasks identities of anti-Trump FBI agents"
 | 2018_07_03 | CNN: "New York Times DC reporter who dated Senate intelligence staffer reassigned to New York"
 | 2019_07_09 | Radio Free Europe: "Russian Tycoon Deripaska Wins Million-Ruble Claim Against 'Nastya Rybka,' 'Sex-Guru' Partner"
