@@ -751,6 +751,7 @@
 | 2017_Aug_16 | Strzok demoted to FBI Human Resources
 | 2017_Aug_22 | Glenn Simpsons testifies in closed-door hearing with SSCI
 | 2017_Aug_27 | CNN: "FBI arrests Chinese national connected to malware used in OPM data breach"
+| 2017_Aug_28 | NYT: "Trump Associate Boasted That Moscow Business Deal ‘Will Get Donald Elected’"
 | 2017_Sep_05 | NYT: "At CNN, Retracted Story Leaves an Elite Reporting Team Bruised"
 | 2017_Sep_06 | The Daily Caller: "Police report indicates Wasserman Schultz IT aide planted computer for investigators to find"
 | 2017_Sep_14 | Carter Page files defamation lawsuit against OATH, Inc. and Broadcasting Board of Governors in SDNY
