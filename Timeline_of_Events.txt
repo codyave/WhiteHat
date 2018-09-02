@@ -771,6 +771,7 @@
 | 2017_Oct_30 | Court unseals Papadopoulos case, documents show he sent multiple emails to Trump campaign about Russia
 | 2017_Oct_30 | Steele: "I now understand and appreciate what you were talking about on Saturday." (Saturday is October 28)
 | 2017_Oct_30 | Press release of Mueller indictment against Manafort, Podesta Group, Mercury LLC
+| 2017_Oct_30 | Vanity Fair: "Carter Page gives another 'awesomely stupid' interview"
 | 2017_Nov_01 | La Repubblica: Mifsud says Papadopoulos is mistaken, says he never said anything about dirt or emails on Hillary
 | 2017_Nov_02 | Carter Page says he was warned of Steele's targeting by Sep 2016, in a CNN interview with Jake Tapper
 | 2017_Nov_08 | Glenn Simpson testifies in a closed-door hearing before HPSCI
@@ -842,6 +843,7 @@
 | 2018_Mar_28 | Fox News: "DOJ Inspector General reviews alleged FISA abuses by DOJ, FBI"
 | 2018_Mar_28 | The Intercept: "Department of Justice charges whistleblower under espionage act"
 | 2018_Mar_30 | Greg Brower (FBI Assistant Director for the Office of Congressional Affairs) resigns
+| 2018_Mar_30 | MSNBC: "Carter Page returns to All In"
 | 2018_Apr_03 | CBS News: "Rod Rosenstein outlined scope for special counsel probe in August 2017"
 | 2018_Apr_05 | CNN: "Mueller using information related to searches of Manafort's belongings for ongoing investigation"
 | 2018_Apr_05 | CNN: "Sex coach who claims to have US election dirt charged with prostitution"
