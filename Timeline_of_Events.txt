@@ -591,6 +591,7 @@
 | 2017_Mar_07 | Steele: "concerned by the Grassley letter and it's possible implications for us, our operations, and our sources."
 | 2017_Mar_07 | WikiLeaks: "Vault 7 Part 1 'Year Zero': Inside the CIA's global hacking force"
 | 2017_Mar_09 | WaPo: "House Intelligence Committee chiefs ask Justice for proof of wiretaps on Trump"
+| 2017_Mar_09 | CNN: "Sources: FBI investigation continues into 'odd' computer link between Russian bank and Trump Organization"
 | 2017_Mar_11 | CNN: "Ukraine lawyer seeks probe of alleged hacked texts of Manafort's daughter"
 | 2017_Mar_11 | Bharara: "I did not resign. Moments ago I was fired."
 | 2017_Mar_14 | CNN: "Justice department asks for more time to collect evidence on Trump wiretap claims"
