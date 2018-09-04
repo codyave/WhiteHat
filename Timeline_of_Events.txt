@@ -539,7 +539,7 @@
 | 2017_Jan_20 | Brennan resigns
 | 2017_Jan_20 | Loretta Lynch resigns
 | 2017_Jan_20 | Susan Rice sends herself an email about January 5th Oval Office meeting
-| 2017_Jan_23 | Pompeo confirmed as CIA Director by Senate 66-32
+| 2017_Jan_23 | @markknoller: "Senate votes 66-31 to confirm Mike Pompeo as CIA Director"
 | 2017_Jan_23 | FBI reports nothing unlawful in content of Flynn call
 | 2017_Jan_23 | Strzok: "I can feel my heart beating harder...THIS has the potential to go fully off the rails."
 | 2017_Jan_23 | Peter Strzok and FBI Agent Pientka interview Gen. Flynn without notice
