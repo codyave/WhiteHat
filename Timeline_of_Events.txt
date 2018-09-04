@@ -119,6 +119,7 @@
 | 2016_Mar_08 | Loretta Lynch defers a future seat on the Supreme Court
 | 2016_Mar_09 | DOJ oversight personnel discover they had disclosed raw FISA information to private contractors
 | 2016_Mar_09 | "need to try to fix a HUGE who f-up"
+| 2016_Mar_09 | Reuters: "FBI penetrated New York-based Russian spy ring using hidden recorders"
 | 2016_Mar_10 | First phishing attempts made against the Clinton Campaign, all but one bounce back unopened
 | 2016_Mar_11 | Second round of phishing attempts, this time to senior Clinton officials
 | 2016_Mar_11 | Michelle Fields files charges against Corey Lewandowski
