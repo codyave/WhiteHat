@@ -375,6 +375,7 @@
 | 2016_Oct_?? | Kerry aides produce "action memo", includes relatiatory measures against Russia, not published till election night
 | 2016_Oct_01 | FBI goes to Rome to ask Steele about contact with Papadopoulos (Steele denies contact)
 | 2016_Oct_03 | NY FBI confiscates Weiner laptop, iPad, phone, wifi router
+| 2016_Oct_03 | Roger Stone allegedly dines with an associate of Julian Assange (Waldman?)
 | 2016_Oct_06 | WaPo hosts Cybersecurity Summit, attended by Lisa Monaco, Ellen Nakashima, and DNC's Michael Sussmann
 | 2016_Oct_07 | Homeland Security and ODNI blame Russia for DNC leaks, Podesta emails, Guccifer 2.0 (Comey declines to attach his name)
 | 2016_Oct_07 | Susan Rice summons Ambassador Kislyak to the White House to relay a message to Vladimir Putin
@@ -385,6 +386,7 @@
 | 2016_Oct_09 | Mueller joins Booz Allen Hamilton after Shadow Brokers investigation found NSA contractor Harold Martin stole documents
 | 2016_Oct_09 | Podesta speaks with the FBI, who tells him his emails are being investigated
 | 2016_Oct_10 | Pence: "Delicious stop at Tony's Ice Cream, a family-owned-and-operated small business in downtown Gastonia, NC"
+| 2016_Oct_12 | CBS: "Trump Ally Roger Stone Admits ‘Back-Channel’ Tie To WikiLeaks"
 | 2016_Oct_13 | Trump delivers "Slings and Arrows" speech in Florida
 | 2016_Oct_14 | Yahoo: "Former CIA director accuses Trump allies of 'working on behalf of the Russians'"
 | 2016_Oct_14 | Michael McFaul tweets about bumping into Ambassador Kislyak at the White House
