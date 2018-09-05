@@ -898,6 +898,7 @@
 | 2018_Jun_14 | CNN: "Key dates in the FBI probe of Hillary Clinton's emails"
 | 2018_Jun_17 | CNN: "Former Trump operative Roger Stone met with Russian who wanted $2M for Clinton dirt"
 | 2018_Jun_19 | New York Post: "House GOPer unmasks identities of anti-Trump FBI agents"
+| 2018_Jun_20 | The Guardian: "US lobbyist for Russian oligarch visited Julian Assange nine times last year"
 | 2018_Jul_03 | CNN: "New York Times DC reporter who dated Senate intelligence staffer reassigned to New York"
 | 2018_Jul_07 | The Hill: "Memos detail FBI's 'Hurry the F up pressure' to probe Trump campaign"
 | 2018_Jul_09 | Radio Free Europe: "Russian Tycoon Deripaska Wins Million-Ruble Claim Against 'Nastya Rybka,' 'Sex-Guru' Partner"
