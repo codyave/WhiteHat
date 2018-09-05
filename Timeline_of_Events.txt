@@ -138,7 +138,7 @@
 | 2016_Mar_24 | Papadopoulos sends email ("Meeting with Russian Leadership -- including Putin") to Trump campaign
 | 2016_Mar_24 | Papadopoulos meets with Mifsud, Putin's "niece" introduced
 | 2016_Mar_25 | Alexandra Chalupa makes prediction and warns Ukraine’s ambassador to the U.S. about Paul Manafort
-| 2016_Mar_25 | Bill Browder first tweets about Carter Page
+| 2016_Mar_25 | @billbrowder: "Carter Page is completely out of his mind in relation to Russia "
 | 2016_Mar_26 | Page texts Strzok, "You get all our oconus lures approved? ;)"
 | 2016_Mar_28 | Manafort joins Trump campaign (FISA on him had expired shortly prior to joining campaign)
 | 2016_Mar_29 | Strzok texts Lisa Page about an article explaining Combetta's use of BleachBit
@@ -762,7 +762,7 @@
 | 2017_Aug_10 | FBI delivers to OIG Nov 2016 - Jul 28, 2017 Strzok/Page texts [see: Dec 13, 2017 Horowitz letter to Grassley, Johnson]
 | 2017_Aug_14 | WaPo: "Trump campaign emails show aide’s repeated efforts to set up Russia meetigs"
 | 2017_Aug_16 | Daily Caller: "Exclusive: Republican congressman meets with WikiLeaks founder Julian Assange"
-| 2017_Aug_16 | Bill Browder tweets criticisms of Dana Rohrabacher being in contact with Julian Assnge
+| 2017_Aug_16 | @billbrowder: "Rohrabacher met with Assange in London to broker his release from criminal liability"
 | 2017_Aug_16 | Strzok demoted to FBI Human Resources
 | 2017_Aug_22 | Glenn Simpsons testifies in closed-door hearing with SSCI
 | 2017_Aug_27 | CNN: "FBI arrests Chinese national connected to malware used in OPM data breach"
