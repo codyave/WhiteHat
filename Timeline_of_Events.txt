@@ -912,6 +912,9 @@
 | 2018_Jul_07 | The Hill: "Memos detail FBI's 'Hurry the F up pressure' to probe Trump campaign"
 | 2018_Jul_09 | Radio Free Europe: "Russian Tycoon Deripaska Wins Million-Ruble Claim Against 'Nastya Rybka,' 'Sex-Guru' Partner"
 | 2018_Jul_10 | Judge Emmitt Sullivan schedules status hearing for Gen. Flynn
+| 2018_Jul_16 | Reuters: "Trump emerged from a meeting with Putin saying he saw no reason to believe Russia hacked 2016 U.S. election"
+| 2018_Jul_16 | Reuters: "After Helsinki, U.S. intel chief defends findings on Russian meddling"
+| 2018_Jul_17 | Bloomberg: "Trump Retreats and Says He Accepts U.S. Finding Russia Meddled"
 | 2018_Jul_18 | Adam Lovinger files complaint with Pentagon senior ethics official
 | 2018_Jul_21 | NYT: "Carter Page FISA Documents Are Released by Justice Department"
 | 2018_Jul_22 | CNN: "Jake Tapper presses Carter Page on Russian contacts -- full interview"
