@@ -294,7 +294,7 @@
 | 2016_Aug_02 | Two FBI agents (Strzok and ??) in London send interview summary of Downer and Papadopoulos to DC
 | 2016_Aug_03 | George Nader, alongside Joel Zamel, meets Donald Trump, Jr., offers use of Zamel's company, Psy-Group
 | 2016_Aug_04 | The Hill: "Ukraine's ambassador: Trump's comments send wrong message to world"
-| 2016_Aug_04 | Roger Stone allegedly dines with Julian Assange [see: April 2, 2018 WSJ article]
+| 2016_Aug_04 | Roger Stone allegedly dines with Julian Assange (later denied) [see: April 2, 2018 WSJ article]
 | 2016_Aug_04 | Brennan contacts Alexander Bortnikov, head of FSB intel, says to cease further interference in U.S. elections
 | 2016_Aug_05 | WaPo: "Trump adviser’s public comments, ties to Moscow stir unease in both parties" (focuses on Carter Page)
 | 2016_Aug_05 | Strzok, quoting an unnamed official ("L.C."?): "the White House is running this"
@@ -773,6 +773,7 @@
 | 2017_Sep_14 | Carter Page files defamation lawsuit against OATH, Inc. and Broadcasting Board of Governors in SDNY
 | 2017_Sep_17 | CNN "breaks" Manafort FISA story (literally the only time it's discussed in the news media)
 | 2017_Sep_20 | Brennan opens a Twitter account
+| 2017_Sep_29 | BigLeaguePolitics: "Journalist Who Met With Assange: ‘I Am Willing to Testify Before Any Government Body’"
 | 2017_Sep_30 | Chuck Rosenberg resigns
 | 2017_Oct_05 | Papadopoulos pleads guilty to lying to the FBI about the timing of his contacts with Mifsud, case held under seal, 
 | 2017_Oct_10 | Carter Page sends letters to Special Counsel and HPSCI/SSCI, denies charges, demands open-session hearings
@@ -851,6 +852,7 @@
 | 2018_Mar_05 | NYT: "In Poisoning of Sergei Skripal, Russian Ex-Spy, U.K. Sees Cold War Echoes"
 | 2018_Mar_05 | Grabien: "CNN travels to Thailand to speak with prostitute who claims to have dirt on Trump"
 | 2018_Mar_08 | Daily Caller: "Oleg Deripaska Op-Ed: The Ever-changing 'Russia narrative' is false public manipulation"
+| 2018_Mar_13 | ABC: "Roger Stone: Allegations I met with Assange in 2016 'provably false'"
 | 2018_Mar_13 | CNN: "Trump fires Tillerson, taps Pompeo as next secretary of state"
 | 2018_Mar_13 | CNN: "FBI tried to contact 'sex coaches' in Thai jail"
 | 2018_Mar_16 | WaPo: "Texts show judge who recused himself in Flynn case was friendly with FBI agent involved in probe"
