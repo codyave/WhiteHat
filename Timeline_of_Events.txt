@@ -531,6 +531,8 @@
 | 2017_Jan_12 | Flynn conversation with Ambassador Kislyak is leaked to the Washington Post
 | 2017_Jan_12 | Trump: "James Clapper called me yesterday to denounce the false and fictitious report that was illegally circulated."
 | 2017_Jan_12 | Farkas: "Does Putin Have Something on Trump? Obama Should Tell Us"
+| 2017_Jan_12 | Adam Waldman visits Julian Assange in the Ecuadorian Embassy [see: June 20, 2018 The Guardian article]
+| 2017_Jan_13 | Adam Waldman visits Julian Assange in the Ecuadorian Embassy [see: June 20, 2018 The Guardian article]
 | 2017_Jan_13 | Obama allows NSA to share private data gathered without warrants or court orders with 16 other intel agencies
 | 2017_Jan_17 | Samantha Power uses final speech in U.N. to criticize Russia
 | 2017_Jan_17 | Politico: "Obama commutes Chelsea Manning's sentence"
@@ -557,7 +559,8 @@
 | 2017_Jan_26 | Sally Yates travels to the White House with Mary McCord to discuss Gen. Flynn
 | 2017_Jan_27 | BBC: "Trump 'compromising' claims: How and why did we get here?"
 | 2017_Jan_27 | Sally Yates returns to the White House for a second discussion about Gen. Flynn
-| 2017_Jan_27 | FBI (Strzok?) interviews Papadopoulos
+| 2017_Jan_27 | Adam Waldman visits Julian Assange in the Ecuadorian Embassy [see: June 20, 2018 The Guardian article]
+| 2017_Jan_27 | FBI interviews Papadopoulos
 | 2017_Jan_27 | FBI interviews Bruce Ohr (Ohr FD-302 January 27, 2017)
 | 2017_Jan_27 | Adam Waldman visits Julian Assange in London
 | 2017_Jan_27 | Steele: "Our guy's OK for the time being, but I would like to keep our channel open on him and his situation"
@@ -625,6 +628,7 @@
 | 2017_Mar_25 | The Hill: "Dems question potential Kushner real estate deal with Chinese firm"
 | 2017_Mar_25 | Waldman: "Deripaska is in London Monday-Thursday and I might be able to arrange a mtg with him too if you wish."
 | 2017_Mar_26 | Waldman: "I have an idea to explore with you."
+| 2017_Mar_?? | (late March) Adam Waldman visits Assange twice in the Ecuadorian Embassy [see: June 20, 2018 The Guardian article]
 | 2017_Mar_27 | Natasha Bertrand: "Kushner met with Kislyak & Sergey Gorkov...in Dec. Now the Senate wants to question him"
 | 2017_Mar_27 | Farkas: "Trump folks – if they found out HOW we knew...about...Russians...they would try to compromise those sources"
 | 2017_Mar_27 | Burr: "Chairman Burr and Vice Chairman Warner Statement on Kushner’s Voluntary Participation in SSCI Investigation"
@@ -639,6 +643,7 @@
 | 2017_Mar_31 | Warner: "Keep me informed also any news about ur other guy on Manafort"
 | 2017_Mar_31 | Waldman: "My other guy, like Steele, very mistrustful of USG", "shut out of the country", "dragged through the mud"
 | 2017_Mar_31 | Waldman: "Update re the other other guy, my contact at DOJ has gone silent last 72 hrs. I gave him what he asked for."
+| 2017_Apr_?? | Adam Waldman visits Assange three times in the Ecuadorian Embassy in April [see: June 20, 2018 The Guardian article]
 | 2017_Apr_01 | Evgeny Burakov released into ICE custody
 | 2017_Apr_03 | Ali Watkins: "A Former Trump Adviser Met With A Russian Spy"
 | 2017_Apr_03 | James Wolfe and Ali Watkins exchange 124 electronic communications
@@ -798,6 +803,7 @@
 | 2017_Nov_14 | Russian lobbyist who attended Trump Tower meeting, Rinat Akhmetshin, testifies before Senate Judiciary Committee
 | 2017_Nov_15 | The Guardian: "Christopher Steele believes his dossier on Trump-Russia is 70-90% accurate"
 | 2017_Nov_18 | Steele says he hasn't heard back from SC colleagues, says he's in dark on what's been briefed to Congress
+| 2017_Nov_?? | (late November) Adam Waldman visits Assange twice in the Ecuadorian Embassy [see: June 20, 2018 The Guardian article]
 | 2017_Nov_27 | Steele texts Bruce Ohr, asks to schedule a Whatsapp call (last known Steele/Ohr text)
 | 2017_Nov_29 | OIG questions McCabe, McCabe clarifies further the statements he gave to OIG from August 1, 2018
 | 2017_Nov_30 | Flynn accepts plea deal
