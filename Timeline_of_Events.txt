@@ -294,6 +294,7 @@
 | 2016_Aug_02 | Two FBI agents (Strzok and ??) in London send interview summary of Downer and Papadopoulos to DC
 | 2016_Aug_03 | George Nader, alongside Joel Zamel, meets Donald Trump, Jr., offers use of Zamel's company, Psy-Group
 | 2016_Aug_04 | The Hill: "Ukraine's ambassador: Trump's comments send wrong message to world"
+| 2016_Aug_04 | Roger Stone allegedly dines with Julian Assange [see: April 2, 2018 WSJ article]
 | 2016_Aug_04 | Brennan contacts Alexander Bortnikov, head of FSB intel, says to cease further interference in U.S. elections
 | 2016_Aug_05 | WaPo: "Trump adviser’s public comments, ties to Moscow stir unease in both parties" (focuses on Carter Page)
 | 2016_Aug_05 | Strzok, quoting an unnamed official ("L.C."?): "the White House is running this"
@@ -303,7 +304,7 @@
 | 2016_Aug_08 | Page: "he's not ever going to be president, right? Right?"
 | 2016_Aug_11 | Clapper visits Estonia
 | 2016_Aug_11 | Brennan personally briefs Reid, McConnell, Feinstein, Burr, Ryan, Pelosi, Nunes, and Schiff wrt Russian hacking attempts
-| 2016_Aug_12 | @balkanewz: "Ivanka Trump, daughter of US presidential candidate, cruises into #Croatia's Dubrovnik with husband Jared Kushner "
+| 2016_Aug_12 | @balkanewz: "Ivanka Trump, daughter of US presidential candidate, cruises into #Croatia's Dubrovnik with Kushner "
 | 2016_Aug_12 | Matthew Axelrod (to McCabe): FBI NY agents "disregarding or disobeying their instructions" regarding MYE
 | 2016_Aug_13 | Page: "I'm going to forward to Kortan. God, makes me want to tell state to go f it."
 | 2016_Aug_13 | Strzok: "States BS just makes me want to include those additional 302s. But that's just vindictiveness talking."
@@ -856,6 +857,7 @@
 | 2018_Mar_28 | The Intercept: "Department of Justice charges whistleblower under espionage act"
 | 2018_Mar_30 | Greg Brower (FBI Assistant Director for the Office of Congressional Affairs) resigns
 | 2018_Mar_30 | MSNBC: "Carter Page returns to All In"
+| 2018_Apr_02 | WSJ: "Roger Stone’s Claim of a 2016 Julian Assange Meeting Draws Scrutiny"
 | 2018_Apr_03 | CBS News: "Rod Rosenstein outlined scope for special counsel probe in August 2017"
 | 2018_Apr_05 | CNN: "Mueller using information related to searches of Manafort's belongings for ongoing investigation"
 | 2018_Apr_05 | CNN: "Sex coach who claims to have US election dirt charged with prostitution"
