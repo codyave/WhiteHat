@@ -716,6 +716,7 @@
 | 2017_May_22 | NYT: "What Was That Glowing Orb Trump Touched in Saudi Arabia?"
 | 2017_May_23 | Carter Page sends follow-up letter to HPSCI, heavily criticizing Brennan
 | 2017_May_24 | Strzok says he's staying on the Special Counsel, possibly out of loyalty to Baker and McCabe (seems uneasy, though)
+| 2017_May_26 | WaPo: "Russian ambassador told Moscow that Kushner wanted secret communications channel with Kremlin"
 | 2017_May_26 | NYT: "Kushner Is Said to Have Discussed a Secret Channel to Talk to Russia"
 | 2017_May_26 | The Hill: "GOP leaders launch internal review into leak" (McCarthy, Paul Ryan audio leak)
 | 2017_May_29 | Carter Page sends letter to SSCI, complains about Brennan
