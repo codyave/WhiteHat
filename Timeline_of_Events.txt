@@ -891,6 +891,7 @@
 | 2018_Apr_05 | CNN: "Sex coach who claims to have US election dirt charged with prostitution"
 | 2018_Apr_06 | Reuters: "Russian businessmen, officials on new U.S. sanctions list"
 | 2018_Apr_17 | Vice News: "‘Sex huntress’ who claims to have dirt on Trump and Russia may spend years in Thai prison"
+| 2018_Apr_19 | WaPo: "Inspector general referred findings on McCabe to U.S. attorney for consideration of criminal charges"
 | 2018_Apr_19 | DOJ files FARA case against Pakistani national and U.S. permanent resident, Nisar Ahmed Chaudhry
 | 2018_Apr_24 | Bloomberg: "Skadden Lawyer Craig Leaves Firm After Inquiry on Ukraine Report"
 | 2018_Apr_26 | Politico: "Pompeo confirmed as secretary of state"
