@@ -700,6 +700,7 @@
 | 2017_May_14 | Peter Smith found dead
 | 2017_May_15 | Steele: "consulted my wife and business partner about the question we discussed on Saturday...go ahead with it"
 | 2017_May_15 | WaPo: "Trump revealed highly classified information to Russian foreign minister and ambassador"
+| 2017_May_15 | @markknoller: "'I was in the room - it didn't happen,'" say McMaster of report Trump disclosed info to Russians
 | 2017_May_15 | Waldman: "asks if he wants to discuss Deripaska, or if he respond to HPSCI instead"
 | 2017_May_15 | FBI interviews Bruce Ohr (Ohr FD-302 May 16, 2017)
 | 2017_May_16 | NYT: "Comey Memo Says Trump Asked Him to End Flynn Investigation"
