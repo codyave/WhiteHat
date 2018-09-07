@@ -814,6 +814,7 @@
 | 2017_Oct_26 | Steele: will "reach out to my other (SC) contacts on this issue tomorrow."
 | 2017_Oct_25 | CNN: "Exclusive: Mueller's team met with Russia dossier author"
 | 2017_Oct_30 | Court unseals Papadopoulos case, documents show he sent multiple emails to Trump campaign about Russia
+| 2017_Oct_30 | JenniferJJacobs: "George Papadopoulos...pleaded guilty to making false statements to FBI agents."
 | 2017_Oct_30 | Steele: "I now understand and appreciate what you were talking about on Saturday." (Saturday is October 28)
 | 2017_Oct_30 | Press release of Mueller indictment against Manafort, Podesta Group, Mercury LLC
 | 2017_Oct_30 | Vanity Fair: "Carter Page gives another 'awesomely stupid' interview"
