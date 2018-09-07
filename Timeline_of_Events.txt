@@ -250,14 +250,16 @@
 | 2016_Jun_30 | Guccier 2.0 releases stolen DNC documents, including research on Republican candidates and Secretary Clinton
 | 2016_Jun_?? | Robert Hannigan, head of GCHQ, passes material in summer 2016 to CIA's John Brennan at "director level"
 | 2016_Jul_?? | DOJ/NSD submit narrowed FISA application (still on two Russian banks?), fails again
-| 2016_Jul_?? | Unmasking of Trump officials increases
+| 2016_Jul_?? | (early July) Unmasking of Trump officials increases
 | 2016_Jul_01 | Bruno Kahl confirmed as President of the Federal Intelligence Service in Germany
 | 2016_Jul_01 | Steele: “something separate I wanted to discuss with you...It concerns our favourite business tycoon!”
 | 2016_Jul_02 | Hillary interviewed by FBI agents
 | 2016_Jul_03 | Bruce Ohr schedules a Skype call with Steele
 | 2016_Jul_04 | "Putin's Puppet" is published in Slate, by Franklin Foer
+| 2016_Jul_04 | Bruce Ohr meets Steele [see: September 6, 2018 The Hill article]
 | 2016_Jul_05 | FBI agent Gaeta meets Steele in London, receives copy of Steele's memo, says he has to notify headquarters
 | 2016_Jul_05 | Comey defers HRC prosecution recommendation
+| 2016_Jul_06 | Bruce Ohr meets Steele [see: September 6, 2018 The Hill article]
 | 2016_Jul_06 | Guccifer 2.0 releases stolen DNC documents
 | 2016_Jul_07 | Manafort writes in an email, "If he needs private briefings, we can accomodate", allegedly referring to Oleg Deripaska
 | 2016_Jul_07 | Carter Page travels to Moscow on a campaign-approved visit to deliver a lecture at the prestigious New Economic School
@@ -291,11 +293,13 @@
 | 2016_Jul_?? | Bruce Ohr in contact with Steele days before Crossfire Hurricane begins, engages Steele as "confidential human source"
 | 2016_Jul_29 | Steele likely arrives in DC late afternoon/evening
 | 2016_Jul_30 | Bruce and Nellie Ohr meet Steele in DC Mayflower Hotel
+| 2016_Jul_30 | Bruce Ohr calls McCabe [see: September 6, 2018 The Hill article]
 | 2016_Jul_31 | Meet the Press questions Manafort on RNC platform changes for Ukraine
 | 2016_Jul_31 | Crossfire Hurricane officially begins
 | 2016_Aug_?? | Nastya Rybka posts photos and videos to her Instagram of her and Oleg Deripaska, as well as Sergei Prikhodko
 | 2016_Aug_01 | The Duran: "NSA whistleblower says DNC hack was not done by Russia, but by U.S. intelligence"
 | 2016_Aug_02 | Two FBI agents (Strzok and ??) in London send interview summary of Downer and Papadopoulos to DC
+| 2016_Aug_03 | Bruce Ohr meets with Andrew McCabe and Lisa Page [see: September 6, 2018 The Hill article]
 | 2016_Aug_03 | George Nader, alongside Joel Zamel, meets Donald Trump, Jr., offers use of Zamel's company, Psy-Group
 | 2016_Aug_04 | The Hill: "Ukraine's ambassador: Trump's comments send wrong message to world"
 | 2016_Aug_04 | Roger Stone allegedly dines with Julian Assange (later denied) [see: April 2, 2018 WSJ article]
@@ -314,7 +318,8 @@
 | 2016_Aug_13 | Strzok: "States BS just makes me want to include those additional 302s. But that's just vindictiveness talking."
 | 2016_Aug_15 | NYT: "Secret Ledger in Ukraine Lists Cash for Donald Trump's Campaign Chief"
 | 2016_Aug_15 | DOH's Jeh Johnson calls state officials to gain support for election defense, but was met with "a wall of resistance"
-| 2016_Aug_15 | Strzok and Page discuss "insurance policy"
+| 2016_Aug_15 | Bruce Ohr contacts Peter Strzok [see: September 6, 2018 The Hill article]
+| 2016_Aug_15 | Strzok: "I want to believe the path you threw out for consideration in Andy's office - that there's no way he gets elected - but I'm afraid  we can't take that risk. It's like an insurance policy in the unlikely event vou die before you're 40..."
 | 2016_Aug_16 | Rick Gates interviewed by FBI, provides misleading info about interactions with Mercury
 | 2018_Aug_18 | Reuters: "Hackers targeted Trump campaign, Republican Party groups"
 | 2016_Aug_19 | Clinton meets Ukranian President Poroshenko at UN General Assembly meeting
@@ -988,6 +993,7 @@
 | 2018_Sep_05 | NYT: "Jerome Corsi, Conspiracy Theorist, Is Subpoenaed in Mueller Investigation"
 | 2018_Sep_05 | NYT: "Opinion: I Am Part of the Resistance Inside the Trump Administration"
 | 2018_Sep_06 | WaPo: "Prosecutors use grand jury as investigation of Andrew McCabe intensifies"
+| 2018_Sep_06 | The Hill: "Bruce Ohr's efforts to secretly reshape the Trump probe started earlier in summer '16"
 | 2018_Sep_07 | Papadopoulos sentencing date
 | 2018_Sep_17 | Flynn sentencing date
 | 2018_Sep_21 | Reynaldo Regis sentencind date [see: May 11, 2018 Washington Examiner article]
