@@ -886,6 +886,7 @@
 | 2018_Mar_05 | NYT: "In Poisoning of Sergei Skripal, Russian Ex-Spy, U.K. Sees Cold War Echoes"
 | 2018_Mar_05 | Grabien: "CNN travels to Thailand to speak with prostitute who claims to have dirt on Trump"
 | 2018_Mar_08 | Daily Caller: "Oleg Deripaska Op-Ed: The Ever-changing 'Russia narrative' is false public manipulation"
+| 2018_Mar_12 | BuzzFeed: "How A Player In The Trump-Russia Scandal Led A Double Life As An American Spy"
 | 2018_Mar_13 | ABC: "Roger Stone: Allegations I met with Assange in 2016 'provably false'"
 | 2018_Mar_13 | CNN: "Trump fires Tillerson, taps Pompeo as next secretary of state"
 | 2018_Mar_13 | CNN: "FBI tried to contact 'sex coaches' in Thai jail"
