@@ -11,10 +11,10 @@
 | 2009_Mar_?? | HRC's Pagliano bathroom server (runs until June 30, 2013)
 | 2009_Jul_29 | Christopher Steele added to Orbis board of directors
 | 2010_Jun_?? | Nellie Ohr represents CIA's Open Source Works group, along with Bruce Ohr and Glenn Simpson
-| 2010_Jun_?? | Retired FBI executive says agents feared Cynthia Murphy was too close to HRC [see: October 22, 2017 The Hill article]
+| 2010_Jun_?? | Retired FBI executive says agents feared Cynthia Murphy was too close to HRC [see: October 22, 2017 The Hill]
 | 2010_Jun_25 | Comey joins Bridgewater Associates LP
 | 2010_Jun_28 | Reuters: "U.S. arrests 10 for allegedly spying for Russia"
-| 2010_Jun_29 | Bill Clinton receives $500k for a speech in Moscow given to Renaissance Capital [see: July 18, 2017 Fox News article]
+| 2010_Jun_29 | Bill Clinton receives $500k for a speech in Moscow given to Renaissance Capital [see: July 18, 2017 Fox News]
 | 2010_Jul_08 | Fox News: "10 Russian Spies Deported After N.Y. Guilty Pleas"
 | 2010_Sep_21 | Leaked email from Fred Burton (Stratfor) says then-U.S. Homeland Security Advisor John Brennan is behind DC witch hunt
 | 2011_Dec_06 | CNN: "Clinton cites 'serious concerns' about Russian election"
@@ -37,7 +37,7 @@
 | 2013_Oct_13 | Mikk Marran nominated to Director General of the Estonian Information Board
 | 2013_Nov_11 | MSNBC: "Why bring Miss Universe to Moscow?"
 | 2013_Nov_24 | The Guardian: "Ukrainian protesters flood Kiev after president pulls out of EU deal"
-| 2013_Dec_?? | Trump meets with GOP county chairs in Trump Tower, says he'll win 2016 nomination [see: Feb 1, 2016 Politico article]
+| 2013_Dec_?? | Trump meets with GOP county chairs in Trump Tower, says he'll win 2016 nomination [see: Feb 1, 2016 Politico]
 | 2014_Jan_27 | Lawfare: "Jim Baker Appointed as FBI General Counsel"
 | 2014_Feb_?? | Monica Hanley uploads HRC email archives to PRN server from MacBook laptop, fails, sends laptop to Combetta
 | 2014_Feb_13 | Buzzfeed: "36 Hours On The Fake Campaign Trail With Donald Trump"
@@ -68,7 +68,7 @@
 | 2015_Jun_15 | CNBC: "Donald Trump announces candidacy for president"
 | 2015_Jun_22 | CNN: "U.S. data hack may be 4 times larger than the government originally said"
 | 2015_Jul_10 | CNN: "OPM government data breach impacted 21.5 million"
-| 2015_Jul_10 | FBI opens investigation into Hillary Clinton email server [see: June 14, 2018 CNN article]
+| 2015_Jul_10 | FBI opens investigation into Hillary Clinton email server [see: June 14, 2018 CNN]
 | 2015_Jul_14 | CNN: "Landmark deal reached on Iran nuclear program"
 | 2015_Jul_22 | Yates releases 58-page memo, denies IG access and oversight to info collected by DOJ & FBI under Title III
 | 2015_Jul_27 | Russian intel gained access to DNC netowrk from July 2015 until at least July 2016 [See: June 2018 IG report]
@@ -168,7 +168,7 @@
 | 2016_Apr_18 | Mifsud connects Papadopoulos with Ivan Timofeev
 | 2016_Apr_19 | Mary Jacoby signs visitor guestbook at White House
 | 2016_Apr_19 | Andrea Chalupa: "Paul Manafort resigned...likely face an investigation for not declaring being a foreign agent."
-| 2016_Apr_?? | Brennan receives Baltic tape showing Kremlin money going into a presidential campaign [see: Jan 27, 2017 BBC article]
+| 2016_Apr_?? | Brennan receives Baltic tape showing Kremlin money going into a presidential campaign [see: Jan 27, 2017 BBC]
 | 2016_Apr_?? | Brennan creates two task forces - Domestic task force (FBI, DOJ, Treasury) and Foreign task force (CIA, ODNI, NSA)
 | 2016_Apr_22 | Russian intel prepares massive amount of data for exfiltration from DNC servers
 | 2016_Apr_25 | Yahoo: "Trump's campaign chief is questioned about ties to Russian billionaire"
@@ -182,7 +182,7 @@
 | 2016_Apr_28 | DNC detects infiltration of GRU ("Fancy Bear"), FBI not informed, Michael Sussman summoned to emergency meeting
 | 2016_Apr_29 | WaPo: "Sanders campaign drops lawsuit against DNC stemming from December data breach"
 | 2016_Apr_30 | Strzok:"And now we've switched from the Patriot Act to a wire carrying current."
-| 2016_May_?? | Stone and Caputo approached by Henry Greenberg (Oknyansky) [see: June 17, 2018 CNN article]
+| 2016_May_?? | Stone and Caputo approached by Henry Greenberg (Oknyansky) [see: June 17, 2018 CNN]
 | 2016_May_?? | Stefan Halper communicates with Steele, according to Yaacov Appelbaum
 | 2016_May_03 | Alexandra Chalupa emails DNC about sharing info “offline”, “a big Trump component…that will hit in next few weeks."
 | 2016_May_04 | Papadopoulos forwards Timofeev email to Lewandowski, Sam Clovis, other members of the Trump campaign
@@ -256,16 +256,16 @@
 | 2016_Jul_02 | Hillary interviewed by FBI agents
 | 2016_Jul_03 | Bruce Ohr schedules a Skype call with Steele
 | 2016_Jul_04 | "Putin's Puppet" is published in Slate, by Franklin Foer
-| 2016_Jul_04 | Bruce Ohr meets Steele [see: September 6, 2018 The Hill article]
+| 2016_Jul_04 | Bruce Ohr meets Steele [see: September 6, 2018 The Hill]
 | 2016_Jul_05 | FBI agent Gaeta meets Steele in London, receives copy of Steele's memo, says he has to notify headquarters
 | 2016_Jul_05 | Comey defers HRC prosecution recommendation
-| 2016_Jul_06 | Bruce Ohr meets Steele [see: September 6, 2018 The Hill article]
+| 2016_Jul_06 | Bruce Ohr meets Steele [see: September 6, 2018 The Hill]
 | 2016_Jul_06 | Guccifer 2.0 releases stolen DNC documents
 | 2016_Jul_07 | Manafort writes in an email, "If he needs private briefings, we can accomodate", allegedly referring to Oleg Deripaska
 | 2016_Jul_07 | Carter Page travels to Moscow on a campaign-approved visit to deliver a lecture at the prestigious New Economic School
 | 2016_Jul_07 | IC IG McCullough testifies before HPSCI that he can not provide some segment of HRC's emails
 | 2016_Jul_08 | Carter Page invited to the Race to Change the World Symposium by a University of Cambridge doctoral candidate
-| 2016_Jul_09 | Steele vacations in Cyprus with family until the 16th [see: August 7, 2018 The Hill article]
+| 2016_Jul_09 | Steele vacations in Cyprus with family until the 16th [see: August 7, 2018 The Hill]
 | 2016_Jul_11 | Carter Page travels to the Race to Change the World conference
 | 2016_Jul_11 | Elizabeth Dibble submits referral to the FBI about Downer-Papadopoulos bar conversation
 | 2016_Jul_13 | Page: "let me ask Baker what the meeting with Fine was about...be better not to get Jim deep in the facts of this yet"
@@ -294,16 +294,16 @@
 | 2016_Jul_?? | Bruce Ohr in contact with Steele days before Crossfire Hurricane begins, engages Steele as "confidential human source"
 | 2016_Jul_29 | Steele likely arrives in DC late afternoon/evening
 | 2016_Jul_30 | Bruce and Nellie Ohr meet Steele in DC Mayflower Hotel
-| 2016_Jul_30 | Bruce Ohr calls McCabe [see: September 6, 2018 The Hill article]
+| 2016_Jul_30 | Bruce Ohr calls McCabe [see: September 6, 2018 The Hill]
 | 2016_Jul_31 | Meet the Press questions Manafort on RNC platform changes for Ukraine
 | 2016_Jul_31 | Crossfire Hurricane officially begins
 | 2016_Aug_?? | Nastya Rybka posts photos and videos to her Instagram of her and Oleg Deripaska, as well as Sergei Prikhodko
 | 2016_Aug_01 | The Duran: "NSA whistleblower says DNC hack was not done by Russia, but by U.S. intelligence"
 | 2016_Aug_02 | Two FBI agents (Strzok and ??) in London send interview summary of Downer and Papadopoulos to DC
-| 2016_Aug_03 | Bruce Ohr meets with Andrew McCabe and Lisa Page [see: September 6, 2018 The Hill article]
+| 2016_Aug_03 | Bruce Ohr meets with Andrew McCabe and Lisa Page [see: September 6, 2018 The Hill]
 | 2016_Aug_03 | George Nader, alongside Joel Zamel, meets Donald Trump, Jr., offers use of Zamel's company, Psy-Group
 | 2016_Aug_04 | The Hill: "Ukraine's ambassador: Trump's comments send wrong message to world"
-| 2016_Aug_04 | Roger Stone allegedly dines with Julian Assange (later denied) [see: April 2, 2018 WSJ article]
+| 2016_Aug_04 | Roger Stone allegedly dines with Julian Assange (later denied) [see: April 2, 2018 WSJ]
 | 2016_Aug_04 | Brennan contacts Alexander Bortnikov, head of FSB intel, says to cease further interference in U.S. elections
 | 2016_Aug_05 | WaPo: "Trump adviser’s public comments, ties to Moscow stir unease in both parties" (focuses on Carter Page)
 | 2016_Aug_05 | Strzok, quoting an unnamed official ("L.C."?): "the White House is running this"
@@ -319,7 +319,7 @@
 | 2016_Aug_13 | Strzok: "States BS just makes me want to include those additional 302s. But that's just vindictiveness talking."
 | 2016_Aug_15 | NYT: "Secret Ledger in Ukraine Lists Cash for Donald Trump's Campaign Chief"
 | 2016_Aug_15 | DOH's Jeh Johnson calls state officials to gain support for election defense, but was met with "a wall of resistance"
-| 2016_Aug_15 | Bruce Ohr contacts Peter Strzok [see: September 6, 2018 The Hill article]
+| 2016_Aug_15 | Bruce Ohr contacts Peter Strzok [see: September 6, 2018 The Hill]
 | 2016_Aug_15 | Strzok: "I want to believe the path you threw out for consideration in Andy's office - that there's no way he gets elected - but I'm afraid  we can't take that risk. It's like an insurance policy in the unlikely event vou die before you're 40..."
 | 2016_Aug_16 | Rick Gates interviewed by FBI, provides misleading info about interactions with Mercury
 | 2018_Aug_18 | Reuters: "Hackers targeted Trump campaign, Republican Party groups"
@@ -408,7 +408,7 @@
 | 2016_Oct_?? | Steele meets with several reporters again in mid-October
 | 2016_Oct_15 | John P. Carlin resigns
 | 2016_Oct_16 | WikiLeaks tweets that Julian Assange's internet link has been severed by a state party
-| 2016_Oct_18 | Crossfire Hurricane rush "Dragon" FISA warrant [see: July 7, 2018 The Hill article]
+| 2016_Oct_18 | Crossfire Hurricane rush "Dragon" FISA warrant [see: July 7, 2018 The Hill]
 | 2016_Oct_18 | NYO Case Agent alerts SDNY to FBI HQ "inaction", FBIHQ re-engagement regarding Weiner laptop
 | 2016_Oct_19 | Page: "Meeting with WH counsel is finally set up and I want to talk about timing. Thanks."
 | 2016_Oct_19 | Page: "DAG approved. I told [?] already to stand by for one edit."
@@ -446,7 +446,7 @@
 | 2016_Nov_01 | McCabe recuses himself from Clinton Foundation investigation
 | 2016_Nov_02 | Grassley sends letter to Comey about the relationship between Andrew McCabe, Jill McCabe, and Terry McAuliffe
 | 2016_Nov_03 | Sputnik News interviews Halper, who says HRC would be better for UK-USA relations than Trump
-| 2016_Nov_03 | CIA contractor, Reynaldo Regis, house raided by FBI [see: May 11, 2018, Daily Caller article]
+| 2016_Nov_03 | CIA contractor, Reynaldo Regis, house raided by FBI [see: May 11, 2018, Daily Caller]
 | 2016_Nov_04 | Newsweek: "Why Vladimir Putin's Russia Is Backing Donald Trump"
 | 2016_Nov_04 | Huffington Post: "Rudy Giuliani Confirms FBI Insiders Leaked Information To The Trump Campaign"
 | 2016_Nov_05 | John Kerry and aides travel to Antarctica
@@ -475,7 +475,7 @@
 | 2016_Nov_29 | Strzok, Lisa Page discuss withholding info wrt McCabe and MYE ("Can we tailor what we send, ie, give them some some subset of what they're asking for?")
 | 2016_Nov_30 | Trump meets with Preet Bharara, Preet agrees to remain US Attorney under Trump
 | 2016_Dec_01 | Strzok: "And I keep thinking about what the D said, what was it, sick to one's stomach?"
-| 2016_Dec_01 | Kushner meets with Ambassador Kislyak at Trump Tower to discuss Moscow back-channel [see: May 26, 2017 NYT article]
+| 2016_Dec_01 | Kushner meets with Ambassador Kislyak at Trump Tower to discuss Moscow back-channel [see: May 26, 2017 NYT]
 | 2016_Dec_?? | Russia Today interviews Carter Page (mid-December?)
 | 2016_Dec_?? | Bruce Ohr meets Glenn Simpson in Chinatown, Bruce is handed a memory stick
 | 2016_Dec_05 | FBI interviews Bruce Ohr (Ohr FD-302 December 19, 2016)
@@ -496,7 +496,7 @@
 | 2016_Dec_15 | Ukraine backs away from claims of Paul Manafort's illegal dealings
 | 2016_Dec_15 | Clapper signs and authorizes the dissemination of NSA surveillance, later signed by Loretta Lynch on January 3rd
 | 2016_Dec_15 | George Nader and Mohammed bin Zayed al Nahyan meet secretly with Kushner, Bannon, and Gen. Flynn at Trump Tower
-| 2016_Dec_15 | Louise Mensch and News Corp. part ways [see: January 5, 2017 Politico article]
+| 2016_Dec_15 | Louise Mensch and News Corp. part ways [see: January 5, 2017 Politico]
 | 2016_Dec_16 | Obama gives end-of-the-year press conference, says election overrun with leaked information
 | 2016_Dec_17 | Dearlove, Halper, and Peter Martland resign from Cambridge Intelligence Seminar, cite Russian influence (Venuscript)
 | 2016_Dec_20 | FBI interviews Bruce Ohr (Ohr FD-302 December 27, 2016)
@@ -512,7 +512,7 @@
 | 2017_Jan_?? | Obama spells out succession order, listing three U.S. attorneys as being in line to succeed as AG
 | 2017_Jan_?? | Free Beacon parts ways with Fusion GPS sometime in January
 | 2017_Jan_?? | Steele (and Fusion?) may have gone to work for Daniel Jones at Penn Quarterly Group post-election
-| 2017_Jan_01 | Buryakov becomes eligible for transition to a halfway house, option deferred [see: April 5, 2018 Daily Beast article]
+| 2017_Jan_01 | Buryakov becomes eligible for transition to a halfway house, option deferred [see: April 5, 2018 Daily Beast]
 | 2017_Jan_03 | Schumer, in Maddow interview, says "the intelligence community, they have six ways from Sunday at getting back at you"
 | 2017_Jan_03 | Loretta Lynch signs Section 2.3 of Executive Order 12333 (Obama's NSA data-sharing order)
 | 2017_Jan_05 | Obama and Biden briefed on dossier and report, presented by Clapper, Comey, Brennan, and Rogers
@@ -522,7 +522,7 @@
 | 2017_Jan_06 | ODNI ICA report on Russian Activities says CIA and FBI give high confidence, NSA moderate confidence
 | 2017_Jan_06 | Comey briefs Trump on Steele dossier
 | 2017_Jan_06 | Clapper appears on CNN and tells Jake tapper about the dossier
-| 2017_Jan_09 | Erik Prince meets with UAE in Seychelles to dissuade Russia's relationship with Iran [see: Apr 3, 2017 WaPo article]
+| 2017_Jan_09 | Erik Prince meets with UAE in Seychelles to dissuade Russia's relationship with Iran [see: Apr 3, 2017 WaPo]
 | 2017_Jan_09 | IBTimes: "Trump Administration Waives Punishment For Convicted Banks, Including Deutsche — Which Trump Owes Millions"
 | 2017_Jan_10 | Newsweek: "Trump, Putin, and the Hidden History of How Russia Interfered in the U.S. Presidential Election"
 | 2017_Jan_10 | Carter Page questions Lisa Monaco, hushed by pro-Clinton campaign journalist [see: March 8, 2017 letter to SSCI]
@@ -545,13 +545,13 @@
 | 2017_Jan_12 | Flynn conversation with Ambassador Kislyak is leaked to the Washington Post
 | 2017_Jan_12 | Trump: "James Clapper called me yesterday to denounce the false and fictitious report that was illegally circulated."
 | 2017_Jan_12 | Farkas: "Does Putin Have Something on Trump? Obama Should Tell Us"
-| 2017_Jan_12 | Adam Waldman visits Julian Assange in the Ecuadorian Embassy [see: June 20, 2018 The Guardian article]
-| 2017_Jan_13 | Adam Waldman visits Julian Assange in the Ecuadorian Embassy [see: June 20, 2018 The Guardian article]
+| 2017_Jan_12 | Adam Waldman visits Julian Assange in the Ecuadorian Embassy [see: June 20, 2018 The Guardian]
+| 2017_Jan_13 | Adam Waldman visits Julian Assange in the Ecuadorian Embassy [see: June 20, 2018 The Guardian]
 | 2017_Jan_13 | Obama allows NSA to share private data gathered without warrants or court orders with 16 other intel agencies
 | 2017_Jan_17 | Samantha Power uses final speech in U.N. to criticize Russia
 | 2017_Jan_17 | Politico: "Obama commutes Chelsea Manning's sentence"
 | 2017_Jan_17 | George Nader accosted by Mueller's team at Dulles airport, electronics seized, agrees to cooperate
-| 2017_Jan_18 | Imran Awan wires $283k to two individuals in Faisalabad, Pakistan [see: July 25, 2017 Daily Caller article]
+| 2017_Jan_18 | Imran Awan wires $283k to two individuals in Faisalabad, Pakistan [see: July 25, 2017 Daily Caller]
 | 2017_Jan_18 | New Observer: "FBI, five other agencies probe possible covert Kremlin aid to Trump"
 | 2017_Jan_18 | The Guardian: "Julian Assange ready for US extradition, one of his lawyers suggests"
 | 2017_Jan_19 | The Guardian: "Joaquín 'El Chapo' Guzmán, Mexican drug lord, has been extradited to the US"
@@ -573,7 +573,7 @@
 | 2017_Jan_26 | Sally Yates travels to the White House with Mary McCord to discuss Gen. Flynn
 | 2017_Jan_27 | BBC: "Trump 'compromising' claims: How and why did we get here?"
 | 2017_Jan_27 | Sally Yates returns to the White House for a second discussion about Gen. Flynn
-| 2017_Jan_27 | Adam Waldman visits Julian Assange in the Ecuadorian Embassy [see: June 20, 2018 The Guardian article]
+| 2017_Jan_27 | Adam Waldman visits Julian Assange in the Ecuadorian Embassy [see: June 20, 2018 The Guardian]
 | 2017_Jan_27 | FBI interviews Papadopoulos
 | 2017_Jan_27 | FBI interviews Bruce Ohr (Ohr FD-302 January 27, 2017)
 | 2017_Jan_27 | Adam Waldman visits Julian Assange in London
@@ -609,7 +609,7 @@
 | 2017_Mar_03 | Waldman: "Hey Mark, am back in Washington and hope we can get together, maybe w Jack? And our wives?"
 | 2017_Mar_04 | Trump: "Just found out that Obama had my "wires tapped" in Trump Tower just before the victory."
 | 2017_Mar_04 | THR: "Mike Pence jokes media is "enemy of the people" at Gridiron Dinner"
-| 2017_Mar_05 | U.S. Customs search the wife of Imran Awan, Hina Alvi, and find $12,400 [see: July 25, 2017 Daily Caller article]
+| 2017_Mar_05 | U.S. Customs search the wife of Imran Awan, Hina Alvi, and find $12,400 [see: July 25, 2017 Daily Caller]
 | 2017_Mar_08 | The Guardian: "Why James Clapper's Trump comments may not conflict with reports of secret court order"
 | 2017_Mar_09 | B.I.: "Foreign policy adviser disavowed by Trump team says he ‘spent many hours’ at Trump campaign headquarters"
 | 2017_Mar_06 | Grassley: "FBI Plan to Pay Ex-Spy...Sparks Questions of Obama Admin’s Use of Federal Authorities for Political Gain"
@@ -627,13 +627,13 @@
 | 2017_Mar_15 | Steele: "Must protect sources." [see: Gregg Jarrett, youtube.com/watch?v=eTtveyYnJGg&t=19m25s]
 | 2017_Mar_15 | Grassley threatens to block the nomination of Rod Rosenstein if DOJ does not comply with demands
 | 2017_Mar_15 | Trump: "We have it before the committee. We're submitting some things."
-| 2017_Mar_16 | Marie Argentieri's (Secret Service) van is broken into, laptop stolen at 3am [see: March 22, 2017, NYDN article]
+| 2017_Mar_16 | Marie Argentieri's (Secret Service) van is broken into, laptop stolen at 3am [see: March 22, 2017, NYDN]
 | 2017_Mar_16 | Waldman: "Chris Steele asked me to call you"
 | 2017_Mar_16 | The Daily Beast: "DOJ Blows Wiretap Deadline, Asks Intelligence Committee for More Time"
-| 2017_Mar_17 | Kevin McCarthy and Paul Ryan joke that Trump is paid by Putin (McMullin suspected) [see: May 21, 2017 WaPo article]
+| 2017_Mar_17 | Kevin McCarthy and Paul Ryan joke that Trump is paid by Putin (McMullin suspected) [see: May 21, 2017 WaPo]
 | 2017_Mar_17 | Carter Page 2016 FISA application transported to SSCI
 | 2017_Mar_17 | James Wolfe texts and talks to Ali Watkins (82 texts, 28min phone call)
-| 2017_Mar_20 | Steele: "bit apprehensive given scheduled appearance at Congress on Monday. Hoping that important firewalls will hold."
+| 2017_Mar_20 | Steele: "Hoping that important firewalls will hold." [see: August 8, 2018 The Hill]
 | 2017_Mar_20 | CNBC: "FBI's Comey and NSA's Rogers get grilled on Capitol Hill about Russia probe, leaks"
 | 2017_Mar_20 | Comey confirms investigation into Trump associates and Russia
 | 2017_Mar_21 | CNN: "Paul Manafort faces fresh accusations in Ukraine after document find"
@@ -645,7 +645,7 @@
 | 2017_Mar_25 | Waldman: "Deripaska is in London Monday-Thursday and I might be able to arrange a mtg with him too if you wish."
 | 2017_Mar_26 | Waldman: "I have an idea to explore with you."
 | 2017_Mar_26 | WaPo: "Trump taps Kushner to lead a SWAT team to fix government with business ideas"
-| 2017_Mar_?? | (late March) Adam Waldman visits Assange twice in the Ecuadorian Embassy [see: June 20, 2018 The Guardian article]
+| 2017_Mar_?? | (late March) Adam Waldman visits Assange twice in the Ecuadorian Embassy [see: June 20, 2018 The Guardian]
 | 2017_Mar_27 | Natasha Bertrand: "Kushner met with Kislyak & Sergey Gorkov...in Dec. Now the Senate wants to question him"
 | 2017_Mar_27 | Farkas: "Trump folks – if they found out HOW we knew...about...Russians...they would try to compromise those sources"
 | 2017_Mar_27 | Burr: "Chairman Burr and Vice Chairman Warner Statement on Kushner’s Voluntary Participation in SSCI Investigation"
@@ -654,14 +654,14 @@
 | 2017_Mar_29 | Reuters: "U.S. State Dept. employee charged in making contacts with Chinese agents"
 | 2017_Mar_29 | CNN: "Bank that Kushner met with paid Russian intelligence agent's legal tab"
 | 2017_Mar_30 | USA vs Buryakov et al: "MEMO ENDORSEMENT as to Evgeny Buryakov" signed by Judge Richard Berman
-| 2017_Mar_30 | Steele: SSCI "is leaking like a sieve, giving us pause for thought on engagement"
+| 2017_Mar_30 | Steele: SSCI "leaking like a sieve, giving us pause for thought on engagement" 
 | 2017_Mar_30 | Waldman: "Chris is concered about the leaks yesterday", "press might have run him off", "huddled w lawyers"
 | 2017_Mar_31 | Graham Kates: "Banker who worked as Russian secret agent to be released early, deported"
 | 2017_Mar_31 | Warner: "Keep me informed also any news about ur other guy on Manafort"
 | 2017_Mar_31 | Waldman: "My other guy, like Steele, very mistrustful of USG", "shut out of the country", "dragged through the mud"
 | 2017_Mar_31 | Waldman: "Update re the other other guy, my contact at DOJ has gone silent last 72 hrs. I gave him what he asked for."
-| 2017_Apr_?? | Adam Waldman visits Assange three times in the Ecuadorian Embassy in April [see: June 20, 2018 The Guardian article]
-| 2017_Apr_01 | Evgeny Burakov released into ICE custody
+| 2017_Apr_?? | Waldman visits Assange three times in the Ecuadorian Embassy in April [see: June 20, 2018 The Guardian]
+| 2017_Apr_01 | Evgeny Burakov released into ICE custody [see: April 5, 2017 CBS News]
 | 2017_Apr_03 | WaPo: "Blackwater founder held secret Seychelles meeting to establish Trump-Putin back channel"
 | 2017_Apr_03 | Ali Watkins: "A Former Trump Adviser Met With A Russian Spy"
 | 2017_Apr_03 | James Wolfe and Ali Watkins exchange 124 electronic communications
@@ -672,7 +672,7 @@
 | 2017_Apr_05 | Daily Beast: "Russian Spy Sent Home After Early Release From U.S. Prison"
 | 2017_Apr_05 | FARA filings (submitted June 29, 2018) indicate Waldman has ended represenation of Rusal/Deripaska
 | 2017_Apr_05 | Waldman: "[Steele] seems to have cold feet from the leaks. Said he wanted a bi partisan letter"
-| 2017_Apr_06 | Imran Awan leaves DWS laptop in Capitol Hill phone booth w/note at 3am [see: September 9, 2017, Daily Caller article]
+| 2017_Apr_06 | Imran Awan leaves DWS laptop in Capitol Hill phone booth w/note at 3am [see: September 9, 2017, Daily Caller]
 | 2017_Apr_06 | NYT: "Kushner Omitted Meeting With Russians on Security Clearance Forms"
 | 2017_Apr_06 | Waldman: "WSJ just called me and said they heard from senate intel comm that the committee and Steele are speaking"
 | 2017_Apr_07 | Second renewal on Carter Page FISA
@@ -691,9 +691,9 @@
 | 2017_Apr_27 | CNN: "Full interview: Carter Page on Russia contact"
 | 2017_Apr_27 | CNN: "Carter Page talks to Cuomo (full interview)"
 | 2017_Apr_28 | Grassley sends letter to FBI, requesting responses to more questions about the FBI's relationship with Steele
-| 2017_Apr_30 | Glenn Simpson and Jonathan Winer attend the OffshoreAlert Conference in Miami.
+| 2017_Apr_30 | Glenn Simpson and Jonathan Winer attend the OffshoreAlert Conference in Miami
 | 2017_May_?? | IG Horowitz seeks unsealing of FBI grand jury subpoenas demanding testimony of Clinton aides, other search warrants
-| 2017_May_03 | Comey: "....we may be finding the golden missing e-mails that would change this case." [see: May 3, 2017 WaPo article]
+| 2017_May_03 | Comey: "....we may be finding the golden missing e-mails that would change this case." [see: May 3, 2017 WaPo]
 | 2017_May_03 | WaPo: "Read the full testimony of FBI Director James Comey in which he discusses Clinton email investigation"
 | 2017_May_04 | Adam Lovinger security clearance revoked
 | 2017_May_06 | Grassley sends letter to FBI seeking records of a reported plan to pay Steele for the dossier
@@ -702,17 +702,17 @@
 | 2017_May_09 | NBC News: "Trump Fires FBI Director James Comey Over Email Investigation"
 | 2017_May_09 | Strzok: "And we need to open the case we've been waiting on now while Andy is acting."
 | 2017_May_10 | Page: "We need to lock in [?]. In a formal chargeable way. Soon."
-| 2017_May_10 | Ohr: "Call with Chris," "[Steele] very concerned about Comey firing, afraid they will be exposed”
+| 2017_May_10 | Ohr: "very concerned about Comey firing, afraid they will be exposed”  [see: August 8, 2018 The Hill]
 | 2017_May_11 | Peter Kadzik resigns
-| 2017_May_11 | Mary McCord resigns [see: April 20, 2017 NPR article]
+| 2017_May_11 | Mary McCord resigns [see: April 20, 2017 NPR]
 | 2017_May_11 | Adam Waldman texts Senator Warner, says Deripaska is getting questions about Manafort from multiple directions
 | 2017_May_12 | Trump: "James Comey better hope that there are no 'tapes' of our conversations before he starts leaking to the press!"
 | 2017_May_12 | Steele texts Bruce Ohr, asks to schedule a Whatsapp call, Bruce says tomorrow at 1pm
 | 2017_May_12 | FBI interviews Bruce Ohr (Ohr FD-302 May 12, 2017)
-| 2017_May_13 | Steele texts Bruce Ohr, agrees to have a conversation later that day at 2pm (a Saturday)
+| 2017_May_13 | Bruce Ohr: "2pm [phone call on Saturday] your time is good."  [see: August 8, 2018 The Hill]
 | 2017_May_14 | Carter Page sends mostly-neutral letter to Rod Rosenstein, accuses Comey of leaks
 | 2017_May_14 | Peter Smith found dead
-| 2017_May_15 | Steele: "consulted my wife and business partner about the question we discussed on Saturday...go ahead with it"
+| 2017_May_15 | Steele: "consulted my wife and business partner about...Saturday...go ahead with it"  [see: August 8, 2018 The Hill]
 | 2017_May_15 | FBI interviews Bruce Ohr (Ohr FD-302 May 16, 2017)
 | 2017_May_15 | WaPo: "Trump revealed highly classified information to Russian foreign minister and ambassador"
 | 2017_May_15 | @markknoller: McMaster: "I was in the room - it didn't happen"
@@ -744,7 +744,7 @@
 | 2017_Jun_05 | LA Times: "Contractor is charged with leaking top-secret document about Russian hacking"
 | 2017_Jun_06 | MSNBC: "Chris Matthews to Carter Page: Why are you hiding?"
 | 2017_Jun_07 | Page: "We're starting obstruction team brief but just come. Sit in on whatever comes next."
-| 2017_Jun_07 | CNN: "Comey expected to refute Trump" [retracted, see: June 6, 2017 The Hill article]
+| 2017_Jun_07 | CNN: "Comey expected to refute Trump" [retracted, see: June 6, 2017 The Hill]
 | 2017_Jun_07 | The Hill: "CNN issues correction after Comey statement contradicts reporting"
 | 2017_Jun_09 | NYT: "CNN Drops Reza Aslan Over His Vulgar Criticism of Trump"
 | 2017_Jun_09 | Strzok: "Just got an Agency coin. With Brennan's signature"
@@ -765,15 +765,15 @@
 | 2017_Jul_18 | Fox News: "Hillary Clinton sided with Russia on sanctions as Bill made $500G on Moscow speech"
 | 2017_Jul_20 | FBI delivers to OIG Sep 2015 - Nov 30, 2016 Strzok/Page texts [see: Dec 13, 2017 Horowitz letter to Grassley, Johnson]
 | 2017_Jul_21 | USA Today: "Anthony Scaramucci to be White House communications director"
-| 2017_Jul_?? | Papadopoulos receives $10k from Charles Tawil (sometime before July 27th) [see: August 20, 2018 Daily Caller article]
-| 2017_Jul_24 | Imran Awan arrested at Dulles International Airport [see: July 25, 2017 Daily Caller article]
+| 2017_Jul_?? | Papadopoulos receives $10k from Charles Tawil (sometime before July 27th) [see: August 20, 2018 Daily Caller]
+| 2017_Jul_24 | Imran Awan arrested at Dulles International Airport [see: July 25, 2017 Daily Caller]
 | 2017_Jul_25 | Daily Caller: "Wasserman Schultz's IT aide arrested at airport after wiring 300k to Pakistan from House office"
-| 2017_Jul_26 | Manafort home raided [see: August 9, 2017 CNBC article]
-| 2017_Jul_26 | Scaramucci calls Ryan Lizza [see: July 27, 2017 New Yorker article]
-| 2017_Jul_27 | Horowitz informs Mueller of Strzok/Page texts [see: December 13, 2017 Fox News article]
+| 2017_Jul_26 | Manafort home raided [see: August 9, 2017 CNBC]
+| 2017_Jul_26 | Scaramucci calls Ryan Lizza [see: July 27, 2017 New Yorker]
+| 2017_Jul_27 | Horowitz informs Mueller of Strzok/Page texts [see: December 13, 2017 Fox News]
 | 2017_Jul_27 | New Yorker: "Anthony Scaramucci Called Me to Unload About White House Leakers, Reince Priebus, and Steve Bannon"
-| 2017_Jul_27 | Papadopoulos arrested at Dulles International Airport [see: December 4, 2017 Politico article]
-| 2017_Jul_28 | Papadopoulos appears in court w/o lawyer, cooperates with Mueller, case sealed [see: December 4, 2017 Politico article]
+| 2017_Jul_27 | Papadopoulos arrested at Dulles International Airport [see: December 4, 2017 Politico]
+| 2017_Jul_28 | Papadopoulos appears in court w/o lawyer, cooperates with Mueller, case sealed [see: December 4, 2017 Politico]
 | 2017_Jul_28 | CNN: "Priebus latest high-profile departure from Trump admin"
 | 2017_Jul_28 | McCabe interviewed by OIG (later determined to have lied about leaking to WSJ)
 | 2017_Jul_28 | Trump: "I am pleased to inform you that I have named General/Secretary John F Kelly as White House Chief of Staff."
@@ -781,8 +781,8 @@
 | 2017_Aug_?? | Mueller's team interviews Ivan Timofeev (late summer?)
 | 2017_Aug_01 | McCabe calls OIC to correct statements he gave to investigators on July 28th
 | 2017_Aug_02 | CNN: "Chris Wray sworn in as FBI Director"
-| 2017_Aug_02 | Rosenstein issues revised memo to Mueller, outlines scope of investigation [see: April 3, 2018 CBS News article]
-| 2017_Aug_04 | Heat Street closes [see: June 29, 2017 BuzzFeed article]
+| 2017_Aug_02 | Rosenstein issues revised memo to Mueller, outlines scope of investigation [see: April 3, 2018 CBS News]
+| 2017_Aug_04 | Heat Street closes [see: June 29, 2017 BuzzFeed]
 | 2017_Aug_04 | CNN: "While Trump's away, 'much-needed' White House renovations begin"
 | 2017_Aug_04 | Fox News: "Sessions announces hunt for leakers, says cases have 'exploded'"
 | 2017_Aug_06 | Steele frustrated with FBI and Mueller reengagement, asks Bruce to speed things up
@@ -831,7 +831,7 @@
 | 2017_Nov_14 | Russian lobbyist who attended Trump Tower meeting, Rinat Akhmetshin, testifies before Senate Judiciary Committee
 | 2017_Nov_15 | The Guardian: "Christopher Steele believes his dossier on Trump-Russia is 70-90% accurate"
 | 2017_Nov_18 | Steele says he hasn't heard back from SC colleagues, says he's in dark on what's been briefed to Congress
-| 2017_Nov_?? | (late November) Adam Waldman visits Assange twice in the Ecuadorian Embassy [see: June 20, 2018 The Guardian article]
+| 2017_Nov_?? | (late November) Adam Waldman visits Assange twice in the Ecuadorian Embassy [see: June 20, 2018 The Guardian]
 | 2017_Nov_27 | Steele texts Bruce Ohr, asks to schedule a Whatsapp call (last known Steele/Ohr text)
 | 2017_Nov_29 | OIG questions McCabe, McCabe clarifies further the statements he gave to OIG from August 1, 2018
 | 2017_Nov_30 | Flynn accepts plea deal
@@ -850,7 +850,7 @@
 | 2017_Dec_07 | Washington Times: "Ethics Committee clears Nunes of revealing classified material to White House"
 | 2017_Dec_07 | Horowitz sends letter to Senators Grassley and Johnson in response to questions about Strzok/Page texts
 | 2017_Dec_07 | Fox News: "Top DOJ official demoted amid probe of contacts with Trump dossier firm"
-| 2017_Dec_07 | Judge Contreras recused from Flynn case [see: March 13, 2018 WaPo article]
+| 2017_Dec_07 | Judge Contreras recused from Flynn case [see: March 13, 2018 WaPo]
 | 2017_Dec_08 | CNN's Manu Raju: "Email pointed Trump campaign to WikiLeaks documents" (Fake)
 | 2017_Dec_11 | Fox News: "Wife of demoted DOJ official worked for firm behind anti-Trump dossier"
 | 2017_Dec_12 | NYT: "Donald Trump Jr. Demands Leak Inquiry of House Intelligence Committee"
@@ -867,7 +867,7 @@
 | 2018_Jan_13 | In a self-published book by two Italian friends, Mifsud denies telling Papadopoulos about HRC emails
 | 2018_Jan_19 | Axios: "How the CIA’s spy network in China collapsed"
 | 2018_Jan_23 | New York Post: "Comey’s former chief of staff finally quits FBI under pressure from GOP lawmakers"
-| 2018_Jan_27 | Assange DM's fake Hannity account, promises info on Warner [see: January 29, 2018 Daily Beast article]
+| 2018_Jan_27 | Assange DM's fake Hannity account, promises info on Warner [see: January 29, 2018 Daily Beast]
 | 2018_Jan_29 | Daily Beast: "Julian Assange Offered Hannity Impersonator ‘News’ About Top Democrat"
 | 2018_Jan_29 | WaPo: "How a classified four-page Russia memo triggered a political firestorm"
 | 2018_Jan_31 | Mueller files Status Report to postpone Gen. Flynn sentencing hearing for 90 days (May 1st, 2018)
@@ -962,7 +962,7 @@
 | 2018_Aug_07 | The Hill: "Opinion: How a senior DOJ official helped Dem researchers on Trump-Russia case"
 | 2018_Aug_07 | Rick Gates tells Judge Ellis he embezzled from Manafort to pay for a London apartment
 | 2018_Aug_08 | The Hill: "Opinion: Top DOJ official discussed getting Steele back into FBI, Mueller probe"
-| 2018_Aug_10 | Strzok fired [see: August 13, 2018 CNN article]
+| 2018_Aug_10 | Strzok fired [see: August 13, 2018 CNN]
 | 2018_Aug_10 | New York Post: "Omarosa claims Trump is a racist, used N-word on ‘The Apprentice’"
 | 2018_Aug_13 | CNN: "Peter Strzok fired from the FBI"
 | 2018_Aug_13 | Fox News: "Fired FBI agent Peter Strzok sets up anti-Trump Twitter account; GoFundMe page seeks $150G"
@@ -1010,5 +1010,5 @@
 | 2018_Sep_07 | Bloomberg: "DNC Lawyers Say Papadopoulos’s U.K. Contact May Be Dead"
 | 2018_Sep_09 | Daily Caller: "Mifsud is alive, his adviser says"
 | 2018_Sep_17 | Flynn sentencing date
-| 2018_Sep_21 | Reynaldo Regis sentencing date [see: May 11, 2018 Washington Examiner article]
+| 2018_Sep_21 | Reynaldo Regis sentencing date [see: May 11, 2018 Washington Examiner]
 | 2018_Nov_05 | El Chapo hearing
