@@ -613,6 +613,7 @@
 | 2017_Mar_?? | FBI contacts Carter Page (first time in over a year)
 | 2017_Mar_01 | NYT: "Obama Administration Rushed to Preserve Intelligence of Russian Election Hacking"
 | 2017_Mar_03 | The Guardian: "Jeff Sessions recuses himself from Russia inquiry amid calls for resignation"
+| 2017_Mar_03 | PBS: "In a reversal, former Trump campaign adviser Carter Page now says he did have contact with Russia"
 | 2017_Mar_03 | Waldman: "Hey Mark, am back in Washington and hope we can get together, maybe w Jack? And our wives?"
 | 2017_Mar_04 | Trump: "Just found out that Obama had my "wires tapped" in Trump Tower just before the victory."
 | 2017_Mar_04 | THR: "Mike Pence jokes media is "enemy of the people" at Gridiron Dinner"
@@ -689,7 +690,6 @@
 | 2017_Apr_10 | Waldman: "Deripaska: willing to testify to congress but interested in state of play with Manafort"
 | 2017_Apr_11 | WaPo: "FBI obtained FISA warrant to monitor former Trump adviser Carter Page"
 | 2017_Apr_12 | Strzok praises Lisa for two hit-pieces on Carter Page, warns about two more coming out [see: Sep 10, 2018 saraacarter]
-| 2017_Apr_12 | Carter Page goes on media blitz, doing six televised interviews
 | 2017_Apr_13 | The Guardian: "British spies were first to spot Trump team's links with Russia"
 | 2017_Apr_13 | Politico: "House Democrats want Jared Kushner's security clearance suspended"
 | 2017_Apr_19 | Waldman: "Maldives" (possibly traveling with Deripaska) [see: April 10, 2017 Waldman text]
