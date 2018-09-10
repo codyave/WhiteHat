@@ -713,10 +713,10 @@
 | 2017_May_14 | Carter Page sends mostly-neutral letter to Rod Rosenstein, accuses Comey of leaks
 | 2017_May_14 | Peter Smith found dead
 | 2017_May_15 | Steele: "consulted my wife and business partner about the question we discussed on Saturday...go ahead with it"
-| 2017_May_15 | WaPo: "Trump revealed highly classified information to Russian foreign minister and ambassador"
-| 2017_May_15 | @markknoller: "'I was in the room - it didn't happen,'"
-| 2017_May_15 | Waldman: "asks if he wants to discuss Deripaska, or if he respond to HPSCI instead"
 | 2017_May_15 | FBI interviews Bruce Ohr (Ohr FD-302 May 16, 2017)
+| 2017_May_15 | WaPo: "Trump revealed highly classified information to Russian foreign minister and ambassador"
+| 2017_May_15 | @markknoller: McMaster: "I was in the room - it didn't happen"
+| 2017_May_15 | Waldman: "asks if he wants to discuss Deripaska, or if he respond to HPSCI instead"
 | 2017_May_16 | NYT: "Comey Memo Says Trump Asked Him to End Flynn Investigation"
 | 2017_May_17 | Palpatine's Revenge, FreshCamel, Gliph, Mensch, Steele, Flynn, Mueller, Rosenstein, Entous
 | 2017_May_17 | Mueller appointed to lead special counsel investigation
