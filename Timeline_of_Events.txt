@@ -703,8 +703,9 @@
 | 2017_Apr_16 | Washington Times: "Carter Page rebuts Democrats latching onto 'completely false' Russia dossier"
 | 2017_Apr_19 | Waldman: "Maldives" (possibly traveling with Deripaska) [see: Feb 8, 2018 Fox News]
 | 2017_Apr_20 | NPR: "Leader Of Justice Department National Security Division On The Way Out" (Mary McCord resigns)
-| 2017_Apr_25 | Politico: "Senate confirms Rosenstein as deputy attorney general"
 | 2017_Apr_25 | Waldman: "[Steele] fearful of the triumvirate of cost, time suck and reputation" [see: Feb 8, 2018 Fox News]
+| 2017_Apr_25 | Politico: "Senate confirms Rosenstein as deputy attorney general"
+| 2017_Apr_26 | justice.gov: "Rosenstein was sworn in as the 37th Deputy Attorney General of the United States on April 26, 2017"
 | 2017_Apr_26 | Judge Collyer presides as signatory for FISC 99-page opinion in response to DOJ/FBI/NSA 702 access
 | 2017_Apr_27 | CNN: "Full interview: Carter Page on Russia contact"
 | 2017_Apr_27 | CNN: "Carter Page talks to Cuomo (full interview)"
