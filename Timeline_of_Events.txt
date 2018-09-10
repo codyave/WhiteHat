@@ -166,7 +166,7 @@
 | 2016_Apr_09 | Strzok: "Did you have to invoke the D/Dd?" Lisa: ",yep. Done, but I need to call Bill with the storm that's coming"
 | 2016_Apr_09 | ONA Director Baker rats on Strzok to FBI Counsel Baker wrt March 9 illegal access [see: April 10, 2016 Strzok texts[
 | 2016_Apr_11 | Glenn Simpson attends Logan Symposium, along with Jane Meyer (New Yorker) and Ken Vogel (Politico)
-| 2016_Apr_11 | Manafort emails Kilimnik, asks how Deripaska can be repaid
+| 2016_Apr_11 | Manafort: “How do we use to get whole”, “Has OVD operation seen?”
 | 2016_Apr_12 | Olga Bielkova and a colleague meet with David Kramer, Liz Zentos, and Michael Kimmage
 | 2016_Apr_16 | Barbara Westgate appointed Director of Washington Headquarters Services (DOD Field Activity, agency that paid Halper)
 | 2016_Apr_18 | DOJ shuts down FBI contractor access to 702's (cutting off suspected CIA associates of HRC)
@@ -823,6 +823,7 @@
 | 2017_Sep_20 | Brennan opens a Twitter account
 | 2017_Sep_29 | BigLeaguePolitics: "Journalist Who Met With Assange: ‘I Am Willing to Testify Before Any Government Body’"
 | 2017_Sep_30 | Chuck Rosenberg resigns
+| 2017_Oct_02 | The Atlantic: "Did Manafort Use Trump to Curry Favor With a Putin Ally?"
 | 2017_Oct_05 | Papadopoulos pleads guilty to lying to the FBI about the timing of his contacts with Mifsud, case held under seal, 
 | 2017_Oct_10 | Carter Page sends letters to Special Counsel and HPSCI/SSCI, denies charges, demands open-session hearings
 | 2017_Oct_10 | Daily Caller: "Rohrabacher, Rand Paul met to discuss Assange giving up WikiLeaks source to US Government"
