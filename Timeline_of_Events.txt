@@ -738,22 +738,21 @@
 | 2017_May_31 | FARA filings indicate Adam Waldman ceases representation of Sergey Lavrov
 | 2017_May_31 | HPSCI responds to Page's television appearances, issues statement that they won't be rushed on witnesses
 | 2017_May_31 | NYT: "CNN Fires Kathy Griffin From New Year’s Eve Broadcast Over Trump Photo"
-| 2017_Jun_?? | Steele: “We are frustrated with how long this reengagement is taking...There are some new, perishable, operational opportunities which we do not want to miss out on.”
 | 2017_Jun_03 | Reality Winner arrested [see: Strzok 2017-06-03 text]
 | 2017_Jun_03 | Strzok: "Subj in custody, btw. First ML arrest of the Trump era."
 | 2017_Jun_05 | LA Times: "Contractor is charged with leaking top-secret document about Russian hacking"
 | 2017_Jun_06 | MSNBC: "Chris Matthews to Carter Page: Why are you hiding?"
 | 2017_Jun_07 | Page: "We're starting obstruction team brief but just come. Sit in on whatever comes next."
-| 2017_Jun_07 | CNN: "Comey expected to refute Trump" [retracted, see: June 6, 2017 The Hill]
+| 2017_Jun_07 | CNN: "Comey expected to refute Trump" [retracted, see: Jun 6, 2017 The Hill]
 | 2017_Jun_07 | The Hill: "CNN issues correction after Comey statement contradicts reporting"
 | 2017_Jun_09 | NYT: "CNN Drops Reza Aslan Over His Vulgar Criticism of Trump"
 | 2017_Jun_09 | Strzok: "Just got an Agency coin. With Brennan's signature"
 | 2017_Jun_10 | Carter Page responds to HPSCI, says committees have blocked him from testifying
-| 2017_Jun_13 | Strzok: "Need to talk to you before you talk to him so you know what I said (Which was nothing, but we need to coordinate) He knows who has them now but not how they got them"
+| 2017_Jun_13 | Strzok: "Need to talk to you before you talk to him...He knows who has them now but not how they got them"
 | 2017_Jun_20 | Strzok: "And I deeply sincerely meant it earlier when I said I simply want you happy."
 | 2017_Jun_20 | Page: "Then don't join the team."
-| 2017_Jun_22 | CNN: "Congress investigating Russian investment fund with ties to Trump officials" [retracted, see: June 24 Buzzfeed]
-| 2017_Jun_22 | Steele: "any news on reengagement yet?"
+| 2017_Jun_22 | CNN: "Congress investigating Russian investment fund with ties to Trump officials" [retracted, see: Jun 24 Buzzfeed]
+| 2017_Jun_22 | Steele: "any news on reengagement yet?" [see: Aug 8, 2018 The Hill]
 | 2017_Jun_22 | SSCI sends letter to Lynch about Renteria memo
 | 2017_Jun_23 | Carter Page sends letter to HPSCI, details five pages of suggested cross-exam questions for John Podesta
 | 2017_Jun_24 | Buzzfeed: "CNN Deleted A Story Linking Trump And Russia, Then Issued A Retraction After Questions Were Raised"
@@ -761,15 +760,15 @@
 | 2017_Jun_26 | Buzzfeed: "Three CNN Employees Resign Over Retracted Russia Story"
 | 2017_Jun_29 | Third and final renewal on Carter Page FISA
 | 2017_Jun_29 | BuzzFeed: "Heat Street Is Folding"
-| 2017_Jul_16 | Steele: asks about reengagement, Bruce says he will pass along the message
+| 2017_Jul_16 | Steele: "they assured me they would stand in the way of our reengagement with the Bureau." [see: Aug 8, 2018 The Hill]
 | 2017_Jul_18 | Fox News: "Hillary Clinton sided with Russia on sanctions as Bill made $500G on Moscow speech"
 | 2017_Jul_20 | FBI delivers to OIG Sep 2015 - Nov 30, 2016 Strzok/Page texts [see: Dec 13, 2017 Horowitz letter to Grassley, Johnson]
 | 2017_Jul_21 | USA Today: "Anthony Scaramucci to be White House communications director"
-| 2017_Jul_?? | Papadopoulos receives $10k from Charles Tawil (sometime before July 27th) [see: August 20, 2018 Daily Caller]
-| 2017_Jul_24 | Imran Awan arrested at Dulles International Airport [see: July 25, 2017 Daily Caller]
+| 2017_Jul_?? | Papadopoulos receives $10k from Charles Tawil (sometime before July 27th) [see: Aug 20, 2018 Daily Caller]
+| 2017_Jul_24 | Imran Awan arrested at Dulles International Airport [see: Jul 25, 2017 Daily Caller]
 | 2017_Jul_25 | Daily Caller: "Wasserman Schultz's IT aide arrested at airport after wiring 300k to Pakistan from House office"
-| 2017_Jul_26 | Manafort home raided [see: August 9, 2017 CNBC]
-| 2017_Jul_26 | Scaramucci calls Ryan Lizza [see: July 27, 2017 New Yorker]
+| 2017_Jul_26 | Manafort home raided [see: Aug 9, 2017 CNBC]
+| 2017_Jul_26 | Scaramucci calls Ryan Lizza [see: Jul 27, 2017 New Yorker]
 | 2017_Jul_27 | Horowitz informs Mueller of Strzok/Page texts [see: December 13, 2017 Fox News]
 | 2017_Jul_27 | New Yorker: "Anthony Scaramucci Called Me to Unload About White House Leakers, Reince Priebus, and Steve Bannon"
 | 2017_Jul_27 | Papadopoulos arrested at Dulles International Airport [see: December 4, 2017 Politico]
@@ -785,8 +784,7 @@
 | 2017_Aug_04 | Heat Street closes [see: June 29, 2017 BuzzFeed]
 | 2017_Aug_04 | CNN: "While Trump's away, 'much-needed' White House renovations begin"
 | 2017_Aug_04 | Fox News: "Sessions announces hunt for leakers, says cases have 'exploded'"
-| 2017_Aug_06 | Steele frustrated with FBI and Mueller reengagement, asks Bruce to speed things up
-| 2017_Aug_07 | Steele texts Bruce Ohr, asks if he can give Bruce a call tomorrow, Bruce tells him befoe 10am
+| 2017_Aug_06 | Steele: “frustrated with...reengagement...new, perishable, operational opportunities"  [see: Aug 8, 2018 The Hill]
 | 2017_Aug_09 | CNBC: "FBI raided Paul Manafort's home in July"
 | 2017_Aug_10 | FBI delivers to OIG Nov '16-Jul 28, 2017 Strzok/Page texts [see: Dec 13, 2017 Horowitz letter to Grassley, Johnson]
 | 2017_Aug_14 | WaPo: "Trump campaign emails show aide’s repeated efforts to set up Russia meetings"
@@ -818,21 +816,21 @@
 | 2017_Oct_25 | CNN: "Exclusive: Mueller's team met with Russia dossier author"
 | 2017_Oct_30 | Court unseals Papadopoulos case, documents show he sent multiple emails to Trump campaign about Russia
 | 2017_Oct_30 | JenniferJJacobs: "George Papadopoulos...pleaded guilty to making false statements to FBI agents."
-| 2017_Oct_30 | Steele: "I now understand and appreciate what you were talking about on Saturday." (Saturday is October 28)
+| 2017_Oct_30 | Steele: "I now understand...what you were talking about on Saturday [28th]." [see: Aug 8, 2018 The Hill]
 | 2017_Oct_30 | Press release of Mueller indictment against Manafort, Podesta Group, Mercury LLC
 | 2017_Oct_30 | Vanity Fair: "Carter Page gives another 'awesomely stupid' interview"
 | 2017_Nov_01 | La Repubblica: Mifsud says Papadopoulos is mistaken, says he never said anything about dirt or emails on Hillary
 | 2017_Nov_02 | Carter Page says he was warned of Steele's targeting by Sep 2016, in a CNN interview with Jake Tapper
 | 2017_Nov_08 | Glenn Simpson testifies in a closed-door hearing before HPSCI
 | 2017_Nov_07 | Pompeo meets William Binney, who cast doubt on U.S. intel assessment that Russia was behind email hacks
-| 2017_Nov_11 | Steele asks if there's been any response to a question he had last week, Bruce says nothing yet
+| 2017_Nov_11 | Steele: "wondering if there was any response to the questions I raised last week?" [see: Aug 8, 2018 The Hill]
 | 2017_Nov_13 | Huber appointed
 | 2017_Nov_14 | Glenn Simpson testifies in a closed-door hearing before HPSCI
 | 2017_Nov_14 | Russian lobbyist who attended Trump Tower meeting, Rinat Akhmetshin, testifies before Senate Judiciary Committee
 | 2017_Nov_15 | The Guardian: "Christopher Steele believes his dossier on Trump-Russia is 70-90% accurate"
-| 2017_Nov_18 | Steele says he hasn't heard back from SC colleagues, says he's in dark on what's been briefed to Congress
+| 2017_Nov_18 | Steele: "we remain in the dark as to what has been briefed to Congress about us" [see: Aug 8, 2018 The Hill]
 | 2017_Nov_?? | (late November) Adam Waldman visits Assange twice in the Ecuadorian Embassy [see: June 20, 2018 The Guardian]
-| 2017_Nov_27 | Steele texts Bruce Ohr, asks to schedule a Whatsapp call (last known Steele/Ohr text)
+| 2017_Nov_27 | Steele: "catch-up Whatsapp call this eve GMT...with you?" [last Steele/Ohr text] [see: Aug 8, 2018 The Hill]
 | 2017_Nov_29 | OIG questions McCabe, McCabe clarifies further the statements he gave to OIG from August 1, 2018
 | 2017_Nov_30 | Flynn accepts plea deal
 | 2017_Dec_01 | ABC: "Flynn promised full cooperation to Mueller and says candidate Trump directed him to make contact with Russians."
