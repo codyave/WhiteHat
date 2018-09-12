@@ -492,6 +492,7 @@
 | 2016_Dec_09 | Brennan provides ICA assessment to Obama, showing Russia preferring Trump over Clinton
 | 2016_Dec_09 | Obama orders review of Russian interference in US elections going back to 2008
 | 2016_Dec_09 | Imran Awan returns to U.S. from Pakistan
+| 2016_Dec_09 | NYT: "Russian Hackers Acted to Aid Trump in Election, U.S. Says"
 | 2016_Dec_10 | Simpson tells Ohr at a DC coffee shop that Michael Cohen was the “go-between from Russia to the Trump campaign.”
 | 2016_Dec_12 | FBI interviews Bruce Ohr (Ohr FD-302 December 19, 2016)
 | 2016_Dec_12 | Evelyn Farkas publishes an article in Politico about Trump and Russia
@@ -499,10 +500,19 @@
 | 2016_Dec_13 | "The Perfect Weapon: How Russian Cyberpower Invaded the U.S." is published in the NYT
 | 2016_Dec_13 | Neil King informs colleagues he is joining Fusion GPS
 | 2016_Dec_14 | Last Page/Strzok text for six months (starts back up 2017-May-18)
-| 2016_Dec_15 | Lisa Monaco at Defense One Summit says that the Trump transition team has not contacted her personally
+| 2016_Dec_15 | CBS News: "Vladimir Putin likely gave go-ahead for U.S. cyberattack, intelligence officials say"
+| 2016_Dec_15 | NBC News: "U.S. Officials: Putin Personally Involved in U.S. Election Hack"
+| 2016_Dec_15 | Page: "Oh, remind me to tell you tomorrow about the times doing a story about the rnc hacks" [see: Sep 12, 2018 Fox]
+| 2016_Dec_15 | Strzok: "And more than they already did? I told you Quinn told me they pulling out all the stops on some story..."
+| 2016_Dec_15 | Strzok: "Think our sisters have begun leaking like mad. Scorned and worried, and political...kicking into overdrive."
+| 2016_Dec_15 | Strzok: "And we need to talk more about putting C reporting in our submission. They’re going to declassify all of it"
+| 2016_Dec_15 | Page: "I know. But they’re going to declassify their stuff, how do we withhold..."
+| 2016_Dec_15 | Strzok: "Just want to ensure everyone is good with it and has thought thru all implications."
+| 2016_Dec_15 | Strzok: "CD should bring it up with the DD."
 | 2016_Dec_15 | Evelyn Farkas discusses Russian meddling on CNN
 | 2016_Dec_15 | Clapper signs off Executive Order 12333 (NSA data-sharing order)
 | 2016_Dec_15 | Ukraine backs away from claims of Paul Manafort's illegal dealings
+| 2016_Dec_15 | Lisa Monaco at Defense One Summit says that the Trump transition team has not contacted her personally
 | 2016_Dec_15 | Clapper signs and authorizes the dissemination of NSA surveillance, later signed by Loretta Lynch on January 3rd
 | 2016_Dec_15 | George Nader and Mohammed bin Zayed al Nahyan meet secretly with Kushner, Bannon, and Gen. Flynn at Trump Tower
 | 2016_Dec_15 | Louise Mensch and News Corp. part ways [see: January 5, 2017 Politico]
@@ -534,6 +544,7 @@
 | 2017_Jan_09 | Erik Prince meets with UAE in Seychelles to dissuade Russia's relationship with Iran [see: Apr 3, 2017 WaPo]
 | 2017_Jan_09 | IBTimes: "Trump Administration Waives Punishment For Convicted Banks, Including Deutsche — Which Trump Owes Millions"
 | 2017_Jan_10 | Newsweek: "Trump, Putin, and the Hidden History of How Russia Interfered in the U.S. Presidential Election"
+| 2017_Jan_10 | NYT: "Russian Hackers Gained ‘Limited’ Access to R.N.C., Comey Says"
 | 2017_Jan_10 | Carter Page questions Lisa Monaco, hushed by pro-Clinton campaign journalist [see: March 8, 2017 letter to SSCI]
 | 2017_Jan_10 | BuzzFeed: "These Reports Allege Trump Has Deep Ties To Russia"
 | 2017_Jan_10 | Comey testifies before Senate Intelligence Committee, says DNC refused to provide FBI access to hacked computer servers
@@ -1039,6 +1050,7 @@
 | 2018_Sep_10 | Saraacarter.com: "New Texts Reveal FBI Leaked Information to the Press to Damage Trump"
 | 2018_Sep_10 | Carter Page: "[SDNY]....[DOJ]...made a kangaroo court out of...our country" [see: Sep 10, 2018 The Hill]
 | 2018_Sep_10 | The Hill: "Leaking lovers and an FBI smear job of Carter Page?"
+| 2018_Sep_12 | Fox News: "New Strzok-Page texts reveal others were ‘leaking like mad’ in lead up to Trump-Russia probe"
 | 2018_Sep_17 | Flynn sentencing date
 | 2018_Sep_21 | Reynaldo Regis sentencing date [see: May 11, 2018 Washington Examiner]
 | 2018_Nov_05 | El Chapo hearing
