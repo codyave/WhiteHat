@@ -775,6 +775,7 @@
 | 2017_Jun_15 | WaPo: "Special counsel is investigating Jared Kushner’s business dealings"
 | 2017_Jun_15 | Rosenstein: "...exercise caution before accepting as true any stories attributed to to anonymous 'officials'..."
 | 2017_Jun_16 | Politico: "Trump hires another high-profile lawyer as special counsel probe heats up"
+| 2017_Jun_16 | CNN: "Robert Mueller expands special counsel office, hires 13 lawyers"
 | 2017_Jun_20 | Strzok: "And I deeply sincerely meant it earlier when I said I simply want you happy."
 | 2017_Jun_20 | Page: "Then don't join the team."
 | 2017_Jun_22 | CNN: "Congress investigating Russian investment fund with ties to Trump officials" [retracted, see: Jun 24 Buzzfeed]
