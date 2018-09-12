@@ -771,6 +771,7 @@
 | 2017_Jun_09 | Strzok: "Just got an Agency coin. With Brennan's signature"
 | 2017_Jun_10 | Carter Page responds to HPSCI, says committees have blocked him from testifying
 | 2017_Jun_13 | Strzok: "Need to talk to you before you talk to him...He knows who has them now but not how they got them"
+| 2017_Jun_15 | Rosenstein: "...exercise caution before accepting as true any stories attributed to to anonymous 'officials'..."
 | 2017_Jun_20 | Strzok: "And I deeply sincerely meant it earlier when I said I simply want you happy."
 | 2017_Jun_20 | Page: "Then don't join the team."
 | 2017_Jun_22 | CNN: "Congress investigating Russian investment fund with ties to Trump officials" [retracted, see: Jun 24 Buzzfeed]
