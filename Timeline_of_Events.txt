@@ -1089,6 +1089,7 @@
 | 2018_Sep_18 | WSJ: "Justice Department Has Ordered Key Chinese State Media Firms to Register as Foreign Agents"
 | 2018_Sep_18 | @LMartinezABC : "Mattis dismissed reports that he will be leaving the Pentagon."
 | 2018_Sep_18 | The Guardian: "'Fort Trump': Donald Trump proposes US military base in Poland"
+| 2018_Sep_19 | @chrisgeidner: "Michael Flynn sentencing is set for Dec. 18. Memos preceding it to be filed starting Dec. 4."
 | 2018_Sep_20 | The Hill: "FBI memos detail 'partisan axes,' secret conflits behind the Russia election meddling assessment"
 | 2018_Sep_20 | Saraacarter.com: "FBI Memos Raise Deep Questions About Russia/Trump Intel Assessment"
 | 2018_Sep_21 | Reynaldo Regis sentencing date (reset to Nov 2, 2018) [see: May 11, 2018 Daily Caller]
@@ -1098,4 +1099,4 @@
 | 2018_Sep_21 | CNBC: "Rosenstein suggested secretly recording Trump and getting cabinet to remove him from office"
 | 2018_Nov_02 | Reset Hearing as to Reynaldo Balaoing Regis set for 9am in Alexandria Courtroom 600 before District Judge Liam O'Grady
 | 2018_Nov_05 | El Chapo hearing
-| 2018_Dec_18 | @chrisgeidner: "Michael Flynn sentencing is set for Dec. 18. Memos preceding it to be filed starting Dec. 4."
+| 2018_Dec_18 | Flynn sentencing
