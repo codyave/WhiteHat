@@ -496,6 +496,8 @@
 | 2016_Dec_09 | Obama orders review of Russian interference in US elections going back to 2008
 | 2016_Dec_09 | Imran Awan returns to U.S. from Pakistan
 | 2016_Dec_09 | NYT: "Russian Hackers Acted to Aid Trump in Election, U.S. Says"
+| 2016_Dec_10 | Reporter asks FBI (Strzok) whether they're uncertain about Russia preference for Trump. [see: Sep 20, 2018 The Hill]
+| 2016_Dec_10 | Strzok (to reporter): “The specific point I made was we did not have information to differentiate what their ultimate goal was. In other words, the activity is one-sided and clear but we can’t say the sole and primary purpose was specifically intended to help someone, hurt someone else or undermine the process. The reality is all three.” [see: Sep 20, 2018 The Hill]
 | 2016_Dec_10 | Simpson tells Ohr at a DC coffee shop that Michael Cohen was the “go-between from Russia to the Trump campaign.”
 | 2016_Dec_12 | FBI interviews Bruce Ohr (Ohr FD-302 December 19, 2016)
 | 2016_Dec_12 | Politico: "Here’s What America Needs to Know About Trump and Russia" (Evelyn Farkas)
@@ -520,9 +522,14 @@
 | 2016_Dec_15 | Louise Mensch and News Corp. part ways [see: January 5, 2017 Politico]
 | 2016_Dec_16 | Obama gives end-of-the-year press conference, says election overrun with leaked information
 | 2016_Dec_17 | Dearlove, Halper, and Peter Martland resign from Cambridge Intelligence Seminar, cite Russian influence (Venuscript)
+| 2016_Dec_18 | Strzok: "Man, our intel submission is going to be a BOMB." [see: Sep 20, 2018 The Hill]
+| 2016_Dec_18 | Page: "Oh god, why do you say that? Was planning to try to go in early to reach it before our mtg with Jim." [see: Sep 20, 2018 The Hill]
+| 2016_Dec_18 | Strzok: "Oh it's fine. You've heard it all. I'm just saying the C portion is absolutely different from the bulk of the stuff in the community. And the community and especially the Wh will jump all over it since it's what they WANT to say and they can attribute it to us, not themselves. All the benefit, none of the political risk. We get all of that." [see: Sep 20, 2018 The Hill]
 | 2016_Dec_20 | FBI interviews Bruce Ohr (Ohr FD-302 December 27, 2016)
+| 2016_Dec_19 | Page: "And this. It will make your head spin to realize how many stories we played a personal role in. Sheesh, this has been quite a year… NYTimes: The most-read stories of 2016 (with a link)." [see: September 20, 2018 saraacarter.com]
+| 2016_Dec_19 | Strzok: "Jesus, I want to take people out for a drink. I want to take YOU out for a drink. I hope this upcoming presidency doesn’t fill my years with regret wondering what we might have done differently." [see: September 20, 2018 saraacarter.com]
 | 2016_Dec_22 | Gen. Flynn speaks to unknown Russian officials regarding Israel
-| 2016_Dec_23 | Lawfare's Matt Tait published "Putin's Way of War" in Politico
+| 2016_Dec_23 | Politico: "Putin's Way of War" (Lawfare's Matt Tait)
 | 2016_Dec_28 | Obama orders sanctions against Russia in response to Russian interference in U.S. elections
 | 2016_Dec_28 | Gen. Flynn speaks to Ambassador Kislyak
 | 2016_Dec_29 | Obama expels 35 officials from the Russian Embassy in Maryland's Eastern Shore
@@ -534,6 +541,9 @@
 | 2017_Jan_?? | Free Beacon parts ways with Fusion GPS sometime in January
 | 2017_Jan_?? | Steele (and Fusion?) may have gone to work for Daniel Jones at Penn Quarterly Group post-election
 | 2017_Jan_01 | Buryakov becomes eligible for transition to a halfway house, option deferred [see: April 5, 2018 Daily Beast]
+| 2017_Jan_03 | Strzok: "He, like us, is concerned with over sharing. Doesn't want Clapper giving CR cuts to WH. All political, just shows our hand and politically makes enemies."
+| 2013_Jan_03 | Page: "Yeah, but keep in mind we were going to put that in the doc on Friday, with potentially larger distribution than just the dni." [see: Sep 20, 2018 The Hill]
+| 2013_Jan_03 | Strzok: "The question is should we , particularly to the entirety of the lame duck usic with partisan axes to grind." [see: Sep 20, 2018 The Hill]
 | 2017_Jan_03 | Schumer, in Maddow interview, says "the intelligence community, they have six ways from Sunday at getting back at you"
 | 2017_Jan_03 | Loretta Lynch signs Section 2.3 of Executive Order 12333 (Obama's NSA data-sharing order)
 | 2017_Jan_05 | Obama and Biden briefed on dossier and report, presented by Clapper, Comey, Brennan, and Rogers
@@ -833,11 +843,11 @@
 | 2017_Aug_09 | CNBC: "FBI raided Paul Manafort's home in July"
 | 2017_Aug_10 | FBI delivers to OIG Nov '16-Jul 28, 2017 Strzok/Page texts [see: Dec 13, 2017 Horowitz letter to Grassley, Johnson]
 | 2017_Aug_14 | WaPo: "Trump campaign emails show aide’s repeated efforts to set up Russia meetings"
+| 2017_Aug_16 | ABC: "Special counsel's Russia probe loses top FBI investigator" (Strzok)
 | 2017_Aug_16 | Daily Caller: "Exclusive: Republican congressman meets with WikiLeaks founder Julian Assange"
 | 2017_Aug_16 | @billbrowder: "Rohrabacher met with Assange in London to broker his release from criminal liability"
-| 2017_Aug_16 | Strzok demoted to FBI Human Resources
 | 2017_Aug_17 | Daily Caller: "Why was this Trump campaign adviser trying to set up meetings with Russians?"
-| 2017_Aug_22 | Glenn Simpsons testifies in closed-door hearing with SSCI
+| 2017_Aug_22 | Glenn Simpson testifies in closed-door hearing with SSCI
 | 2017_Aug_27 | CNN: "FBI arrests Chinese national connected to malware used in OPM data breach"
 | 2017_Aug_28 | NYT: "Trump Associate Boasted That Moscow Business Deal ‘Will Get Donald Elected’"
 | 2017_Aug_29 | Bloomberg: "Felix Sater Is a Lean, Mean Trump-Russia Machine"
@@ -1071,6 +1081,8 @@
 | 2018_Sep_18 | WSJ: "Justice Department Has Ordered Key Chinese State Media Firms to Register as Foreign Agents"
 | 2018_Sep_18 | @LMartinezABC : "Mattis dismissed reports that he will be leaving the Pentagon."
 | 2018_Sep_18 | The Guardian: "'Fort Trump': Donald Trump proposes US military base in Poland"
+| 2018_Sep_20 | The Hill: "FBI memos detail 'partisan axes,' secret conflits behind the Russia election meddling assessment"
+| 2018_Sep_20 | Saraacarter.com: "FBI Memos Raise Deep Questions About Russia/Trump Intel Assessment"
 | 2018_Sep_21 | Reynaldo Regis sentencing date [see: May 11, 2018 Daily Caller]
 | 2018_Nov_05 | El Chapo hearing
 | 2018_Dec_18 | @chrisgeidner: "Michael Flynn sentencing is set for Dec. 18. Memos preceding it to be filed starting Dec. 4."
