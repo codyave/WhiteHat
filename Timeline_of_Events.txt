@@ -608,6 +608,7 @@
 | 2017_Jan_26 | FBI interviews Papadopoulos, Pdop is claimed to have said he met Mifsud before joining the Trump campaign
 | 2017_Jan_26 | Trump at GOP Retreat: "Where is Pompeo? Where the hell is he? Did he ever come here? Oh, he's working!"
 | 2017_Jan_26 | Sally Yates travels to the White House with Mary McCord to discuss Gen. Flynn
+| 2017_Jan_27 | Cohen, Sater, and Ukrainian lawmaker Andrii Artemenko discuss a Ukrainian peace plan proposal [see: Mar 6, 2018 WaPo]
 | 2017_Jan_27 | BBC: "Trump 'compromising' claims: How and why did we get here?"
 | 2017_Jan_27 | Sally Yates returns to the White House for a second discussion about Gen. Flynn
 | 2017_Jan_27 | Adam Waldman visits Julian Assange in the Ecuadorian Embassy [see: June 20, 2018 The Guardian]
@@ -951,6 +952,7 @@
 | 2018_Mar_05 | NYT: "In Poisoning of Sergei Skripal, Russian Ex-Spy, U.K. Sees Cold War Echoes"
 | 2018_Mar_05 | Grabien: "CNN travels to Thailand to speak with prostitute who claims to have dirt on Trump"
 | 2018_Mar_06 | @dcpoll: "Mar 24, 2016: RDIF CEO Kirill Dmitriev [met w/ Erik Prince in Seychelles, Jan 2017 & days later w/Scaramucci in Davos]"
+| 2018_Mar_06 | WaPo: "Special counsel has examined episodes involving Michael Cohen, Trump’s longtime lawyer"
 | 2018_Mar_08 | Daily Caller: "Oleg Deripaska Op-Ed: The Ever-changing 'Russia narrative' is false public manipulation"
 | 2018_Mar_12 | BuzzFeed: "How A Player In The Trump-Russia Scandal Led A Double Life As An American Spy"
 | 2018_Mar_13 | ABC: "Roger Stone: Allegations I met with Assange in 2016 'provably false'"
