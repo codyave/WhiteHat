@@ -587,7 +587,6 @@
 | 2017_Jan_17 | Bloomberg: "Trump Aide Talks Investment With Sanctioned Kremlin Fund"
 | 2017_Jan_17 | Samantha Power uses final speech in U.N. to criticize Russia
 | 2017_Jan_17 | Politico: "Obama commutes Chelsea Manning's sentence"
-| 2017_Jan_17 | George Nader accosted by federal agents at Dulles airport, electronics seized, agrees to cooperate
 | 2017_Jan_18 | Imran Awan wires $283k to two individuals in Faisalabad, Pakistan [see: July 25, 2017 Daily Caller]
 | 2017_Jan_18 | New Observer: "FBI, five other agencies probe possible covert Kremlin aid to Trump"
 | 2017_Jan_18 | The Guardian: "Julian Assange ready for US extradition, one of his lawyers suggests"
@@ -925,6 +924,7 @@
 | 2018_Jan_09 | Washington Times: "Sen. Dianne Feinstein releases transcript of closed-door meeting with Fusion GPS exec"
 | 2018_Jan_12 | Pitchfork: "Moby Says CIA Agents Asked Him to Spread the Word About Trump and Russia"
 | 2018_Jan_13 | In a self-published book by two Italian friends, Mifsud denies telling Papadopoulos about HRC emails
+| 2018_Jan_17 | George Nader accosted by federal agents at Dulles airport, electronics seized, agrees to cooperate
 | 2018_Jan_19 | Axios: "How the CIA’s spy network in China collapsed"
 | 2018_Jan_23 | New York Post: "Comey’s former chief of staff finally quits FBI under pressure from GOP lawmakers"
 | 2018_Jan_27 | Assange DM's fake Hannity account, promises info on Warner [see: January 29, 2018 Daily Beast]
