@@ -161,7 +161,7 @@
 | 2016_Apr_?? | Perkins Coie hires Fusion GPS
 | 2016_Apr_01 | Council on Foreign Relations-see CrowdStrike, Evelyn Farkas, Atlantic Council
 | 2016_Apr_02 | Lisa Page: "So look, you say we text on that phone when we talk about hillary because it can't be traced..."
-| 2016_Apr_03 | The Guardian: Panama Papers
+| 2016_Apr_03 | The Guardian: "Panama Papers"
 | 2016_Apr_03 | Politico: "Trump and Putin: Two Liars Separated at Birth?" (Evelyn Farkas)
 | 2016_Apr_05 | Olga Bielkova reportedly seeks meetings with five dozen members of U.S. Congress and reporters
 | 2016_Apr_05 | FBI General Counsel Jim Baker attends the Global Privacy Summit, along with Michael Sussmann (Perkins Coie)
@@ -183,16 +183,16 @@
 | 2016_Apr_?? | Brennan creates two task forces - Domestic task force (FBI, DOJ, Treasury) and Foreign task force (CIA, ODNI, NSA)
 | 2016_Apr_22 | Alan Cullison: "So I'm told Deripaska was in the U.S. this past week." (email to Robert Otto)
 | 2016_Apr_22 | Russian intel prepares massive amount of data for exfiltration from DNC servers
-| 2016_Apr_25 | Yahoo: "Trump's campaign chief is questioned about ties to Russian billionaire"
 | 2016_Apr_25 | Obama For America begins paying funds into Perkins Coie for "legal services"
 | 2016_Apr_26 | Mifsud tells Papadopoulos about Russian officials who have damaging material on HRC
-| 2016_Apr_26 | Michael Isikoff reports on Paul Manafort connections to a billionaire Russian oligarch
+| 2016_Apr_26 | Yahoo: "Trump’s campaign chief is questioned about ties to Russian billionaire"
 | 2016_Apr_27 | Politico: "How Donald Trump became the Kremlin's Candidate"
 | 2016_Apr_27 | Bruno Kahl nominated to be President of the Federal Intelligence Service in Germany
 | 2016_Apr_27 | Papadopoulos sends email to Lewandowski, refers to possible meetings with Russian officials
 | 2016_Apr_28 | Alexandra Chalupa invited to Ukraine at Library of Congress for Open World Leadership Center discuss Manafort research
 | 2016_Apr_28 | DNC detects infiltration of GRU ("Fancy Bear"), FBI not informed, Michael Sussman summoned to emergency meeting
 | 2016_Apr_29 | WaPo: "Sanders campaign drops lawsuit against DNC stemming from December data breach"
+| 2016_Apr_29 | McClatchly: "What Panama Papers say - and don’t say - about Trump"
 | 2016_Apr_30 | Strzok:"And now we've switched from the Patriot Act to a wire carrying current."
 | 2016_May_?? | Stone and Caputo approached by Henry Greenberg (Oknyansky) [see: June 17, 2018 CNN]
 | 2016_May_?? | Stefan Halper communicates with Steele, according to Yaacov Appelbaum
