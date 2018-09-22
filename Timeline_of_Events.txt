@@ -644,13 +644,13 @@
 | 2017_Mar_?? | FBI contacts Carter Page (first time in over a year)
 | 2017_Mar_01 | NYT: "Obama Administration Rushed to Preserve Intelligence of Russian Election Hacking"
 | 2017_Mar_02 | PBS: "In a reversal, former Trump campaign adviser Carter Page now says he did have contact with Russia"
-| 2017_Mar_06 | Daily Caller: "Dem super-lobbyist Podesta got $170k to end US sanctions on Russian bank"
-| 2017_Mar_07 | Daily Caller: "Podesta didn't register as a foreign agent when he represented a bank with ties to Russia spy agencies"
 | 2017_Mar_03 | The Guardian: "Jeff Sessions recuses himself from Russia inquiry amid calls for resignation"
 | 2017_Mar_03 | Waldman: "Hey Mark, am back in Washington and hope we can get together, maybe w Jack? And our wives?"
 | 2017_Mar_04 | Trump: "Just found out that Obama had my "wires tapped" in Trump Tower just before the victory."
 | 2017_Mar_04 | The Hollywood Report: "Mike Pence jokes media is "enemy of the people" at Gridiron Dinner"
 | 2017_Mar_05 | U.S. Customs search the wife of Imran Awan, Hina Alvi, and find $12,400 [see: Jul 25, 2017 Daily Caller]
+| 2017_Mar_06 | Daily Caller: "Dem super-lobbyist Podesta got $170k to end US sanctions on Russian bank"
+| 2017_Mar_07 | Daily Caller: "Podesta didn't register as a foreign agent when he represented a bank with ties to Russia spy agencies"
 | 2017_Mar_08 | The Guardian: "Why James Clapper's Trump comments may not conflict with reports of secret court order"
 | 2017_Mar_09 | B.I.: "Foreign policy adviser disavowed by Trump team says he ‘spent many hours’ at Trump campaign headquarters"
 | 2017_Mar_06 | Grassley: "FBI Plan to Pay Ex-Spy...Sparks Questions of Obama Admin’s Use of Federal Authorities for Political Gain"
@@ -958,8 +958,8 @@
 | 2018_Feb_28 | Grassley letter to OIC requests review of any improper political influence in counterintelligence investigations
 | 2018_Mar_05 | NYT: "In Poisoning of Sergei Skripal, Russian Ex-Spy, U.K. Sees Cold War Echoes"
 | 2018_Mar_05 | Grabien: "CNN travels to Thailand to speak with prostitute who claims to have dirt on Trump"
-| 2018_Mar_06 | @dcpoll: "Mar 24, 2016: RDIF CEO Kirill Dmitriev [met w/ Erik Prince in Seychelles, Jan 2017 & days later w/Scaramucci in Davos]"
 | 2018_Mar_06 | WaPo: "Special counsel has examined episodes involving Michael Cohen, Trump’s longtime lawyer"
+| 2018_Mar_07 | @carterwpage first tweet
 | 2018_Mar_08 | Daily Caller: "Oleg Deripaska Op-Ed: The Ever-changing 'Russia narrative' is false public manipulation"
 | 2018_Mar_12 | BuzzFeed: "How A Player In The Trump-Russia Scandal Led A Double Life As An American Spy"
 | 2018_Mar_13 | ABC: "Roger Stone: Allegations I met with Assange in 2016 'provably false'"
