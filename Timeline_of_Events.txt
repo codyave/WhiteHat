@@ -981,6 +981,7 @@
 | 2018_Apr_05 | CNN: "Mueller using information related to searches of Manafort's belongings for ongoing investigation"
 | 2018_Apr_05 | CNN: "Sex coach who claims to have US election dirt charged with prostitution"
 | 2018_Apr_06 | Reuters: "Russian businessmen, officials on new U.S. sanctions list"
+| 2018_Apr_13 | @NPR: "'His leadership is transactional, ego driven and about personal loyalty,' Comey writes."
 | 2018_Apr_15 | CNN: "ABC News: Comey says his belief Clinton would win election 'a factor' in email probe"
 | 2018_Apr_16 | Daily Beast: "Exclusive: FBI Investigated Former CIA Chief Michael Hayden in Secret-Spilling Case"
 | 2018_Apr_17 | Vice News: "‘Sex huntress’ who claims to have dirt on Trump and Russia may spend years in Thai prison"
