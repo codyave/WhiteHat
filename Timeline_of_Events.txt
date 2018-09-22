@@ -659,6 +659,7 @@
 | 2017_Mar_09 | BuzzFeed: "Nigel Farage Just Visited The Ecuadorian Embassy In London"
 | 2017_Mar_09 | WaPo: "House Intelligence Committee chiefs ask Justice for proof of wiretaps on Trump"
 | 2017_Mar_09 | CNN: "Sources: FBI investigation continues into 'odd' computer link between Russian bank and Trump Organization"
+| 2017_Mar_10 | Carter Page meets with FBI agents under McCabe's command [see: Sep 20, 2018 @carterwpage]
 | 2017_Mar_11 | CNN: "Ukraine lawyer seeks probe of alleged hacked texts of Manafort's daughter"
 | 2017_Mar_11 | Bharara: "I did not resign. Moments ago I was fired."
 | 2017_Mar_14 | CNN: "Justice department asks for more time to collect evidence on Trump wiretap claims"
@@ -670,6 +671,7 @@
 | 2017_Mar_15 | Trump: "We have it before the committee. We're submitting some things."
 | 2017_Mar_16 | Marie Argentieri's (Secret Service) van is broken into, laptop stolen at 3am [see: Mar 22, 2017, NYDN]
 | 2017_Mar_16 | Waldman: "Chris Steele asked me to call you"
+| 2017_Mar_16 | Carter Page meets with FBI agents under McCabe's command [see: Sep 20, 2018 @carterwpage]
 | 2017_Mar_16 | The Daily Beast: "DOJ Blows Wiretap Deadline, Asks Intelligence Committee for More Time"
 | 2017_Mar_17 | Kevin McCarthy and Paul Ryan joke that Trump is paid by Putin (McMullin suspected) [see: May 21, 2017 WaPo]
 | 2017_Mar_17 | Carter Page 2016 FISA application transported to SSCI
@@ -695,6 +697,7 @@
 | 2017_Mar_29 | Reuters: "U.S. State Dept. employee charged in making contacts with Chinese agents"
 | 2017_Mar_29 | CNN: "Bank that Kushner met with paid Russian intelligence agent's legal tab"
 | 2017_Mar_30 | @FoxNews: "TONIGHT: Catherine Herridge speaks to Carter Page"
+| 2017_Mar_30 | Carter Page meets with FBI agents under McCabe's command [see: Sep 20, 2018 @carterwpage]
 | 2017_Mar_30 | USA vs Buryakov et al: "MEMO ENDORSEMENT as to Evgeny Buryakov" signed by Judge Richard Berman
 | 2017_Mar_30 | Steele: SSCI "leaking like a sieve, giving us pause for thought on engagement" 
 | 2017_Mar_30 | Waldman: "Chris is concered about the leaks yesterday", "press might have run him off", "huddled w lawyers"
@@ -1097,6 +1100,7 @@
 | 2018_Sep_19 | @chrisgeidner: "Michael Flynn sentencing is set for Dec. 18. Memos preceding it to be filed starting Dec. 4."
 | 2018_Sep_20 | The Hill: "FBI memos detail 'partisan axes,' secret conflits behind the Russia election meddling assessment"
 | 2018_Sep_20 | Saraacarter.com: "FBI Memos Raise Deep Questions About Russia/Trump Intel Assessment"
+| 2018_Sep_20 | @carterwpage: "In meetings with agents under Mr. McCabe's command on Mar. 10, 16 & 30, 2017, I told them about Terror Threats that began with the Sep. 2016 FISA Abuse article."
 | 2018_Sep_21 | Reynaldo Regis sentencing date (reset to Nov 2, 2018) [see: May 11, 2018 Daily Caller]
 | 2018_Sep_21 | BuzzFeed: "The Planners Of The Trump Tower Meeting Moved Millions, And Mueller Is Now Investigating"
 | 2018_Sep_21 | WSJ: "Ex-Trump Lawyer Tried to Help Pay Legal Fees for Manafort, Gates"
