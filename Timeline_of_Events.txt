@@ -974,6 +974,7 @@
 | 2018_Mar_28 | The Intercept: "Department of Justice charges whistleblower under espionage act"
 | 2018_Mar_30 | Greg Brower (FBI Assistant Director for the Office of Congressional Affairs) resigns
 | 2018_Mar_30 | MSNBC: "Carter Page returns to All In"
+| 2018_Mar_31 | @carterwpage: "Great to be on @WattersWorld at 8 pm EDT tonight!"
 | 2018_Apr_02 | WSJ: "Roger Stone’s Claim of a 2016 Julian Assange Meeting Draws Scrutiny"
 | 2018_Apr_03 | CBS News: "Rod Rosenstein outlined scope for special counsel probe in August 2017"
 | 2018_Apr_05 | CNN: "Mueller using information related to searches of Manafort's belongings for ongoing investigation"
