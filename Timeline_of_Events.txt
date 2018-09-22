@@ -364,8 +364,8 @@
 | 2016_Sep_02 | Page texts Strzok that Comey was preparing a meeting with Obama, who wanted to know what they were doing
 | 2016_Sep_05 | At G20 Summit, Obama and Putin discuss US presidential election, Obama allegedly warns Putin to stop interfering
 | 2016_Sep_06 | FBI, NSA, and ODNI hold classified briefings with Congressional staff members about Russian interference
-| 2016_Sep_07 | Intelligence and National Security Summit, attended by Schiff, McCabe, Comey, Brennan, Carlin, Adm. Rogers, Shawn Henry
 | 2016_Sep_06 | LA Times: "$1.7-billion payment to Iran was all in cash due to effectiveness of sanctions, White House says"
+| 2016_Sep_07 | Intelligence and National Security Summit, attended by Schiff, McCabe, Comey, Brennan, Carlin, Adm. Rogers, Shawn Henry
 | 2016_Sep_10 | Strzok: "thing is, there are VERY inflammatory things in the 302s we didn't turn over to Congress"
 | 2016_Sep_11 | NBC News: "Hillary Clinton Leaves 9/11 Memorial Early After Feeling ‘Overheated,’ Has Pneumonia"
 | 2016_Sep_13 | Halper and Papadopolous have dinner at the Connaught Hotel, where Halper brings up his research assistant Azra Turk
