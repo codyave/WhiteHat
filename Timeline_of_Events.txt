@@ -826,6 +826,7 @@
 | 2017_Jun_24 | Buzzfeed: "CNN Deleted A Story Linking Trump And Russia, Then Issued A Retraction After Questions Were Raised"
 | 2017_Jun_25 | Page: "Please don't ever text me again."
 | 2017_Jun_26 | Buzzfeed: "Three CNN Employees Resign Over Retracted Russia Story"
+| 2017_Jun_26 | WaPo: "FBI has questioned Trump campaign adviser Carter Page at length in Russia probe"
 | 2017_Jun_29 | Third and final renewal on Carter Page FISA
 | 2017_Jun_29 | BuzzFeed: "Heat Street Is Folding"
 | 2017_Jul_05 | NYPost: "Uncovering the Russia ties of Hillary’s campaign chief"
