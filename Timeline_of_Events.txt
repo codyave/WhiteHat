@@ -427,8 +427,10 @@
 | 2016_Oct_08 | NeverTrumper GOP Congressman Will Hurd dumps Trump
 | 2016_Oct_09 | Poteyev applies for a fishing license at a Wal-Mart in Florida, using his full name [see: Oct 3, 2018 BuzzFeed]
 | 2016_Oct_09 | Mueller joins Booz Allen Hamilton after Shadow Brokers investigation found NSA contractor Harold Martin stole documents
-| 2016_Oct_09 | Podesta speaks with the FBI, who tells him his emails are being investigated
-| 2016_Oct_10 | Pence: "Delicious stop at Tony's Ice Cream, a family-owned-and-operated small business in downtown Gastonia, NC"
+| 2016_Oct_09 | FBI speaks with John Podesta, tells him his emails are being investigated [see: Oct 11, 2016 Politico]
+| 2016_Oct_?? | FBI general counsel James Baker meets with DNC lawyers to discuss Trump-Russia collusion [see: Oct 3, 2018 The Hill]
+| 2016_Oct_10 | @mike_pence: "Delicious stop at Tony's Ice Cream, a family-owned-and-operated small business in downtown Gastonia, NC"
+| 2016_Oct_11 | Politico: "Podesta: Trump ally had ‘advance warning’ of hacked emails"
 | 2016_Oct_12 | CBS: "Trump Ally Roger Stone Admits ‘Back-Channel’ Tie To WikiLeaks"
 | 2016_Oct_13 | Trump delivers "Slings and Arrows" speech in Florida
 | 2016_Oct_14 | Yahoo: "Former CIA director accuses Trump allies of 'working on behalf of the Russians'"
@@ -1145,6 +1147,7 @@
 | 2018_Sep_26 | The Guardian: "Ecuador gave Julian Assange diplomatic role at its Moscow embassy, says MP"
 | 2018_Oct_03 | BuzzFeed: "This Russian Double Agent Is A Lot Less Dead Than He Seemed" (Alexander Poteyev)
 | 2018_Oct_03 | The Hill: "Freedom Caucus Chairman says 'strong suggestion' undercover FBI sources taped Trump campaign"
+| 2018_Oct_03 | The Hill: "Russia collusion bombshell: DNC lawyers met with FBI on dossier before surveillance warrant"
 | 2018_Oct_03 | Fox: "Top FBI lawyer Baker offers 'explosive' testimony on 'abnormal' handling of Russia probe into Trump campaign"
 | 2018_Nov_02 | Reynaldo Balaoing Regis sentencing
 | 2018_Nov_05 | El Chapo hearing
