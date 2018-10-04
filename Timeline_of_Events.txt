@@ -17,7 +17,7 @@
 | 2010_Jun_?? | Retired FBI executive says agents feared Cynthia Murphy was too close to HRC [see: October 22, 2017 The Hill]
 | 2010_Jun_25 | Comey joins Bridgewater Associates LP
 | 2010_Jun_28 | Reuters: "U.S. arrests 10 for allegedly spying for Russia"
-| 2010_Jun_29 | Bill Clinton receives $500k for a speech in Moscow given to Renaissance Capital [see: July 18, 2017 Fox News]
+| 2010_Jun_29 | Bill Clinton receives $500k for a speech in Mosecow given to Renaissance Capital [see: July 18, 2017 Fox News]
 | 2010_Jul_08 | Fox News: "10 Russian Spies Deported After N.Y. Guilty Pleas"
 | 2010_Sep_21 | Leaked email from Fred Burton (Stratfor) says then-U.S. Homeland Security Advisor John Brennan is behind DC witch hunt
 | 2010_Nov_10 | The Telegraph: "Ex-KGB soldier named as double agent who exposed Anna Chapman spy ring" (Poteyev)
@@ -1144,6 +1144,8 @@
 | 2018_Sep_22 | Daily Beast: "Rod Rosenstein Talk of Taping Trump Was Considered Serious By Lisa Page"
 | 2018_Sep_26 | The Guardian: "Ecuador gave Julian Assange diplomatic role at its Moscow embassy, says MP"
 | 2018_Oct_03 | BuzzFeed: "This Russian Double Agent Is A Lot Less Dead Than He Seemed" (Alexander Poteyev)
+| 2018_Oct_03 | The Hill: "Freedom Caucus Chairman says 'strong suggestion' undercover FBI sources taped Trump campaign"
+| 2018_Oct_03 | Fox: "Top FBI lawyer Baker offers 'explosive' testimony on 'abnormal' handling of Russia probe into Trump campaign"
 | 2018_Nov_02 | Reynaldo Balaoing Regis sentencing
 | 2018_Nov_05 | El Chapo hearing
 | 2018_Dec_18 | Flynn sentencing
