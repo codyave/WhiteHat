@@ -325,7 +325,7 @@
 | 2016_Jul_31 | Meet the Press questions Manafort on RNC platform changes for Ukraine
 | 2016_Jul_31 | Crossfire Hurricane officially begins
 | 2016_Aug_?? | Nastya Rybka posts photos and videos to her Instagram of her and Oleg Deripaska, as well as Sergei Prikhodko
-| 2016_Aug_?? | Poteyev registers to vote [see: Oct 3, 2018 BuzzFeed]
+| 2016_Aug_22 | Poteyev registers to vote [see: Oct 3, 2018 BuzzFeed] [see: Jun 5, 2017 @textifire]
 | 2016_Aug_01 | The Duran: "NSA whistleblower says DNC hack was not done by Russia, but by U.S. intelligence"
 | 2016_Aug_02 | Two FBI agents (Strzok and ??) in London send interview summary of Downer and Papadopoulos to DC
 | 2016_Aug_03 | Bruce Ohr meets with Andrew McCabe and Lisa Page [see: September 6, 2018 The Hill]
@@ -818,6 +818,7 @@
 | 2017_Jun_03 | Reality Winner arrested [see: Peter Strzok 2017-06-03 text]
 | 2017_Jun_03 | Strzok: "Subj in custody, btw. First ML arrest of the Trump era."
 | 2017_Jun_05 | LA Times: "Contractor is charged with leaking top-secret document about Russian hacking"
+| 2017_Jun_05 | @textifire: "It's unusual to register to vote a month after you die, right? Reg'd in FL 8/22/16" (Poteyev)
 | 2017_Jun_06 | MSNBC: "Chris Matthews to Carter Page: Why are you hiding?"
 | 2017_Jun_07 | Page: "We're starting obstruction team brief but just come. Sit in on whatever comes next."
 | 2017_Jun_07 | CNN: "Comey expected to refute Trump" [retracted, see: Jun 7, 2017 The Hill]
