@@ -419,6 +419,7 @@
 | 2016_Oct_07 | Access Hollywood tape
 | 2016_Oct_07 | WikiLeaks began releasing batches of Podesta’s emails on a near-daily basis until election day
 | 2016_Oct_08 | NeverTrumper GOP Congressman Will Hurd dumps Trump
+| 2016_Oct_09 | Poteyev applies for a fishing license at a Wal-Mart in Florida, using his full name [see: Oct 3, 2018 BuzzFeed]
 | 2016_Oct_09 | Mueller joins Booz Allen Hamilton after Shadow Brokers investigation found NSA contractor Harold Martin stole documents
 | 2016_Oct_09 | Podesta speaks with the FBI, who tells him his emails are being investigated
 | 2016_Oct_10 | Pence: "Delicious stop at Tony's Ice Cream, a family-owned-and-operated small business in downtown Gastonia, NC"
@@ -1132,6 +1133,7 @@
 | 2018_Sep_22 | Yahoo: "Publicist wonders if he was 'patsy' in Trump Tower meeting"
 | 2018_Sep_22 | Daily Beast: "Rod Rosenstein Talk of Taping Trump Was Considered Serious By Lisa Page"
 | 2018_Sep_26 | The Guardian: "Ecuador gave Julian Assange diplomatic role at its Moscow embassy, says MP"
+| 2018_Oct_03 | BuzzFeed: "This Russian Double Agent Is A Lot Less Dead Than He Seemed" (Alexander Poteyev)
 | 2018_Nov_02 | Reynaldo Balaoing Regis sentencing
 | 2018_Nov_05 | El Chapo hearing
 | 2018_Dec_18 | Flynn sentencing
