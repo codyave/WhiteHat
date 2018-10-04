@@ -752,6 +752,7 @@
 | 2017_Apr_12 | Jake Tapper interviews Carter Page [see: Apr 12, 2017 CNN]
 | 2017_Apr_12 | @grantstern: "An EXCLUSIVE Interview with ex-Trump advisor Carter Page about #TrumpRussia"
 | 2017_Apr_12 | CNN: "FBI monitored former Trump campaign adviser Carter Page on Russia"
+| 2017_Apr_13 | NYT: "U.S. Drops 'Mother of All Bombs' on ISIS Caves in Afghanistan"
 | 2017_Apr_13 | The Guardian: "British spies were first to spot Trump team's links with Russia"
 | 2017_Apr_13 | Politico: "House Democrats want Jared Kushner's security clearance suspended"
 | 2017_Apr_13 | Carter Page interview with George Stephanopoulos on Good Morning America [see: Apr 13, 2017 ABC]
@@ -764,6 +765,7 @@
 | 2017_Apr_25 | Politico: "Senate confirms Rosenstein as deputy attorney general"
 | 2017_Apr_26 | justice.gov: "Rosenstein was sworn in as the 37th Deputy Attorney General of the United States on April 26, 2017"
 | 2017_Apr_26 | Judge Collyer presides as signatory for FISC 99-page opinion in response to DOJ/FBI/NSA 702 access
+| 2017_Apr_27 | Daily Mail: "Comey lands in New Zealand for top-secret 'Five Eyes' spying conference between US, UK and allies"
 | 2017_Apr_27 | CNN: "Full interview: Carter Page on Russia contact"
 | 2017_Apr_27 | CNN: "Carter Page talks to Cuomo (full interview)"
 | 2017_Apr_28 | Grassley sends letter to FBI, requesting responses to more questions about the FBI's relationship with Steele
