@@ -662,7 +662,6 @@
 | Feb 23, 2017 | Papadopoulos changes cell phone numbers
 | Feb 23, 2017 | Paul Manafort's daughter's phone is hacked showing unknown persons were trying to blackmail Manafort
 | Feb 24, 2017 | Evan Osnos: "Jared Kushner met w/ Russian Amb Kislyak in Trump Tower during transition"
-| Mar ??, 2017 | FBI contacts Carter Page (first time in over a year)
 | Mar 01, 2017 | NYT: "Obama Administration Rushed to Preserve Intelligence of Russian Election Hacking"
 | Mar 02, 2017 | PBS: "In a reversal, former Trump campaign adviser Carter Page now says he did have contact with Russia"
 | Mar 03, 2017 | The Guardian: "Jeff Sessions recuses himself from Russia inquiry amid calls for resignation"
@@ -695,6 +694,8 @@
 | Mar 16, 2017 | Carter Page meets with FBI agents under McCabe's command [see: Sep 20, 2018 @carterwpage]
 | Mar 16, 2017 | The Daily Beast: "DOJ Blows Wiretap Deadline, Asks Intelligence Committee for More Time"
 | Mar 17, 2017 | Kevin McCarthy and Paul Ryan joke that Trump is paid by Putin (McMullin suspected) [see: May 21, 2017 WaPo]
+| Mar 17, 2017 | Waldman meets with Dan Jones
+| Mar 17, 2017 | Reuters: "Moscow on the Beach: Russian elite invested nearly $100 million in Trump buildings" (hitpiece by Dan Jones)
 | Mar 17, 2017 | Carter Page 2016 FISA application transported to SSCI
 | Mar 17, 2017 | James Wolfe texts and talks to Ali Watkins (82 texts, 28min phone call)
 | Mar 20, 2017 | Steele: "Hoping that important firewalls will hold." [see: Aug 8, 2018 The Hill]
@@ -1153,6 +1154,7 @@
 | Oct 03, 2018 | Fox: "Top FBI lawyer Baker offers 'explosive' testimony on 'abnormal' handling of Russia probe into Trump campaign"
 | Oct 04, 2018 | Daily Caller: "Top FBI official met with DNC lawyer on Russia prior to 2016 election" (Baker, Sussmann)
 | Oct 04, 2018 | Daily Beast: "Russian Official Linked to Natalia Veselnitskaya, the Trump Tower Lawyer, Is Dead"
+| Oct 08, 2018 | Daily Caller: "A Senate Democrat reportedly outsouced parts of the Trump-Russia probe to operative linked to Soros"
 | Nov 02, 2018 | Reynaldo Balaoing Regis sentencing
 | Nov 05, 2018 | El Chapo hearing
 | Dec 18, 2018 | Flynn sentencing
