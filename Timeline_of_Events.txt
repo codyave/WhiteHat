@@ -130,6 +130,7 @@
 | Mar 21, 2014 | NYT: "As Sanctions Start, Russia Feels a Sting"
 | Apr 14, 2014 | NYT: "With Ukraine Tensions Mounting, U.S. Weighs New Sanctions Against Russia "
 | Apr 17, 2014 | NYT: "Russia Economy Worsens Even Before Sanctions Hit"
+| Apr 28, 2014 | @markknoller: "Officials say Sergi Chemezov and Igor Sechin are the two sanctions targets...Putin's inner circle"
 | Apr 30, 2014 | Business Insider: "Michael T. Flynn Fired from DIA"
 | May ??, 2014 | Michael Gaeta joined the FBI’s Legal Attaché Office in Rome as the Assistant Legal Attaché
 | May 13, 2014 | Joe Biden's Son Appointed to Board of Ukraine's Largest Gas Producer
@@ -403,6 +404,7 @@
 | Jul 26, 2016 | Alexandra Chalupa leaves the DNC to work full-time on her research into Manafort, Trump and Russia
 | Jul 26, 2016 | @realDonaldTrump: "For the record, I have ZERO investments in Russia."
 | Jul 26, 2016 | Sater: "'Fuck me, I thought to myself. All that work for nothing'" [see: May 17, 2018 BuzzFeed]
+| Jul 26, 2016 | WSJ's Devlin Barrett calls Carter Page about contacts with Igor Sechin [see: Nov 2, 2017 HPSCI testimony]
 | Jul 27, 2016 | Trump states he would recognise Moscow’s annexation of Crimea
 | Jul 27, 2016 | Comey and Lynch "CI Threat" briefing, Lisa Page and Jon Moffa there.
 | Jul 27, 2016 | Aspen Security Forum
@@ -1055,6 +1057,8 @@
 | Oct 30, 2017 | Vanity Fair: "Carter Page gives another 'awesomely stupid' interview"
 | Nov 01, 2017 | La Repubblica: Mifsud says Papadopoulos is mistaken, says he never said anything about dirt or emails on Hillary
 | Nov 02, 2017 | Carter Page says he was warned of Steele's targeting by Sep 2016, in a CNN interview with Jake Tapper
+| Nov 02, 2017 | Carter Page testifies before HPSCI
+| Nov 02, 2017 | The Atlantic: "What Carter Page's Testimony Revealed"
 | Nov 08, 2017 | Glenn Simpson testifies in a closed-door hearing before HPSCI
 | Nov 07, 2017 | Pompeo meets William Binney, who cast doubt on U.S. intel assessment that Russia was behind email hacks
 | Nov 11, 2017 | Steele: "wondering if there was any response to the questions I raised last week?" [see: Aug 8, 2018 The Hill]
@@ -1323,6 +1327,7 @@
 | Oct 17, 2018 | Daily Caller: "Treasury Dept Official leaked Trump associates' financial records to BuzzFeed"
 | Oct 17, 2018 | Fox News: "State Dept provided 'clearly false' statements to derail requests for Clinton docs, federal judge says"
 | Oct 19, 2018 | James Madison Project vs United States Dept of Justice
+| Oct 23, 2018 | The Hill: "A convenient omission? Trump campaign adviser denied collusion to FBI source early on" (Papadopoulos)
 | Nov 02, 2018 | Reynaldo Balaoing Regis sentencing
 | Nov 05, 2018 | El Chapo hearing
 | Dec 18, 2018 | Flynn sentencing
