@@ -560,7 +560,8 @@
 | Oct 20, 2016 | Halper talks at the China Forum in Washington
 | Oct 20, 2016 | NSA compliance officer briefs Adm. Rogers on illegal FBI spying
 | Oct 20, 2016 | Lisa Monaco meets with financial executives to discuss cyber security
-| Oct 21, 2016 | FISC approves surveillance warrant on Carter Page, also two banks based on info from Estonia
+| Oct 21, 2016 | FISA Verified Application on Carter Page (p. 1-63) [signed: Comey, Yates]
+| Oct 21, 2016 | FISA Primary Order and Warrant on Carter Page (p. 64-83) [signed: Judge Collyer]
 | Oct 21, 2016 | NSA notifies DOJ & FIS Court of spying
 | Oct 24, 2016 | Benjamin Wittes writes an article about insurance policies in Lawfare Blog
 | Oct 24, 2016 | NSA verbally briefs FISA Court regarding non-compliance with NSA's minimization procedures
@@ -700,7 +701,8 @@
 | Jan 11, 2017 | Vanity Fair: "What Intelligence Experts Think of the Explosive Trump-Russia Report"
 | Jan 11, 2017 | Jake tapper releases statement from ODNI's Clapper about meeting with Trump
 | Jan 11, 2017 | Daily Mail: "British government must NOT protect ex-spy behind claims of 'dirty' dossier on Trump, says Tory MP"
-| Jan 12, 2017 | First renewal on Carter Page FISA
+| Jan 12, 2017 | FISA Verified Application on Carter Page (p. 84-162) [signed: Comey, Yates]
+| Jan 12, 2017 | FISA Primary Order and Warrant on Carter Page (p. 163-181) [signed: Judge Mosman]
 | Jan 12, 2017 | Adam Lovinger invited to leave Office of Net Assessment
 | Jan 12, 2017 | CNN: "Intel chiefs presented Trump with claims of Russian efforts to compromise him"
 | Jan 12, 2017 | Paul Wood: "Trump 'compromising' claims: How and why did we get here?"
@@ -874,7 +876,8 @@
 | Apr 06, 2017 | NYT: "Kushner Omitted Meeting With Russians on Security Clearance Forms"
 | Apr 06, 2017 | Waldman: "WSJ just called me and said they heard from senate intel comm that the committee and Steele are speaking"
 | Apr 07, 2017 | The Hacker Newz: "WikiLeaks Reveals CIA's Grasshopper Windows Hacking Framework"
-| Apr 07, 2017 | Second renewal on Carter Page FISA
+| Apr 07, 2017 | FISA Verified Application on Carter Page (p. 181-272) [signed: Comey, Boente]
+| Apr 07, 2017 | FISA Primary Order and Warrant on Carter Page (p. 273-291) [signed: Judge Conway]
 | Apr 10, 2017 | Strzok: "just gone to find this phone to tell you...media leak strategy with DOJ" [see: Sep 10, 2018 saraacarter.com]
 | Apr 10, 2017 | Waldman: "Steele: would like to get a bipartisan letter from committee" [see: Feb 8, 2018 Fox News]
 | Apr 10, 2017 | Waldman: "I convinced [Assange] to make...concessions and am discussing those w DOJ" [see: Feb 8, 2018 Fox News]
@@ -984,7 +987,8 @@
 | Jun 25, 2017 | Page: "Please don't ever text me again."
 | Jun 26, 2017 | Buzzfeed: "Three CNN Employees Resign Over Retracted Russia Story"
 | Jun 26, 2017 | WaPo: "FBI has questioned Trump campaign adviser Carter Page at length in Russia probe"
-| Jun 29, 2017 | Third and final renewal on Carter Page FISA
+| Jun 29, 2017 | FISA Verified Application on Carter Page (p. 292-392) [signed: McCabe, Rosenstein]
+| Jun 29, 2017 | FISA Primary Order and Warrant on Carter Page (p. 393-412) [signed: Judge Dearie]
 | Jun 29, 2017 | BuzzFeed: "Heat Street Is Folding"
 | Jul 05, 2017 | NYPost: "Uncovering the Russia ties of Hillary’s campaign chief"
 | Jul 11, 2017 | User "Johnnie Walker" posts Robert Otto emails to cyberguerilla.org
@@ -1220,6 +1224,7 @@
 | Jul 17, 2018 | Bloomberg: "Trump Retreats and Says He Accepts U.S. Finding Russia Meddled"
 | Jul 18, 2018 | Adam Lovinger files complaint with Pentagon senior ethics official
 | Jul 21, 2018 | NYT: "Carter Page FISA Documents Are Released by Justice Department"
+| Jul 21, 2018 | FBI Vault: Carter Page FISA
 | Jul 22, 2018 | CNN: "Jake Tapper presses Carter Page on Russian contacts -- full interview"
 | Jul 25, 2018 | Politico: "White House lawyer Passantino planning to leave"
 | Jul 26, 2018 | First reports of Omarosa's book "Unhinged" said to be released soon
