@@ -636,10 +636,11 @@
 | Dec 10, 2016 | Simpson tells Ohr at a DC coffee shop that Michael Cohen was the “go-between from Russia to the Trump campaign.”
 | Dec 12, 2016 | FBI interviews Bruce Ohr (Ohr FD-302 December 19, 2016)
 | Dec 12, 2016 | Politico: "Here’s What America Needs to Know About Trump and Russia" (Evelyn Farkas)
-| Dec 13, 2016 | Kushner meets with sanctioned Russian VEB Bank CEO Sergey Gorkov
 | Dec 13, 2016 | Steele writes his last memo, says Michael Cohen traveled to Prague in August 2016 (Cohen denies)
 | Dec 13, 2016 | "The Perfect Weapon: How Russian Cyberpower Invaded the U.S." is published in the NYT
 | Dec 13, 2016 | Neil King informs colleagues he is joining Fusion GPS
+| Dec 13, 2016 | Kushner meets with sanctioned Russian VEB Bank CEO Sergey Gorkov [see: May 9, 2018 @SenBlumenthal]
+| Dec 14, 2016 | Kushner meets with sanctioned Russian VEB Bank CEO Sergey Gorkov [see: Mar 24, 2018 @gregolear]
 | Dec 14, 2016 | Last Page/Strzok text for six months (starts back up 2017-May-18)
 | Dec 15, 2016 | CBS News: "Vladimir Putin likely gave go-ahead for U.S. cyberattack, intelligence officials say"
 | Dec 15, 2016 | NBC News: "U.S. Officials: Putin Personally Involved in U.S. Election Hack"
@@ -1165,6 +1166,7 @@
 | Mar 18, 2018 | BigLeaguePolitics: "Documents: FBI Carefully Planned Clinton-Lynch Tarmac Trip, Tried To Cover It Up"
 | Mar 21, 2018 | Politico: "Judge nixes ex-Trump adviser Carter Page's suit over Yahoo Russia article"
 | Mar 23, 2018 | WSJ: "Behind Richard Gates’ Guilty Plea in the Russia Probe"
+| Mar 24, 2018 | @gregolear: "13–14 December, 2016: New York (?), Kushner meets somewhere near Newark Airport with Sergei Gorkov"
 | Mar 28, 2018 | The Guardian: "Ecuador cuts off Julian Assange's internet access at London embassy"
 | Mar 28, 2018 | Fox News: "DOJ Inspector General reviews alleged FISA abuses by DOJ, FBI"
 | Mar 28, 2018 | The Intercept: "Department of Justice charges whistleblower under espionage act"
