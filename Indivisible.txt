@@ -20,10 +20,10 @@ Stone, Meighan | @
 Traldi, Matt | @
 Urbina, Maria | @
 
-http://www.blurb.com/b/7678413-indivisible
-https://web.archive.org/web/20161220114421/https://www.indivisibleguide.com/
-https://slate.com/news-and-politics/2016/12/the-tea-party-taught-us-how-to-resist-donald-trump.html
-https://web.archive.org/web/20161216014638/https://docs.google.com/document/d/1DzOz3Y6D8g_MNXHNMJYAz1b41_cn535aU5UsN7Lj8X8/preview
+blurb.com/b/7678413-indivisible
+web.archive.org/web/20161220114421/https://www.indivisibleguide.com/
+slate.com/news-and-politics/2016/12/the-tea-party-taught-us-how-to-resist-donald-trump.html
+web.archive.org/web/20161216014638/https://docs.google.com/document/d/1DzOz3Y6D8g_MNXHNMJYAz1b41_cn535aU5UsN7Lj8X8/preview
 
 | Jun 14, 2009 | @MattMacowiak: "Cantwell Aide Sarah Dohl Named Communications Director for Rep. Lloyd Doggett (D-TX)"
 | Jul 09, 2013 | Sara Dohl leaves Doggett office, takes senior role at Junior Achievement of Greater Washington [see: Aug 2, 2013 Rollcall)
@@ -32,6 +32,6 @@ https://web.archive.org/web/20161216014638/https://docs.google.com/document/d/1D
 | Dec 30, 2015 | @DCPoll becomes @DavisCountyHQ (Utah) around this time
 | Dec 14, 2016 | Google doc created
 | Dec 16, 2016 | New Yorker: "The Crowdsourced Guide to Fighting Trump's Agend"
-| Jan 20, 2017 | Avi change, https://web.archive.org/web/20170120023635/https://twitter.com/IndivisibleTeam/status/821916870928400385
-| Jan 30, 2017 | @dcbabe becomes @dcpoll between 9pm and 6am (http://archive.is/I0Gx6, http://archive.is/KENHv)
+| Jan 20, 2017 | Avi change, web.archive.org/web/20170120023635/https://twitter.com/IndivisibleTeam/status/821916870928400385
+| Jan 30, 2017 | @dcbabe becomes @dcpoll between 9pm and 6am (archive.is/rIEei, archive.fo/ZHgJc)
 | Mar 29, 2018 | @IndivisibleTeam: "Welcome Christie George to the Indivisible Project Board!"
