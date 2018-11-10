@@ -875,7 +875,7 @@
 | Feb 02, 2017 | Daily Beast: "Will Donald Trump Free This Russian Superhacker?" (Roman Seleznev)
 | Feb 03, 2017 | Waldman meets Bruce Ohr in DC [see: Jun 25, 2018 The Hill]
 | Feb 06, 2017 | FBI interviews Bruce Ohr (Ohr FD-302 February 8, 2017)
-| Feb 08, 2017 | Comey possibly tells Trump that a FISA had been placed on Gen. Flynn
+| Feb 08, 2017 | Comey possibly tells Trump that a FISA had been placed on Gen. Flynn [answer redacted]
 | Feb 08, 2017 | @WJCLNews: "Sessions confirmed by Senate as attorney general"
 | Feb 08, 2017 | FBI interviews Mifsud
 | Feb 09, 2017 | @FoxNews: "Jeff Sessions sworn in as Attorney General of the United States"
@@ -887,12 +887,12 @@
 | Feb 12, 2017 | Carter Page sends letter to the Civil Voting Rights Division of the DOJ
 | Feb 13, 2017 | Pitchfork: "Moby Claims to Have Top-Secret Information About Trump Ties to Russia"
 | Feb 13, 2017 | NYT: "Michael Flynn Resigns as National Security Adviser"
-| Feb 14, 2017 | WaPo: "Secret Service director to step down, giving Trump a chance to select his own security chief" (Joseph Clancy)
-| Feb 14, 2017 | NYT: "Trump Campaign Aides Had Repeated Contacts With Russian Intelligence"
 | Feb 14, 2017 | Trump, in a private one-on-one meeting, asks Comey to drop the investigation into Gen. Flynn
 | Feb 14, 2017 | FBI interviews Bruce Ohr (Ohr FD-302 February 15, 2017)
 | Feb 14, 2017 | Strzok: "Also, is Andy good with F 302?"
 | Feb 14, 2017 | Page: "launch on F 302"
+| Feb 14, 2017 | NYT: "Trump Campaign Aides Had Repeated Contacts With Russian Intelligence"
+| Feb 14, 2017 | WaPo: "Secret Service director to step down, giving Trump a chance to select his own security chief" (Joseph Clancy)
 | Feb 16, 2017 | FBI interviews Papadopoulos
 | Feb 17, 2017 | Papadopoulos deletes Facebook
 | Feb 16, 2017 | Waldman: "this guy is going to do something catastrophic for the dems, Obama, CIA and national security."
@@ -927,6 +927,7 @@
 | Mar 07, 2017 | @yashar: "Monica Crowley, in her 1st tv hit since @KFILE @chrismassie @natemcdermott exposed her plagiarism says what happened to her was 'despicable'"
 | Mar 08, 2017 | The Guardian: "Why James Clapper's Trump comments may not conflict with reports of secret court order"
 | Mar 08, 2017 | Politico: "Authorities looked into Manafort protégé" (Kilimnick)
+| Mar 09, 2017 | Complaint filed against a comment McCabe made around Feb 11, 2017 [see: Oct 15, 2018 FBI Vault]
 | Mar 09, 2017 | B.I.: "Foreign policy adviser disavowed by Trump team says he ‘spent many hours’ at Trump campaign headquarters"
 | Mar 09, 2017 | BuzzFeed: "Nigel Farage Just Visited The Ecuadorian Embassy In London"
 | Mar 09, 2017 | WaPo: "House Intelligence Committee chiefs ask Justice for proof of wiretaps on Trump"
@@ -956,8 +957,9 @@
 | Mar 14, 2017 | CNBC: "Donald Trump 2005 federal tax information revealed on 'The Rachel Maddow Show'" archive.is/IhMoO
 | Mar 14, 2017 | CNBC: "Op-Ed: Donald Trump just got a nice victory, thanks to, of all people, Rachel Maddow" archive.is/TOQM1
 | Mar 15, 2017 | @realDonaldTrump: "Does anybody really believe that a reporter, who nobody ever heard of, "went to his mailbox" and found my tax returns? @NBCNews  FAKE NEWS!" (6:55am est)
-| Mar 15, 2017 | @KatieBoWill: "FBI Director Comey is in the Senate SCIF with Grassley and Feinstein. Schumer and Warner have also gone down." (3:55pm est)
-| Mar 15, 2017 | @yashar: "MUST WATCH: Direct Quote John McCain re Rand Paul 'The Senator from Kentucky is now working for Vladimir Putin'"
+| Mar 15, 2017 | @KatieBoWill: "Comey is in the Senate SCIF with Grassley and Feinstein. Schumer and Warner have also gone down." (3:55pm est)
+| Mar 15, 2017 | Complaint against a comment McCabe made around Feb 11, 2017 received by INSD [see: Oct 15, 2018 FBI Vault]
+| Mar 15, 2017 | @yashar: "Direct Quote John McCain re Rand Paul 'The Senator from Kentucky is now working for Vladimir Putin'" 
 | Mar 15, 2017 | Ohr: "Special Counsel, right to question in U.K.?" [see: Gregg Jarrett, youtube.com/watch?v=eTtveyYnJGg&t=19m25s]
 | Mar 15, 2017 | Steele: "Must protect sources." [see: Gregg Jarrett, youtube.com/watch?v=eTtveyYnJGg&t=19m25s]
 | Mar 15, 2017 | Grassley threatens to block the nomination of Rod Rosenstein if DOJ does not comply with demands
@@ -972,6 +974,7 @@
 | Mar 16, 2017 | New Yorker: "What Mike Flynn did for Turkey"
 | Mar 16, 2017 | WSJ: "Mike Flynn Worked for Several Russian Companies, Was Paid More Than $50,000, Documents Show"
 | Mar 16, 2017 | The Daily Beast: "DOJ Blows Wiretap Deadline, Asks Intelligence Committee for More Time"
+| Mar 16, 2017 | Complaint against a comment McCabe made around Feb 11, 2017 handled by INSD [see: Oct 15, 2018 FBI Vault]
 | Mar 17, 2017 | Kevin McCarthy and Paul Ryan joke that Trump is paid by Putin (McMullin suspected) [see: May 21, 2017 WaPo]
 | Mar 17, 2017 | Waldman meets with Dan Jones
 | Mar 17, 2017 | Reuters: "Moscow on the Beach: Russian elite invested nearly $100 million in Trump buildings" (hitpiece by Dan Jones)
