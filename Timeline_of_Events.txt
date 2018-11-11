@@ -56,7 +56,7 @@
 | Jan 23, 2010 | Chelsea Manning flies to the U.S. via Germany to visit her partner on vacation
 | Jan 27, 2010 | Ukrainian intel reportedly uncovers a Russian spy network and expels four Russian officers [see: Feb 3, 2010 RT]
 | Feb ??, 2010 | White House briefed on 10 Russian spies under surveillance [see: Jul 9, 2010 @markknoller]
-| Feb 03, 2010 | Chelsea Manning sends Iraq War Logs to WikiLeaks (WaPo, NYTimes declined)
+| Feb 03, 2010 | Chelsea Manning sends Iraq War Logs to WikiLeaks
 | Feb 03, 2010 | RT: "The “strange story” of Russian spies in Ukraine" archive.is/9MIa5
 | Mar 24, 2010 | NYT: "Russia and U.S. Report Breakthrough on Arms" (reducing nuclear arsenals) archive.is/zg569
 | Apr 02, 2010 | @wikileaks: "Speculation about which video we are releasing on Monday is interesting, but we have not yet disclosed which event it pertains to"
@@ -65,7 +65,7 @@
 | Apr 10, 2010 | NYT: "Innovation, by Order of the Kremlin" (Skokolvo, Medvedev)
 | Apr 13, 2010 | @markknoller: "Clinton & Lavrov shake hands after signing the plutonium protocol (sounds like a cold war movie title)"
 | May ??, 2010 | Somtime in late May, U.S. officials concerned Russian Illegals plan to leave U.S. in summer [see: Jul 9, 2010 NYT]
-| May 21, 2010 | Chelsea Manning chats with computer hacker, Adrian Lamo
+| May 21, 2010 | Chelsea Manning chats with computer hacker, Adrian Lamo [see: Jun 10, 2010 Wired]
 | May 24, 2010 | Adrian Lamo tips FBI about chat logs with Chelsea Manning around this time [see: Jun 10, 2010 Wired]
 | May 26, 2010 | Chelsea Manning detained by Army authorities, put into pre-trial detention in Kuwait [see: Jun 10, 2010 Wired]
 | Jun ??, 2010 | Glenn Simpson, alongside Bruce and Nellis Ohr, are published in CIA Open Source Works report
@@ -81,9 +81,9 @@
 | Jun 18, 2010 | Obama holds meeting on Russian Illegals case with National Security Council [see: Jul 9, 2010 NYT]
 | Jun 19, 2010 | Aleksander Poteyev flees to U.S. three days before Medvedev visit to U.S. [see: Nov 11, 2010 Kommersant]
 | Jun 21, 2010 | Aleksander Poteyev flees to U.S. six days before arrests of Russian Illegals [see: Nov 15, 2010 Moscow Times]
-| Jun 21, 2010 | The Guardian: "WikiLeaks founder Julian Assange breaks cover but will avoid America"
+| Jun 21, 2010 | The Guardian: "WikiLeaks founder Julian Assange breaks cover but will avoid America" archive.is/R0lsk
 | Jun 22, 2010 | @Schwarzenegger: "Greeting Russian President Medvedev in San Francisco http://twitpic.com/1z59fr"
-| Jun 22, 2010 | Russian scientist, Igor Sutyagin, unexpectedly brought to Moscow from a Siberian penal colony, told he is being included in a prisoner exchange (also issued a passport) [see: Jul 8, 2010 WaPo]
+| Jun 22, 2010 | Russian scientist, Igor Sutyagin, unexpectedly brought to Moscow from a Siberian penal colony, told he is being included in a prisoner exchange (also, issued a passport) [see: Jul 8, 2010 WaPo]
 | Jun 23, 2010 | @WhiteHouse: "Welcome to @twitter President Medvedev! RT @KremlinRussia_E: Hello everyone! I'm on Twitter, and this is my first tweet."
 | Jun 24, 2010 | ABC News: "Channeling President Bush's 'Internets,' President Obama Praises Medvedev's Visit to 'Twitters'"
 | Jun 24, 2010 | @MajorCBS: "Medvedev burger : w/cheddar cheese, onions, jalapenos and mushrooms."
@@ -129,15 +129,16 @@
 | Jul 09, 2010 | NYT: "Swap Idea Emerged Early in Case of Russia Agents" archive.is/05ElE
 | Jul 10, 2010 | Pete Earley: "Sergei’s Death. Mistakes. Nonsense and a Chuckle"
 | Jul 12, 2010 | WaPo: "Sources: Call by Russian spy Anna Chapman to dad in Moscow led U.S. to hasten arrests"
-| Jul 16, 2010 | NYT: "Spy Swap Forced Prosecutors Into Balancing Act" (Bharara)
-| Jul 26, 2010 | WSJ: "Putin Sings With Deported Agents"
+| Jul 13, 2010 | Sputnik: "Russian spies not subject to witness protection program" archive.is/8S95y
+| Jul 16, 2010 | NYT: "Spy Swap Forced Prosecutors Into Balancing Act" (Bharara) archive.is/NTcpE
+| Jul 26, 2010 | WSJ: "Putin Sings With Deported Agents" archive.fo/j80EN
 | Aug 11, 2010 | Assange flies into into Sweden [see: Dec 17, 2010 The Guardian]
 | Aug 20, 2010 | @expressen: "Wikileaks founder Julian Assange charged in his abscence for rape of two in Stockholm" (11:21pm est)
-| Aug 21, 2010 | CNN: "Sweden drops rape accusation against founder of WikiLeaks"
+| Aug 21, 2010 | CNN: "Sweden drops rape accusation against founder of WikiLeaks" archive.is/sDlyD
 | Aug 22, 2010 | NYT: "Sweden Defends Reversal of Warrant for Founder of WikiLeaks" archive.is/8gz5O
 | Aug 22, 2010 | Daily Mail: "Assange blames Pentagon for rape 'smears' as Swedish authorities revoke arrest warrant" archive.is/GxVE4
 | Aug 23, 2010 | NYT: "Plotting Doubted in WikiLeaks Case" (Pentagon, DOD, lures, dirty trick) archive.is/kMwd8
-| Aug 25, 2010 | Daily Mail: "Women who accused WikiLeaks founder of sex attacks deny they are part of Pentagon conspiracy" 
+| Aug 25, 2010 | Daily Mail: "Women who accused WikiLeaks founder of sex attacks deny they are part of Pentagon conspiracy" archive.is/COuuh
 | Aug 25, 2010 | @DavidClinchNews: "Swedish prosecutor says Assange no longer suspected of rape but "molesting" accusation still being investigated."
 | Sep 01, 2010 | @expressen: "Swedish prosecutor has - again - opened the investigation on the #Assange rape"
 | Sep 20, 2010 | @batchelorshow: "quite the new york welcome for mahmoud ahmadinejad!"
@@ -171,12 +172,12 @@
 | Dec 30, 2010 | The Guardian: "Wired journalists deny cover-up over WikiLeaks boss and accused US soldier" archive.is/OFnYc
 
 | Mar 03, 2011 | AP: "BREAKING: US has proof that ex-FBI agent Robert Levinson is alive, 4 years after vanishing in Iran"
-| May 03, 2011 | BBC: "Russia charges US spy ring 'traitor' Alexander Poteyev"
+| May 03, 2011 | BBC: "Russia charges US spy ring 'traitor' Alexander Poteyev" archive.is/g4cUn
 | Jun 27, 2011 | @burgessct: "Moscow military court sentences Russian Alexander Poteyev to 25 years for treason"
 | Sep ??, 2011 | Felix Sater begins work for TxOil (?) [see: Nov 10, 2018 @GeorgePapa19]
-| Nov 01, 2011 | Daily Mail: "Did Russian spy get close to infiltrating Hillary Clinton's inner circle?"
+| Nov 01, 2011 | Daily Mail: "Did Russian spy get close to infiltrating Hillary Clinton's inner circle?" archive.is/YJseN
 | Nov ??, 2011 | Trump settles SoHo case, refunds 90 percent of $3.16m in deposits, admits no wrondoing [see: Apr 5, 2016 NYT]
-| Nov 05, 2011 | Gulf News Asia: "From Russia with love: Evidence from a ten-year FBI investigation into a team of spies is made public for the first time"
+| Nov 05, 2011 | Gulf News Asia: "From Russia with love: Evidence from a ten-year FBI investigation into a team of spies is made public for the first time" archive.is/uCN3o
 | Dec ??, 2011 | John Kerry seeks out Omani officials to develop back-channel to Iran [see: Oct 22, 2015 WSJ]
 | Dec 06, 2011 | CNN: "Clinton cites 'serious concerns' about Russian election"
 
