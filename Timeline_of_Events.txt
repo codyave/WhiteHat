@@ -223,6 +223,8 @@
 | Sep 05, 2013 | NYDN: "James Comey sworn in as director of FBI" archive.is/tOZC0
 | Oct 13, 2013 | Mikk Marran nominated to Director General of the Estonian Information Board
 | Oct 14, 2013 | WaPo: "NSA collects millions of e-mail address books globally" archive.is/ANFWF
+| Oct 16, 2013 | Reuters: "U.S. eavesdropping agency chief, top deputy expected to depart soon" archive.is/22jRl
+| Oct 16, 2013 | WaPo: "Meet the man who could be next in line to control the NSA’s spying apparatus" archive.is/mReqW
 | Oct 27, 2013 | The Telegraph: "Barack Obama 'approved tapping Angela Merkel's phone 3 years ago'" archive.is/5UmP9
 | Nov 11, 2013 | MSNBC: "Why bring Miss Universe to Moscow?" archive.is/EIVCS
 | Nov 24, 2013 | The Guardian: "Ukrainian protesters flood Kiev after president pulls out of EU deal" archive.is/aTJP0
@@ -232,8 +234,9 @@
 | Dec ??, 2013 | Trump meets with GOP county chairs in Trump Tower, says he'll win 2016 nomination [see: Feb 1, 2016 Politico]
 
 | Jan 17, 2014 | WSJ: "Obama Says NSA's Mass Collection of U.S. Phone Data Will End" archive.is/1FtR8
+| Jan 25, 2014 | WaPo: "Obama signs off on nomination of Rogers as NSA director" archive.is/h0Cbf
 | Jan 27, 2014 | NBC News: "Snowden docs reveal British spies snooped on YouTube and Facebook" archive.is/uqNjz
-| Jan 27, 2014 | Lawfare: "Jim Baker Appointed as FBI General Counsel"
+| Jan 27, 2014 | Lawfare: "Jim Baker Appointed as FBI General Counsel" archive.is/6UxiW
 | Jan 27, 2014 | LA Times:  "Navy cyber warfare chief is Obama's pick to lead NSA" (Adm. Rogers) archive.is/LQXS9
 | Feb ??, 2014 | Monica Hanley uploads HRC email archives to PRN server from MacBook laptop, fails, sends laptop to Combetta
 | Feb 13, 2014 | Buzzfeed: "36 Hours On The Fake Campaign Trail With Donald Trump" archive.is/7IOj5
@@ -242,7 +245,6 @@
 | Mar 18, 2014 | The Guardian: "Putin confirms Crimea annexation as Ukraine soldier becomes first casualty" archive.is/bi6jq
 | Mar 21, 2014 | NYT: "As Sanctions Start, Russia Feels a Sting"
 | Mar 31, 2014 | NYT: "Capitol Corruption Panel’s Demise Angers Watchdogs" (Cuomo, Moreland Commission) archive.is/j31iK
-| Apr 03, 2014 | 
 | Apr 12, 2014 | @BenjySarlin: "@realDonaldTrump on rehiring Sam Nunberg: 'He's a good guy and I didn't think it was fair to him that somebody took advantage of him'"
 | Apr 14, 2014 | NYT: "With Ukraine Tensions Mounting, U.S. Weighs New Sanctions Against Russia "
 | Apr 17, 2014 | NYT: "Russia Economy Worsens Even Before Sanctions Hit"
