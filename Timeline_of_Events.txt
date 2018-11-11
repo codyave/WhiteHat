@@ -127,8 +127,8 @@
 | Jul 09, 2010 | Fox News: "U.S. Began Deliberating Spy Swap Well Before Arrests" archive.is/LvoYj
 | Jul 09, 2010 | NYT: "Sergei Tretyakov, Spy Who Fled to U.S., Dies at 53" archive.is/eyjtj
 | Jul 09, 2010 | NYT: "Swap Idea Emerged Early in Case of Russia Agents" archive.is/05ElE
-| Jul 10, 2010 | Pete Earley: "Sergei’s Death. Mistakes. Nonsense and a Chuckle"
-| Jul 12, 2010 | WaPo: "Sources: Call by Russian spy Anna Chapman to dad in Moscow led U.S. to hasten arrests"
+| Jul 10, 2010 | Pete Earley: "Sergei’s Death. Mistakes. Nonsense and a Chuckle" archive.is/8z5tl
+| Jul 12, 2010 | WaPo: "Sources: Call by Russian spy Anna Chapman to dad in Moscow led U.S. to hasten arrests" archive.is/UXfl0
 | Jul 13, 2010 | Sputnik: "Russian spies not subject to witness protection program" archive.is/8S95y
 | Jul 16, 2010 | NYT: "Spy Swap Forced Prosecutors Into Balancing Act" (Bharara) archive.is/NTcpE
 | Jul 26, 2010 | WSJ: "Putin Sings With Deported Agents" archive.fo/j80EN
@@ -200,10 +200,10 @@
 | Nov 09, 2012 | WSJ: "Virus Aimed at Iran Infected Chevron Network" (Stuxnet)
 | Dec 12, 2012 | Reuters: "HSBC to pay $1.9 billion U.S. fine in money-laundering case"
 
-| Jan 30, 2013 | HSBC.com: "Former US Deputy Attorney General joins HSBC Board" (Comey)
+| Jan 30, 2013 | HSBC.com: "Former US Deputy Attorney General joins HSBC Board" (Comey) archive.is/otLSo
 | Mar ??, 2013 | Justin Cooper gives Monica Hanley MacBook laptop, remotely transfers HRC emails to Apple mail program
-| Mar 08, 2013 | NPR: "John Brennan Is Sworn In As CIA Director"
-| Mar 28, 2013 | Institutional Investor: "Still Bullish on Ireland, Wilbur Ross Eyes Southern Europe" (Cyprus)
+| Mar 08, 2013 | NPR: "John Brennan Is Sworn In As CIA Director" archive.is/bxPeH
+| Mar 28, 2013 | Institutional Investor: "Still Bullish on Ireland, Wilbur Ross Eyes Southern Europe" (Cyprus) archive.is/E24Ct
 | May 29, 2013 | @KedarPavgi: "James Comey to be nominated as FBI Director, per multiple reports"
 | Jun ??, 2013 | Carter Page meets with FBI at New York's Plaza Hotel regarding ongoing investigation
 | Jun 05, 2013 | The Guardian: "NSA Prism program taps in to user data of Apple, Google and others" archive.is/J8WNY
@@ -212,12 +212,12 @@
 | Jun 09, 2013 | The Guardian: "Edward Snowden: the whistleblower behind the NSA surveillance revelations" archive.is/lJdcq
 | Jun 13, 2013 | @RobinLeach: "Donald Trump, Miss Universe sign document with Russian partner for Miss USA move to Moscow November 9"
 | Jun 13, 2013 | Trump: "The Miss Universe Pageant will be broadcast live from MOSCOW, RUSSIA on November 9th"
-| Jun 14, 2013 | US charges Snowden with unauthorized sharing of declassified info, filed under seal [see: Jun 21, 2013 NBC News]
+| Jun 14, 2013 | US charges Snowden with unauthorized sharing of declassified info, filed under seal [see: Jun 21, 2013 NPR]
 | Jun 15, 2013 | BBC: "Hassan Rouhani wins Iran presidential election"
-| Jun 21, 2013 | NBC News: "US charges NSA leaker Snowden with espionage"
+| Jun 21, 2013 | NPR: "U.S. Charges NSA Leaker Snowden With Espionage" archive.is/acq9E
 | Jun 30, 2013 | Platte River Networks server ("successor server", runs until Oct 2015)
 | Jul 02, 2013 | NY Gov: "Governor Cuomo Appoints Moreland 'Commission to Investigate Public Corruption,' with Attorney General Schneiderman Designating Commission Members as Deputy Attorneys General" archive.is/z0Fxv
-| Jul 08, 2013 | BBC: "Donald Trump sued over failed Florida deal"
+| Jul 08, 2013 | BBC: "Donald Trump sued over failed Florida deal" archive.is/ASqzH
 | Jul 08, 2013 | The Independent: "Donald Trump walks out over questions about his mafia connections during BBC Panorama interview"
 | Aug 01, 2013 | The Guardian: "Exclusive: NSA pays £100m in secret funding for GCHQ"
 | Sep 05, 2013 | NYDN: "James Comey sworn in as director of FBI"
