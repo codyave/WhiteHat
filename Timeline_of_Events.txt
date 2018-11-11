@@ -55,9 +55,9 @@
 | Jan 10, 2010 | Igor Shuvalov and Vladislav Surkov visit MIT, discuss plans for a Russian Silicon Valley [see: Jun 24, 2010 MIT]
 | Jan 23, 2010 | Chelsea Manning flies to the U.S. via Germany to visit her partner on vacation
 | Jan 27, 2010 | Ukrainian intel reportedly uncovers a Russian spy network and expels four Russian officers [see: Feb 3, 2010 RT]
-| Feb 03, 2010 | Chelsea Manning sends Iraq War Logs to WikiLeaks, after WaPo and NYTimes decline
 | Feb ??, 2010 | White House briefed on 10 Russian spies under surveillance [see: Jul 9, 2010 @markknoller]
-| Feb 03, 2010 | RT: "The “strange story” of Russian spies in Ukraine" (archive.is/9MIa5)
+| Feb 03, 2010 | Chelsea Manning sends Iraq War Logs to WikiLeaks (WaPo, NYTimes declined)
+| Feb 03, 2010 | RT: "The “strange story” of Russian spies in Ukraine" archive.is/9MIa5
 | Mar 24, 2010 | NYT: "Russia and U.S. Report Breakthrough on Arms" (reducing nuclear arsenals) archive.is/zg569
 | Apr 02, 2010 | @wikileaks: "Speculation about which video we are releasing on Monday is interesting, but we have not yet disclosed which event it pertains to"
 | Apr 05, 2010 | @WikiLeaks: "LEAK: Cover-up of murder of civilians and journalists through US forces in Iraq. Video online at: http://collateralmurder.com" (10:57am est) 
@@ -145,14 +145,14 @@
 | Sep 26, 2010 | Herald Tribune: "An espionage mystery solved on an autopsy slab"
 | Oct 01, 2010 | Bloomberg: "Bayrock’s Arif Detained in Turkish Vice Raid on Yacht"
 | Nov 10, 2010 | Sputnik: "FBI takes Russia spy ring traitor under protection" (Poteyev)
-| Nov 10, 2010 | The Telegraph: "Ex-KGB soldier named as double agent who exposed Anna Chapman spy ring" (Poteyev)
-| Nov 11, 2010 | Kommersant.ru: "Fresh Betrayal - Kommersant found out who passed the network of Russian intelligence officers-illegal immigrants to the American special services"
-| Nov 12, 2010 | Wired: ""Which One of You Snitched on Anna? Russian Prez Wants Answers on Spy Ring Breakup"
-| Nov 15, 2010 | Moscow Times: "Defector May Have Been Recruited Years Ago" (Poteyev)
+| Nov 11, 2010 | Kommersant.ru: "Fresh Betrayal - Kommersant found out who passed the network of Russian intelligence officers-illegal immigrants to the American special services" archive.is/DBWU0
+| Nov 12, 2010 | Wired: "Which One of You Snitched on Anna? Russian Prez Wants Answers on Spy Ring Breakup" archive.is/lNtfn
+| Nov 15, 2010 | Moscow Times: "Defector May Have Been Recruited Years Ago" (Shcherbakov suspected) archive.is/MtsFq
+| Nov 18, 2010 | Telegraph: "Ex-KGB soldier named as double agent who exposed Anna Chapman spy ring" (Poteyev ID'd) archive.is/IDEmQ
 | Nov 18, 2010 | @SkyNewsBreak: "Prosecutor in Sweden seeks court order to detain WikiLeaks founder Julian Assange for questioning in rape case, AP news agency reports."
 | Nov 25, 2010 | @SkyNewsBreak: "Swedish court rejects Wikileaks founder Julian Assange's appeal against an arrest warrant issued following a rape allegation"
 | Nov 29, 2010 | @markknoller: "Atty-Gen Holder says "there is an active, ongoing criminal investigation" into the WikiLeaks disclosures of classified material."
-| Nov 30, 2010 | Forbes: "WikiLeaks' Cablegate meets Taiwanese animation [Video]"
+| Nov 30, 2010 | Forbes: "WikiLeaks' Cablegate meets Taiwanese animation [Video]" archive.is/xgKm0
 | Dec 05, 2010 | @KeithOlbermann: "RT @BiancaJagger  '#Assange “rape” accuser has #CIA ties'"
 | Dec 06, 2010 | Daily Caller: "Leftist bloggers point to CIA connections in Assange rape case"
 | Dec 06, 2010 | @CNNValencia: "Holder: 'Significant' actions taken in WikiLeaks investigation"
