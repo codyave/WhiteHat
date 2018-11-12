@@ -32,7 +32,7 @@ prosecution or the blocking ofbad actors. The BSA likewise requires financial in
 to have adequate anti-money laundering ("AML") systems in place. 
 
 2. New York law imposes these same requirements on its regulated financial
-institutions. 1 Specifically, the law obligates financial institutions to devise and implement
+institutions. Specifically, the law obligates financial institutions to devise and implement
 systems reasonably designed to identify and block suspicious activity and transactions
 prohibited by law. Each institution is expected to configure a system based on the
 particular risks faced by the institution, considering such factors as its size, geographical
@@ -43,9 +43,9 @@ properly.
   3. To strengthen anti-money laundering efforts, New York law imposes
 additional requirements on regulated institutions, obligating them to maintain effective
 programs to monitor and filter transactions to screen for money laundering and bar
-transactions with sanctioned entities. 2 Additionally, to both protect consumers and the
+transactions with sanctioned entities. Additionally, to both protect consumers and the
 safety and soundness of financial institutions, the Department has proposed regulations
-requiring regulated entities to adopt a series of measures to prevent against cyber attacks. 3
+requiring regulated entities to adopt a series of measures to prevent against cyber attacks.
 
 4. Ultimate responsibility for design and implementation of such policies and
 systems belongs at the institution's top echelon. The board of directors and senior
@@ -117,7 +117,7 @@ switched the order to Gazprom Russian shares. No rationale for this switch was a
 no trading hypothesis was offered.
 
   15. Moreover, a number ofthe selling counterparties were registered in offshore
-territories, like Cyprus or the British Virgin Islands. 4 The seller would be paid for its shares
+territories, like Cyprus or the British Virgin Islands. The seller would be paid for its shares
 in U.S. dollars, which were routinely cleared through DBTCA. Thus, by virtue of this
 scheme, the counterparties were able to surreptitiously convert rubles into U.S. dollars
 using Deutsche Bank.
@@ -128,4 +128,584 @@ conduct, they are highly suggestive of financial crime.
 
   17. The scheme was well-developed, running between 2011 and early 2015. At
 least 12 entities were involved in these suspicious trading activities, and the entities were 
+closely related, linked, for example, by common beneficial owners, management, or agents.
+Certain individuals were employed by several ofthe different counterparties. For example,
+one person was the chairman of the Board of Directqrs of one entity, as well as the
+beneficial owner of another entity - which was itself the 100 percent shareholder of the
+first counterparty. Similarly, several counterparties were registered at the same address. 
 
+  18. "One-Legged" Trades: The DB-Moscow securities desk also facilitated a
+second type of suspicious trading activity with the same suspect counterparties - trades
+that appeared to be one leg of a mirror trade that may have involved a second (unidentified)
+financial institution to execute the other leg ("one-legged trades"). These trades were
+almost entirely buy transactions involving the same counterparties involved in the mirror
+trades.
+
+  19. Roughly the same group oftraders involved with the DB-Moscow securities
+desk also performed these one-legged trades. Moreover, the payments made by Deutsche
+Bank for these counterparties - which likewise flowed through DBTCA - were made
+almost entirely to accounts at banks outside of Russia and the U.K.
+
+  20. Active Facilitation by DB-Moscow Traders: The evidence is clear that
+DB-Moscow traders knowingly and ·actively facilitated both of these trading schemes.
+
+  21. For example, most of the subject trades were placed by a single trader
+representing both sides of the transaction. The DB-Moscow trader would execute the sell
+side of the trade, helping the suspicious Russian counterparty acquire Russian securities,
+settled in rubles. The same DB-Moscow trader then would buy the identical quantity of
+the same stock from DB-London's customer as an over-the-counter trade, settled in U.S. 
+dollars. The DB-Moscow trader would directly book the trade to the DB-London trading
+book via a remote booking function.
+
+  22. This "remote-booking" feature was central to the scheme, permitting the
+Moscow traders to carry out the mirror trades without any effective supervision or
+compliance review in London. This way, the scheme stayed under the radar.
+
+  23. Traders on the DB-Moscow desk sometimes would go to significant lengths
+to facilitate the suspicious trades. When Deutsche Bank suspended one of the
+counterparties involved in the scheme, for example, DB-Moscow traders continued to
+effectuate the mirror trades by pre-arranging the timing of the bid and offers with the
+suspended counterparty on the Russian Moscow Exchange (MICEX).
+
+  24. When one trader on the Moscow desk expressed concern about the lack of
+any economic rationale behind these numerous trades, colleagues on the desk assured the
+concerned trader that these trades had been sanctioned by a supervisor. When other traders·
+raised similar issues about the suspicious trading activity, the supervisor was dismissive of
+their concerns. 
+
+  25. Greed and Corruption Motivated the DB-Moscow Traders: In 2006
+and 2007, the yearly revenues generated for Deutsche Bank by the Russian business line
+at issue here approximated €169 million and €123 million, respectively. Following the
+global financial crisis in 2008 and Deutsche Bank's internal restructuring, that profit
+decreased at least by half, putting pressure on traders to increase revenue.
+
+  26. An easy commission scheme was attractive for the traders on the Moscow
+securities desk. Traders conceded·they did not forcefully question these suspicious trades,
+because they were earning commissions at a time when trading had dramatically slowed. 
+
+  27. Furthermore, a supervisor on the Moscow desk appears to have been paid a
+bribe or other undisclosed compensation to facilitate the schemes. The supervisor's close
+relative, who apparently had a background in historical art, and not finance, was also the
+apparent beneficial owner of two offshore companies, one each located in the British
+Virgin Islands and Cyprus (both high-risk jurisdictions for money laundering). In April
+and again in June 2015, one ofthe key counterparties involved in the mirror-trading scheme
+made payments totaling $250,000 to one of the companies owned by this close relative,
+allegedly pursuant to a "consulting agreement." Payments to one of these two companies,
+totaling approximately $3.8 million, were almost exclusively identified for the purported
+purpose of "financial consulting," and largely originated from two companies registered in
+Belize.
+
+  28. These suspicious payments, too, were cleared through DBTCA in New
+York.
+
+  29. The above demonstrates that a corporate culture that allows for short-term
+profiteering through improper conduct, at the expense of robust compliance, turns out to
+be much more expensive in the long run to an institution in regulatory, reputational, and
+other costs.
+In Excess of $10 Billion of Scheme Proceeds Flowed Through New York
+
+  30. As noted above, DBTCA is a U.S. subsidiary of Deutsche Bank located on
+Wall Street that, among other things, conducts correspondent banking and U.S. dollar 
+clearing activity for customers of the Bank, including other financial institutions.5
+DBTCA is chartered pursuant to Article III of the New York Banking Law and subject to
+the supervision and regulation by the Department.
+31. Every single one of the U.S. dollar payments involved in the mirror trading
+and one-legged trading activity discussed above flowed through DBTCA. In total,
+payments exceeding $10 billion were transmitted from London and through New York
+as a result ofthe trading conduct facilitated by the scheme.
+32. Deutsche Bank thus caused New Yark State to become a key conduit in a
+long-running artifice involving highly suspicious financial activity. Deutsche Bank has
+represented that it has been unable to identify the actual purpose behind this scheme. It is
+obvious, though, that the scheme could have facilitated capital flight, tax evasion, or other
+potentially illegal objectives. 
+
+Deutsche Bank Missed Repeated Opportunities to
+Detect the Long-Running Mirror-Trading Scheme
+
+  33. Deutsche Bank missed a number ofkey opportunities to detect and interdict
+the mirror-trading scheme (both one and two-legged). These chances arose early on in the
+scheme and continued until Deutsche Bank's discovery of this scheme in February 2015.
+The failure to detect or escalate this misconduct reflects pervasive deficiencies at each level
+of the Bank's compliance function.
+
+  34. For example, a first opportunity arose in November 2011. DB-Moscow
+entered a 900 million ruble trade on behalf of DB-London with one of the suspect 
+counterparties ("Counterparty A") that failed to settle because the Russian Federal Service
+for Financial Markets ("FSFM") had suspended Counterparty A's license to operate.
+Although a well-established red flag, no AML review or escalation occurred.
+
+  35. A second and strikingly clear warning arose shortly thereafter in November
+2011, when a mainstream Russian-language business journal noted that the FSFM had
+suspended the operating licenses of several financial firms for engaging in suspicious
+trading. The article described an artifice very similar to the instant mirror trade scheme:
+According to an intelligence officer, the scheme operated as follows: 
+
+    a client wishing to move the money transferred the funds to a brokerage firm which then
+    bought blue chips . . . . Then the shares were sold in favor of a company-nonresident
+    . . . which then sold the securities on the market and transferred the
+    money minus the commission fee to the client abroad. The law enforcement
+    authorities believe that approximately 100 billion rubles were siphoned abroad
+    in this manner this year.
+    Notably, Counterparty A was identified in the article.
+
+  36. The business journal article led to an e-mail circulated to several members
+of management, in both Moscow and London, requesting that certain trading accounts be
+suspended. The e-mail also contained a link to the article, and its recipients included a
+senior compliance staffer in London, along w~th several chief operating officers for various
+interested divisions. Numerous responsible managers were thus on notice of this serious
+AML controls issue.
+
+  37. Further, senior Deutsche Bank employees continued to discuss, for several
+months, how to obtain payment for the failed trades involving the suspended counterparty,
+which apparently cost the bank about $1.5 million in profit. Despite these conversations,
+at no time did anyone at the Bank undertake to escalate or investigate the basis for the
+revocation of a customer's operating license, or its connection to the money laundering
+scheme specified in the article. 
+
+  38. Yet a third oppmiunity to detect the suspicious mirror trading activity
+occurred in January 2014, when a European financial institution (the "European Bank")
+sent a Request for Assistance ("RFA") to DB-London. The European Bank had been
+prompted to send the RF A after reviewing 20 transactions originating with Deutsche Bank
+and involving another of the suspicious counterparties ("Counterparty B"). Seeking more
+information about the relationship between and transactions involving DB-London and
+Counterparty B, the European Bank specifically asked whether DB-London had "any
+reason to believe that the transactions [with Counterparty BJ are in any way of a
+suspicious nature."
+
+  39. Upon receiving no response, the European Bank sent several reminders to
+DB-London. Eventually, the DB-Moscow supervisor (the one whose close relative
+received substantial undisclosed and suspicious payments) responded by reassuring the
+European Bank that Counterparty B "ha[s] passed through our KYC [know-yourcustomer]
+procedures" and that Deutsche Bank "see[s] no reason for concern here." Not
+a single Deutsche Bank compliance staffer was ever involved in the response to this RF A
+provided by the corrupt supervisor to the European Bank.
+
+  40. Notably, only days before this response was sent to the European Bank by
+the supervisor at DB-Moscow, DBTCA's AML Compliance unit sent its own RFA to the
+European Bank inquiring about Counterparty B. DBTCA's information request had been
+spurred by an alert generated by a transaction monitoring system located at DBTCA.
+Based on the DB-Moscow supervisor's assurances, the European Bank relayed back to
+DBTCA that it had no adverse information about Counterparty B.
+
+  41. Subsequently, in light of the contradictory information about Counterparty
+B received from two different components of Deutsche Bank (which did not communicate
+with each other), the European Bank contacted a senior Anti-Financial Crime ("AFC")
+employee at DBTCA who supervised special investigations, in an attempt to reconcile
+these concerns. The senior compliance employee never responded to the European Bank.
+Nor did the employee take any steps to investigate the basis for the European Bank's
+inquiry, later explaining this omission on the ground that the employee had "too many
+jobs" and "had to deal with many things and had to prioritize."
+
+  42. Just as troubling, through a leak apparently originating with Deutsche Bank,
+Counterparty B was informed ofthe European Bank's RFA. This was a very serious breach
+of anti-money laundering and corruption policies and practices. Yet when the leak came
+to the attention of senior DB-Moscow management, no action to investigate the leak was
+taken. 
+
+  43. A fourth opportunity to detect the mirror-trading scheme occurred several
+months later. In approximately April 2014, Deutsche Bank identified problematic trading
+involving another of the counterparties ("Counterparty C"). About the same time,
+Deutsche Bank received information from a Russian regulator that Counterparty C was
+involved in a money laundering and tax evasion scheme. Trading with Counterparty C was
+suspended, and some preliminary investigation identified suspicious trading with
+additional counterparties. However, no further escalation occurred, despite the emergence
+of an unmistakable pattern of suspicious trading at the securities desk at DB-Moscow.
+
+  44. Subsequently, between April and September 2014, DB-Moscow identified
+additional suspicious mirror trading activity involving several other counterparties
+("Counterparties D and E"). Although DB-Moscow suspended trading with Counterparties
+D and E, and a certain level of escalation occurred involving the AFC Unit at DB-London,
+Deutsche Bank again failed at the time to conduct a broader investigation that would have
+uncovered the entirety of the scheme.
+
+Numerous Compliance Deficiencies Allowed for the
+Mirror-Trading Scheme to Flourish at Deutsche Bank 
+
+  45. Numerous compliance failures at Deutsche Bank allowed for the mirrortrading
+scheme to flourish. The deficiencies are extensive and are catalogued only
+generally below.
+
+  46. Flaws in KYC Policies and Procedures: During the relevant period
+Deutsche Bank suffered from widespread and well-known weaknesses in its KYC
+processes for onboarding new clients. KYC procedures were manual and functioned
+merely as a checklist, with employees mechanically focused on ensuring documentation
+was collected, rather than shining a critical light on information provided by potential
+customers.
+
+  47. Even so, inadequate documentation typically characterized many of the
+onboarding files at DB-Moscow's securities desk. Nor were any steps taken to periodically
+review and verify clients once brought in. Notably, Deutsche Bank's Russia operations 
+scored the worst out of 28 countries whose KYC procedures were reviewed by Deutsche
+Bank in an internal report released to senior management in early 2014. 
+
+  48. Virtually all of the KYC files for the counterparties implicated here were
+insufficient. Moreover, because no central repository for KYC information existed at
+Deutsche Bank, when the Bank suspended a counterparty for suspicious trading, a related
+counterparty was able to get onboarded and resume trading activity without raising any red
+flags.
+
+  49. Further, the Moscow supervisor who oversaw the mirror trading was
+actively involved in the onboarding and KYC documentation of counterparties involved in
+the scheme. Bank onboarding staff experienced hostility and threats from the supervisor
+on several occasions when it appeared they had not moved quickly enough to facilitate
+transactions.
+
+  50. Distressingly, this was a fact about which senior management at DBMoscow
+was aware, yet management's response was inadequate. Indeed, although
+deficiencies in KYC policies and procedures were well known for many years, Deutsche
+Bank did not take sufficient action to implement genuine reform until 2016.
+
+  51. Flaws in the AML Risk Rating System: Deutsche Bank failed to
+accurately rate its AML country and client risks throughout the relevant time period. The
+Bank lacked a global policy benchmarking its risk appetite, resulting in material
+inconsistencies and no methodology for updating the ratings. Nor was Deutsche Bank in
+line with peer banks, which rated Russia as high risk well before Deutsche Bank did in late
+2014. 
+
+  52. Although Deutsche Bank Group Audit specifically identified deficiencies
+in the Bank's risk rating methodology in a Global Anti-Money Laundering Report prepared
+in 2012, DB-Moscow resisted adopting modified risk rating procedures because most of
+their clients would be re-classified as high risk, and the office lacked the operational
+resources required to handle the increased compliance workload.
+
+  53. Inadequate Compliance and Internal Audit Resources: These
+deficiencies were exacerbated by Deutsche Bank's ineffective and understaffed AFC,
+AML, and Compliance Units. At a time that it was increasing risk in various business
+segments, the Bank's intense focus on headcount reduction between 2010 and 2012
+prevented the AFC and Compliance units in DB-Moscow and elsewhere from being staffed
+with the resources necessary to function effectively.
+
+  54. A senior compliance staffer repeatedly stated that he had to "beg, borrow,
+and steal" to receive the appropriate resources, leaving existing personnel scrambling to
+perform multiple roles. Similarly, at one point in time, a single attorney who lacked any
+compliance background served as DB-Moscow's Head of Compliance, Head of Legal, and
+as its AML Officer - all at the same time. And a number of employees with leadership
+positions in the AFC, AML, and Compliance groups lacked necessary experience or
+training.
+
+  55. Nor did Deutsche Bank have an automated system to monitor suspicious
+securities transactions, which added to the risks of utilizing the remote booking model.
+Moreover, Deutsche Bank's Group Audit also lacked in a number of ways that prevented
+it from fulfilling its key role as a third line of defense behind the business and compliance
+units. 
+
+  56. Flaws in Corporate Structure and Organization: Also responsible for
+the breakdown in compliance here is Deutsche Bank's decentralized AML framework,
+which caused confusion in policies, roles, and responsibilities. This decentralized model
+caused AML policies to be set at the regional, rather than global, level, resulting in the
+inconsistent formulation and application of policies and procedures.
+
+  57. As relevant here, DB-Moscow management focused primarily on local
+regulatory requirements imposed by Russian authorities. Little or no attention was paid to
+the implementation or adher_ence to controls designed to comply with international or other
+country requirements. And where such policies did exist, they were frequently ill designed
+and insufficient to meet the demands of the business lines involved.
+
+  58. Additionally, a dual reporting structure and lack of clarity in job
+responsibilities led to an over-reliance upon the supervisor for management of trading
+activity on the DB-Moscow securities desk. A number of trading employees directly
+reported to this supervisor, and while the trading employees also had dotted line reporting
+to individuals at DB-London, no concerns relevant to the suspicious trading activities were
+ever escalated out of Moscow.
+
+  59. Nor was there any effective oversight ofthe Moscow securities supervisor.
+His local manager, who was assigned to a different business group, did not understand such
+oversight to be part of his responsibilities. Moreover, the Moscow supervisor's direct
+supervisor in London failed to exercise any reasonable oversight over the Moscow
+supervisor; compliance topics generally were not discussed during regular business calls
+or meetings, and the Moscow supervisor's superiors failed to review reports with an eye
+towards non-compliant or suspicious activity.
+
+  60. Indeed, the supervisor's direct manager praised the work of the supervisor
+for engaging local clients with global products - creating the pernicious culture that gave
+rise to the improper trading scheme and permitted it to continue uninterrupted for a fiveyear
+stretch. In short, Deutsche Bank's AML control failures were longstanding and
+enterprise-wide, enabling the mirror trade scheme to flourish and persist. 
+
+Deutsche Bank's Substantial History of Regulatory Violations Placed It
+On Firm Notice That Schemes Like Mirror Trading Might Occur
+
+  61. Deutsche Bank has a substantial history of regulatory violations over the
+last decade - one that placed it squarely on notice of the need to address potential
+compliance issues that permitted the mirror-trading scheme to fester.
+
+  62. In October 2005, DBTCA entered into a Written Agreement with the
+Department (via its predecessor agency) after anti-money laundering and compliance
+programs related to its correspondent banking and dollar-clearing services were found to
+be substantially deficient Deutsche Bank agreed to make a variety of reforms designed to
+create an effective control environment for these business lines.
+
+  63. In April 2015, Deutsche Bank entered into a Consent Order with the
+Department arising out of its failure to employ relevant and specific systems and controls
+to prevent manipulation ofthe LIB OR and IBOR rate-setting process. The conduct at issue
+occurred for the time period 2005 through 2009 - right after entry of DBTCA's Written
+Agreement with the Department - and was systemic. The LIBOR manipulation issues had
+been known to the Bank from at least 2008, and even after being placed on notice, the Bank
+failed to address the absence of relevant systems and controls. The Bank paid a penalty of
+$600 million to the Department, and agreed to install an independent monitor to
+recommend and implement important compliance reforms. 
+
+  64. On November 3, 2015, the Bank entered into another Consent Order with
+the Department, arising out of the Bank's use of non-transparent methods and practices to
+conduct nearly $11 billion in dollar-clearing transactions on behalf of Iranian, Libyan,
+Syrian, Burmese, and Sudan financial institutions and other entities subject to U.S.
+economic sanctions.· The conduct at issue occurred during the time period 1999 through
+2006. One of the main purposes of the non-transparent practices at issue was to keep the
+Bank's U.S. staff in the dark about sanctions connections of the payments they were
+processing through New York. The Bank paid a penalty of$200 million to the Department,
+and again agreed to engage an independent monitor to "conduct a comprehensive review
+ofthe Bank's existing BSA/ AML and OF AC sanctions compliance programs, policies, and
+procedures in place at the Bank that pertain to or affect activities conducted by or through
+Deutsche Bank New York"; which included a review of the "thoroughness and
+comprehensiveness of the Bank's current global BSA/AML and OFAC compliance
+program."
+
+  65. In light of this regulatory history, the suspicious mirror trading activity,
+which commenced in 2011 and continued until as recently as February 2015, occurred after
+the Bank was on clear notice of serious and widespread compliance issues dating back a
+decade.
+
+  66. Once the mirror trade scheme became sufficiently elevated within Deutsche
+Bank's investigation function (in March 2015), the Bank commenced an internal
+investigation designed to identify the background of the suspicious trades, as well as
+understand to what extent Bank employees were aware ofthese activities and its associated
+risks. 
+
+  67. The Bank timely self-reported its initial assessment of the internal
+investigation to the Department. Since then, it appears to the Department that the Bank
+has conducted an internal investigation consistent with the stated mission, and has done so
+in a serious manner and timely fashion, keeping the Department informed of its findings.
+While much more remains to be done, the Bank has taken certain necessary steps toward
+remediation.
+
+  68. In setting forth the violations and remedies below, the Department
+recognizes and credits the forthright manner in which Deutsche Bank performed its internal
+investigation, and its timely communications with the Department. 
+
+Violations of Law and Regulation 
+
+  69. Deutsche Bank has conducted its banking business m an unsafe and
+unsound manner, in violation ofNew York Banking Law §§ 44, 44-a.
+
+  70. Deutsche Bank failed to maintain an effective and compliant anti-money
+laundering program, in violation of 3 N.Y.C.R.R. § 116.2.
+
+  71. Deutsche Bank failed to maintain and make available true and accurate
+books, accounts and records reflecting all transactions and actions, in violation of New
+York Banking Law § 200-c. 
+
+Settlement Provisions
+
+Monetary Payment
+
+  72. Deutsche Bank shall pay a civil monetary penalty pursuant to Banking Law
+§§ 39, 44 and 44-a to the Department in the amount of $425,000,000 as a result of the
+conduct and violations set forth above. The Bank shall pay the entire amount within ten
+(10) days of executing this Consent Order. Deutsche Bank agrees that it will not claim, 
+assert, or apply for a tax deduction or tax credit with regard to any U.S. federal, state, or
+local tax, directly or indirectly, for any portion of the civil monetary penalty paid pursuant
+to this Consent Order. 
+
+Independent Monitor 
+
+  73. Within sixty (60) days of this Order, Deutsche Bank, DBTCA and the New
+York Branch shall engage an independent monitor (the "Independent Monitor") to:
+conduct a comprehensive review of the Bank's existing BSA/AML compliance programs,
+policies and procedures in place at the Bank that pertain to or affect activities conducted
+by or through (a) DBTCA and (b) the New York Branch.
+
+  74. The Independent Monitor will be selected by the Department in the exercise
+of its sole discretion, and will report directly to the Department. The term of the
+Independent Monitor will be up to two years. The Department will consider whether one
+of the two existing independent monitors currently in place at Deutsche Bank may expand
+its assignment to include the work contemplated in this Order; provided, however, that
+nothing herein shall so require the Department to expand any such assignment of any other
+independent monitor, and the Department reserves the right in its sole discretion to require
+engagement of an additional independent monitor.
+
+  75. Within thirty (30) days of the selection of the Independent Monitor,
+Deutsche Bank, DBTCA and the New York Branch shall jointly submit to the Department
+for approval an engagement letter that provides, at a minimum, for the Independent
+Monitor to review and report on: 
+
+
+    a. 	 The el~ments of the Bank's corporate governance that contributed to or
+         facilitated the improper conduct discussed in this Consent Order and 
+         that permitted it to go on, relevant changes or reforms to corporate
+          governance that the Bank has made since the time of the conduct
+          discussed in this Consent Order, and whether those changes or reforms
+          are likely to significantly enhance the Bank's BSA/AML compliance
+          going forward; 
+
+    b. 	 The thoroughness and comprehensiveness of the Bank's current global
+          BSA/ AML compliance programs, including, but not limited to,
+          compliance programs designed to address the conduct discussed in this
+          Consent Order; 
+          
+    c. 	 The organizational structure, management oversight, and reporting lines
+          that are relevant to BSA/ AML compliance, and an assessment of the
+          staffing of the BSA/ AML compliance teams globally, including the
+          duties, responsibilities, authority, and competence of officers or
+          employees responsible for the Bank's compliance with laws and
+          regulations pertaining to BSA/ AML compliance; 
+          
+     d. 	The propriety, reasonableness and adequacy of any proposed, planned,
+           or recently-instituted changes to the -Bank's BSA/AML compliance
+           programs; and 
+           
+     e. 	Any corrective measures necessary to address identified weaknesses or
+           deficiencies in the Bank's corporate governance or its global BSA/AML
+           compliance programs. 
+           
+   76. On a date to be agreed upon in the engagement letter, the Independent
+Monitor shall submit to the Bank a written report on its findings and recommendations (the
+"AML Compliance Report").
+
+  77. Within sixty (60) days ofreceiving the AML Compliance Report, the Bank
+will submit to the Department a written plan to improve and enhance the current global
+BSA/ AML compliance programs that pertain to or affect activities conducted by or through
+DBTCA and the New York Branch, including, but not limited to, activities of the kind
+discussed in this Consent Order (the "Action Plan").
+
+  78. The Action Plan will provide recommendations for enhanced internal
+controls and updates or revisions to current policies, procedures, and processes in order to
+ensure full compliance with all applicable provisions of the BSA, related rules and
+regulations, and applicable New York law and regulations, and the provisions of this
+Consent Order, incorporating the corrective measures identified in the AML Compliance
+Report.
+
+  79. The Action Plan shall also provide recommendations to improve and
+enhance management oversight of BSA/ AML compliance programs, policies, and
+procedures now in place at the Bank, to provide a sustainable management oversight
+framework, incorporating the corrective measures identified in the AML Compliance
+Report.
+
+  80. Should the Bank take the position that any of the corrective measures
+identified by the Independent Monitor should not be adopted by the Bank, the Bank shall,
+within forty-five (45) days ofreceiving the Compliance Report, so notify the Independent
+Monitor and the Department, specifying in writing the grounds for this position. 
+
+81. In consultation with the Independent Monitor, the Department will review
+and determine, in its sole discretion, whether to require the Bank to adopt the
+recommendations to which the Bank has objected, whether to agree with the Bank, and/or
+whether some other action should be taken by the Bank to achieve the remediation
+contemplated by this Consent Order.
+
+  82. The Independent Monitor will thereafter oversee the implementation of any
+corrective measures undertaken pursuant to the AML Compliance Report and/or plans
+discussed above in Paragraphs 73 through 81.
+
+  83. The Independent Monitor will assess the Bank's compliance with its
+corrective measures and will submit subsequent progress reports and a final report to the
+Department and the Bank, as determined by the Department in its sole discretion. The
+Department may, in its sole discretion, extend any reporting deadline set forth in this Order.
+
+  84. The term of the Independent Mo!litor's engagement will extend for up to
+two years from the date ofits formal engagement by the Bank; provided, however, that the
+term may be extended further, in the Department's sole discretion, if Deutsche Bank fails
+to cooperate.
+
+  85. Any dispute as to the scope of the Independent Monitor's authority or
+mandate will be resolved by the Department in the exercise of its sole discretion, after
+consultation with the Bank and the Independent Monitor. 
+
+Full and Complete Cooperation of Deutsche Bank
+
+  86. Deutsche Bank and the New York Branch each agree that they will fully
+cooperate with the Independent Monitor and Department, and support the Independent
+Monitor's work by, among other things, providing it with access to all relevant personnel, 
+consultants and third-party service providers, files, reports, or records, wherever located,
+consistent with applicable law. 
+
+Breach of Consent Order 
+
+  87. In the event that the Department believes the Bank to be in material breach
+of the Consent Order, the Department will provide written notice to the Bank and the Bank
+must, within ten business days of receiving such notice, or on a later date if so determined
+in the Department's sole discretion, appear before the Department to demonstrate that no
+material breach has occurred or, to the extent pertinent, that the breach is not material or
+has been cured.
+
+  88. The parties understand and agree that the Bank's failure to make the
+required showing within the designated time period shall be presumptive evidence of the
+Bank's breach. Upon a finding that the Bank has breached this Consent Order, the
+Department retains all remedies and relief available to it under the New York Banking and
+Financial Services Laws, and may use any evidence available to the Department in any
+ensuing orders, hearings or notices.
+Waiver of Rights
+
+  89. The parties understand and agree that no provision of this Consent Order is
+subject to review in any court or tribunal outside the Department. 
+
+Parties Bound by the Consent Order 
+
+  90. This Consent Order is binding on the Department and Deutsche Bank and
+the New York Branch, as well as any successors and assigns that are under the
+Department's supervisory authority. This Consent Order does not bind any federal or other
+state agency or law enforcement authority. 
+
+  91. No further action will be taken by the Department against Deutsche Bank
+for the specific conduct set forth in this Order, provided that the Bank fully complies with
+the terms of this Order. Notwithstanding the foregoing or any other provision in this
+Consent Order, however, the Department may undertake additional action against the Bank
+for transactions or conduct of which Deutsche Bank had knowledge prior to the execution
+of this Consent Order, but that Deutsche Bank did not disclose to the Department in the
+written materials Deutsche Bank submitted to the Department in connection with this
+matter. 
+
+Notices 
+
+92. All notices or communications regarding this Consent Order shall be sent
+to: 
+
+    For the Department:
+    Terri-Anne Caplan
+    Assistant Deputy Superintendent
+    for Enforcement
+    One State Street
+    New York, NY 10004
+    Christine Tsai 
+
+    Attorney 
+
+    One State Street 
+
+    New York, NY 10004 
+
+    For Deutsche Bank:
+    Christof von Dryander 
+
+    Co-General Counsel 
+
+    Deutsche Bank AG 
+
+    Taunusanlage 12 
+
+    60325 Frankfurt am Main, Germany 
+
+    Dr. Mathias Otto 
+
+    Co-General Counsel Germany 
+
+    Deutsche Bank AG 
+
+    Taunusanlage 12 
+
+    60325 Frankfurt am Main, Germany 
+
+    Samuel VI. Seymour 
+
+    Sullivan & Cromwell LLP 
+
+    125 Broad Street 
+
+    New York, NY 10004 
+    
+Miscellaneous
+
+  93. Each provision ofthis Consent Order shall remain effective and enforceable
+until stayed, modified, suspended, or terminated by the Department.
+
+  94. No promise, assurance, representation, or understanding other than those
+contained in this Consent Order has been made to induce any party to agree to the
+provisions of the Consent Order
