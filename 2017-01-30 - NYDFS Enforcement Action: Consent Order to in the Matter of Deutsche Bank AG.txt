@@ -1,0 +1,131 @@
+Jan 30, 2017
+NYDFS Enforcement Action: Consent Order to in the Matter of Deutsche Bank AG
+web.archive.org/web/20170201203101/http://www.dfs.ny.gov/about/ea/ea170130.pdf
+
+NEW YORK STATE DEPARTMENT
+OF FINANCIAL SERVICES 
+
+In the Matter of
+DEUTSCHE BANK AG and
+DEUTSCHE BANK AG NEW YORK BRANCH
+
+CONSENT ORDER UNDER 
+NEW YORK BANKING LAW §§ 39, 44 and 44-a
+
+The New York State Department of Financial Services (the "Department"),
+Deutsche Bank AG and Deutsche Bank AG New York Branch (the "New York Branch"),
+(together, "Deutsche Bank," or the "Bank"), agree: 
+
+Introduction 
+
+The Culture of Compliance in the Age of Risk 
+
+  1. Global financial institutions serve as the first line of defense against illegal
+financial transactions in today's fast-paced, interconnected financial network. New York
+and federal law require these institutions to design, implement, and execute policies and
+systems to prevent and detect illegal financial transactions. The Bank Secrecy Act
+("BSA"), for example, requires these institutions to report suspicious transactions (via
+"Suspicious Activity Reports" or "SARs") to the U.S. Treasury Department's Financial
+Crimes Enforcement Network ("FinCEN"), enabling law enforcement to conduct
+investigations that result in the future interdiction of these transactions and, ultimately,
+prosecution or the blocking ofbad actors. The BSA likewise requires financial institutions
+to have adequate anti-money laundering ("AML") systems in place. 
+
+2. New York law imposes these same requirements on its regulated financial
+institutions. 1 Specifically, the law obligates financial institutions to devise and implement
+systems reasonably designed to identify and block suspicious activity and transactions
+prohibited by law. Each institution is expected to configure a system based on the
+particular risks faced by the institution, considering such factors as its size, geographical
+reach, and specific lines of business. Moreover, the institution must employ or engage
+sufficient numbers of trained compliance professionals to ensure that its systems run
+properly.
+
+  3. To strengthen anti-money laundering efforts, New York law imposes
+additional requirements on regulated institutions, obligating them to maintain effective
+programs to monitor and filter transactions to screen for money laundering and bar
+transactions with sanctioned entities. 2 Additionally, to both protect consumers and the
+safety and soundness of financial institutions, the Department has proposed regulations
+requiring regulated entities to adopt a series of measures to prevent against cyber attacks. 3
+
+4. Ultimate responsibility for design and implementation of such policies and
+systems belongs at the institution's top echelon. The board of directors and senior
+management must devote careful study to the design of the anti-money laundering and
+other compliance systems that lie at the core of this first line of defense, and must ensure
+sufficient resources to undergird these systems and structures. Adequate staffing must be
+put in place, and training must be ongoing. 
+
+  5. Summary of Findings: As set forth more fully below, this Consent Order
+addresses serious compliance deficiencies identified in the Department's investigation that
+spanned Deutsche Bank's global enterprise. These flaws allowed a corrupt group of bank
+traders and offshore entities to improperly and covertly transfer more than $10 billion out
+of Russia, by conscripting Deutsche Bank operations in Moscow, London and New York
+to their improper purpose.
+
+  6. The suspicious security trading schemes identified - termed "mirror trades"
+-permitted this corrupt consortium to move very large sums of money out of Russia under
+the radar and without the scrutiny ofDeutsche Bank's compliance function. By converting
+rubles into dollars through security trades that had no discernible economic purpose, the
+scheme was a means for bad actors within a financial institution to achieve improper ends
+while evading compliance with applicable laws.
+
+  7. Afflicted with inadequate AML control policies, procedures, and structures,
+Deutsche Bank missed several key opportunities to identify and interdict this scheme.
+Moreover, the suspicious mirror-trading machinations occurred at a time Deutsche Bank
+was on clear notice of numerous deficiencies in its BSA/ AML systems and management,
+and yet the steps it took to remediate the situation proved seriously inadequate.
+8. For these reasons, the Department has entered into this Consent Order with
+the consent and agreement of Deutsche Bank to resolve this matter as set forth below and
+without further proceedings. 
+
+Factual Findings
+
+The Mirror-Trading Scheme at Deutsche Bank's
+Moscow, London and New York Offices 
+
+  9. The Mirrm·-Trading" Scheme: The "mirror trading" scheme at issue
+here was simple and effective. Deutsche Bank Trust Company of the Americas
+("DBTCA"), an entity located at 60 Wall Street, New York, New York which is licensed
+and supervised by the Department, was the entity through which the U.S. dollar payments
+flowed to the suspicious entities involved here.
+
+  10. Operating through the securities desk at Deutsche Bank's Moscow affiliate
+("DB-Moscow"), certain companies that were clients of that desk routinely issued orders
+to purchase Russian blue chip stocks, always paying in rubles. The size ofthe typical order
+ranged in value from $2 to $3 million.
+
+  11. Shortly thereafter - indeed, sometimes the very same day - a related
+counterparty would sell the identical Russian blue chip stock in the same quantity and at
+the same price through Deutsche Bank's London branch ("DB-London"). The
+counterparties to the trade were actually closely related on both sides, such as through
+common ownership.
+
+  12. None of these "mirror trades" demonstrated any legitimate economic
+rationale. The counterparties frequently lost money on these trades, due to fees and
+commissions that were substantially credited to DB-Moscow by Deutsche Bank pursuant
+to the brokerage arrangements between Moscow and London.
+
+  13. For example, typically, it made no difference to the counterparties the
+particular security to be bought or sold. All that mattered was that there was a matching
+trade available. In one instance, a counterparty representative, who was buying shares for 
+one counterparty and selling the identical shares for a related counterparty, told a DBMoscow
+trader, "/ have a billion rouble today . ... Will you be able to find a security for
+this size?"
+
+  14. In another case, a counterparty representative, when told by a DB-Moscow
+trader there were no Sberbank Russian shares available for a mirror trade, immediately
+switched the order to Gazprom Russian shares. No rationale for this switch was apparent;
+no trading hypothesis was offered.
+
+  15. Moreover, a number ofthe selling counterparties were registered in offshore
+territories, like Cyprus or the British Virgin Islands. 4 The seller would be paid for its shares
+in U.S. dollars, which were routinely cleared through DBTCA. Thus, by virtue of this
+scheme, the counterparties were able to surreptitiously convert rubles into U.S. dollars
+using Deutsche Bank.
+
+  16. While offsetting trades are not inherently illegal, where - as here - they lack
+obvious economic purpose and could be used to facilitate money laundering or other illicit
+conduct, they are highly suggestive of financial crime.
+
+  17. The scheme was well-developed, running between 2011 and early 2015. At
+least 12 entities were involved in these suspicious trading activities, and the entities were 
+
