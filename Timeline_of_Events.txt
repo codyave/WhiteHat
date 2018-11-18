@@ -881,16 +881,16 @@
 | Nov 19, 2016 | Secretary of Defense Ash Carter and ODNI Clapper recommend Obama fire Adm. Rogers
 | Nov 19, 2016 | CNN: "Donald Trump settles Trump University lawsuits" archive.is/dTwIV
 | Nov 21, 2016 | McClatchly: "Trump’s financial disclosures obscure his foreign business interests" archive.is/q0UZX
-| Nov 21, 2016 | Daily Caller: "Michael Flynn flip-flopped on Turkey coup attempt in recent months"
-| Nov 21, 2016 | Bruce Ohr meets up with Peter Strzok, Lisa Page, and an unknown FBI agent
+| Nov 21, 2016 | Daily Caller: "Michael Flynn flip-flopped on Turkey coup attempt in recent months" archive.is/VpOV1
+| Nov 21, 2016 | Bruce Ohr meets up with Peter Strzok, Lisa Page, and an unknown FBI agent archive.is/SAoVd
 | Nov 21, 2016 | Bruce Ohr note indicates FBI officials tell Bruce Ohr that they "may go back to Chris"
-| Nov 21, 2016 | Copy of Anthony Weiner laptop in SCIF at FBI HQ, available for viewing by Priestap, per FBI Vault, part 23, pgs 142-143
-| Nov 22, 2016 | Forbers: "Exclusive Interview: How Jared Kushner Won Trump The White House"
+| Nov 21, 2016 | Copy of Anthony Weiner laptop in SCIF at FBI HQ, available for viewing by Priestap, per FBI Vault, part 23, pgs 142-143 archive.is/SAoVd
+| Nov 22, 2016 | Forbes: "Exclusive Interview: How Jared Kushner Won Trump The White House" archive.is/2SP8d
 | Nov 22, 2016 | FBI interviews Bruce Ohr (Ohr FD-302 December 19, 2016)
 | Nov 28, 2016 | In an interview, Bruno Kahl suggests Russia may try to interfere in upcoming German elections
 | Nov 29, 2016 | Strzok, Lisa Page discuss withholding info wrt McCabe and MYE ("Can we tailor what we send, ie, give them some some subset of what they're asking for?")
-| Nov 30, 2016 | Trump meets with Preet Bharara, Preet agrees to remain US Attorney under Trump
-| Dec 01, 2016 | @ChuckRossDC: ".@GenFlynn's intel firm formally terminated lobbying contract with Dutch company owned by Turkish businessman."
+| Nov 30, 2016 | WaPo: "Trump asks U.S. Attorney in Manhattan to stay on" (Bharara) a
+| Dec 01, 2016 | @ChuckRossDC: ".@GenFlynn's intel firm formally terminated lobbying contract with Dutch company owned by Turkish businessman." archive.is/1Yl1s
 | Dec 01, 2016 | Strzok: "And I keep thinking about what the D said, what was it, sick to one's stomach?"
 | Dec 01, 2016 | Kushner meets with Ambassador Kislyak at Trump Tower to discuss Moscow back-channel [see: May 26, 2017 NYT]
 | Dec ??, 2016 | Russia Today interviews Carter Page (mid-December?)
@@ -900,14 +900,14 @@
 | Dec 09, 2016 | Brennan provides ICA assessment to Obama, showing Russia preferring Trump over Clinton
 | Dec 09, 2016 | Obama orders review of Russian interference in US elections going back to 2008
 | Dec 09, 2016 | Imran Awan returns to U.S. from Pakistan
-| Dec 09, 2016 | NYT: "Russian Hackers Acted to Aid Trump in Election, U.S. Says"
+| Dec 09, 2016 | NYT: "Russian Hackers Acted to Aid Trump in Election, U.S. Says" archive.is/MWWFd
 | Dec 10, 2016 | Reporter asks FBI (Strzok) whether they're uncertain about Russia preference for Trump. [see: Sep 20, 2018 The Hill]
 | Dec 10, 2016 | Strzok (to reporter): “The specific point I made was we did not have information to differentiate what their ultimate goal was. In other words, the activity is one-sided and clear but we can’t say the sole and primary purpose was specifically intended to help someone, hurt someone else or undermine the process. The reality is all three.” [see: Sep 20, 2018 The Hill]
 | Dec 10, 2016 | Simpson tells Ohr at a DC coffee shop that Michael Cohen was the “go-between from Russia to the Trump campaign.”
 | Dec 12, 2016 | FBI interviews Bruce Ohr (Ohr FD-302 December 19, 2016)
-| Dec 12, 2016 | Politico: "Here’s What America Needs to Know About Trump and Russia" (Evelyn Farkas)
+| Dec 12, 2016 | Politico: "Here’s What America Needs to Know About Trump and Russia" (Evelyn Farkas) archive.is/8eosz
 | Dec 13, 2016 | Steele writes his last memo, says Michael Cohen traveled to Prague in August 2016 (Cohen denies)
-| Dec 13, 2016 | "The Perfect Weapon: How Russian Cyberpower Invaded the U.S." is published in the NYT
+| Dec 13, 2016 | NYT: "The Perfect Weapon: How Russian Cyberpower Invaded the U.S." archive.is/qPxtn
 | Dec 13, 2016 | Neil King informs colleagues he is joining Fusion GPS
 | Dec 13, 2016 | Kushner meets with sanctioned Russian VEB Bank CEO Sergey Gorkov [see: May 9, 2018 @SenBlumenthal]
 | Dec 14, 2016 | Kushner meets with sanctioned Russian VEB Bank CEO Sergey Gorkov [see: Mar 24, 2018 @gregolear]
@@ -926,7 +926,7 @@
 | Dec 15, 2016 | Ukraine backs away from claims of Paul Manafort's illegal dealings
 | Dec 15, 2016 | Lisa Monaco at Defense One Summit says that the Trump transition team has not contacted her personally
 | Dec 15, 2016 | Clapper signs and authorizes the dissemination of NSA surveillance (Executive Order 12333), signed by AG Lynch Jan 3
-| Dec 15, 2016 | George Nader and Mohammed bin Zayed al Nahyan meet secretly with Kushner, Bannon, and Gen. Flynn at Trump Tower
+| Dec 15, 2016 | George Nader and MBZ meet secretly with Kushner, Bannon, and Gen. Flynn at Trump Tower
 | Dec 15, 2016 | Louise Mensch and News Corp. part ways [see: January 5, 2017 Politico]
 | Dec 16, 2016 | @ToddRuger: "Schumer on Feinstein move to top Dem on Judiciary: "She's going to have a very important job" to explore "every aspect" of Trump's nominees" archive.is/7C3JO
 | Dec 16, 2016 | Obama gives end-of-the-year press conference, says election overrun with leaked information
@@ -934,7 +934,7 @@
 | Dec 18, 2016 | Strzok: "Man, our intel submission is going to be a BOMB." [see: Sep 20, 2018 The Hill]
 | Dec 18, 2016 | Page: "Oh god, why do you say that? Was planning to try to go in early to reach it before our mtg with Jim." [see: Sep 20, 2018 The Hill]
 | Dec 18, 2016 | Strzok: "Oh it's fine. You've heard it all. I'm just saying the C portion is absolutely different from the bulk of the stuff in the community. And the community and especially the Wh will jump all over it since it's what they WANT to say and they can attribute it to us, not themselves. All the benefit, none of the political risk. We get all of that." [see: Sep 20, 2018 The Hill]
-| Dec 19, 2016 | The Guardian: "Israeli tycoon Beny Steinmetz arrested over Guinea bribery claims" (Steinmetz, friend of Kushner)
+| Dec 19, 2016 | The Guardian: "Israeli tycoon Beny Steinmetz arrested over Guinea bribery claims" (friend of Kushner)
 | Dec 20, 2016 | FBI interviews Bruce Ohr (Ohr FD-302 December 27, 2016)
 | Dec 19, 2016 | Page: "And this. It will make your head spin to realize how many stories we played a personal role in. Sheesh, this has been quite a year… NYTimes: The most-read stories of 2016 (with a link)." [see: September 20, 2018 saraacarter.com]
 | Dec 19, 2016 | Strzok: "Jesus, I want to take people out for a drink. I want to take YOU out for a drink. I hope this upcoming presidency doesn’t fill my years with regret wondering what we might have done differently." [see: September 20, 2018 saraacarter.com]
@@ -1084,7 +1084,7 @@
 | Feb 23, 2017 | Papadopoulos changes cell phone numbers
 | Feb 23, 2017 | AdWeek: "The Washington Post Adds WSJ’s Devlin Barrett, John Podesta Joins as Contributing Columnist"
 | Feb 23, 2017 | Paul Manafort's daughter's phone is hacked showing unknown persons were trying to blackmail Manafort
-| Feb 24, 2017 | Evan Osnos: "Jared Kushner met w/ Russian Amb Kislyak in Trump Tower during transition"
+| Feb 24, 2017 | @eosnos: "Jared Kushner met w/ Russian Amb Kislyak in Trump Tower during transition"
 | Feb 27, 2017 | New Yorker: "Michael Flynn, General Chaos"
 | Feb 27, 2017 | Mother Jones: "Trump Just Sold a $15.8 Million Condo to a Consultant Who Peddles Access to Powerful People"
 | Feb 28, 2017 | NYPost: "$16M Trump penthouse sells to exec with ties to China" archive.is/ZFaRO
@@ -1183,21 +1183,22 @@
 | Mar 23, 2017 | Page: "CNN said officials. I assume dems on Gang of 8"
 | Mar 24, 2017 | Daily Caller: "Michael Flynn discussed covert extradition plan with Turkish government"
 | Mar 24, 2017 | WSJ: "Ex-CIA Director: Mike Flynn and Turkish Officials Discussed Removal of Erdogan Foe From U.S."
-| Mar 25, 2017 | The Hill: "Dems question potential Kushner real estate deal with Chinese firm"
+| Mar 25, 2017 | The Hill: "Dems question potential Kushner real estate deal with Chinese firm" archive.is/WTwLC
 | Mar 25, 2017 | Waldman: "Deripaska is in London Monday-Thursday and I might be able to arrange a mtg with him too if you wish."
 | Mar 26, 2017 | Waldman: "I have an idea to explore with you."
-| Mar 26, 2017 | WaPo: "Trump taps Kushner to lead a SWAT team to fix government with business ideas"
+| Mar 26, 2017 | WaPo: "Trump taps Kushner to lead a SWAT team to fix government with business ideas" archive.is/v7oYV
 | Mar 26, 2017 | WaPo: "Scott Pelley is pulling no punches on the nightly news — and people are taking notice"
 | Mar ??, 2017 | (late March) Adam Waldman visits Assange twice in the Ecuadorian Embassy [see: June 20, 2018 The Guardian]
-| Mar 27, 2017 | Natasha Bertrand: "Kushner met with Kislyak & Sergey Gorkov...in Dec. Now the Senate wants to question him"
+| Mar 27, 2017 | Natasha Bertrand: "Kushner met with Kislyak & Sergey Gorkov...in Dec. Now the Senate wants to question him" archive.is/CIp9F
+| Mar 27, 2017 | NYT: "Senate Committee to Question Jared Kushner Over Meetings With Russians" archive.is/a6yc5
 | Mar 27, 2017 | Farkas: "Trump folks – if they found out HOW we knew...about...Russians...they would try to compromise those sources"
-| Mar 27, 2017 | Burr: "Chairman Burr and Vice Chairman Warner Statement on Kushner’s Voluntary Participation in SSCI Investigation"
+| Mar 27, 2017 | Chairman Burr and Vice Chairman Warner Statement on Kushner’s Voluntary Participation in SSCI Investigation archive.is/OGItH
 | Mar 27, 2017 | WhoWhatWhy: "Why FBI can't tell all on Trump, Russia" archive.is/uHCBz
 | Mar 28, 2017 | Laufman emails Waldman, offers Assange immunity and safe passage [see: Jun 25, 2018 The Hill]
 | Mar 29, 2017 | WaPo: "Who is ‘Source D’? The man said to be behind the Trump-Russia dossier’s most salacious claim"
 | Mar 29, 2017 | NBC News: "Senate Intel Committee May Interview Ex-UK Spy Christopher Steele"
 | Mar 29, 2017 | Reuters: "U.S. State Dept. employee charged in making contacts with Chinese agents"
-| Mar 29, 2017 | CNN: "Bank that Kushner met with paid Russian intelligence agent's legal tab"
+| Mar 29, 2017 | CNN: "Bank that Kushner met with paid Russian intelligence agent's legal tab" archive.is/b3yCy
 | Mar 29, 2017 | Newsweek: "Will Julian Assange be sent to the U.S.? Ecuador election results could decide extradition case"
 | Mar 30, 2017 | Steve Bannon electronically files financial disclosure forms archive.is/oLLNb
 | Mar 30, 2017 | Just Security: "Following the Money: Russia, Cyprus, and the Trump Team’s Odd Business Dealings"
@@ -1228,7 +1229,7 @@
 | Apr 05, 2017 | FARA filings (submitted June 29, 2018) indicate Waldman has ended represenation of Rusal/Deripaska
 | Apr 05, 2017 | Waldman: "[Steele] seems to have cold feet from the leaks. Said he wanted a bi partisan letter"
 | Apr 06, 2017 | Imran Awan leaves DWS laptop in Capitol Hill phone booth w/note at 3am [see: Sep 9, 2017, Daily Caller]
-| Apr 06, 2017 | NYT: "Kushner Omitted Meeting With Russians on Security Clearance Forms"
+| Apr 06, 2017 | NYT: "Kushner Omitted Meeting With Russians on Security Clearance Forms" archive.is/6YdqL
 | Apr 06, 2017 | Waldman: "WSJ just called me and said they heard from senate intel comm that the committee and Steele are speaking"
 | Apr 07, 2017 | The Hacker Newz: "WikiLeaks Reveals CIA's Grasshopper Windows Hacking Framework"
 | Apr 07, 2017 | FISA Verified Application on Carter Page (p. 181-272) [signed: Comey, Boente]
@@ -1248,7 +1249,7 @@
 | Apr 12, 2017 | CNN(?) calls Papadopoulos, says they've heard there's a FISA out on George
 | Apr 13, 2017 | NYT: "U.S. Drops 'Mother of All Bombs' on ISIS Caves in Afghanistan"
 | Apr 13, 2017 | The Guardian: "British spies were first to spot Trump team's links with Russia"
-| Apr 13, 2017 | Politico: "House Democrats want Jared Kushner's security clearance suspended"
+| Apr 13, 2017 | Politico: "House Democrats want Jared Kushner's security clearance suspended" https://web.archive.org/web/20181029221843/https://www.politico.com/story/2017/04/jared-kushner-security-clearance-revoke-democrats-237177
 | Apr 13, 2017 | Carter Page interview with George Stephanopoulos on Good Morning America [see: Apr 13, 2017 ABC]
 | Apr 13, 2017 | ABC: "Carter Page: 'Something may have come up in a conversation' with Russians about US sanctions"
 | Apr 15, 2017 | CNN: "FBI documents show how Russians try to recruit spies"
@@ -1314,10 +1315,10 @@
 | May 22, 2017 | NYT: "What Was That Glowing Orb Trump Touched in Saudi Arabia?"
 | May 23, 2017 | Carter Page sends follow-up letter to HPSCI, heavily criticizing Brennan
 | May 24, 2017 | Strzok says he's staying on the Special Counsel, possibly out of loyalty to Baker and McCabe (seems uneasy, though)
-| May 25, 2017 | FT: "FBI investigates Jared Kushner’s Russia ties"
+| May 25, 2017 | FT: "FBI investigates Jared Kushner’s Russia ties" archive.is/cOpxh
 | May 25, 2017 | Politico: "Manafort advised Trump team on Russia scandal" (panicked Manafort) archive.is/V0JUr
-| May 26, 2017 | WaPo: "Russian ambassador told Moscow that Kushner wanted secret communications channel with Kremlin"
-| May 26, 2017 | NYT: "Kushner Is Said to Have Discussed a Secret Channel to Talk to Russia"
+| May 26, 2017 | WaPo: "Russian ambassador told Moscow that Kushner wanted secret communications channel with Kremlin" archive.is/LYZXj
+| May 26, 2017 | NYT: "Kushner Is Said to Have Discussed a Secret Channel to Talk to Russia" archive.is/IfyMw
 | May 26, 2017 | The Hill: "GOP leaders launch internal review into leak" (McCarthy, Paul Ryan audio leak)
 | May 27, 2017 | @PhilipRucker: "McMaster said 'I would not be concerned” if admin staffer had backchannel comms with Russia.'"
 | May 29, 2017 | NYPost: "The real reason red lights were flashing in White House windows"
@@ -1347,7 +1348,7 @@
 | Jun 13, 2017 | Strzok: "Need to talk to you before you talk to him...He knows who has them now but not how they got them"
 | Jun 13, 2017 | CNN: "Trump interviewed Mueller for FBI job day before he was tapped for special counsel"
 | Jun 15, 2017 | WaPo: "Pence hires outside counsel to deal with Russia probe inquiries"
-| Jun 15, 2017 | WaPo: "Special counsel is investigating Jared Kushner’s business dealings"
+| Jun 15, 2017 | WaPo: "Special counsel is investigating Jared Kushner’s business dealings" archive.is/tGUiv
 | Jun 15, 2017 | Rosenstein: "...exercise caution before accepting as true any stories attributed to to anonymous 'officials'..."
 | Jun 16, 2017 | Politico: "Trump hires another high-profile lawyer as special counsel probe heats up"
 | Jun 16, 2017 | CNN: "Robert Mueller expands special counsel office, hires 13 lawyers"
@@ -1445,7 +1446,7 @@
 | Oct 10, 2017 | Daily Caller: "Rohrabacher, Rand Paul met to discuss Assange giving up WikiLeaks source to US Government"
 | Oct 16, 2017 | James Wolfe informs Marianna Sotomayor of NBC News that Carter Page was served with a subpoena to appear before SSCI
 | Oct 17, 2017 | Sotomayor requests Carter Page's # from Wolfe, publishes article about Carter Page, later calls Carter Page for comment
-| Oct 17, 2017 | NBC News: "Putin Rival Ties Kushner Meeting to Kremlin Bankers"
+| Oct 17, 2017 | NBC News: "Putin Rival Ties Kushner Meeting to Kremlin Bankers" archive.is/8gxkZ
 | Oct 18, 2017 | Sours Edwards saves Special Activity Reports on a flash drive (Manafort files?) [see: Oct 25, 2018 WSJ]
 | Oct 19, 2017 | BuzzFeed: "Senate Investigators Want To Meet With A Trump Adviser Who Reportedly Tried To Set Up A Meeting With Russia"
 | Oct 20, 2017 | Daily Caller: "Hillary Clinton's Russian Ghost Stories"
@@ -1579,7 +1580,7 @@
 | Mar 21, 2018 | Politico: "Judge nixes ex-Trump adviser Carter Page's suit over Yahoo Russia article"
 | Mar 22, 2018 | BuzzFeed: "The Cambridge Analytica Whistleblower Said He Wanted To Create 'The NSA’s Wet Dream'" (Christopher Wylie)
 | Mar 23, 2018 | WSJ: "Behind Richard Gates’ Guilty Plea in the Russia Probe"
-| Mar 24, 2018 | @gregolear: "13–14 December, 2016: New York (?), Kushner meets somewhere near Newark Airport with Sergei Gorkov"
+| Mar 24, 2018 | @gregolear: "13–14 December, 2016: New York (?), Kushner meets somewhere near Newark Airport with Sergei Gorkov" archive.is/JrDW8
 | Mar ??, 2018 | Diamond smuggling investigation into Lev Leviev begins sometime in late March [see: Nov 5, 2018 Haaretz]
 | Mar 28, 2018 | The Guardian: "Ecuador cuts off Julian Assange's internet access at London embassy"
 | Mar 28, 2018 | Fox News: "DOJ Inspector General reviews alleged FISA abuses by DOJ, FBI"
@@ -1625,7 +1626,7 @@
 | May 08, 2018 | Daily Caller: "Michael Cohen allegedly received $500k from Russian oligarch after election"
 | May 08, 2018 | NYTimes: "Firm Tied to Russian Oligarch Made Payments to Michael Cohen" archive.is/SaJYD
 | May 09, 2018 | Daily Caller: "Treasury Department opens IG investigation into leak of Michael COhen's records"
-| May 09, 2018 | @SenBlumenthal: "December 13, 2016: Secret Kushner meeting with sanctioned Russian VEB Bank CEO Sergey Gorkov."
+| May 09, 2018 | @SenBlumenthal: "December 13, 2016: Secret Kushner meeting with sanctioned Russian VEB Bank CEO Sergey Gorkov." archive.is/nYXA
 | May 10, 2018 | AP: "Insight or influence? Trump attorney’s business scrutinized" archive.is/aI6cP
 | May 11, 2018 | Peter Gleason sends letter to District Judge Kimba Wood asking for any recordings seized during Mueller's raid on Michael Cohen to be sealed from publication archive.is/l3ve7
 | May 11, 2018 | NYT: "Lawyer for 2 Women Who Say They Were Schneiderman Victims Talked to Michael Cohen" archive.is/CsMg6
@@ -1646,7 +1647,7 @@
 | May 22, 2018 | CNN: "Carter Page: Never found anything unusual about FBI source" (Anderson Cooper interview with Carter Page)
 | May 22, 2018 | @realDonaldTrump: "If the person placed very early into my campaign wasn’t a SPY put there by the previous Administration for political purposes, how come such a seemingly massive amount of money was paid for services rendered - many times higher than normal..."
 | May 22, 2018 | @realDonaldTrump:  "...Follow the money! The spy was there early in the campaign and yet never reported Collusion with Russia, because there was no Collusion. He was only there to spy for political reasons and to help Crooked Hillary win - just like they did to Bernie Sanders, who got duped!"
-| May 23, 2018 | Amy Fiscus: "NEW: Jared Kushner got his security clearance, per @mattapuzzo"
+| May 23, 2018 | Amy Fiscus: "NEW: Jared Kushner got his security clearance, per @mattapuzzo" archive.is/QKg1Z
 | May 23, 2018 | @carterwpage: "Why did the media...leak/spin my identity as a 2013 UNPAID/burned FBI source last year"
 | May 24, 2018 | WaPo: "Sessions taps Zachary Terwilliger to lead high-profile Va. U.S. Attorney’s Office" archive.is/eGOE1
 | May 26, 2018 | @realDonaldTrump: "This whole Russia Probe is Rigged. Just an excuse as to why the Dems and Crooked Hillary lost the Election and States that haven’t been lost in decades. 13 Angry Democrats, and all Dems if you include the people who worked for Obama for 8 years. #SPYGATE & CONFLICTS OF INTEREST!" (3:41pm est)
