@@ -254,7 +254,9 @@
 | Nov 06, 2012 | BBC: "President Barack Obama defeats Romney to win re-election" archive.is/L7xwK
 | Nov 09, 2012 | The Guardian: "CIA director David Petraeus resigns over 'unacceptable' extramarital affair"
 | Nov 09, 2012 | WSJ: "Virus Aimed at Iran Infected Chevron Network" (Stuxnet) archive.is/fE6om
+| Nov 10, 2010 | Russian whistleblower, Alexander Perepilichny, dies in England [see: Nov 28, 2012 Reuters]
 | Nov 16, 2012 | NYT: "House Passes Russia Trade Bill With Eye on Rights Abuses" (Magnitsky) archive.is/HruP8
+| Nov 28, 2012 | Reuters: "Russian mafia whistleblower found dead outside UK mansion" (Perepilichny) archive.is/iHmly
 | Dec 06, 2012 | WaPo: "Russia fumes as U.S. Senate passes Magnitsky law aimed at human rights" archive.is/oMWnQ
 | Dec 12, 2012 | Reuters: "HSBC to pay $1.9 billion U.S. fine in money-laundering case" (Mexican cartels) archive.is/Q17vR
 | Dec 17, 2012 | Moscow Times: "Obama Signs Magnitsky Bill" archive.is/miPP2
@@ -926,6 +928,7 @@
 | Dec 10, 2016 | Reporter asks FBI (Strzok) whether they're uncertain about Russia preference for Trump. [see: Sep 20, 2018 The Hill]
 | Dec 10, 2016 | Strzok (to reporter): “The specific point I made was we did not have information to differentiate what their ultimate goal was. In other words, the activity is one-sided and clear but we can’t say the sole and primary purpose was specifically intended to help someone, hurt someone else or undermine the process. The reality is all three.” [see: Sep 20, 2018 The Hill]
 | Dec 10, 2016 | Simpson tells Ohr at a DC coffee shop that Michael Cohen was the “go-between from Russia to the Trump campaign.”
+| Dec 11, 2016 | The Atlantic: "An Enemy of the Kremlin Dies in London" (Perepilichny) archive.is/LEE3a 
 | Dec 12, 2016 | FBI interviews Bruce Ohr (Ohr FD-302 December 19, 2016)
 | Dec 12, 2016 | Politico: "Here’s What America Needs to Know About Trump and Russia" (Evelyn Farkas) archive.is/8eosz
 | Dec 13, 2016 | Steele writes his last memo, says Michael Cohen traveled to Prague in August 2016 (Cohen denies)
@@ -1384,6 +1387,7 @@
 | Jun 09, 2017 | NYT: "CNN Drops Reza Aslan Over His Vulgar Criticism of Trump"
 | Jun 09, 2017 | Strzok: "Just got an Agency coin. With Brennan's signature"
 | Jun 10, 2017 | Washington Examiner: "Carter Page: Committees have 'completely blocked' me from testifying"
+| Jun 12, 2017 | Financial Times: "Inquest opens into case of whistleblower Alexander Perepilichny" archive.is/U9lXA
 | Jun 13, 2017 | Strzok: "Need to talk to you before you talk to him...He knows who has them now but not how they got them"
 | Jun 13, 2017 | CNN: "Trump interviewed Mueller for FBI job day before he was tapped for special counsel"
 | Jun 15, 2017 | WaPo: "Pence hires outside counsel to deal with Russia probe inquiries"
