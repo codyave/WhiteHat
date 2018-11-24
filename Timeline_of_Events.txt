@@ -60,6 +60,7 @@
 | Sep 12, 2006 | Enron Task Force given honors at DOJ Annual Awards Ceremony, include Zebley, Laufman, Yates archive.is/sWGQk
 
 | ??? ??, 2007 | APCO provides services in kind to the Clinton Global Initiative, ends around 2008 [see: Oct 19, 2017 Circa]
+| Mar ??, 2007 | FBI questions Syed Ghulam Nabi Fai about ties to Pakistani intelligence, Fai denies [see: Jul 19, 2011 FBI]
 | Mar 09, 2007 | Robert Levinson, possibly working for British American Tobacco in London, reported missing in Iran
 | Apr 25, 2007 | Fox News: "Former FBI Agent Robert Levinson: Missing in Iran?" archive.is/0Vjle
 | Apr 25, 2007 | C-SPAN: "McCain formally announces his campaign for the 2008 Republican presidential nomination" archive.is/7h3Zh
@@ -139,6 +140,7 @@
 | Feb 08, 2010 | The Guardian: "Yanukovych set to become president as observers say Ukraine election was fair" archive.is/P48kz
 | Feb 08, 2010 | YouTube: "William Browder (Bill Browder) - Opalesque.TV interview Part 1" archive.is/icgZw
 | Feb 25, 2010 | The Guardian: "Viktor Yanukovych sworn in as Ukrainian president" archive.is/1LrI2
+| Mar ??, 2010 | FBI sends a letter to Syed Ghulam Nabi Fai, suggests he may have to file FARA [see: Jul 19, 2011 FBI]
 | Mar 02, 2010 | Bill Browder arrives in DC to report on Magnitsky's death, first meeting is with Jonathan Winer archive.is/Gd1lL
 | Mar 24, 2010 | NYT: "Russia and U.S. Report Breakthrough on Arms" (reducing nuclear arsenals) archive.is/zg569
 | Apr 02, 2010 | @wikileaks: "Speculation about which video we are releasing on Monday is interesting, but we have not yet disclosed which event it pertains to"
@@ -285,6 +287,7 @@
 | Dec 28, 2010 | Vladimir Poteyev sets up Newtop, LLC
 | Dec 30, 2010 | The Guardian: "Wired journalists deny cover-up over WikiLeaks boss and accused US soldier" archive.is/OFnYc
 
+| Mar ??, 2011 | Syed Ghulam Nabi Fai again denies comms with Pakistani intel, according to an FBI interview [see: Jul 19, 2011 FBI]
 | Mar 02, 2011 | ABC News: "Marc Rich Tied to Russian Mafia?" archive.is/Y2saW
 | Mar 03, 2011 | AP: "BREAKING: US has proof that ex-FBI agent Robert Levinson is alive, 4 years after vanishing in Iran"
 | May 03, 2011 | BBC: "Russia charges US spy ring 'traitor' Alexander Poteyev" archive.is/g4cUn
@@ -295,6 +298,8 @@
 | Jun 22, 2011 | New York Social Diary: "Catsimatidis-Cox Wedding" rchive.is/Qfzlu
 | Jun 27, 2011 | @burgessct: "Moscow military court sentences Russian Alexander Poteyev to 25 years for treason"
 | Jun 27, 2011 | Sputnik: "Moscow military court sentences Russian mole to 25 years for treason" archive.is/FuC2j
+| Jul 19, 2011 | FBI: "Two Charged with Conspiring to Act as Unregistered Agents of Pakistani Government" archive.is/yEWEr
+| Jul 19, 2011 | Reuters: "U.S. charges two for illegal lobbying for Pakistan" archive.is/UyPS0
 | Aug 03, 2011 | Gen. Cartwright resigns [see: Sep 12, 2012 Politico]
 | Sep ??, 2011 | Felix Sater begins work for TxOil (?) [see: Nov 10, 2018 @GeorgePapa19]
 | Oct 26, 2011 | Moscow Times: "Alexei Navalny vs. Vladlen Stepanov" archive.is/F4LUW
@@ -1918,7 +1923,7 @@
 | Apr 16, 2018 | Daily Beast: "Exclusive: FBI Investigated Former CIA Chief Michael Hayden in Secret-Spilling Case"
 | Apr 17, 2018 | Vice News: "‘Sex huntress’ who claims to have dirt on Trump and Russia may spend years in Thai prison"
 | Apr 19, 2018 | WaPo: "Inspector general referred findings on McCabe to U.S. attorney for consideration of criminal charges"
-| Apr 19, 2018 | DOJ files FARA case against Pakistani national and U.S. permanent resident, Nisar Ahmed Chaudhry
+| Apr 19, 2018 | DOJ files sealed FARA case against Pakistani Nisar Ahmed Chaudhry [see: May 7, 2018 Reuters]
 | Apr 19, 2018 | Daily Beast: "Rudy Giuliani Joining Trump’s Legal Team 'For the Good of the Country'"
 | Apr 19, 2018 | @kylegriffin: "On Page 8, James Comey says that, during a conversation with Reince Priebus on February 8, 2017, Priebus checked with Comey to see if they were having a "private conversation" and then proceeded to ask whether the FBI had a FISA warrant on Michael Flynn."
 | Apr 22, 2018 | @The_War_Economy: "On March 16, 2009, Orbis Business Intelligence Ltd. was founded by Christopher Burrows and Christopher Steele."
@@ -1938,7 +1943,7 @@
 | May 07, 2018 | @realDonaldTrump: "The 13 Angry Democrats in charge of the Russian Witch Hunt are starting to find out that there is a Court System in place that actually protects people from injustice...and just wait ‘till the Courts get to see your unrevealed Conflicts of Interest!" (7:39am est)
 | May 07, 2018 | @eorden: "Four Women Accuse New York’s Attorney General, Eric Schneiderman, of Physical Abuse" (7:00pm est)
 | May 07, 2018 | Variety: "Eric Schneiderman Resigns Amid Claims of Violence Against Women"
-| May 07, 2018 | Nisar Chaudhry pleads guilty to failing to register as a foreign agent in connection with Pakistani lobbying work
+| May 07, 2018 | Reuters: "Pakistani pleads guilty; failed to register as U.S. foreign agent" (Nisar Chaudhry) archive.is/YzeE3
 | May 08, 2018 | Politico: "First Mueller convict reports to prison" (Alex van der Zwaan) archive.is/9so0L
 | May 08, 2018 | @awprokop: "Avenatti claims Viktor Vekselberg sent Michael Cohen money" ($500k)
 | May 08, 2018 | CNN: "Trump withdraws US from Iran nuclear deal"
