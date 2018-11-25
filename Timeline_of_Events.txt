@@ -198,6 +198,7 @@
 | Jun 13, 2010 | Sergei Tretyakov dies at his home in Florida [see: Jul 9, 2010 NYT]
 | Jun 16, 2010 | The Guardian: "WikiLeaks to release video of deadly US Afghan attack"
 | Jun 17, 2010 | Russian spy, Christopher Metsos, flies from the U.S. to Cyprus [see: Jul 2, 2010 Stratfor]
+| Jun 17, 2010 | Iranian client sends copy of unknown virus (Stuxnet) to VirusBlokAda, a Belarusian company [see: Mar 2, 2011 VF]
 | Jun 18, 2010 | Obama holds meeting on Russian Illegals case with National Security Council [see: Jul 9, 2010 NYT]
 | Jun 19, 2010 | Aleksander Poteyev flees to U.S. three days before Medvedev visit to U.S. [see: Nov 11, 2010 Kommersant]
 | Jun 21, 2010 | Aleksander Poteyev flees to U.S. six days before arrests of Russian Illegals [see: Nov 15, 2010 Moscow Times]
@@ -229,6 +230,7 @@
 | Jul 02, 2010 | Stratfor: "The Dismantling of a Suspected Russian Intelligence Operation" (re: Tretyakov) archive.is/Y9qfC
 | Jul 03, 2010 | Panetta and Fradkov finalize spy swap negotiations [see: Jul 9, 2010 NYT]
 | Jul 04, 2010 | Secretary Clinton tells Azerbaijanis that Washington was "committed to helping you and your fellow citizens build a prosperous, independent, democratic, sovereign Azerbaijan" [see: Jul 7, 2010 RFERL]
+| Jul 05, 2010 | Dept head of VirusBlokAda sends findings of zero-day virus (Stuxnet) to Microsoft [see: Mar 2, 2011 VF]
 | Jul 05, 2010 | Secretary Clinton tells Georgians the U.S. will "do everything we can to assist our partners, inside and outside the Georgian government, as they strive to strengthen democratic institutions and processes." [see: Jul 7, 2010 RFERL]
 | Jul 07, 2010 | @SkyNewsBreak: "Russia to swap jailed scientist for one of the suspected spies being held in the US, a lawyer tells Reuters agency" (1:59am)
 | Jul 07, 2010 | RFERL: "Clinton Concludes 'Reassurance' Tour of Russia's Neighbors" archive.is/fYLCz
@@ -255,7 +257,9 @@
 | Jul 09, 2010 | NYT: "Swap Idea Emerged Early in Case of Russia Agents" archive.is/05ElE
 | Jul 10, 2010 | Pete Earley: "Sergei’s Death. Mistakes. Nonsense and a Chuckle" archive.is/8z5tl
 | Jul 12, 2010 | WaPo: "Sources: Call by Russian spy Anna Chapman to dad in Moscow led U.S. to hasten arrests" archive.is/UXfl0
+| Jul 12, 2010 | VirusBlokAda dept head posts findings of zero-day virus (Stuxnet) to message board [see: Mar 2, 2011 Vanity Fair]
 | Jul 13, 2010 | Sputnik: "Russian spies not subject to witness protection program" archive.is/8S95y
+| Jul 15, 2010 | Krebs on Security: "Experts Warn of New Windows Shortcut Flaw" (Stuxnet) archive.is/DEezd
 | Jul 16, 2010 | NYT: "Spy Swap Forced Prosecutors Into Balancing Act" (Bharara) archive.is/NTcpE
 | Jul 26, 2010 | WSJ: "Putin Sings With Deported Agents" archive.fo/j80EN
 | Aug ??, 2010 | Russian whistleblower, Alexander Perepilichny, contacts Bill Browder using a pseudonym [see: Dec 13, 2016 Atlantic]
@@ -317,6 +321,7 @@
 
 | Mar ??, 2011 | Syed Ghulam Nabi Fai again denies comms with Pakistani intel, according to an FBI interview [see: Jul 19, 2011 FBI]
 | Mar 02, 2011 | ABC News: "Marc Rich Tied to Russian Mafia?" archive.is/Y2saW
+| Mar 02, 2011 | Vanity Fair: "A Declaration of Cyber-War" (Stuxnet) archive.is/AgWkc
 | Mar 03, 2011 | AP: "BREAKING: US has proof that ex-FBI agent Robert Levinson is alive, 4 years after vanishing in Iran"
 | May 03, 2011 | BBC: "Russia charges US spy ring 'traitor' Alexander Poteyev" archive.is/g4cUn
 | May 19, 2011 | NYT: "New York Attorney General Is Investigating Trump’s For-Profit School" archive.is/jjKo
