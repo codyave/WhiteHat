@@ -108,6 +108,7 @@
 | Feb 09, 2007 | The Star: "IAEA cuts back aid projects in Iran in nuclear row"  archive.is/IoPhd
 | Mar ??, 2007 | FBI questions Syed Ghulam Nabi Fai about ties to Pakistani intelligence, Fai denies [see: Jul 19, 2011 FBI]
 | Mar 09, 2007 | Robert Levinson, possibly working for British American Tobacco in London, reported missing in Iran
+| Apr 17, 2007 | WSJ: "How Lobbyists Help Ex-Soviets Woo Washington" by Glenn Simpson and Mary Jacoby. Article mentions Paul Manafort, Bob Dole, Haley Barbour
 | Apr 25, 2007 | Fox News: "Former FBI Agent Robert Levinson: Missing in Iran?" archive.is/0Vjle
 | Apr 25, 2007 | C-SPAN: "McCain formally announces his campaign for the 2008 Republican presidential nomination" archive.is/7h3Zh
 | May 11, 2007 | Reuters: "U.S. revoked Deripaska visa - State Dep't official" archive.is/20spd
@@ -408,6 +409,7 @@
 | Jul 16, 2010 | NYT: "Spy Swap Forced Prosecutors Into Balancing Act" (Bharara) archive.is/NTcpE
 | Jul 26, 2010 | WSJ: "Putin Sings With Deported Agents" archive.fo/j80EN
 | Aug ??, 2010 | Russian whistleblower, Alexander Perepilichny, contacts Bill Browder using a pseudonym [see: Dec 13, 2016 Atlantic]
+| Aug 09, 2010 | US Senate votes to confirm James Clapper as DNI. Two days after John McCain, who placed a hold on the nomination, recieved a classified report on troubled intelligence technology programs.
 | Aug 11, 2010 | Assange flies into into Sweden [see: Dec 17, 2010 The Guardian]
 | Aug 20, 2010 | @expressen: "Wikileaks founder Julian Assange charged in his abscence for rape of two in Stockholm" (11:21pm est)
 | Aug 21, 2010 | CNN: "Sweden drops rape accusation against founder of WikiLeaks" archive.is/sDlyD
@@ -588,6 +590,7 @@
 | Jun 26, 2013 | NYT: "Marc Rich, Financier and Famous Fugitive, Dies at 78" archive.is/IQ3JG
 | Jun 27, 2013 | NBC: "Ex-Pentagon general target of leak investigation, sources say" (Cartwright) archive.is/GMeQM
 | Jun 30, 2013 | Platte River Networks server ("successor server", runs until Oct 2015)
+| Jul 01, 2013 | Susan Rice succeeds Tom Donilon as National Security Advisor. Does not need to be confirmed by Senate.
 | Jul 02, 2013 | NY Gov: "Governor Cuomo Appoints Moreland 'Commission to Investigate Public Corruption,' with Attorney General Schneiderman Designating Commission Members as Deputy Attorneys General" archive.is/z0Fxv
 | Jul 08, 2013 | BBC: "Donald Trump sued over failed Florida deal" (Marc Renaud, Fort Lauderdale) archive.is/ASqzH
 | Jul 08, 2013 | The Independent: "Donald Trump walks out over questions about his mafia connections during BBC Panorama interview"
@@ -617,6 +620,7 @@
 | Jan 27, 2014 | Lawfare: "Jim Baker Appointed as FBI General Counsel" archive.is/6UxiW
 | Jan 27, 2014 | LA Times:  "Navy cyber warfare chief is Obama's pick to lead NSA" (Adm. Rogers) archive.is/LQXS9
 | Feb ??, 2014 | Monica Hanley uploads HRC email archives to PRN server from MacBook laptop, fails, sends laptop to Combetta
+| Feb 04, 2014 | A recording of Victoria Nuland on the phone saying "F the EU" is released on YouTube. Nuland blames the Russians.
 | Feb 13, 2014 | Buzzfeed: "36 Hours On The Fake Campaign Trail With Donald Trump" archive.is/7IOj5
 | Feb 17, 2014 | NYPost: "Trump fires top advisor & political consultant Sam Nunberg" archive.is/r2KdP
 | Feb 20, 2014 | NYT: "E.U. Imposes Sanctions Despite Russian Criticism" archive.is/LKkaI
@@ -625,6 +629,7 @@
 | Mar 31, 2014 | NYT: "Capitol Corruption Panel’s Demise Angers Watchdogs" (Cuomo, Moreland Commission) archive.is/j31iK
 | Apr 08, 2014 | Dankse Bank whistleblower, Howard Wilkinson, tenders his resignation [see: Sep 26, 2018 Financial Times]
 | Apr 12, 2014 | @BenjySarlin: "@realDonaldTrump on rehiring Sam Nunberg: 'He's a good guy and I didn't think it was fair to him that somebody took advantage of him'"
+| Apr 13, 2014 | Lisa Myers and Mike Isikoff banished from NBC Nightly News investigative team. Apparently they had been clashing with Brian Williams
 | Apr 14, 2014 | NYT: "With Ukraine Tensions Mounting, U.S. Weighs New Sanctions Against Russia" archive.is/d2e67
 | Apr 17, 2014 | NYT: "Russia Economy Worsens Even Before Sanctions Hit" archive.is/QZcRw
 | Apr 28, 2014 | @markknoller: "Officials say Sergi Chemezov and Igor Sechin are the two sanctions targets...Putin's inner circle"
@@ -636,10 +641,12 @@
 | Jun 14, 2014 | Veselnitskaya goes to House hearing on "U.S. Policy Toward Putin's Russia", sits behind Michael McFaul
 | Jul 12, 2014 | Press of Atlantic City: "Trump Plaza owners confirm plan to close in September"
 | Jul 17, 2014 | FinCEN indicates FBME to be of primary money laundering concern (Cyprus, Caymans) [see: Jul 23, 2015 FinCEN]
+| Jul 17, 2014 | MH17 downed while flying over eastern Ukraine
 | Jul 24, 2014 | SSA David Gadren of the DOE OIG confirms that Vadim Mikerin conspired to affect U.S. commerce archive.fo/O9eHu
 | Jul 27, 2014 | WSJ: "FBME Bank Named Primary Money Laundering Concern" archive.is/0p61U
 | Jul 29, 2014 | Fox Business: "Wilbur Ross on investing in Bank of Cyprus" ($1.3b) archive.is/5wHKQ
-| Jul 31, 2014 | NYT: "Inquiry by C.I.A. Affirms It Spied on Senate Panel" archive.is/at3KJ
+| Jul 29, 2014 | Bill Browder walks out of Aspen Institute and is confronted by Glenn Simpson
+| Jul 31, 2014 | NYT: "Inquiry by C.I.A. Affirms It Spied on Senate Panel", Ali Watkins scoop archive.is/at3KJ
 | Aug 22, 2014 | NYMag: "Russia Inching Closer to War in Ukraine With Convoy ‘Invasion’" archive.is/ltlZB
 | Sep ??, 2014 | Alexander Poteyev targeted by Russian hitman around autumn, moves to a different house [see: Oct 2, 2018 BBC]
 | Oct ??, 2014 | Flynn Intel Group starts [see: Nov 11, 2016 Daily Caller]
@@ -657,6 +664,7 @@
 | Jan 28, 2015 | DailyMail: "Russian 'undercover agent'...in New York is a former Moscow tax inspector"
 | Jan 29, 2015 | WSJ: "U.S. Spy Net on Israel Snares Congress" archive.is/ML9tu
 | Feb 09, 2015 | Senate forms Ukrainian caucus to further Ukrainian interests. John McCain is a member.
+| Feb 10, 2015 | Revelations about Brian Williams lying about reporting surface. Isikoff?
 | Feb ??, 2015 | Deutsche Bank money laundering scheme detected sometime in February [see: Jan 30, 2017 NYDFS]
 | Feb 16, 2015 | Last appearance of Trump on The Apprentice
 | Feb 25, 2015 | Jill McCabe: "Hi Andrew. The assistant to the Lieutenant Governer of Virginia called me today to ask if I would consider running against Dick Black for the State Senate" archive.is/FVrEv
@@ -705,6 +713,7 @@
 | Jul 23, 2015 | NYT: "Inquiry Sought in Hillary Clinton’s Use of Email" archive.is/2KSWw
 | Jul 23, 2015 | FinCEN: "FinCEN Severs Access to U.S. Financial System for FBME Bank Ltd."
 | Jul 24, 2015 | NYPost: "Hillary could be facing criminal probe over emails" archive.is/GAB8s
+| Jul 24, 2015 | Mother Jones: "Donald Trump Is Channeling Richard Nixon" by David Corn. Fluff piece but hits on "silent majority", "law and order" and "end the war" 
 | Jul 27, 2015 | Russian intel gained access to DNC netowrk from July 2015 until at least July 2016 [See: Jun 2018 IG report]
 | Aug ??, 2015 | Gen. Flynn receives large payments from Russian companies before visit to Trump Tower [see: Mar 16, 2017 WSJ]
 | Aug ??, 2015 | Trump meets with Gen. Flynn, meeting lasts 90min [see: Feb 27, 2017 New Yorker]
@@ -750,6 +759,7 @@
 | Nov 02, 2015 | NYT: "Jury Selection Begins in Sheldon Silver Corruption Trial" archive.is/5O9qY
 | Nov 03, 2015 | Jill McCabe loses to Dick Black in Virginia state senate race archive.is/semHR
 | Nov 03, 2015 | Felix Sater emails Michael Cohen, says they can get Trump elected president [see: Aug 30, 2017 Emptywheel]
+| Nov 15, 2015 | Reporter Evan Perez moves from WSJ to CNN
 | Dec ??, 2015 | Victoria Nuland is briefed about Russian hacking of DNC servers sometime in December 2015 [see: Jun 20, 2018 Yahoo]
 | Dec 02, 2015 | Flynn Intel Group receives $33,750 check from bank representing Russia Today
 | Dec 04, 2015 | Daniel Jones leaves Feinstein staff, Congressional records show
@@ -757,6 +767,8 @@
 | Dec 07, 2015 | Stefan Halper and Peter Navarro host round table for Navarro's book, "Crouching Tiger"
 | Dec 10, 2015 | ABC: "Memory Lapse? Trump Seeks Distance From 'Advisor' With Past Ties to Mafia"
 | Dec 10, 2015 | Gen. Flynn photographed seated next to Putin for Russia Today's 10th anniversary
+| Dec 12, 2015 | Reporter Ken Dilanian moves from AP to NBC News
+| Dec 12, 2015 | Evelyn Lieberman dies. She had been working on HRCs campaign. She formerly was WH deputy COS and undersecretary of State Dept. She was known as an "enforcer" for the Clintons. Her husband, Ed Lieberman, has a relationship with Rinat Akhmetshin, and later shows up in the events surrounding the Trump Tower meeting.
 | Dec 14, 2015 | Aaron Zebley sends letter to DOJ, asks for Justin Cooper's Blackberry files (not HRC's) be destroyed
 | Dec 15, 2015 | DOJ sends letter to Zebley, agrees that the FBI will not review the back-up Blackberry files
 | Dec 15, 2015 | Dana Boente confirmed EDVA U.S. Attorney
@@ -778,6 +790,7 @@
 | Jan 06, 2016 | Mis Department Inc.'s Yared Tamene meets with FBI agent Hawkins to install "a robust set of monitoring tools"
 | Jan 07, 2016 | Natalia Veselnitskaya's U.S. visa parole expires
 | Jan 07, 2016 | London Review of Books: "Seymour M. Hersh on US intelligence sharing in the Syrian war" (Flynn, Turkey, ISIS)
+| Jan 10, 2016 | Glenn Fine becomes Acting Inspector General for the DOD. Previously served as IG for DOJ (2000-2010)
 | Jan 11, 2016 | DOJ sends letter Aaron Zebley, DOJ memorializes agreement that Zebley will back-up all relevant email communications
 | Jan 11, 2016 | Zebley gives the data to Hillary lawyers and informs the DOJ (per their agreement).
 | Jan 15, 2016 | Alexandra Chalupa warns DNC about Paul Manafort
@@ -791,21 +804,24 @@
 | Feb ??, 2016 | Steele admonished by FBI (what in the world does this mean?), per August 8, 2018 Judicial Watch FOIA request
 | Feb ??, 2016 | UK and Australia target Papadopoulos and other Trump campaign members [see: Oct 7, 2018 @GeorgePapa19]
 | Feb 01, 2016 | Politico: "How Trump Did It" archive.is/ZKYDE
+| Feb 02, 2016 | Christopher Steele "admonished" by FBI, as seen in FOIA docs released on Aug 03, 2018
 | Feb 03, 2016 | Strzok: "Nothing like a 4:00am email from a British [?] needs to talk urgently. I'm on the road in 10..."
 | Feb 04, 2016 | Email mentions dinner plans among Rinat Akhmetshin, Glenn Simpson, and Natalia Veselnitskaya
 | Feb 08, 2016 | Adm. Rogers announces spy/hacking reorganization project
 | Feb 08, 2016 | Adm. Rogers meets GCHQ's Hannigan at Bletchley Park
-| Feb 06, 2016 | Strzok: "Agengy F*ed up big."
+| Feb 06, 2016 | Strzok: "Agency F'ed uo big." [sic]
 | Feb 11, 2016 | Politico: "What happened at Sanders U." (Jane Sanders, Burlington College) archive.is/rYbj1
 | Feb 12, 2016 | Munich Security Conference attended by Clapper, Kerry, Soros, Hannigan, McCain, Dmitri Alperovich
 | Feb 13, 2016 | Politico: "Supreme Court Justice Antonin Scalia dead at 79" archive.is/fcLMU
 | Feb 15, 2016 | Tom Barrack decides Paul Manafort would be a good fit for the Trump campaign archive.is/vG1Gr
-| Feb 16, 2016 | Roger Stone: "Jeb! and the Bush Crime Family: The Inside Story of an American Dynasty "
+| Feb 16, 2016 | Roger Stone: "Jeb! and the Bush Crime Family: The Inside Story of an American Dynasty"
+| Feb 20, 2016 | South Carolina primary. Trump wins, Jeb! suspends his campaign.
 | Feb 21, 2016 | Farkas emails Podesta, asks to do surrogate work for Clinton campaign in relation to Eastern European communities
 | Feb 26, 2016 | The Moscow Times: "Putin Appoints New Head of Russian State Development Bank VEB" (Gorkov) archive.is/9lHK2
 | Feb 26, 2016 | Reuters: "Trump being advised by ex-U.S. Lieutenant General who favors closer Russia ties" archive.is/RQRko
 | Feb 28, 2016 | Business Insider: "A prominent US senator just threw his support to Donald Trump" archive.is/ugpnz
 | Feb 29, 2016 | Manafort contacts Trump campaign [see: Apr 8, 2017 NYT]
+| Feb 29, 2016 | Postmark for letter Aras Agalarov sends to Trump which says "Alongside with many people in this country who appreciated your statement the US and Russia should work together more closely, all of us at Crocus Group follow with great interest you bright electoral campaign.”
 | Feb 29, 2016 | OCCRP: "Kazakh Oligarch’s Fugitive Brother-in-Law Granted EU Refugee Status" (Syrym Shalabayev) archive.is/ZIsDb
 | Mar ??, 2016 | Unknown foreign source emails FBI in early March, describes inappropriate conversation between Amanda Renteria and Loretta Lynch [see: May 24, 2017 WaPo]
 | Mar 01, 2016 | Yared Tamene of Mis Department, Inc. meets twice in person with FBI to confirm that Agent Hawkins is a real agent
