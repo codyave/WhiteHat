@@ -193,6 +193,7 @@
 | Jun 23, 2009 | NYT: "Obama Condemns Iran’s Iron Fist Against Protests" archive.is/mIkXT
 | Jun ??, 2009 | Obama’s toughening stance against Iran attributed to Iranian crackdown on protesters [see: Feb 13, 2012 Newsweek]
 | Jun ??, 2009 | Stuxnet goes viral sometime Summer '09 (after Iranian election, before Aghazadeh resigns?) [see: Mar 2, 2011 VF]
+| Jun ??, 2009 | Secret uranium enrichment facility (Fordo) built near Qom detected sometime June '09 [see: Mar 5, 2018 Politico]
 | Jun 28, 2009 | Head of Iran's Atomic Energy Organization, Gholam Reza Aghazadeh, resigns [see: Jul 17, 2010 WikiLeaks.com]
 | Jul 01, 2009 | French academic, Clotilde Reiss, arrested in Iran [see: Jul 7, 2009 France24]
 | Jul 02, 2009 | IAEA: "Board Selects Japan´s Yukiya Amano as IAEA Director General" archive.is/LgcfT
@@ -259,9 +260,12 @@
 | Jan 23, 2010 | On vacation, Chelsea Manning flies to the U.S. via Germany to visit her partner
 | Jan 27, 2010 | Ukrainian intel reportedly uncovers a Russian spy network and expels four Russian officers [see: Feb 3, 2010 RT]
 | Feb ??, 2010 | White House briefed on 10 Russian spies under surveillance [see: Jul 9, 2010 @markknoller]
+| Feb 02, 2010 | CBS News: "Ahmadinejad Offers Swap for U.S. Hikers" archive.is/495Cb
+| Feb 02, 2010 | Reuters: "Iran makes new nuclear offer, U.S. seeks firm deal" archive.is/Q1NNy
 | Feb 02, 2010 | The Guardian: "CIA workers trained Wall Street firms to detect lies" archive.is/Sn6Na
 | Feb 03, 2010 | Chelsea Manning sends Iraq War Logs to WikiLeaks
 | Feb 03, 2010 | RT: "The “strange story” of Russian spies in Ukraine" archive.is/9MIa5
+| Feb 03, 2010 | Christian Science Monitor: "Iran's offer on nuclear deal: genuine or diplomatic wedge?" archive.is/LnhR6
 | Feb 07, 2010 | Reuters: "Iran plans 10 new enrichment plants in 2010/11" archive.is/G9ykr
 | Feb 07, 2010 | @charlesadler: "Ukraine election: Viktor Yanukovych claims victory" archive.is/kcMQA
 | Feb 08, 2010 | The Guardian: "Yanukovych set to become president as observers say Ukraine election was fair" archive.is/P48kz
@@ -300,6 +304,7 @@
 | May 16, 2010 | The Guardian: "French academic Clotilde Reiss arrives home after Iran spying conviction" archive.is/tqdLh
 | May 19, 2010 | WaPo: "U.S., partners agree to sanctions on Iran" (draft) archive.is/t8PAh
 | May 21, 2010 | Chelsea Manning chats with computer hacker, Adrian Lamo [see: Jun 10, 2010 Wired]
+| May 23, 2010 | BBC: "Iran seeks prisoner swap involving three US 'hikers'" archive.is/Cy1rt
 | May 24, 2010 | Adrian Lamo tips FBI about chat logs with Chelsea Manning around this time [see: Jun 10, 2010 Wired]
 | May 25, 2010 | NYT: "Russia Takes a Big Step Into Technology" (Inograd) archive.is/Zsrob
 | May 26, 2010 | Chelsea Manning detained by Army authorities, put into pre-trial detention in Kuwait [see: Jun 10, 2010 Wired]
@@ -2105,6 +2110,7 @@
 | Mar 05, 2018 | @yashar: "Erin Burnett says she can smell alcohol on Sam Nunberg’s breath."
 | Mar 05, 2018 | NYT: "In Poisoning of Sergei Skripal, Russian Ex-Spy, U.K. Sees Cold War Echoes"
 | Mar 05, 2018 | Grabien: "CNN travels to Thailand to speak with prostitute who claims to have dirt on Trump"
+| Mar 05, 2018 | Politico: "When Israel Hatched a Secret Plan to Assassinate Iranian Scientists" archive.is/BCEuv
 | Mar 06, 2018 | WaPo: "Special counsel has examined episodes involving Michael Cohen, Trump’s longtime lawyer"
 | Mar 06, 2018 | Medium: "Deripaska’s private jet: Newark-Moscow-Molde for secret yacht meeting" archive.is/Ub4Fm
 | Mar 07, 2018 | @carterwpage first tweet
