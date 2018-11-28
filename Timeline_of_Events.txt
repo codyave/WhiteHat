@@ -2120,6 +2120,7 @@
 | Jan 23, 2018 | New York Post: "Comey’s former chief of staff finally quits FBI under pressure from GOP lawmakers"
 | Jan 23, 2018 | TheRealDeal: "SoftBank subsidiary issues loan to Kushner for Jersey City project" archive.is/2GR2y
 | Jan 25, 2018 | @ByronYork: "Grassley releases 7 pages of Strzok-Page texts. http://ow.ly/Y6vZ30i0ozQ"
+| Jan 25, 2018 | HPSCI letter to Rosenstein and Wray stating concerns about the five months of lost text messages between Strzok and Page and notifying FBI/DOJ of retention and preservation requirements for all communications between Strzok and Page 
 | Jan 27, 2018 | Assange DM's fake Hannity account, promises info on Warner [see: January 29, 2018 Daily Beast]
 | Jan 28, 2018 | The Atlantic: "The Plot Against America" (Manafort) archive.is/xZp9Z
 | Jan 29, 2018 | Daily Beast: "Julian Assange Offered Hannity Impersonator ‘News’ About Top Democrat"
@@ -2127,6 +2128,7 @@
 | Jan 31, 2018 | Mueller files Status Report to postpone Gen. Flynn sentencing hearing for 90 days (May 1st, 2018)
 | Feb 02, 2018 | NYT Op-Ed: "Why I am leaving the FBI" (Josh Campbell) archive.is/p7S6y
 | Feb 02, 2018 | CNN: "Disputed GOP-Nunes memo released with Trump's approval" archive.is/qsCez
+| Feb 02, 2018 | Assistant Director of Congressional Affairs Greg Brower sends letter to HPSCI acknowledging retention and preservation requirements.
 | Feb 03, 2018 | Reuters: "U.S. proposes sanctions on the Latvian ABLV Bank over money-laundering concerns" archive.is/i2xYI
 | Feb 05, 2018 | Times Union: "N.Y. GOP's Cox introduced Carter Page to Trump campaign" archive.is/4V7Vq
 | Feb 05, 2018 | NBC News: "Who is Carter Page and what does he have to do with the Russia probe?" archive.is/VQykK
@@ -2150,10 +2152,12 @@
 | Feb 13, 2018 | FinCEN Names ABLV Bank of Latvia an Institution of Primary Money Laundering Concern archive.is/yVFhh
 | Feb 14, 2018 | Judge Sullivan asserts Brady Rule, orders Mueller to submit exculpatory evidence on Gen. Flynn
 | Feb 16, 2018 | WSJ: "Latvian Bank Pushes Back Against U.S. Allegations" archive.is/8XR4i
+| Feb 16, 2018 | HPSCI letter to Stephen Boyd at DOJ asking for relevant FISA court transcripts
 | Feb 16, 2018 | Judge Sullivan enacts Brady Rule for Gen. Flynn [see: Feb 20, 2018 Courtroom News]
 | Feb 18, 2018 | DOJ sends letter to Ali Watkins, details that they are seizing her communications as far back as her college years
 | Feb 19, 2018 | WSJ: "ECB Freezes All Payments by Latvia’s ABLV Bank Amid Treasury Department Probe" archive.is/kT7w0
 | Feb 20, 2018 | Politico: "Latest Mueller target pleads guilty" (Alex van der Swaan) archive.is/ADPsk
+| Feb 20, 2018 | HPSCI sends letters to McCabe and Comey with a series of questions regarding information in the Steele dossier
 | Feb 20, 2018 | NBC News: "Russia probe: Lawyer Alex van der Zwaan, oligarch's son-in-law, pleads guilty" archive.is/A463f
 | Feb 20, 2018 | Courtroom News: "Judge Tells Mueller to Provide ‘Exculpatory Evidence’ to Flynn Defense Team" archive.is/PBP8K
 | Feb 22, 2018 | Former WH Counsel John Dowd emails associates of idea to raise funds for Manafort and Gates [see: Sep 21, 2018 WSJ] 
@@ -2166,7 +2170,7 @@
 | Feb 28, 2018 | Office of Professional Responsibility receives OIG report (re: McCabe) [see: Oct 15, 2018 FBI Vault]
 | Feb 28, 2018 | Grassley letter to OIC requests review of any improper political influence in counterintelligence investigations
 | Feb 28, 2018 | Forbes: "Why The U.S. Treasury Killed A Latvian Bank" archive.is/5jHyY
-| May 04, 2018 | NYT: "Viktor Vekselberg, Russian Billionaire, Was Questioned by Mueller’s Investigators" archive.is/ehYEN
+| Mar 01, 2018 | HPSCI letter to Jeff Sessions asking for the FBI Domestic Investigations and Operations Guide (DOIG)
 | Mar 05, 2018 | @yashar: "Erin Burnett says she can smell alcohol on Sam Nunberg’s breath."
 | Mar 05, 2018 | NYT: "In Poisoning of Sergei Skripal, Russian Ex-Spy, U.K. Sees Cold War Echoes"
 | Mar 05, 2018 | Grabien: "CNN travels to Thailand to speak with prostitute who claims to have dirt on Trump"
@@ -2174,6 +2178,7 @@
 | Mar 06, 2018 | WaPo: "Special counsel has examined episodes involving Michael Cohen, Trump’s longtime lawyer"
 | Mar 06, 2018 | Medium: "Deripaska’s private jet: Newark-Moscow-Molde for secret yacht meeting" archive.is/Ub4Fm
 | Mar 07, 2018 | @carterwpage first tweet
+| Mar 07, 2018 | Assistant Attorney General Stephen Boyd sends letter to HPSCI saying no FISA court transcripts exist that are relevant to the Carter Page FISA.
 | Mar 08, 2018 | Daily Caller: "Oleg Deripaska Op-Ed: The Ever-changing 'Russia narrative' is false public manipulation"
 | Mar 12, 2018 | NBC News: "Mueller team asking if Kushner foreign business ties influenced Trump policy" archive.is/99Ecy
 | Mar 12, 2018 | BuzzFeed: "How A Player In The Trump-Russia Scandal Led A Double Life As An American Spy" (Sater) archive.is/8g0Q8
