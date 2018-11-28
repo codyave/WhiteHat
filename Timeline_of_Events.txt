@@ -760,6 +760,7 @@
 | Dec 04, 2015 | Daniel Jones leaves Feinstein staff, Congressional records show
 | Dec 05, 2015 | AP: "Trump Picked Stock Fraud Felon as Senior Advisor"
 | Dec 07, 2015 | Stefan Halper and Peter Navarro host round table for Navarro's book, "Crouching Tiger"
+| Dec 09, 2015 | James Wolfe emails "REPORTER #1" (Devlin Barrett?) "Nice meeting you." to which the rpeorter replied "Very nice meeting you! Enjoyed the chat."
 | Dec 10, 2015 | ABC: "Memory Lapse? Trump Seeks Distance From 'Advisor' With Past Ties to Mafia"
 | Dec 10, 2015 | Gen. Flynn photographed seated next to Putin for Russia Today's 10th anniversary
 | Dec 12, 2015 | Reporter Ken Dilanian moves from AP to NBC News
@@ -1312,6 +1313,7 @@
 | Nov 05, 2016 | John Kerry and aides travel to Antarctica
 | Nov 06, 2016 | Clinton investigation closes again after Strzok & 2 others review 650,000 emails in about six days
 | Nov 07, 2016 | Heat Street: "FBI ‘Granted FISA Warrant’ Covering Trump Camp’s Ties To Russia" archive.li/xFqPB
+| Nov 07, 2016 | "REPORTER #1" (Devlin Barrett?) emails James Wolfe "Hey Jim. How are you? Been awhile."
 | Nov 08, 2016 | Strzok: "Managed to get into a huge fight here about the Bu and Clinton. Because [?] just can't stop at fair observations. She has to assert her mastery of things about which she has NO knowledge."
 | Nov 08, 2016 | The Hill: "Our ally Turkey is in crisis and needs our support" (Flynn op-ed)
 | Nov 08, 2016 | Presidential election
@@ -1781,6 +1783,7 @@
 | May 06, 2017 | Grassley sends letter to FBI seeking records of a reported plan to pay Steele for the dossier
 | May 07, 2017 | Carter Page sends letter to Burr/Warner at SSCI, details two felony disclosures concerning his identity
 | May 08, 2017 | FBI interviews Bruce Ohr (Ohr FD-302 May 10, 2017)
+| May 08, 2017 | Carter Page emails "REPORTER #1" (Devlin Barrett?) complaining about coverage and blind copies James Wolfe on the email
 | May 08, 2017 | HotAir: "Hmm: FBI investigating Jane Sanders for Bank Fraud?" archive.is/XXqcM
 | May 08, 2017 | Politico: "Obama warned Trump about Flynn, officials say" archive.is/8Mm7M
 | May 09, 2017 | NBC News: "Trump Fires FBI Director James Comey Over Email Investigation"
@@ -1790,6 +1793,7 @@
 | May 10, 2017 | Page: "We need to lock in [?]. In a formal chargeable way. Soon."
 | May 10, 2017 | Ohr: "very concerned about Comey firing, afraid they will be exposed”  [see: Aug 8, 2018 The Hill]
 | May 11, 2017 | Peter Kadzik resigns
+| May 11, 2017 | "REPORTER #1" (Devlin Barrett?) emails James Wolfe "What's your cell?" at 11:13 am. Same reporter emails Wolfe again at 5:16 pm asking "Hi! When can we get coffee?" The signature block of the second email included a 44-character-long code that appears to be a "PGP" fingerprint, allowing encrypted communication
 | May 11, 2017 | Mary McCord resigns [see: April 20, 2017 NPR]
 | May 11, 2017 | Strzok: "Burr happy. Warner conveyed he wanted special counsel, said DAG said he took that under advisement."
 | May 11, 2017 | Waldman texts Senator Warner, says Deripaska is getting questions about Manafort from multiple directions
@@ -2009,16 +2013,25 @@
 | Oct 30, 2017 | Mediaite: "Twitter Has a Field Day With Chris Hayes’ Carter Page Interview: ‘This Is So Weird’" archive.is/CG1ig
 | Oct 31, 2017 | WaPo: "For ‘low level volunteer,’ Papadopoulos sought high profile as Trump adviser" archive.is/Rx6y3
 | Oct 31, 2017 | Chicago Tribune: "Rachel Marsden: Paul Manafort's French connection" archive.is/ctmY5
+| Oct 31, 2017 | HPSCI reviews FISA application from Oct. 21 again. First time since initial review in March
+| Oct 31, 2017 | Bill Preistap testifies to HPSCI. HPSCI asks for info on Peter Strzok. Preistap or DOJ associates say no.
 | Nov ??, 2017 | US Treasury approaches Central Bank of Cyprus seeking information about FBME [see: Dec 24, 2017 The Guardian]
+| Nov 01, 2017 | Mary McCord testifies to HPSCI
 | Nov 01, 2017 | HuffPost: "Paul Manafort’s Daughter Texted Friends About How Tight Her Dad Was With Trump" archive.is/VOQRI
 | Nov 01, 2017 | La Repubblica: Mifsud says Papadopoulos is mistaken, says he never said anything about dirt or emails on Hillary
+| Nov 02, 2017 | Fusion GPS balks at some handing over some of the information to HPSCI. They agree to turn over transactions centered around Perkins Coie (which was connected to DNC), Baker & Hostetler (connected with Russia) and Washington Free Beacon but stop there. HPSCI thought they were getting everything, so they file another subpoena, this time for 70 additional records from TD Bank
+| Nov 02, 2017 | Ike Kaveladze testifies to HPSCI
+| Nov 02, 2017 | HPSCI reviews FISA application from Oct. 21 again. Gowdy is proxy to review documents in camera
 | Nov 02, 2017 | Carter Page says he was warned of Steele's targeting by Sep 2016, in a CNN interview with Jake Tapper
 | Nov 02, 2017 | NYT: "Carter Page’s Testimony Before the House Intelligence Committee" archive.is/XaPnj
 | Nov 02, 2017 | The Atlantic: "What Carter Page's Testimony Revealed"
 | Nov 02, 2017 | The Hill: "Uranium One deal led to some exports to Europe, memos show" archive.is/gOLgn
+| Nov 03, 2017 | Adam Waldman testifies to SSCI
+| Nov 03, 2017 | Sally Yates testifies to HPSCI
 | Nov 03, 2017 | Alex van der Swaan misleads Mueller investigation about his last contact with Manafort [see: Feb 20, 2018 Politico]
-| Nov 08, 2017 | Glenn Simpson testifies in a closed-door hearing before HPSCI
+| Nov 08, 2017 | Glenn Simpson appears at a closed-door hearing before HPSCI, but his lawyers intervene and prevent him from actually saying much based on some technical legal issues. Commit to resolving those issues so Simpson can testify fully. 
 | Nov 08, 2017 | HPSCI letter to Comey requesting to confirm an interview date and for production of relevant documents 
+| Nov 08, 2017 | Anatoli Samochornov testifies to Senate Judiciary Committee
 | Nov 07, 2017 | Pompeo meets William Binney, who cast doubt on U.S. intel assessment that Russia was behind email hacks
 | Nov 10, 2017 | WSJ: "Data Firm’s WikiLeaks Outreach Came as It Joined Trump Campaign"
 | Nov 11, 2017 | Steele: "wondering if there was any response to the questions I raised last week?" [see: Aug 8, 2018 The Hill]
@@ -2027,27 +2040,37 @@
 | Nov 14, 2017 | Glenn Simpson testifies in a closed-door hearing before HPSCI
 | Nov 14, 2017 | Russian lobbyist who attended Trump Tower meeting, Rinat Akhmetshin, testifies before Senate Judiciary Committee
 | Nov 15, 2017 | The Guardian: "Christopher Steele believes his dossier on Trump-Russia is 70-90% accurate"
+| Nov 17, 2017 | Peter Strzok testifies to SSCI. It's kept a secret, even from other congressional committees
 | Nov 18, 2017 | Steele: "we remain in the dark as to what has been briefed to Congress about us" [see: Aug 8, 2018 The Hill]
+| Nov 20, 2017 | HPSCI again asks FBI/DOJ for availability to talk to Strzok
+| Nov 20, 2017 | Senate Judiciary Committee recieves material from Natalia Veselnitskaya
 | Nov ??, 2017 | (late November) Adam Waldman visits Assange twice in the Ecuadorian Embassy [see: June 20, 2018 The Guardian]
 | Nov 27, 2017 | Steele: "catch-up Whatsapp call this eve GMT...with you?" [last Steele/Ohr text] [see: Aug 8, 2018 The Hill]
 | Nov 29, 2017 | WaPo: "The Russian billionaire next door: Putin ally is tied to one of D.C.’s swankiest mansions" archive.is/UkLBS
 | Nov 29, 2017 | OIG questions McCabe, McCabe clarifies further the statements he gave to OIG from August 1, 2018
 | Nov 30, 2017 | Flynn accepts plea deal
+| Nov 30, 2017 | Erik Prince testifies to HPSCI
+| Nov 30, 2017 | Jeff Sessions testifies to HPSCI
 | Dec ??, 2017 | Treasury officials say North Korea’s nuclear missile program was using front companies to move money through ABLV in late 2017 [see: Mar 26, 2018 WSJ]
+| Dec 01, 2017 | HPSCI again asks FBI/DOJ for availability to talk to Strzok
 | Dec 01, 2017 | ABC: "Flynn promised full cooperation to Mueller and says candidate Trump directed him to make contact with Russians."
 | Dec 01, 2017 | Judge Contreras accepts Flynn's guilty plea
 | Dec 01, 2017 | NYT: "Former N.S.A. Employee Pleads Guilty to Taking Classified Information (Nghia H. Pho) archive.is/SGEiU
 | Dec 02, 2017 | Mueller's team interviews WH Counsel Don McGahn
-| Dec 02, 2017 | WaPo: "Top FBI official assigned to Mueller’s Russia probe said to have been removed after sending anti-Trump texts" byline Karoun Demirjian and Devlin Barrett. First reveals the existance of incriminating text messages between Peter Strzok and Lisa Page
+| Dec 02, 2017 | WaPo: "Top FBI official assigned to Mueller’s Russia probe said to have been removed after sending anti-Trump texts" byline Karoun Demirjian and Devlin Barrett. First reveals the existance of incriminating text messages between Peter Strzok and Lisa Page http://archive.is/tLgZD
 | Dec 02, 2017 | HPSCI submits written request to Rod Rosenstein for Strzok-Page texts
 | Dec 02, 2017 | Inspector General issues statement in response to inquiries
 | Dec 04, 2017 | Politico: "George Papadopoulos' late night with the FBI"
 | Dec 04, 2017 | CNN: Strzok changed wording of Clinton investigation to avoid criminal charges
+| Dec 04, 2017 | John Podesta testifies to HPSCI again
 | Dec 04, 2017 | ABC: "Paul Manafort was working with a Russian intelligence-connected official as recently as last week"
 | Dec 04, 2017 | The Hill: "DOJ failed to interview FBI informant before it filed charges in Russian nuclear bribery case" (Douglas Campbell) archive.is/bzm7e
+| Dec 04, 2017 | Fox: "FBI agent fired from Russia probe oversaw Flynn interviews, softened Comey language on Clinton email actions" by Nicole Darrah http://archive.is/Abukw
+| Dec 04, 2017 | CNN "FBI agent dismissed from Mueller probe changed Comey's description of Clinton to 'extremely careless'" by Laura Jarrett and Evan Perez http://archive.is/51WTI
+| Dec 05, 2017 | Senate Judiciary (Grassley) letter to Wray asking for Strzok-Page texts, other relevant communications from Strzok and the Flynn 302s. 
 | Dec 05, 2017 | WaPo: "Conservative group says Mueller team lawyer’s email shows bias" by Devlin Barrett http://archive.is/oah0n
 | Dec 05, 2017 | Bloomberg: "Mueller Subpoenaed Deutsche Bank Records on Trump Several Weeks Ago" (Fake)
-| Dec 06, 2017 | WaPo: "Republicans hammer Mueller, FBI as Russia investigation intensifies" by Devlin Barrett
+| Dec 06, 2017 | WaPo: "Republicans hammer Mueller, FBI as Russia investigation intensifies" by Devlin Barrett http://archive.is/mEEEB
 | Dec 06, 2017 | Bruce Ohr stripped of Associate Deputy Attorney General title
 | Dec 06, 2017 | Devin Nunes meets with Rod Rosenstein. Asks for Strzok-Page texts among other things.
 | Dec 06, 2017 | HPSCI letter to Rod Rosenstein asking a series of questions about Weissmann meeting with AP reporters in April 2017
