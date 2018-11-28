@@ -769,20 +769,21 @@
 | Aug 31, 2015 | Vadim Mikerin pleads guilty archive.fo/BI7l6
 | Sep ??, 2015 | Washington Free Beacon hires Fusion GPS
 | Sep ??, 2015 | Yared Tamene of Mis Department Inc. receives call from FBI agent Hawkins about DNC network ("Dukes" malware)
-| Sep ??, 2015 | Lynch asks Comey to refer to HRC's investigation as a matter, making Comey uncomfortable [see: Jun 26, 2018 RCP]
+| sep 08, 2015 | NBC News: "Hillary Clinton 'Sorry' For Use of Private Email" archive.is/YjZq6
 | Sep 11, 2015 | @markknoller: "Pres Obama will be in NYC for three days at the end of the month for the opening of the UN General Assembly session" archive.is/ihrLx
 | Sep 15, 2015 | Page: "Honestly, I thought it was weird that [?] would let you brief clapper before he got a recent update..."
-| Sep 16, 2015 | @guardianworld: "UN General Assembly starts today. But what it is? @harrietgrant explains all" archive.is/Ojd2G
+| Sep 16, 2015 | @guardianworld: "UN General Assembly starts today." archive.is/Ojd2G
 | Sep 25, 2015 | Stefan Halper hired on contractor basis by DOD's ONA for a total of $244,960.00
 | Sep 28, 2015 | Lynch advises Comey to refer to HRC's emails as a matter, not an investigation [see: Jun 14, 2018 IG Report p.64]
 | Sep 28, 2015 | mirror.uk: "Russia 'has spy in GCHQ and body-in-bag MI6 victim Gareth Williams was killed to protect their identity'" (Karpichkov) archive.is/EzUNu
 | Sep 28, 2015 | The Independent: "MI6 spy Gareth Williams was ‘killed by Russia for refusing to become double agent’, former KGB man claims" (Karpichkov) archive.is/WXPIR
-| Sep 28, 2015 | Business Insider: "KGB defector: Russia killed the British spy found in a duffel bag" (Korpichkov) archive.is/lfL3a
+| Sep 28, 2015 | Business Insider: "KGB defector: Russia killed the British spy found in a duffel bag" (Karpichkov) archive.is/lfL3a
 | Sep 28, 2015 | @guardianworld; "Manic Monday at UN general assembly: Dilma, Obama, Xi, Putin & Rouhani all speaking this morning" archive.is/t1Guq
-| Sep 28, 2015 | NYT: "President Obama’s Speech to the United Nations General Assembly 2015" 
+| Sep 28, 2015 | NYT: "President Obama’s Speech to the United Nations General Assembly 2015" archive.is/uO9mX
 | Sep 29, 2015 | Evelyn Farkas announces resignation to take place in late October 2015
 | Oct ??, 2015 | FBI agent Hawkins leaves multiple voicemails to DNC help desk, calls not returned
 | Oct 01, 2015 | Alexandra Chalupa begins investigating Trump's ties to Russia
+| Oct 14, 2015 | The Guardian: "Bernie Sanders to Clinton: people 'are sick of hearing about your damn emails'" archive.is/sAMny
 | Oct 16, 2015 | WaPo: "Trump swam in mob-infested waters in early years as an NYC developer" archive.is/SQ3qi
 | Oct 19, 2015 | WSJ: "Iran Nuclear Deal Formally Adopted"
 | Oct 22, 2015 | WSJ: "Spy vs. Spy: Inside the Fraying U.S.-Israel Ties" archive.is/bal3Q
@@ -835,10 +836,15 @@
 | Jan 25, 2016 | WaPo: "Top Sessions aide joins Trump campaign" (Stephen Miller) archive.is/I3B5D
 | Jan 28, 2016 | Reception for the Cuba Consortium hosted at the Cuban Embassy in Washington is attended by Daniel Jones and Ben Rhodes
 | Jan 29, 2016 | FBI.gov: "Andrew McCabe Named Deputy Director of the FBI" archive.is/2MsUP
+| Jan 29, 2016 | NBC News: "State Department Declares Some Hillary Clinton Emails 'Top Secret'" archive.is/CL0fo
+| Jan 29, 2016 | White House: "Press Briefing by Press Secretary Josh Earnest" archive.is/5K6jA
+| Jan 29, 2016 | Josh Earnest: "based on what we know from the Department of Justice, [an indictment of Hillary Clinton due to top secret emails discovered on her private server] does not seem to be headed in that direction." [see: Jan 29, 2016 White House]
 | Jan 31, 2016 | Bloomberg: "The Trump Doctrine Revealed" archive.is/Ikqqw
 | Feb ??, 2016 | Steele admonished by FBI (what in the world does this mean?), per August 8, 2018 Judicial Watch FOIA request
 | Feb ??, 2016 | UK and Australia target Papadopoulos and other Trump campaign members [see: Oct 7, 2018 @GeorgePapa19]
+| Feb 01, 2016 | McCabe's first day as FBI Deputy Director [see: Jan 29, 2016 FBI.gov]
 | Feb 01, 2016 | Politico: "How Trump Did It" archive.is/ZKYDE
+| Feb 02, 2016 | The Guardian: "Hillary Clinton declared winner of Iowa caucuses by razor-thin margin" archive.is/d8ELc
 | Feb 02, 2016 | Christopher Steele "admonished" by FBI, as seen in FOIA docs released on Aug 03, 2018
 | Feb 03, 2016 | Strzok: "Nothing like a 4:00am email from a British [?] needs to talk urgently. I'm on the road in 10..."
 | Feb 04, 2016 | Email mentions dinner plans among Rinat Akhmetshin, Glenn Simpson, and Natalia Veselnitskaya
@@ -876,6 +882,7 @@
 | Mar 09, 2016 | "need to try to fix a HUGE who f-up"
 | Mar 09, 2016 | Reuters: "FBI penetrated New York-based Russian spy ring using hidden recorders" archive.is/lMTTB
 | Mar 09, 2016 | Daily Beast: "Trump Embraces Ex-Top Obama Intel Official" (Flynn) archive.is/fI0HX
+| Mar 09, 2016 | Politico: "Lynch suggests White House 'stay silent' on Hillary Clinton email probe" archive.is/Lzrz9
 | Mar 10, 2016 | First phishing attempts made against the Clinton Campaign, all but one bounce back unopened
 | Mar 11, 2016 | Second round of phishing attempts, this time to senior Clinton officials
 | Mar 11, 2016 | Michelle Fields files charges against Corey Lewandowski
