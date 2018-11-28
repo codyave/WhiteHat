@@ -2018,6 +2018,7 @@
 | Nov 02, 2017 | The Hill: "Uranium One deal led to some exports to Europe, memos show" archive.is/gOLgn
 | Nov 03, 2017 | Alex van der Swaan misleads Mueller investigation about his last contact with Manafort [see: Feb 20, 2018 Politico]
 | Nov 08, 2017 | Glenn Simpson testifies in a closed-door hearing before HPSCI
+| Nov 08, 2017 | HPSCI letter to Comey requesting to confirm an interview date and for production of relevant documents 
 | Nov 07, 2017 | Pompeo meets William Binney, who cast doubt on U.S. intel assessment that Russia was behind email hacks
 | Nov 10, 2017 | WSJ: "Data Firm’s WikiLeaks Outreach Came as It Joined Trump Campaign"
 | Nov 11, 2017 | Steele: "wondering if there was any response to the questions I raised last week?" [see: Aug 8, 2018 The Hill]
@@ -2037,14 +2038,19 @@
 | Dec 01, 2017 | Judge Contreras accepts Flynn's guilty plea
 | Dec 01, 2017 | NYT: "Former N.S.A. Employee Pleads Guilty to Taking Classified Information (Nghia H. Pho) archive.is/SGEiU
 | Dec 02, 2017 | Mueller's team interviews WH Counsel Don McGahn
-| Dec 02, 2017 | Incriminating text messages from Peter Strzok and Lisa Page is published in WaPo and NYT
+| Dec 02, 2017 | WaPo: "Top FBI official assigned to Mueller’s Russia probe said to have been removed after sending anti-Trump texts" byline Karoun Demirjian and Devlin Barrett. First reveals the existance of incriminating text messages between Peter Strzok and Lisa Page
+| Dec 02, 2017 | HPSCI submits written request to Rod Rosenstein for Strzok-Page texts
 | Dec 02, 2017 | Inspector General issues statement in response to inquiries
 | Dec 04, 2017 | Politico: "George Papadopoulos' late night with the FBI"
 | Dec 04, 2017 | CNN: Strzok changed wording of Clinton investigation to avoid criminal charges
 | Dec 04, 2017 | ABC: "Paul Manafort was working with a Russian intelligence-connected official as recently as last week"
 | Dec 04, 2017 | The Hill: "DOJ failed to interview FBI informant before it filed charges in Russian nuclear bribery case" (Douglas Campbell) archive.is/bzm7e
+| Dec 05, 2017 | WaPo: "Conservative group says Mueller team lawyer’s email shows bias" by Devlin Barrett http://archive.is/oah0n
 | Dec 05, 2017 | Bloomberg: "Mueller Subpoenaed Deutsche Bank Records on Trump Several Weeks Ago" (Fake)
+| Dec 06, 2017 | WaPo: "Republicans hammer Mueller, FBI as Russia investigation intensifies" by Devlin Barrett
 | Dec 06, 2017 | Bruce Ohr stripped of Associate Deputy Attorney General title
+| Dec 06, 2017 | Devin Nunes meets with Rod Rosenstein. Asks for Strzok-Page texts among other things.
+| Dec 06, 2017 | HPSCI letter to Rod Rosenstein asking a series of questions about Weissmann meeting with AP reporters in April 2017
 | Dec 06, 2017 | Donald J Trump, Jr. testifies to HPSCI (Schiff accused of leaking)
 | Dec 06, 2017 | CNN: "Trump recognizes Jerusalem as Israel's capital"
 | Dec 07, 2017 | Washington Times: "Ethics Committee clears Nunes of revealing classified material to White House"
@@ -2056,7 +2062,9 @@
 | Dec 11, 2017 | Letter sent from Jerry Nadler and Elijah Cummings to Rosenstein and Sessions complaining about unequal document production with regards to Clinton email server investigation.
 | Dec 11, 2017 | Fox News: "Wife of demoted DOJ official worked for firm behind anti-Trump dossier" Bruce Ohr is the DOJ official.
 | Dec 12, 2017 | NYT: "Donald Trump Jr. Demands Leak Inquiry of House Intelligence Committee"
+| Dec 12, 2017 | Another HPSCI letter to Rosenstein asking for Strzok-Page texts. Sets deadline of Dec 15, 2017
 | Dec 12, 2017 | Andrew McCabe is supposed to testify to HPSCI but cancels last minute, probably due to public revelations about Bruce Ohr
+| Dec 12, 2017 | Assistant Attorney General Stephen Boyd letter to HPSCI handing over approximately 375 Strzok-Page text messages 
 | Dec 12, 2017 | Samuel Clovis testifies to HPSCI
 | Dec 12, 2017 | Michael Goldfarb testifies to HPSCI
 | Dec 12, 2017 | Mueller prosecutors hit with Brady rule in regard to Gen. Flynn archive.is/YDSMi
@@ -2114,6 +2122,7 @@
 | Jan 17, 2018 | Corey Lewandowski testifies to HPSCI
 | Jan 17, 2018 | George Nader accosted by federal agents at Dulles airport, electronics seized, agrees to cooperate
 | Jan 18, 2018 | @Techno_Fog: "The Mark Lambert indictment - the US executive who took part in the Russian uranium bribery scandal - has now been unsealed. It's bad." archive.is/EeW9L
+| Jan 19, 2018 | Assistant Attorney General Stephen Boyd letter to HPSCI describing the production process of the Strzok-Page texts
 | Jan 19, 2018 | Axios: "How the CIA’s spy network in China collapsed"
 | Jan 19, 2018 | Trump signs FISA bill into law. Includes reauthorization of Section 702 of Title VII of FISA though 2023. White House releases official statement.
 | Jan 19, 2018 | TheRealDeal: "Deutsche Bank identified ‘suspicious transactions’ related to Kushner Cos. accounts" archive.is/kRj6k
@@ -2126,6 +2135,7 @@
 | Jan 29, 2018 | Daily Beast: "Julian Assange Offered Hannity Impersonator ‘News’ About Top Democrat"
 | Jan 29, 2018 | WaPo: "How a classified four-page Russia memo triggered a political firestorm"
 | Jan 31, 2018 | Mueller files Status Report to postpone Gen. Flynn sentencing hearing for 90 days (May 1st, 2018)
+| Feb 01, 2018 | Comey letter to HPSCI declining to testify to committee
 | Feb 02, 2018 | NYT Op-Ed: "Why I am leaving the FBI" (Josh Campbell) archive.is/p7S6y
 | Feb 02, 2018 | CNN: "Disputed GOP-Nunes memo released with Trump's approval" archive.is/qsCez
 | Feb 02, 2018 | Assistant Director of Congressional Affairs Greg Brower sends letter to HPSCI acknowledging retention and preservation requirements.
