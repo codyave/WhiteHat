@@ -682,6 +682,7 @@
 | Feb 13, 2014 | Buzzfeed: "36 Hours On The Fake Campaign Trail With Donald Trump" archive.is/7IOj5
 | Feb 17, 2014 | NYPost: "Trump fires top advisor & political consultant Sam Nunberg" archive.is/r2KdP
 | Feb 20, 2014 | NYT: "E.U. Imposes Sanctions Despite Russian Criticism" archive.is/LKkaI
+| Feb 25, 2014 | Daily Beast: "Ukraine’s D.C. Lobbyists in Disarray as Dictator Flees" (ECFME) archive.is/z5CNL
 | Mar 18, 2014 | The Guardian: "Putin confirms Crimea annexation as Ukraine soldier becomes first casualty" archive.is/bi6jq
 | Mar 21, 2014 | NYT: "As Sanctions Start, Russia Feels a Sting" archive.is/kAWfD
 | Mar 31, 2014 | NYT: "Capitol Corruption Panel’s Demise Angers Watchdogs" (Cuomo, Moreland Commission) archive.is/j31iK
@@ -1172,6 +1173,7 @@
 | Aug 02, 2016 | Manafort dines with Kilimnick at Grand Havana Room in NYC, discuss "unpaid bills" [see: Oct 2, 2017 Atlantic]
 | Aug 03, 2016 | One of Deripaska's private planes lands in Newark, NJ around 6am, leaves around 10am [see: Mar 6, 2018 Medium]
 | Aug 03, 2016 | Manafort emails Dennis Raico, asks for a copy of Stephen Calk’s resume [see: Aug 13, 2018 American Banker]
+| Aug 03, 2016 | Politico: "Trump changed views on Ukraine after hiring Manafort" archive.is/TUgaA
 | Aug 03, 2016 | Bruce Ohr meets with Andrew McCabe and Lisa Page [see: September 6, 2018 The Hill]
 | Aug 03, 2016 | Page: "New case. Information workflow. Control.
 | Aug 03, 2016 | Page: "Andy. The dynamic. And yeah, but it's not mine to worry about."
@@ -1229,6 +1231,7 @@
 | Aug 19, 2016 | Clinton meets Ukranian President Poroshenko at UN General Assembly meeting
 | Aug 19, 2016 | Ukrainian MP provides evidence against Paul Manafort
 | Aug 19, 2016 | Politico: "Paul Manafort resigns from Trump campaign" archive.is/b7kJz
+| Aug 19, 2016 | CNN: "First on CNN: Feds investigate Manafort firm as part of Ukraine probe" archive.is/gQsa0
 | Aug 20, 2016 | NYT: "More of Kremlin’s Opponents Are Ending Up Dead" (Poteyev mentioned as deceased) archive.is/XyLBz
 | Aug ??, 2016 | (Another FISA starts on Manafort?)
 | Aug 21, 2016 | Obama depart Martha's Vineyard
@@ -1509,7 +1512,7 @@
 | Dec 19, 2016 | Strzok: "Jesus, I want to take people out for a drink. I want to take YOU out for a drink. I hope this upcoming presidency doesn’t fill my years with regret wondering what we might have done differently." [see: September 20, 2018 saraacarter.com]
 | Dec 21, 2016 | @AlexPappas: "BREAKING: Corey Lewandowski not headed to the White House, will open political consulting firm w/ Barry Bennett" archive.is/hNglX
 | Dec 22, 2016 | Gen. Flynn speaks to unknown Russian officials regarding Israel
-| Dec 23, 2016 | Politico: "Putin's Way of War" (Lawfare's Matt Tait)
+| Dec 23, 2016 | Politico: "Putin's Way of War" (Lawfare's Matt Tait) archive.is/SvecY
 | Dec 27, 2016 | Gen. Flynn allegedly speaks to Kislyak about sanctions (McCabe leak?) [see: Feb 9, 2017 NYT]
 | Dec 28, 2016 | Obama orders sanctions against Russia in response to Russian interference in U.S. elections
 | Dec 29, 2016 | Obama expels 35 officials from the Russian Embassy in Maryland's Eastern Shore
@@ -1533,7 +1536,7 @@
 | Jan 04, 2017 | $6.5m loan closed against Manafort by Federal Savings bank [see: Aug 13, 2018 American Banker]
 | Jan 05, 2017 | Obama and Biden briefed on dossier and report, presented by Clapper, Comey, Brennan, and Rogers
 | Jan 05, 2017 | Obama, Comey, Yates, Biden, Susan Rice meet in Oval Office to discuss FBI investigation and Steele dossier
-| Jan 05, 2017 | Politico: "Louise Mensch no longer leading News Corp.'s Heat Street"
+| Jan 05, 2017 | Politico: "Louise Mensch no longer leading News Corp.'s Heat Street" archive.is/E67GX
 | Jan 05, 2017 | Kyiv Post: "Poroshenko to Pinchuk: Ukraine won’t abandon EU, NATO integration" archive.is/Qih8X
 | Jan 06, 2017 | FBI interviews Huma (why?)
 | Jan 06, 2017 | ODNI ICA report on Russian Activities says CIA and FBI give high confidence, NSA moderate confidence
@@ -1546,22 +1549,22 @@
 | Jan 10, 2017 | NYT: "Russian Hackers Gained ‘Limited’ Access to R.N.C., Comey Says"
 | Jan 10, 2017 | Carter Page questions Lisa Monaco, hushed by pro-Clinton campaign journalist [see: March 8, 2017 letter to SSCI]
 | Jan 10, 2017 | BuzzFeed: "These Reports Allege Trump Has Deep Ties To Russia"
-| Jan 10, 2017 | Comey testifies before Senate Intelligence Committee, says DNC refused to provide FBI access to hacked computer servers
+| Jan 10, 2017 | Comey testifies before Senate Intelligence Committee, says DNC refused to provide FBI access to hacked servers
 | Jan 10, 2017 | NYT: "Prosecutors Seek 2 Years in Jail for James Cartwright in Leak Case" archive.is/STrvt
 | Jan 10, 2017 | Kansas City Star: "A Canadian bankruptcy adds to Trump’s legal woes" (Shnaider, Shyfrin) archive.is/KILSB
 | Jan 11, 2017 | WSJ: "Christopher Steele, Ex-British Intelligence Officer, Said to Have Prepared Dossier on Trump"
 | Jan 11, 2017 | Politico: "Ukrainian efforts to sabotage Trump backfire"
 | Jan 11, 2017 | The Guardian: "John McCain passes dossier alleging secret Trump-Russia contacts to FBI"
-| Jan 11, 2017 | Vanity Fair: "What Intelligence Experts Think of the Explosive Trump-Russia Report"
+| Jan 11, 2017 | Vanity Fair: "What Intelligence Experts Think of the Explosive Trump-Russia Report" archive.is/6zKwN
 | Jan 11, 2017 | Jake tapper releases statement from ODNI's Clapper about meeting with Trump
-| Jan 11, 2017 | Daily Mail: "British government must NOT protect ex-spy behind claims of 'dirty' dossier on Trump, says Tory MP"
+| Jan 11, 2017 | Daily Mail: "British government must NOT protect ex-spy behind claims of 'dirty' dossier on Trump" archive.is/ugzha
 | Jan 12, 2017 | FISA Verified Application on Carter Page (p. 84-162) [signed: Comey, Yates]
 | Jan 12, 2017 | FISA Primary Order and Warrant on Carter Page (p. 163-181) [signed: Judge Mosman]
 | Jan 12, 2017 | Adam Lovinger invited to leave Office of Net Assessment
-| Jan 12, 2017 | CNN: "Intel chiefs presented Trump with claims of Russian efforts to compromise him"
-| Jan 12, 2017 | Paul Wood: "Trump 'compromising' claims: How and why did we get here?"
-| Jan 12, 2017 | WikiLeaks: "If Obama grants Manning clemency Assange will agree to US extradition"
-| Jan 12, 2017 | WARN notice filed w/NY Dept of Labor, main office of Clinton Global Initiative to close [see: Jan 15, 2017 Observer]
+| Jan 12, 2017 | CNN: "Intel chiefs presented Trump with claims of Russian efforts to compromise him" archive.is/1bfXX
+| Jan 12, 2017 | Paul Wood: "Trump 'compromising' claims: How and why did we get here?" archive.is/t5qrQ
+| Jan 12, 2017 | WikiLeaks: "If Obama grants Manning clemency Assange will agree to US extradition" archive.is/w7Gik
+| Jan 12, 2017 | WARN notice filed w/NY Dept of Labor, Clinton Global Initiative main office closing [see: Jan 15, 2017 Observer]
 | Jan 12, 2017 | Adam Waldman texts Bruce Ohr, the two agree to speak later in the day
 | Jan 12, 2017 | Adam Waldman visits Julian Assange in London
 | Jan 12, 2017 | DOJ OIG Announces Initiation of Review (Horowitz) archive.is/8jLb1
@@ -2452,8 +2455,11 @@
 | Apr 17, 2018 | Vice News: "‘Sex huntress’ who claims to have dirt on Trump and Russia may spend years in Thai prison"
 | Apr 19, 2018 | WaPo: "Inspector general referred findings on McCabe to U.S. attorney for consideration of criminal charges"
 | Apr 19, 2018 | DOJ files sealed FARA case against Pakistani Nisar Ahmed Chaudhry [see: May 7, 2018 Reuters]
-| Apr 19, 2018 | Daily Beast: "Rudy Giuliani Joining Trump’s Legal Team 'For the Good of the Country'"
+| Apr 19, 2018 | Daily Beast: "Rudy Giuliani Joining Trump’s Legal Team 'For the Good of the Country'" archive.is/iPD9R
 | Apr 19, 2018 | @kylegriffin: "On Page 8, James Comey says that, during a conversation with Reince Priebus on February 8, 2017, Priebus checked with Comey to see if they were having a "private conversation" and then proceeded to ask whether the FBI had a FISA warrant on Michael Flynn."
+| Apr 19, 2018 | NYT: "Comey Memos Provide Intimate Look Into Trump Presidency" archive.is/6WFiX
+| Apr 19, 2018 | WaPo: "What the Comey memos say" archive.is/rnrOt
+| Apr 20, 2018 | NBC News: "Comey memos detail his version of meetings with Trump, Priebus" archive.is/uvqQy
 | Apr 20, 2018 | NYT: "Michael Cohen Has Said He Would Take a Bullet for Trump. Maybe Not Anymore." archive.is/ihayK
 | Apr 22, 2018 | @The_War_Economy: "On March 16, 2009, Orbis Business Intelligence Ltd. was founded by Christopher Burrows and Christopher Steele."
 | Apr 23, 2018 | FT: "Aluminium falls on US signals over Rusal sanctions" (Deripaska) archive.is/w74FM
