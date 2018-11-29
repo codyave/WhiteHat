@@ -674,6 +674,7 @@
 | May 13, 2014 | Joe Biden's Son Appointed to Board of Ukraine's Largest Gas Producer
 | May 30, 2014 | Daily Beast: "Is Iran’s Missing General, Ali Reza Asgari, Living in the United States?" archive.is/18OUD
 | Jun ??, 2014 | Buryakov meets multiple times with confidential sources for the FBI
+| Jun ??, 2014 | John Giacalone promoted to executive asst director of FBI archive.is/CUwcG
 | Jun 14, 2014 | Veselnitskaya goes to House hearing on "U.S. Policy Toward Putin's Russia", sits behind Michael McFaul
 | Jul 12, 2014 | Press of Atlantic City: "Trump Plaza owners confirm plan to close in September"
 | Jul 17, 2014 | FinCEN indicates FBME to be of primary money laundering concern (Cyprus, Caymans) [see: Jul 23, 2015 FinCEN]
@@ -858,17 +859,22 @@
 | Feb 03, 2016 | USA Today: "Rand Paul ends presidential bid" archive.is/m9SHK
 | Feb 03, 2016 | Vox: "Rick Santorum’s presidential campaign ends in a whimper" archive.is/A1cU7
 | Feb 04, 2016 | Email mentions dinner plans among Rinat Akhmetshin, Glenn Simpson, and Natalia Veselnitskaya
+| Feb 05, 2016 | Strzok: "Work, but not for here. Agency F’ed uo big. Will get to Andy, prob Mon. Not telling you in that capacity, want to vent as a friend. Better to talk around it"
 | Feb 06, 2016 | Page: "[Andy] sent me his gmail, and said 'Don't send me anything classified, especially TS/SAP." archive.is/yC9Pn
 | Feb 08, 2016 | Adm. Rogers announces spy/hacking reorganization project
 | Feb 08, 2016 | Adm. Rogers meets GCHQ's Hannigan at Bletchley Park
-| Feb 06, 2016 | Strzok: "Agency F'ed uo big." [sic]
+| Feb 10, 2016 | NYT: "Chris Christie Drops Out of Presidential Race After New Hampshire Flop" archive.is/0VE7k
+| Feb 10, 2016 | CNN: "Carly Fiorina ends presidential bid" archive.is/8PbWi
+| Feb 10, 2016 | Internet Research Agency (St. Petersburg) circulates plans to criticise Hillary Clinton while elevating Bernie Sanders and Donald Trump archive.is/Odx3A
 | Feb 11, 2016 | Politico: "What happened at Sanders U." (Jane Sanders, Burlington College) archive.is/rYbj1
 | Feb 12, 2016 | Munich Security Conference attended by Clapper, Kerry, Soros, Hannigan, McCain, Dmitri Alperovich
 | Feb 13, 2016 | Politico: "Supreme Court Justice Antonin Scalia dead at 79" archive.is/fcLMU
 | Feb 15, 2016 | Tom Barrack meets with Paul Manafort for coffee and snacks at Montage hotel in Beverly Hills [see: Apr 8, 2017 NYT]
 | Feb 15, 2016 | Tom Barrack decides Paul Manafort would be a good fit for the Trump campaign archive.is/h9htO
 | Feb 16, 2016 | Roger Stone: "Jeb! and the Bush Crime Family: The Inside Story of an American Dynasty"
-| Feb 20, 2016 | South Carolina primary. Trump wins, Jeb! suspends his campaign.
+| Feb 17, 2016 | NAFUSA: "Greg Brower Appointed Deputy GC at FBI"  archive.is/seQVR
+| Feb 18, 2016 | In FBI interview, Paul Combetta indicates he did not "recall conducting deletions based upon this realization [that he was instructed to delete HRC's emails starting Dec '14 per Cheryl Mills, but only remembered ~Mar 25-31, 2015]" archive.is/PqOXB
+| Feb 20, 2016 | The Guardian: "Jeb Bush ends presidential bid after Donald Trump wins in South Carolina" archive.is/IZn2I
 | Feb 21, 2016 | Farkas emails Podesta, asks to do surrogate work for Clinton campaign in relation to Eastern European communities
 | Feb 26, 2016 | The Moscow Times: "Putin Appoints New Head of Russian State Development Bank VEB" (Gorkov) archive.is/9lHK2
 | Feb 26, 2016 | Reuters: "Trump being advised by ex-U.S. Lieutenant General who favors closer Russia ties" archive.is/RQRko
@@ -1224,13 +1230,15 @@
 | Sep 02, 2016 | Halper offers $3k to Papadopolous, invites him to London to discuss a policy paper about Middle East energy issues
 | Sep 02, 2016 | Peter Smith sets up KLS Research LLC to find Clinton emails
 | Sep 02, 2016 | Page texts Strzok that Comey was preparing a meeting with Obama, who wanted to know what they were doing
+| Sep 02, 2016 | Politico: "The 12 juiciest bits from the FBI's Clinton report" archive.is/u0sax
 | Sep 05, 2016 | At G20 Summit, Obama and Putin discuss US presidential election, Obama allegedly warns Putin to stop interfering
 | Sep 06, 2016 | FBI, NSA, and ODNI hold classified briefings with Congressional staff members about Russian interference
 | Sep 06, 2016 | LA Times: "$1.7-billion payment to Iran was all in cash due to effectiveness of sanctions, White House says"
 | Sep 06, 2016 | Reuters: "UK inquest into death of Russian whistleblower delayed until 2017" (Perepilichny) archive.is/0Lpke
 | Sep 07, 2016 | Intelligence and National Security Summit, attended by Schiff, McCabe, Comey, Brennan, Carlin, Adm. Rogers, Shawn Henry
+| Sep 08, 2016 | NYT: "Justice Dept. Granted Immunity to Specialist Who Deleted Hillary Clinton’s Emails" archive.is/PqOXB
 | Sep 10, 2016 | Strzok: "thing is, there are VERY inflammatory things in the 302s we didn't turn over to Congress"
-| Sep 11, 2016 | NBC News: "Hillary Clinton Leaves 9/11 Memorial Early After Feeling ‘Overheated,’ Has Pneumonia"
+| Sep 11, 2016 | NBC News: "Hillary Clinton Leaves 9/11 Memorial Early After Feeling ‘Overheated,’ Has Pneumonia" archive.is/q13VJ
 | Sep 13, 2016 | Halper and Papadopolous have dinner at the Connaught Hotel, where Halper brings up his research assistant Azra Turk
 | Sep 13, 2016 | NYT: "U.S. Finalizes Deal to Give Israel $38 Billion in Military Aid" archive.is/CA7gU
 | Sep 14, 2016 | Lisa Monaco tells people at 10yr anniversary of DOJ/NSD that Russia hacking the election would be "extremely difficult"
@@ -2028,7 +2036,7 @@
 | Jul 25, 2017 | Philly.com: "Aide pleads guilty, says Brady campaign paid primary challenger to quit" archive.is/py3WE
 | Jul 26, 2017 | DOJ Assistant Director of Congressional Affairs Greg Brower letter to HPSCI says they decline to provide documents relating to Comey's firing since it is part of the Special Counsel investigation. Also says that HPSCI has been given access to the Comey memos already.
 | Jul 26, 2017 | Manafort home raided [see: Aug 9, 2017 CNBC]
-| Jul 26, 2017 | Chicago Tribune: "Ukrainian oligarch's legal team fires back at Chicago prosecutors' 'innuendo'"
+| Jul 26, 2017 | Tribune: "Ukrainian oligarch's legal team fires back at Chicago prosecutors' 'innuendo'" (Firtash) archive.is/717gL
 | Jul 26, 2017 | Scaramucci calls Ryan Lizza [see: Jul 27, 2017 New Yorker]
 | Jul 27, 2017 | Acting Assistant Attorney General Sam Ramer letter to HPSCI refusing to allow an interview with Adrew McCabe or any relevant document production, citing the ongoing Special Counsel investigation. Uses same format as denial for Sessions and McCord
 | Jul 27, 2017 | Acting Assistant Attorney General Sam Ramer letter to Senate Judiciary includes: "Under these circumstances and consistent with the Department's long-standing policy regarding the confidentiality and sensitivity of information relating to pending matters, the Department cannot make Mr. Ghattas nor Mr. Rybicki available for transcribed interviews at this time"
