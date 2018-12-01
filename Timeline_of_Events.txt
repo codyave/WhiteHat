@@ -1179,24 +1179,33 @@
 | Apr 29, 2016 | WaPo: "Sanders campaign drops lawsuit against DNC stemming from December data breach"
 | Apr 29, 2016 | McClatchly: "What Panama Papers say - and don’t say - about Trump"
 | Apr 30, 2016 | Strzok: "And now we've switched from the Patriot Act to a wire carrying current."
+| Apr 30, 2016 | Hillary/DNC discovers it has been hacked and compromising information is now out there "in the wild". It hires Crowdstrike, an IT company, through a cutout, legal firm Perkins Coie to investigate the hack. Apparently all DNC contractors were notified, thus Fusion GPS was notified
 | May ??, 2016 | Stefan Halper communicates with Steele, according to Yaacov Appelbaum
 | May ??, 2016 | Kilimnick has dinner with Manafort sometime in early May [see: Jun 19, 2018 WaPo]
 | May ??, 2016 | Manafort and Federal Savings employees attend a dinner at the Capitol Grille in lower Manhattan, Stephen Calk and Manafort speak one-on-one for a fair amount of time [see: Aug 13, 2013 American Banker]
 | May 02, 2016 | Comey drafts initial statement regarding Hillary's use of a private server [see: Jun 14, 2016 IG Report]
 | May 03, 2016 | Alexandra Chalupa emails DNC about sharing info “offline”, “a big Trump component…that will hit in next few weeks."
-| May 04, 2016 | Papadopoulos forwards Timofeev email to Lewandowski, Sam Clovis, other members of the Trump campaign
+| May 04, 2016 | Papadopoulos forwards Timofeev email to Lewandowski, Sam Clovis, other members of the Trump campaign. In the email, Timofeev, reached out to report that Russian foreign ministry officials were open to a Trump visit to Moscow and requested that the campaign and Russians write a formal letter outlining the meeting
+| May 04, 2017 | Cruz drops out. Trump de-facto wins nomination. No serious threat anymore. A couple Page-Strzok texts lamenting
 | May 04, 2016 | Sussman calls CrowdStrike's Shawn Henry regarding DNC server
+| May 05, 2016 | INSA Leadership Dinner with USD/I
 | May 05, 2016 | Politico: "When Donald Trump brought Miss Universe to Moscow"
 | May 05, 2016 | CrowdStrikes installs FalcoHost software in DNC servers
 | May 09, 2016 | Bill Priestap is likely in London, possibly meeting with Downer and Pdop, around this time
-| May 10, 2016 | Papadopoulos meets Downer in London, Downer accompanied by 
+| May 10, 2016 | Papadopoulos meets Downer at a wine bar in London, Downer accompanied by Erika Thompson. Papadopoulos mentions the Russians having damaging emails for Clinton
+| May 11, 2016 | Romney facebook post encourages Trump to release taxes. Hints at mob ties
 | May 11, 2016 | Judge releases documents to AP relating to links between Trump and Felix Sater
 | May 13, 2016 | Mifsud emails Papadopoulos an update about "recent conversations"
 | May 15, 2016 | Evan Perez indicates wiretapping of Paul Manafort ends sometime in 2016 due to lack of evidence
+| May 15, 2016 | Crowdstrike claims it investigated DNC hacking and that the Russians were responsible. FBI denied access to server
+| May 15, 2016 | Fusion GPS hires Nellie Ohr for their Russian research
+| May 15, 2016 | Politico: "When Donald Trump brought Miss Universe to Moscow" by Michael Crowley
 | May 16, 2016 | Times of Israel: "Netanyahu brought about Iran nuke deal, says ex-Mossad head in last interview" archive.is/QyX9A
-| May 17, 2016 | WaPo: "Former Mafia-linked figure describes association with Trump"
+| May 17, 2016 | WaPo: "Former Mafia-linked figure describes association with Trump" by Rosalind Helderman and Tom Hamburger, about Sater
+| May 17, 2016 | Forbes interview of Emin and Aras Agalarov where they boast of Trump Connections. Article with text of interview is now deleted
 | May 17, 2016 | Sidney Blumenthal attends a book party at John and Christina Ritch's home, where Sid meets Jamie Raskin (D-MD)
 | May 17, 2016 | Grassley sends letter to Comey about Clinton's server
+| May 18, 2016 | Clapper says he's "working with both campaigns" on cyber security
 | May 19, 2016 | NYT: "Trump Aide Paul Manafort Promoted to Campaign Chairman and Chief Strategist" archive.is/TeRxJ
 | May 19, 2016 | WaPo: "Veteran strategist Paul Manafort becomes Trump’s campaign chairman" archive.fo/yiugF
 | May 19, 2016 | D.C. Judge Rudolph Contreras appointed to FISC
