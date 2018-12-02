@@ -4,6 +4,8 @@
 
 | May 15, 1984 | NYT: "10th and largest casino opens in Atlantic City" archive.is/i9h8N
 
+| Apr 30, 1988 | NYT: "Mob role in New York construction depicted" archive.is/3dzTn
+
 | Apr 06, 1990 | NYT: "It's 'Themed,' It's Kitschy, It's Trump's Taj" archive.is/3N52K
 | Apr 08, 1990 | NYT: "Trump's Taj - Open at Last, With a Scary Appetite" archive.is/AIOYJ
 | May 29, 1990 | Boris Yeltsin elected Chairman of the Russian Supreme Soviet
@@ -89,6 +91,7 @@
 | Oct 05, 2003 | Mikhail Khodorkovsky arrested [see: Mar 4, 2013 Vanity Fair]
 | Oct 06, 2003 | Stanley McChrystal becomes commander of JSOC. Flynn is his intelligence chief. They reform the way units use intelligence. Putting it on the front lines
 | Oct 23, 2003 | FBI: "Andrew G. McCabe Named Executive Assistant Director of National Security Branch" archive.is/IZOwV
+| Nov 10, 2003 | New Yorker: "Concrete Jungle" archive.is/5gcsk
 
 | ??? ??, 2004 | Middle Eastern arms dealer, Abdul Rahman al-Assir, loans Paul Manafort $250k [see: Apr 26, 2016 WaPo]
 | ??? ??, 2004 | Tom Barrack loans Paul Manafort’s wife $1.8m (secured by real estate, settled in 2006) [see: Mar 29, 2017 WSJ]
@@ -161,6 +164,7 @@
 | Jan 22, 2008 | Aafia Siddiqui arrives unexpectedly at the doorstep of her uncle's house  [see: Feb 04, 2010 BBC]
 | Jan 24, 2008 | WaPo: "Spy vs Spy" (David Wise book review wrt defector Sergei Tretyakov)
 | Jan 25, 2008 | WaPo: "Aide Helped Controversial Russian Meet McCain" (Rick Gates, Oleg Deripaska) archive.is/sZwYL
+| Feb 14, 2008 | NYPost: "Breaking the mob" archive.is/3MkzE
 | Mar 02, 2008 | Toronto City News: "Fundraising Gala Brings Bill Clinton To Toronto" (Frank Giustra) archive.is/ppxvs
 | Mar 02, 2008 | The Star: "Bill Clinton speaks at Toronto fundraiser" (Frank Giustra) archive.is/tSUCA
 | Mar 04, 2008 | @MMStewartNews: "CNN projects John McCain will win the Texas GOP primary, giving him enough delegates to clinch nomination." archive.is/QzIk5
@@ -190,7 +194,8 @@
 | Sep 29, 2008 | CNN: "Defiant House Rejects Huge Bailout; Next Step Is Uncertain" archive.is/0qpbQ
 | Nov 04, 2008 | Obama wins presidential election
 | Nov 05, 2008 | Reuters: "Russia to station missiles near Poland" archive.is/wkRgd
-| Nov 11, 2008 | President-elect Obama and Hillary Clinton discussed over telephone the possibility of her serving as Secretary of State
+| Nov 11, 2008 | Prez-elect Obama and Hillary Clinton discussed over telephone the possibility of her serving as Secretary of State
+| Nov 18, 2008 | Chicago Business: "Like Trump, other developers may sue lenders" archive.is/X53a6
 | Nov 19, 2008 | IMF: "IMF Executive Board Approves US$2.1 Billion Stand-By Arrangement for Iceland" archive.is/EKsTg
 | Nov 27, 2008 | Der Spiegel: "'The Most Dangerous Woman in the World'" (Ahmed Siddiqui) archive.is/k4Ypx
 | Dec 01, 2008 | Obama formally announced that Clinton would be his nominee for Secretary of State
@@ -1813,6 +1818,7 @@
 | Jan 24, 2017 | WSJ reports Sergei Millian is reportedly the source for some of the salacious allegations in the dossier
 | Jan 25, 2017 | DOJ receives detailed briefing on Flynn from FBI
 | Jan 25, 2017 | FBI interviews Bruce Ohr (Ohr FD-302 January 27, 2017)
+| Jan 26, 2017 | Forbes: "What A 2017 SEC Filing Can Tell Us About America's Real Estate Presidency" archive.is/xp3K3
 | Jan 26, 2017 | FBI interviews Papadopoulos, Pdop is claimed to have said he met Mifsud before joining the Trump campaign
 | Jan 26, 2017 | Trump at GOP Retreat: "Where is Pompeo? Where the hell is he? Did he ever come here? Oh, he's working!"
 | Jan 26, 2017 | Sally Yates travels to the White House with Mary McCord to discuss Gen. Flynn
@@ -2321,6 +2327,7 @@
 | Jul 17, 2017 | WSJ: "New York Seeks Bank Records of Former Trump Associate Paul Manafort" ($15m loan) archive.is/ojMYT
 | Jul 17, 2017 | James Clapper testifies to HPSCI
 | Jul 18, 2017 | Fox News: "Hillary Clinton sided with Russia on sanctions as Bill made $500G on Moscow speech"
+| Jul 19, 2017 | NYT: "Big German Bank, Key to Trump’s Finances, Faces New Scrutiny" archive.is/Km8u1
 | Jul 19, 2017 | Senate Judiciary Committee issues a press release announcing an upcoming public hearing titled "Oversight of the Foreign Agents Registration Act and Attempts to Influence U.S. Elections: Lessons Learned from Current and Prior Administrations" with two panels: 1) Adam Hickey, Bill Preistap and Horowitz, and 2) Browder, Simpson, Manafort and Trump Jr scheduled for Jul 26, 2017 https://www.judiciary.senate.gov/imo/media/doc/2017-07-19%20CEG%20DF%20to%20Glenn%20Simpson%20(Document%20Request).pdf
 | Jul 20, 2017 | Senate Judiciary committee approves Christopher Wray nomination, sends to Senate floor
 | Jul 20, 2017 | FBI delivers to OIG Sep 2015 - Nov 30, 2016 Strzok/Page texts [see: Dec 13, 2017 Horowitz letter to Grassley, Johnson]
@@ -2563,7 +2570,8 @@
 | Dec 04, 2017 | CNN "FBI agent dismissed from Mueller probe changed Comey's description of Clinton to 'extremely careless'" by Laura Jarrett and Evan Perez http://archive.is/51WTI
 | Dec 05, 2017 | Senate Judiciary (Grassley) letter to Wray asking for Strzok-Page texts, other relevant communications from Strzok and the Flynn 302s. 
 | Dec 05, 2017 | WaPo: "Conservative group says Mueller team lawyer’s email shows bias" by Devlin Barrett http://archive.is/oah0n
-| Dec 05, 2017 | Bloomberg: "Mueller Subpoenaed Deutsche Bank Records on Trump Several Weeks Ago" (Fake)
+| Dec 05, 2017 | Bloomberg: "Mueller Subpoenaed Deutsche Bank Records on Trump Several Weeks Ago" (Story retracted) archive.is/jxpKb
+| Dec 05, 2017 | Reuters: "Trump lawyer denies Deutsche Bank got subpoena on Trump accounts" archive.is/v4FF0
 | Dec 06, 2017 | WaPo: "Republicans hammer Mueller, FBI as Russia investigation intensifies" by Devlin Barrett http://archive.is/mEEEB
 | Dec 06, 2017 | Bruce Ohr stripped of Associate Deputy Attorney General title
 | Dec 06, 2017 | Devin Nunes meets with Rod Rosenstein. Asks for Strzok-Page texts among other things.
@@ -2606,6 +2614,7 @@
 | Dec 20, 2017 | Felix Sater testifies to HPSCI
 | Dec 20, 2017 | Mike Gaeta testifies to HPSCI
 | Dec 20, 2017 | James Baker (FBI General Counsel) demoted and reassigned
+| Dec 21, 2017 | Newsweek: "Is Donald Trump’s Dark Russian Secret Hiding in Deutsche Bank’s Vaults?" archive.is/0KEnY
 | Dec 21, 2017 | @JohnBrennan account tweets for the first time. Two tweets that day; first is about PanAm 103 bombing, second one: "Trump Admin threat to retaliate against nations that exercise sovereign right in UN to oppose US position on Jerusalem is beyond outrageous. Shows @realDonaldTrump expects blind loyalty and subservience from everyone—qualities usually found in narcissistic, vengeful autocrats."
 | Dec 21, 2017 | The Guardian: "Ukrainian interpreter who visited May arrested on Russian spying charges"
 | Dec 21, 2017 | NBC News: "Prosecutors ask FBI agents for info on Uranium One deal" archive.is/ZTWmg
