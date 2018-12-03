@@ -1267,8 +1267,7 @@
 | May 26, 2016 | @DavidCornDC: "Trump has had mob links, and he's upset about HRC's server and her bad judgment. #OhMy" RTs David Cay Johnson's Politico article
 | May 26, 2016 | Trump locks in necessary 1,237 delegates after winning Indiana primary
 | May 27, 2016 | CNN: "Trump's Veepstakes: Who is Michael Flynn?" archive.is/fpTzd
-| May 29, 2016 | Henry Greenberg solicits Stone and Caputo in Sunny Isles, FL (see date on text message) [see: 
-Jun 17, 2018 WaPo]
+| May 29, 2016 | Henry Greenberg solicits Stone and Caputo in Sunny Isles, FL (see date on text message) [see: Jun 17, 2018 WaPo]
 | May 31, 2016 | Veselnitskaya receives confirmation for an interview regarding her B1 visa application
 | Jun ??, 2016 | Sergei Skripal visits Estonian intelligence officers, arranged by British intelligence
 | Jun ??, 2016 | Steele flies to Rome to brief FBI agent Gaeta about dossier
@@ -1503,46 +1502,69 @@ Jun 17, 2018 WaPo]
 | Aug 19, 2016 | Ukrainian MP provides evidence against Paul Manafort
 | Aug 19, 2016 | Politico: "Paul Manafort resigns from Trump campaign" archive.is/b7kJz
 | Aug 19, 2016 | CNN: "First on CNN: Feds investigate Manafort firm as part of Ukraine probe" archive.is/gQsa0
+| Aug 19, 2016 | Private company called ThreatConnect publishes a blog post (a la Crowdstrike) which ties Fancy Bear to a hack of the Russian olympic doping whistleblower
 | Aug 20, 2016 | NYT: "More of Kremlin’s Opponents Are Ending Up Dead" (Poteyev mentioned as deceased) archive.is/XyLBz
 | Aug ??, 2016 | (Another FISA starts on Manafort?)
-| Aug 21, 2016 | Obama depart Martha's Vineyard
+| Aug ??, 2016 | "Late Aug" Susan Rice tells people organizing counter attacks against Russia to "stand down." Don't get ahead of the white house on this
+| Aug 21, 2016 | Obama gets back from Martha's Vineyard vacation. Unofficial deadline for outlining options regarding Russia
+| Aug 21, 2016 | Robbie Mook on Stephanopoulos going off on Trump Russia
 | Aug 22, 2016 | Poteyev registers to vote [see: Oct 3, 2018 BuzzFeed] [see: Jun 5, 2017 @textifire]
-| Aug 22, 2016 | Bruce Ohr meets Glenn Simpson, Simpson offers intermediaries between Trump campaign and Russia, also Alfa Bank info
+| Aug 22, 2016 | Bruce Ohr meets Glenn Simpson, Simpson offers intermediaries between Trump campaign and Russia, also Alfa Bank info Simpson: "Can u ring"
 | Aug 24, 2016 | Clapper and Brennan attend Presidential Daily Briefs Symposium at Nixon Library
-| Aug 25, 2016 | Brennan briefs Harry Reid personally, tells Reid to direct pressure towards FBI
+| Aug 24, 2016 | NYT reports it's Moscow bureau was unsuccessfully hacked
+| Aug 25, 2016 | Brennan briefs Harry Reid personally, tells Reid to direct pressure towards FBI. Brennan: "Through the so-called Gang-of-Eight process we kept congress apprised of these issues as we identified them. Again, in consultation with the White House, I personally briefed the full details of our understanding of Russian attempts to interfere in the election to congressional leadership. Specifically, Senators Harry Reid, Mitch McConnell, Dianne Feinstein and Richard Burr and to representatives Paul Ryan, Nancy Pelosi, Devin Nunes and Adam Schiff between 11th August and 6th September. I provided the same briefing to each of the gang of eight members."
 | Aug 26, 2016 | Politico: "Trump’s mob-linked ex-associate gives $5,400 to campaign"
 | Aug 26, 2016 | Rebecca Mercer emails Alexander Nix, asks if he can help organize WikiLeaks emails [see: Oct 27, 2017 WSJ]
 | Aug 27, 2016 | Hacking tools and instructions on how to use it seized during raid on Harold T. Martin’s house [see: Oct 19, 2016 NYT]
 | Aug 27, 2016 | Reid sends letter to Comey about Russia investigation, demanding new investigation be opened
+| Aug 27, 2016 | Clinton gets her intelligence briefing at an FBI office in NY
+| Aug 28, 2016 | NYT: "A powerful Russian weapon, the spread of false stories" by Niel McFarquar
 | Aug 28, 2016 | NYPost publishes explicit but blurred photo of Anthony Weiner sext w/1yo son in frame
-| Aug 29, 2016 | Stefan Halper reaches out to Sam Clovis, mentions Carter Page said they should meet
+| Aug 29, 2016 | Stefan Halper reaches out to Sam Clovis, mentions Carter Page said they should meet, they have coffee
+| Aug 30, 2016 | NBCNews: "Russians Hacked Two U.S. Voter Databases, Officials Say" byline Robert Windrem, William M. Arkin and Ken Dilanian
 | Aug 31, 2016 | Report filed against Anthony Weiner to ACS
-| Aug ??, 2016 | Susan Rice orders stand down to White House cyber security coordinator, Michael Daniel [see: Jun 20, 2018 Yahoo]
+| Aug ??, 2016 | Susan Rice orders stand down to White House cyber security coordinator, Michael Daniel. Happens in "late Aug". Don't get ahead of the white house on this [see: Jun 20, 2018 Yahoo]
 | Sep ??, 2016 | Comey, while testifying before Congress, does not confirm existence of any investigation into Trump's campaign aides
 | Sep ??, 2016 | Steele briefs Jonathon Winer on dossier at DC hotel, Winer gives 2-page summary to Nuland and Jon Finer
 | Sep ??, 2016 | In FBI memo, Steele admits to Nellie Ohr his feelings against then-candidate Trump, says he was desperate to stop him
 | Sep ??, 2016 | Clovis meets Halper at DoubleTree hotel in Arlington, VA, Halper discusses China, Papadopoulos
 | Sep ??, 2016 | Paul Ahern (Treasury Dept attorney) argues with FinCEN employees citizens private info being illegally searched
-| Sep ??, 2016 | Jeh Johnson, Comey, Lisa Monaco arrive on Capitol Hill to meet with Gang of Twelve to be briefed on Russian hacking
-| Sep 02, 2016 | Halper offers $3k to Papadopolous, invites him to London to discuss a policy paper about Middle East energy issues
+| Sep ??, 2016 | Agents on the Clinton Foundation case, run out of Southern District of New York with assistance from Little Rock, ask EDNY to review laptops from Clinton email case. Clinton investigators say no because of immunity deals
+| Sep 01, 2016 | WSJ: "Donald Trump and the Mob" byline Michael Rothfeld and Alexandra Berzon
+| Sep 02, 2016 | Halper offers $3k to Papadopolous via email, invites him to London to discuss a policy paper about Middle East energy issues
 | Sep 02, 2016 | Peter Smith sets up KLS Research LLC to find Clinton emails
 | Sep 02, 2016 | Page texts Strzok that Comey was preparing a meeting with Obama, who wanted to know what they were doing
 | Sep 02, 2016 | Politico: "The 12 juiciest bits from the FBI's Clinton report" archive.is/u0sax
+| Sep 02, 2016 | NYT: "F.B.I. Papers Offer Closer Look at Hillary Clinton Email Inquiry" byline Eric Lichtblau and Adam Goldman. Strzok mentions it
+| Sep 05, 2016 | NYT: "Intelligence Community Investigating Covert Russian Plan to Disrupt November Elections" byline Tom Hamburger, Dana Preist, Ellen Nakashima. Strzok calls it 100% authorized and well sourced
+| Sep 05, 2016 | In first press conference in 275 days, HRC accuses Russia of interfering with US election, ties Trump into helping with it. States it as concerns
 | Sep 05, 2016 | At G20 Summit, Obama and Putin discuss US presidential election, Obama allegedly warns Putin to stop interfering
+| Sep 05, 2016 | Labor day. Simpson is under the impression that reporters stop doing stories that could be perceived as a "late hit" or some kind of stunt
+| Sep 06, 2016 | Reporter Adam Entous moves from WSJ to WaPo
 | Sep 06, 2016 | FBI, NSA, and ODNI hold classified briefings with Congressional staff members about Russian interference
 | Sep 06, 2016 | LA Times: "$1.7-billion payment to Iran was all in cash due to effectiveness of sanctions, White House says"
 | Sep 06, 2016 | Reuters: "UK inquest into death of Russian whistleblower delayed until 2017" (Perepilichny) archive.is/0Lpke
 | Sep 07, 2016 | OCCRP: "Platon’s Money" archive.is/jdxUw
+| Sep 07, 2016 | During Town Hall, NBCs Matt Lauer asks Trump about his relationship with Putin
 | Sep 07, 2016 | Intelligence and National Security Summit, attended by Schiff, McCabe, Comey, Brennan, Carlin, Adm. Rogers, Shawn Henry
+| Sep 08, 2016 | Tim Kaine intelligence briefing
 | Sep 08, 2016 | NYT: "Justice Dept. Granted Immunity to Specialist Who Deleted Hillary Clinton’s Emails" archive.is/PqOXB
+| Sep 08, 2016 | NYT: "Donald Trump's Campaign Stands by Embrace of Putin" by Jonathan Martin and Amy Chozick
+| Sep 08, 2016 | Daily Beast: "Meet The Man Who Is Spinning For Donald Trump In Russia: Sergei Millian has bolstered his career in Russia by prompting his association with all things Donald Trump. But now that Trump’s Russian ties are under scrutiny, Millian is downplaying their dealings" by Tim Mak, Katie Zavadski
+| Sep 09, 2016 | Mike Pence intelligence briefing by Clapper, Evanina, Strzok and Jen?
+| Sep 09, 2016 | Clapper and Ash Carter propose to split Cyber from NSA
 | Sep 10, 2016 | Strzok: "thing is, there are VERY inflammatory things in the 302s we didn't turn over to Congress"
+| Sep 10, 2016 | 3 FBI agents visit Oleg Deripaska in New York and ask him about collusion
 | Sep 11, 2016 | NBC News: "Hillary Clinton Leaves 9/11 Memorial Early After Feeling ‘Overheated,’ Has Pneumonia" archive.is/q13VJ
 | Sep 13, 2016 | Halper and Papadopolous have dinner at the Connaught Hotel, where Halper brings up his research assistant Azra Turk
 | Sep 13, 2016 | NYT: "U.S. Finalizes Deal to Give Israel $38 Billion in Military Aid" archive.is/CA7gU
+| Sep 13, 2016 | Guccifer 2.0 releases DNC Documents
+| Sep 14, 2016 | Center for Strategic & International Studies seminar. Includes: Comey, Lynch, Brennan, John Carlin, Denis McDonough, James Baker, Pat Fitzgerald, Toscas, Wittes, etc.
 | Sep 14, 2016 | Lisa Monaco tells people at 10yr anniversary of DOJ/NSD that Russia hacking the election would be "extremely difficult"
-| Sep 14, 2016 | Steele dates three installments of the dossier
+| Sep 14, 2016 | Steele dates three installments of the dossier about media fallout and about "Alpha Group"
 | Sep ??, 2016 | Inovo BV hires Flynn Intel Group around this time [see: Nov 21, 2016 Daily Caller]
 | Sep 14, 2016 | Naked Capitalism: "John Helmer: Did Hillary Clinton Take Money From Russia Oligarch Oleg Deripaska for a Favor in the General Motors-Opel Deal?" archive.is/ILTDN
+| Sep 15, 2016 | Long Term Strategy Group exercises a $240,815 Option
 | Sep 15, 2016 | Halper and Papadopolous meet at the Travellers Club, again with Azra Turk, Azra is said to have flirted with Pdop
 | Sep 15, 2016 | Isikoff leaves voicemail for Carter Page, asking for a call back, leaves similar voicemail on September 22
 | Sep 16, 2016 | WaPo: "Donor to Clinton Foundation, McAuliffe caught up in Chinese cash-for-votes scandal" (Wenliang) archive.is/LHWRo
@@ -1552,16 +1574,23 @@ Jun 17, 2018 WaPo]
 | Sep ??, 2016 | Alptekin arranges a meeting between Flynn, Mevlut Cavusoglu, and Berat Albayrak in NYC [see: Mar 24, 2017 New Yorker]
 | Sep 20, 2016 | Genesis Capital files in state court seeking mortgage foreclosure on Manafort-linked loans after monthly payment is missed for property in Brooklyn [see: Jul 25, 2017 Bloomberg]
 | Sep 20, 2016 | NYPost: "Trump has sit-down with Egypt’s president"
+| Sep 20, 2016 | CHA recieves a briefing about weird things happening with Democratic Caucus server, part of the Awans scandal
+| Sep 20, 2016 | WaPo: "Clapper: Russia has tried to influence U.S. elections before" James Clapper gives an interview to David Igantius. Plays up Russian interference and is actually featured in the FISA application
 | Sep 20, 2016 | Strzok: "Plus I'm supposed to talk to Glenn Fine (DOD IG) at 145 with Baker..."
 | Sep 21, 2016 | WSJ: "FBME Bank Wins Second Injunction Against FinCEN Rule" archive.is/TRpTo
 | Sep 21, 2016 | Steele texts bruce Ohr, says he is in DC, says "keen to meet up with you"
+| Sep 21, 2016 | Jon Winer meets Steele at a Washington hotel, is allowed to review but not keep the memos. Prepares a 2 page summary and gave to higher ups
+| Sep 21, 2016 | Steele briefs reporters from 6 news outlets, including Jane Mayer from the New Yorker, the New York Times, the Washington Post, Yahoo News (Isikoff), and CNN (Perez?), about the Dossier at the Tabard Inn
 | Sep 21, 2016 | DailyMail: "Anthony Weiner carried on a months-long online sexual relationship with a troubled 15-year-old girl"
-| Sep 22, 2016 | Schiff and Feinstein release joint statement condeming Russia
+| Sep ??, 2016 | Gang of 12 congressional leaders receive briefing from Lisa Monaco, Comey, and Jeh Johnson. McConnell pushes back on underlying intelligence
+| Sep 22, 2016 | Schiff and Feinstein release statement saying the Russians are trying to influence election. Probably the end result of a failed effort to get a bi partisan statement out
 | Sep 22, 2016 | SDNY issues subpoena for Anthony Weiner phone records
+| Sep 22, 2016 | Long Term Strategy Group excercises a $155,750 Option
+| Sep 22, 2016 | Yahoo! reports data breach to the public and fingers "state sponsored hackers". Sen. Blumenthal and Sen. Warner chastise Yahoo! for waiting so long to publicize
 | Sep 23, 2016 | NYT's Susanne Craig receives a copy of Trump's 1995 tax returns around this time [see: Oct 2, 2016 Medium]
 | Sep 23, 2016 | Yahoo: "U.S. intel officials probe ties between Trump adviser and Kremlin" archive.is/NurCQ
 | Sep 23, 2016 | Politico: "Who Is Carter Page? The mystery of Trump’s man in Moscow" archive.is/m33ms
-| Sep 23, 2016 | Bruce Ohr: Steele "was desperate that Donald Trup not get elected and was passionate about him not being president."
+| Sep 23, 2016 | Bruce Ohr meets with Steele and he "was desperate that Donald Trump not get elected and was passionate about him not being president."
 | Sep ??, 2016 | Winer starts talking to Blumenthal. Blumenthal shares Shearer information which was of a sexual and financial nature. Similar but different from Steele's info
 | Sep ??, 2016 | Comey tasks Preistap (FBI counterintelligence division) with a multifaceted effort to protect the 2016 election from interference
 | Sep ??, 2016 | Winer gives copy of Schearer memo to Steele to keep (electronically I assume). Winer did not give to State. Steele gives to FBI as part of "handing over everything
@@ -1986,7 +2015,7 @@ Jun 17, 2018 WaPo]
 | Feb 18, 2017 | Mifsud speaks at Global Ties national conference, sponsored by the State Dept's Office of International Visitors
 | Feb 19, 2017 | NYT: "A Back-Channel Plan for Ukraine and Russia, Courtesy of Trump Associates" archive.is/lw5W0
 | Feb 20, 2017 | WSJ: "Trump’s Former Campaign Chairman Paul Manafort Thrust Back Into Focus" archive.is/995Ok
-| Feb 21, 2017 | Xiao Yan Chen, founder of Global Alliance Associates, purchases Trump penthouse [see: Feb 27, 2017 Mother Jones]
+| Feb 21, 2017 | Xiao Yan Chen,pfounder of Global Alliance Associates, purchases Trump penthouse [see: Feb 27, 2017 Mother Jones]
 | Feb 21, 2017 | INSD made aware of complaint against McCabe [see: Oct 15, 2018 FBI Vault]
 | Feb 22, 2017 | Devlin Barrett leaves WSJ for WaPo
 | Feb 23, 2017 | Papadopoulos changes cell phone numbers
@@ -3227,4 +3256,4 @@ Jun 17, 2018 WaPo]
 | Nov 30, 2018 | DOJ: "U.S. Seeks to Recover over $73 Million in Proceeds Traceable to Bank Fraud to Conceal the Involvement of Jho Taek Low" archive.is/LRBiO
 | Dec 05, 2018 | Huber update on Clinton Foundation
 | Dec 18, 2018 | Flynn sentencing
-| Apr 27, 2019 | WHCA Dinner with guest speaker Ron Chernow
+| Apr 27, 2019 | WHCA Dinner with guest speaker Ron Chernow
