@@ -1562,6 +1562,9 @@ Jun 17, 2018 WaPo]
 | Sep 23, 2016 | Yahoo: "U.S. intel officials probe ties between Trump adviser and Kremlin" archive.is/NurCQ
 | Sep 23, 2016 | Politico: "Who Is Carter Page? The mystery of Trump’s man in Moscow" archive.is/m33ms
 | Sep 23, 2016 | Bruce Ohr: Steele "was desperate that Donald Trup not get elected and was passionate about him not being president."
+| Sep ??, 2016 | Winer starts talking to Blumenthal. Blumenthal shares Shearer information which was of a sexual and financial nature. Similar but different from Steele's info
+| Sep ??, 2016 | Comey tasks Preistap (FBI counterintelligence division) with a multifaceted effort to protect the 2016 election from interference
+| Sep ??, 2016 | Winer gives copy of Schearer memo to Steele to keep (electronically I assume). Winer did not give to State. Steele gives to FBI as part of "handing over everything
 | Sep 23, 2016 | @McFaul: "If Page using his status as "Trump advisor" for personal gain, thats another matter: Time for Page to join Twitter!" archive.is/j3cVK
 | Sep 24, 2016 | Strzok sends a text to Lisa Page with a link to a Politico article about Carter Page
 | Sep 25, 2016 | Carter Page sends cease-and-desist letter to James Comey, informing him about the witch-hunt directed at him
@@ -1570,6 +1573,7 @@ Jun 17, 2018 WaPo]
 | Sep 26, 2016 | John Carlin files notification with FISA court
 | Sep 26, 2016 | Halper signs fourth contract with DOD's Office of Net Assessment ($411,575.00)
 | Sep 26, 2016 | ACS alerts man who filed report against Weiner
+| Sep 26, 2016 | First presidential debate. Trump says Govt has no idea who actually hacked. "It also could be somebody sitting on their bed that weighs 400 pounds."
 | Sep 26, 2016 | CNBC: "Trump brags about not paying taxes: 'That makes me smart'" archive.is/gmr2Q
 | Sep 27, 2016 | Doug Schoes book, Putin's Master Plan, hits bookstores archive.is/04DHo
 | Sep 27, 2016 | Halper's third contract with DOD expires ($244,960.00)
@@ -1581,26 +1585,34 @@ Jun 17, 2018 WaPo]
 | Sep 29, 2016 | Obama for America pays Perkins Coie $700,000
 | Sep 29, 2016 | Mikk Marran attends CEPA Forum in DC, panelists Thomas Kent, Mustafa Nayyem, Michael Weiss, speech by Benjamin Wittes
 | Sep 30, 2016 | Whistleblower Adam Lovinger sends letter to Office of Net Assessment Director James H. Baker
+| Sep 30, 2016 | House leadership gets another warning about the Awans
+| Sep 30, 2016 | End of FY 2016, beginning of FY 2017
 | Sep ??, 2016 | Steele attends several off-the-record meetings with U.S. journalists from NYT, WaPo, Yahoo, New Yorker, and CNN
 | Oct ??, 2016 | Steele debriefed by FBI, hands over Cody Shearer memo
 | Oct ??, 2016 | Kerry aides produce "action memo", includes relatiatory measures against Russia, not published till election night
 | Oct ??, 2016 | Successful FISA on a server in Trump Tower, suspected of comms with two Russian banks [see: Nov 7, 2016 Heat Street]
-| Oct 01, 2016 | FBI goes to Rome to ask Steele about contact with Papadopoulos (Steele denies contact)
+| Oct 01, 2016 | At the FBIs request, Steele meets with "four FBI officials" in Rome, one of them from Washington, and offers a full debriefing on his information. It was in Rome presumably because of Mike Gaeta. FBI tells Steele about the human source in the Trump campaign, and that FBI was specifically looking at Papadopoulos
 | Oct 01, 2016 | NYT: "Pages From Donald Trump’s 1995 Income Tax Records" archive.is/Sdb4M
 | Oct 02, 2016 | Medium: "Did Marla Maples Leak Her Own Tax Returns?" (Yashar Ali) archive.is/eKPhQ
-| Oct 03, 2016 | Forbes: "Trump And The Oligarch 'Trio'" archive.is/rhEov
+| Oct 03, 2016 | Forbes: "Trump And The Oligarch 'Trio'" by Richard Behar, also "Donald Trump And The Felon: Inside His Business Dealings With A Mob-Connected Hustler" by the same author on the same subject archive.is/rhEov
 | Oct 03, 2016 | NY FBI confiscates Weiner laptop, iPad, phone, wifi router
 | Oct 03, 2016 | Roger Stone allegedly dines with an associate of Julian Assange (Credico?)
+| Oct 03, 2016 | Steele back in London
 | Oct 04, 2016 | FBI discovers +700k emails on Weiner laptop, also all HRC emails from 2006-2016 [see: Jun 22, 2018 Daily Caller]
+| Oct 04, 2016 | Second presidential debate
+| Oct 04, 2016 | Guccifer 2.0 releases DCCC documents and falsely advertises them as Clinton Foundation documents
+| Oct 05, 2016 | Wordpress page first published showing links between Russian server and Trump tower
 | Oct 06, 2016 | WaPo hosts Cybersecurity Summit, attended by Lisa Monaco, Ellen Nakashima, and DNC's Michael Sussmann
 | Oct 06, 2016 | WaPo: "Trump personally lobbied Congress to give real estate developers bigger tax breaks" archive.is/7AjuE
 | Oct 07, 2016 | Manafort emails Calk, says $2.5m first mortgage on a property is actually $3.5 [see: Aug 13, 2018 American Banker]
+| Oct ??, 2016 | "Early October" Comey and other senior administration officials meet twice in the White House Situation Room in early October to again discuss a public statement about Russian meddling. But the roles were reversed: Susan Rice, the national security adviser, wanted to move ahead. Mr. Comey was less interested in being involved
 | Oct 07, 2016 | Homeland Security, ODNI blame Russia for DNC leaks, Podesta emails, Guccifer 2.0 (Comey declines to attach his name)
 | Oct 07, 2016 | Susan Rice summons Ambassador Kislyak to the White House to relay a message to Vladimir Putin
 | Oct 07, 2016 | Strzok: : “Jesus. More BO leaks in the NYT” (Bruce Ohr?)
-| Oct 07, 2016 | Access Hollywood tape
+| Oct 07, 2016 | Access Hollywood tape released
 | Oct 07, 2016 | WikiLeaks began releasing batches of Podesta’s emails on a near-daily basis until election day
 | Oct 08, 2016 | NeverTrumper GOP Congressman Will Hurd dumps Trump
+| Oct 09, 2016 | Second presidential debate. Hillary specifically mentions "17 intelligence agencies" assessment
 | Oct 09, 2016 | Poteyev applies for a fishing license at a Wal-Mart in Florida, using his full name [see: Oct 3, 2018 BuzzFeed]
 | Oct 09, 2016 | Mueller joins Booz Allen Hamilton after Shadow Brokers investigation arrests NSA contractor Harold Martin
 | Oct 09, 2016 | WaPo: "Trump: If elected, I’ll appoint a special prosecutor to look into Clinton’s emails" archive.is/60Lv9
@@ -1610,8 +1622,11 @@ Jun 17, 2018 WaPo]
 | Oct 10, 2016 | @mike pence: "Delicious stop at Tony's Ice Cream, a family-owned-and-operated small business in downtown Gastonia, NC"
 | Oct 10, 2016 | Gen. Flynn meets with Ibrahim Kurtulus and Hilal Mutlu, relatives of Erdogan, in NYC [see: Nov 16, 2016]
 | Oct 11, 2016 | Politico: "Podesta: Trump ally had ‘advance warning’ of hacked emails"
+| Oct 11, 2016 | Don Jr at event in Paris, hosted by French think tank. Fusion apparently knew about it
 | Oct 12, 2016 | CBS: "Trump Ally Roger Stone Admits ‘Back-Channel’ Tie To WikiLeaks"
+| Oct 12, 2016 | Steele files report about Kremlin assessment
 | Oct 13, 2016 | Trump delivers "Slings and Arrows" speech in Florida
+| Oct 14, 2016 | Third presidential debate
 | Oct 14, 2016 | Yahoo: "Former CIA director accuses Trump allies of 'working on behalf of the Russians'"
 | Oct 14, 2016 | Michael McFaul tweets about bumping into Ambassador Kislyak at the White House
 | Oct 14, 2016 | Page: "...DAG now wants to be there, and WH wants DOJ to host...get Cohen's view...We need to speak with one voice."
@@ -1619,17 +1634,22 @@ Jun 17, 2018 WaPo]
 | Oct 14, 2016 | Melissa Hodgman-Strzok is promoted to Associate Director in the SEC's Enfocement Division
 | Oct ??, 2016 | Steele meets with several reporters again in mid-October
 | Oct 15, 2016 | John P. Carlin resigns
-| Oct 16, 2016 | WikiLeaks tweets that Julian Assange's internet link has been severed by a state party
+| Oct 16, 2016 | WikiLeaks tweets that Julian Assange's internet link has been severed by a state party. Assange says it was at the behest of John Kerry, citing multiple US sources
 | Oct 17, 2016 | Politico: "4-star general snagged for lying in Stuxnet leak probe" archive.is/jstCw
+| Oct 17, 2016 | NYT: "Agents clash over HRC emails" byline Eric Lichtblau, Steven Lee Myers
 | Oct 17, 2016 | @ChrisSnyderFox: "Trump tells his supporters 'it is time to drain the swamp in Washington, D.C.'"
 | Oct 17, 2016 | NYT: "James Cartwright, Ex-General, Pleads Guilty in Leak Case" archive.is/ihTiw
+| Oct 18, 2016 | Steele is in Washington again, he briefs reporters again. NYT, WaPo, Yahoo. Again visits the Washington Post's newsroom, "visibly agitated."
+| Oct 18, 2016 | Steele visits State Department, Nuland apparently doesn't go
 | Oct 18, 2016 | Crossfire Hurricane rush "Dragon" FISA warrant [see: July 7, 2018 The Hill]
 | Oct 18, 2016 | NYO Case Agent alerts SDNY to FBI HQ "inaction", FBIHQ re-engagement regarding Weiner laptop
+| Oct 19, 2016 | Third presidential debate. "You're the puppet"
+| Oct 19, 2016 | Steele has a call with Ohr again
 | Oct 19, 2016 | Page: "Meeting with WH counsel is finally set up and I want to talk about timing. Thanks."
 | Oct 19, 2016 | Page: "DAG approved. I told [?] already to stand by for one edit."
 | Oct 19, 2016 | Reuters: "Clinton accuses Trump of being Putin's 'puppet'"
 | Oct 19, 2016 | NYT: "Trove of Stolen Data Is Said to Include Top-Secret U.S. Hacking Tools" (Harold T. Martin) archive.is/BTOSG
-| Oct 20, 2016 | Steele finishes his memos
+| Oct 20, 2016 | Steele files report talking about Michael Cohen visiting Prague the day earlier
 | Oct 20, 2016 | Halper talks at the China Forum in Washington
 | Oct 20, 2016 | NSA compliance officer briefs Adm. Rogers on illegal FBI spying
 | Oct 20, 2016 | Lisa Monaco meets with financial executives to discuss cyber security
@@ -1647,7 +1667,7 @@ Jun 17, 2018 WaPo]
 | Oct 24, 2016 | Jill McCabe forwards Oct 24, 2017 True Pundit article to Andrew McCabe ("fyi") archive.is/tirDN
 | Oct 25, 2016 | Giuliani teases that the Trump campaign has "surprises left" on Fox and Friends
 | Oct 26, 2016 | McCabe, Lynch, and William Sweeney Jr. talk about leaks, including some about Eric Garner
-| Oct 26, 2016 | NSA briefs w/ written reports the full FISA Court
+| Oct 26, 2016 | NSA briefs with written reports the full FISA Court. The Court otherwise would have completed its review of the certifications and procedures if there were no issues
 | Oct 27, 2016 | McCabe instructed to listen by phone to MYE-Wiener laptop conference led by Comey [see: Jun 14, 2018 IG]
 | Oct 27, 2016 | Peter Fritch email to Mark Cymrot ccing Glenn Simpson, about the Prevazon/Browder case
 | Oct 28, 2016 | Carter Page writes EU Human Rights commission to report election tampering by spying on him, leaking false info
@@ -1657,8 +1677,10 @@ Jun 17, 2018 WaPo]
 | Oct 29, 2016 | Joe DiGenova announces FBI did not destroy Clinton team laptops
 | Oct 30, 2016 | WSJ: "FBI in Internal Feud Over Hillary Clinton Probe" archive.is/91ru0
 | Oct 29, 2016 | Joseph Mifsud emails his employee, Simona Mangiante, asking if he can meet with her in London
+| Oct 30, 2016 | A British citizen envoy arrives in Charlotte, NC to walk precincts in support of Hillary Clinton, including Jen Thornton. Australians, led by  Stephen Donnelly, go to Charlston, NC
 | Oct 30, 2016 | Reid writes letter to Comey, demands he announce Trump Russia investigation
 | Oct 30, 2016 | WSJ article on McCabe's ties to McAuliffe
+| Oct 30, 2016 | McCabe in London
 | Oct ??, 2016 | Clinton campaign and DNC stop paying Fusion GPS through Perkins Coie
 | Oct 31, 2016 | Slate: "Was a Trump Server Communicating With Russia?" archive.is/Z7kZm
 | Oct 31, 2016 | NYT: "Investigating Donald Trump, F.B.I. Sees No Clear Link to Russia" archive.is/GQy9Y
@@ -1666,10 +1688,12 @@ Jun 17, 2018 WaPo]
 | Oct 31, 2016 | Comey and McCabe have face-to-face conversation about 10/30 WSJ article
 | Oct 31, 2016 | Obama admin calls Moscow on a secure line (matter unknown)
 | Oct 31, 2016 | David Corn publishes an article about a veteran spy's finding on Trump and Russia
-| Oct 31, 2016 | NBC News: "FBI Making Inquiry Into Ex-Trump Campaign Manager's Foreign Ties"
-| Oct 31, 2016 | NYT: "Investigating Donald Trump, F.B.I. Sees No Clear Link to Russia" (Brennan leaks?)
-| Nov 01, 2016 | WaPo: "After another release of documents, FBI finds itself caught in a partisan fray" (Marc Rich) archive.is/h70lm
+| Oct 31, 2016 | NBC News: "FBI Making Inquiry Into Ex-Trump Campaign Manager's Foreign Ties" byline includes Ken Dilanian
+| Oct 31, 2016 | FT.com: "The shadowy Russian émigré touting Trump: US election raises ghosts of cold war-era spy games" by Catherine Belton, about Sergei Millian
+| Oct 31, 2016 | NYT: "Investigating Donald Trump, F.B.I. Sees No Clear Link to Russia" by Eric Lichtblau and Stephen Lee Meyers(Brennan leaks?)
+| Nov 01, 2016 | WaPo: "After another release of documents, FBI finds itself caught in a partisan fray" 129 pages of years old Marc Rich docs released on FOIA Vault archive.is/h70lm
 | Nov 01, 2016 | FBI terminates its relationship with Christopher Steele
+| Nov 01, 2016 | Steele shows BBC reporter Paul Wood the Dossier
 | Nov 01, 2016 | Moscow confirms it received Obama admin's call on the secure line
 | Nov 01, 2016 | McCabe recuses himself from Clinton Foundation investigation [see: Jun 14, 2018 IG Report]
 | Nov 02, 2016 | Grassley sends letter to Comey about the relationship between Andrew McCabe, Jill McCabe, and Terry McAuliffe
