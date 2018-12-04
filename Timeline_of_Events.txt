@@ -1467,6 +1467,8 @@
 | Jul ??, 2016 | Sergei Millian does an interview with ABC’s Brian Ross http://archive.is/ROHZm
 | Jul 25, 2016 | Long Term Strategy Group excercises a $354,612 Option
 | Jul 25, 2016 | Yahoo: "Exclusive: Suspected Russian hack of DNC widens — includes personal email of staffer researching Manafort" by Michael Isikoff
+| Jul 26, 2016 | DNC convention Day 2 (Tuesday). Speakers include Bill Clinton, Madeline Albright, Eric Holder, Terry McAuliffe, Nancy Pelosi
+| Jul 26, 2016 | DC-PPD-41 issued by White House. NCIJTF designated the lead responder to cyber threats
 | Jul 26, 2016 | WaPo: "George F. Will: The path ahead for Clinton and Kaine"
 | Jul 26, 2016 | NYT: "Spy Agency Consensus Grows That Russia Hacked D.N.C." byline David Sanger and Eric Schmitt http://archive.is/GHyUW
 | Jul 26, 2016 | WaPo: "Bernie Sanders asks delegates to back Hillary Clinton, and hears boos"
@@ -1476,22 +1478,32 @@
 | Jul 26, 2016 | @realDonaldTrump: "For the record, I have ZERO investments in Russia."
 | Jul 26, 2016 | Sater: "'Fuck me, I thought to myself. All that work for nothing'" [see: May 17, 2018 BuzzFeed]
 | Jul 26, 2016 | WSJ's Devlin Barrett calls Carter Page about contacts with Igor Sechin [see: Nov 2, 2017 HPSCI testimony]
-| Jul 27, 2016 | Guardian: "Trump: 'Russia, I hope you can find Hillary's missing emails'" archive.is/PfsuV
+| Jul 27, 2016 | DNC Convention Day 3 (Wednesday). Adam Schiff, Harry Reid, Joe Biden, Barack Obama, Pitella gives speeches at convention
+| Jul 27, 2016 | Guardian: "Trump: 'Russia, I hope you can find Hillary's missing emails'" he says it at a campaign event in Florida that morning archive.is/PfsuV
+| Jul 27, 2016 | In the afternoon, Trump is in Scranton, PA with Pence
+| Jul 27, 2016 | Trump holds a rally in Toledo, OH that night
 | Jul 27, 2016 | Trump states he would recognise Moscow’s annexation of Crimea
-| Jul 27, 2016 | Comey and Lynch "CI Threat" briefing, Lisa Page and Jon Moffa there.
+| Jul 27, 2016 | Comey and Lynch "CI Threat" briefing, Lisa Page and Jon Moffa there
+| Jul 27, 2016 | Long Term Strategy Group "other administrative action" a $69,901 Option
 | Jul 27, 2016 | Aspen Security Forum
 | Jul 27, 2016 | Calk skypes with Manafort and Yohai, indicates he would be interested in helping Trump [see: Aug 12, 2018 Tribune]
+| Jul 27, 2016 | Politico: "Treason? Critics Savage Trump Over Russia Hack Comments”
 | Jul 28, 2016 | Calk approves Manafort loan [see: Aug 12, 2018 Tribune]
-| Jul 28, 2016 | Politico: "Trump and the Oligarch" archive.is/LP6s9
+| Jul 28, 2016 | DNC Convention Day 4, last day. Hillary accepts nomination
+| Jul 28, 2016 | Trump has two campaign stops in Iowa
+| Jul 28, 2016 | Politico: "Trump and the Oligarch" by Michael Crowley, about Dimitry Rybolovev archive.is/LP6s9
 | Jul 28, 2016 | Yahoo: "FBI warned Clinton campaign last spring of cyberattack" by Michael Isikoff
 | Jul ??, 2016 | Bruce Ohr in contact with Steele days before Crossfire Hurricane begins, engages Steele as "confidential human source"
 | Jul 29, 2016 | First payment to Cambridge Analytica by Trump campaign [see: Nov 10, 2017 WSJ]
+| Jul 29, 2016 | WaPo: "Russias DNC hack: a prelude to intervention in November?" by David Ignatius
 | Jul 29, 2016 | Kilimnick: "I met today with the guy who gave you your biggest black caviar jar several years ago”, Kilimnick says he talked with Deripaska for about five hours [see: Jul 17, 2017 WSJ]
 | Jul 29, 2016 | Steele likely arrives in DC late afternoon/evening
+| Jul 30, 2016 | Forbes: "Ex-FBI cyber sleuth: DNC and Clinton Campaign Hack part of a pattern" by Richard Behar
 | Jul 30, 2016 | Bruce and Nellie Ohr meet Steele in DC Mayflower Hotel
 | Jul 30, 2016 | Bruce Ohr calls McCabe [see: September 6, 2018 The Hill]
 | Jul 31, 2016 | Kilimnick: "I need about two hours because it is a long caviar story to tell", confirms dinner reservations with Manafort for August 2nd [see: Oct 2, 2017 Atlantic]
 | Jul 31, 2016 | Meet the Press questions Manafort on RNC platform changes for Ukraine
+| Jul 31, 2016 | Face the Nation has Bernie Sanders, Paul Manafort, David Axelrod, John Heilemann
 | Jul 31, 2016 | Crossfire Hurricane officially begins
 | Jul 31, 2016 | Rybolovlev plane lands at Washington’s Dulles airport, stays 22 hours, takes off for NYC [see: Mar 7, 2017 McClatchly]
 | Jul 31, 2016 | WSJ: "The Clinton Foundation, State and Kremlin Connections" archive.is/g9s77
@@ -1500,6 +1512,7 @@
 | Aug ??, 2016 | Shahram Amiri's family announces he has been executed, apparently by hanging [see: Aug 7, 2016 BBC]
 | Aug 01, 2016 | WaPo: "George F. Will: How entangled with Russia is Trump?"
 | Aug 01, 2016 | The Duran: "NSA whistleblower says DNC hack was not done by Russia, but by U.S. intelligence"
+| Aug 01, 2016 | WSJ: "Donald Trump Long Sought a Real Estate foothold in Russia" byline Alan Cullison, Alexandra Berzon, Michael Rothfeld
 | Aug 02, 2016 | Two FBI agents (Strzok and ??) in London send interview summary of Downer and Papadopoulos to DC
 | Aug 02, 2016 | Manafort dines with Kilimnick at Grand Havana Room in NYC, discuss "unpaid bills" [see: Oct 2, 2017 Atlantic]
 | Aug 03, 2016 | One of Deripaska's private planes lands in Newark, NJ around 6am, leaves around 10am [see: Mar 6, 2018 Medium]
@@ -1519,17 +1532,20 @@
 | Aug 03, 2016 | Strzok: "He should be. I can reinforce that when I brief you/Bill, and Andy, if I talk to him about it."
 | Aug 03, 2016 | Page: "We need to get MYE out the door, and quickly. We're not going to be able to withstand the pressure soon."
 | Aug 03, 2016 | George Nader, alongside Joel Zamel, meets Donald Trump, Jr., offers use of Zamel's company, Psy-Group
+| Aug 04, 2016 | Gianelli Pitella: Donald Trump is a "virus"
 | Aug 04, 2016 | WaPo: "George F. Will: Shallowness runs deep with Trump"
 | Aug 04, 2016 | The Hill: "Ukraine's ambassador: Trump's comments send wrong message to world" (Valeriy Chaly) archive.is/MKAti
 | Aug 04, 2016 | Roger Stone allegedly dines with Julian Assange (later denied) [see: April 2, 2018 WSJ]
 | Aug 04, 2016 | Brennan contacts Alexander Bortnikov, head of FSB intel, says to cease further interference in U.S. elections
 | Aug 05, 2016 | In an email, Erdogan suggests that operatives “send info” to opponents of U.S. Congress members who had received donations from Gulenists [see: Nov 17, 2016 Daily Caller]
-| Aug 05, 2016 | WaPo: "Trump adviser’s public comments, ties to Moscow stir unease in both parties" (Carter Page) archive.is/slcv4
+| Aug 05, 2016 | Steele files report talking about growing backlash in Kremlin
+| Aug 05, 2016 | WaPo: "Trump adviser’s public comments, ties to Moscow stir unease in both parties" byline Steven Mufson and Tom Hamburger about Carter Page archive.is/slcv4
 | Aug 05, 2016 | Guardian: "Rio 2016 opening ceremony a mix of pared patriotism and climate concern" archive.is/5yQBl
 | Aug 05, 2016 | Strzok: "the White House is running this"
 | Aug 05, 2016 | Stephen Calk, CEO of The Federal Savings Bank, named to Trump's economic council [see: Jul 25, 2017 Bloomberg]
 | Aug 05, 2016 | WSJ: "The Big-Name Financiers Advising Trump on Economic Policy" archive.is/0S0ff
 | Aug 06, 2016 | Obama seeks bipartisan support condemning Moscow and to urge states to accept federal help wrt securing election sites
+| Aug 06, 2016 | Obama leaves for his Marthas Vineyard Vacation
 | Aug 06, 2016 | Hillary tweets first video questioning Trump's relationship to Russia
 | Aug 07, 2016 | Guardian: "Iran executes nuclear scientist who returned to country from US" (Shahram Amiri) archive.is/KE0XX
 | Aug 07, 2006 | WaPo: "Iranian nuclear scientist Shahram Amiri 'executed'" archive.is/ksatw
@@ -1537,9 +1553,11 @@
 | Aug 08, 2016 | The Observer: "Did NSA Try to Destroy Hillary Clinton"
 | Aug 08, 2016 | Page: "he's not ever going to be president, right? Right?"
 | Aug 08, 2016 | Strzok: "No. No he won't. We’ll stop it"
+| Aug 08, 2016 | Strzok, Page prep for McDonough briefing (Obama chief of staff)
 | Aug 08, 2016 | NYT: "Evan McMullin, Anti-Trump Republican, Mounts Independent Presidential Bid" archive.is/lKtXV
 | Aug 09, 2016 | Flynn Intel Group signs 3-month, $600k contract with Ekim Alptekin [see: Mar 11, 2017 Daily Caller]
 | Aug 10, 2016 | Roger Stone tells a local Republican Party group in Florida "I've actually communicated with Julian Assange."
+| Aug 10, 2016 | Steele files two reports about "evolving tactics" and about reaction in Trump camp. One that includes Flynns name, seven days before Flynn attends Trumps intel briefing
 | Aug 11, 2016 | Clapper visits Estonia
 | Aug 11, 2016 | Brennan briefs Reid, McConnell, Feinstein, Burr, Ryan, Pelosi, Nunes, and Schiff wrt Russian hacking attempts
 | Aug 12, 2016 | @balkanewz: "Ivanka Trump, daughter of US presidential candidate, cruises into #Croatia's Dubrovnik with Kushner" archive.is/UMMOZ
@@ -1548,8 +1566,9 @@
 | Aug 12, 2016 | Stone says on the #MAGA podcast he believes Assange has emails deleted by Clinton aides Huma Abedin and Cheryl Mills. He adds that he knows he has them and they should be expected to drop in the next three months. "In fact I know [Assange] has them. And I believe he will expose the American people to this information in the next 90 days."
 | Aug 13, 2016 | Page: "I'm going to forward to Kortan. God, makes me want to tell state to go f it."
 | Aug 13, 2016 | Strzok: "States BS just makes me want to include those additional 302s. But that's just vindictiveness talking."
-| Aug 14, 2016 | NYT: "Secret Ledger in Ukraine Lists Cash for Donald Trump's Campaign Chief" archive.is/Z5NPE
+| Aug 14, 2016 | NYT: "Secret Ledger in Ukraine Lists Cash for Donald Trump's Campaign Chief" Maggie Haberman calls it "deeply reported" Byline is Kramer, McIntyre and Meyer archive.is/Z5NPE
 | Aug 14, 2016 | Stone engages in direct messages with DNC hacker Guccifer 2.0, according to direct messages reported by the Washington Times and The Smoking Gun. Stone tells the hacker he was "delighted" Twitter reinstated his account
+| Aug 15, 2016 | Guccifer 2.0 releases DCCC documents related to Florida primaries
 | Aug 15, 2016 | DOH's Jeh Johnson calls state officials to gain support for election defense, but was met with "a wall of resistance"
 | Aug 15, 2016 | Bruce Ohr contacts Peter Strzok [see: September 6, 2018 The Hill]
 | Aug 15, 2016 | Stone tells World Net Daily he communicated with Assange and forthcoming material will be related to the Clinton Foundation
@@ -1561,10 +1580,12 @@
 | Aug 16, 2016 | Guardian: "Hacking group auctions 'cyber weapons' stolen from NSA" (Shadow Brokers)
 | Aug 16, 2016 | Daily Beast: "Donald Trump Took Liberal Icon George Soros’s Money" archive.is/fDAcL
 | Aug 16, 2016 | Mediaite: "Trump Defended George Soros During 2011 Tea Party Rally: ‘Leave Him Alone’"
+| Aug 17, 2016 | Trump Campaign briefed by intelligence officials. Flynn was there and apparently asked pointed questions. Christie was there. Fewer than 10 people in the room. All the briefers were career intelligence officials, including both military officers and civilians. The briefing team was the same for both presidential candidates. None were political appointees, and none were among the team that briefs President Obama daily. The names of the briefers have not been made public
 | Aug 17, 2017 | Vanity Fair: "Exclusive: Stephen Bannon, Trump's new CEO, hints at his master plan" archive.is/TdEFC
 | Aug 17, 2016 | Boingboing: "Breitbart's Stephen Bannon, now Trump's new CEO, reveals his master plan" archive.is/lUKmm
 | Aug 17, 2016 | Yahoo: "Manafort was go-between in secret Ukraine lobbying campaign" by Michael Isikoff
-| Aug 17, 2016 | AP: "Manafort tied to undisclosed foreign lobbying" archive.is/ZWa1r
+| Aug 17, 2016 | AP: "Manafort tied to undisclosed foreign lobbying" byline Jeff Horowitz and Desmond Butler archive.is/ZWa1r
+| Aug 18, 2016 | Politico: "Manafort’s man in Kiev: The Trump campaign chairman’s closeness to a Russian Army-trained linguist turned Ukrainian political operative is raising questions, concerns" by Kenneth Vogel
 | Aug 18, 2016 | Stone says in an interview on C-SPAN he's been in touch with Julian Assange "through an intermediary—somebody who is a mutual friend." WikiLeaks would later tweet in response to Stone's appearance, "We are happy to hear true information from everyone. But so far, we have not heard from Mr. Stone."
 | Aug 18, 2016 | Reuters: "Hackers targeted Trump campaign, Republican Party groups"
 | Aug 19, 2016 | Clinton meets Ukranian President Poroshenko at UN General Assembly meeting
@@ -1572,7 +1593,8 @@
 | Aug 19, 2016 | Politico: "Paul Manafort resigns from Trump campaign" archive.is/b7kJz
 | Aug 19, 2016 | CNN: "First on CNN: Feds investigate Manafort firm as part of Ukraine probe" archive.is/gQsa0
 | Aug 19, 2016 | Private company called ThreatConnect publishes a blog post (a la Crowdstrike) which ties Fancy Bear to a hack of the Russian olympic doping whistleblower
-| Aug 20, 2016 | NYT: "More of Kremlin’s Opponents Are Ending Up Dead" (Poteyev mentioned as deceased) archive.is/XyLBz
+| Aug 20, 2016 | NYT: "More of Kremlin’s Opponents Are Ending Up Dead" (Poteyev mentioned as deceased) "according to multiple law enforcement officials" Strzok and and Page don't know where it's coming fro archive.is/XyLBz
+| Aug 20, 2016 | Conyers Cummings Engel and Thompson ask Comey to investigate Trump Russia. Talk about Manafort, Page, Gates, Flynn
 | Aug ??, 2016 | (Another FISA starts on Manafort?)
 | Aug ??, 2016 | "Late Aug" Susan Rice tells people organizing counter attacks against Russia to "stand down." Don't get ahead of the white house on this
 | Aug 21, 2016 | Stone says he is not "at liberty to discuss" information he received from Assange. Stone claims he was hacked after speaking with Assange
