@@ -3125,7 +3125,8 @@
 | Jun 14, 2018 | DOJ OIG releases report on various action by the Federal Bureau of Investigation and Department of Justice in advance of the 2016 election archive.is/hn7Hg
 | Jun 17, 2018 | WaPo: "Trump associate Roger Stone reveals new contact with Russian national during 2016 campaign" archive.is/yDfGU
 | Jun 17, 2018 | CNN: "Former Trump operative Roger Stone met with Russian who wanted $2M for Clinton dirt" archive.is/XDLvX
-| Jun 19, 2018 | New York Post: "House GOPer unmasks identities of anti-Trump FBI agents"
+| Jun 18, 2018 | DOJ: "Joshua Adam Schulte Charged with the Unauthorized Disclosure of Classified Information and Other Offenses Relating to the Theft of Classified Material from the Central Intelligence Agency" archive.is/Kw1UP
+| Jun 19, 2018 | NYPost: "House GOPer unmasks identities of anti-Trump FBI agents"
 | Jun 19, 2018 | Miami Herald: "Mystery Miamian tied to Trump probe had many names, foul mouth, 2 DUI busts" archive.is/1hvDO
 | Jun 19, 2018 | WaPo: "At height of Russia tensions, Trump campaign chairman Manafort met with business associate from Ukraine"
 | Jun 20, 2018 | Guardian: "US lobbyist for Russian oligarch visited Julian Assange nine times last year"
@@ -3376,3 +3377,4 @@
 | Dec 04, 2018 | @AP: "Jeffrey Epstein settles lawsuit, avoiding testimony by women he allegedly abused" archive.is/atgff
 | Dec 04, 2018 | @JenniferJJacobs: "China announces punishments for intellectual property theft that could restrict companies’ access to borrowing and state-funding support" archive.is/xHuVi
 | Dec 04, 2018 | NBC News: "Joe Biden: 'I'm the most qualified person in the country to be president'" archive.is/pNpHJ
+| Dec 04, 2018 | DOJ: "Four Defendants Charged in Panama Papers Investigation for Their Roles in Panamanian-Based Global Law Firm’s Decades-Long Scheme to Defraud the United States" archive.is/9s7g0
