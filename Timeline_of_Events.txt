@@ -876,7 +876,7 @@
 | Jun 19, 2015 | Foreign Policy: "Out of Uniform and Into the Political Fray" (Flynn)
 | Jun 22, 2015 | CNN: "U.S. data hack may be 4 times larger than the government originally said" referring to the OPM hack. James Comey says it could have affected 18 million accounts
 | Jun 24, 2015 | The Atlantic: "Justice Dept. May Probe 'Compromise' of Classified Info In Hillary Clinton's Email" archive.is/U4hsS
-| Jun 25, 2015 | Clapper comfirms that China is the chief suspect behind the OPM breach
+| Jun 25, 2015 | Clapper confirms that China is the chief suspect behind the OPM breach
 | Jun 25, 2015 | Politico: "Supreme Court: Obamacare ruling upholds key portion of Affordable Care Act" archive.is/tVo0W
 | Jun 29, 2015 | State Dept IG writes memo to Patrick F. Kennedy re: mishandling of HRC classified info [see: Jul 23, 2015 NYT]
 | Jul ??, 2015 | Manafort pays off $250k 2004 loan from Middle Eastern arms dealer Abdul Rahman al-Assir [see: Apr 26, 2016 WaPo]
@@ -909,6 +909,7 @@
 | Aug 02, 2015 | @MarkHalperin: "The decision to terminate Sam Nunberg was made by campaign manager Corey Lewandowski & accepted by @realDonaldTrump. N/c from Nunberg so far"
 | Aug 04, 2015 | Washington Examiner: "Will Donald Trump's ties to a criminal hurt his campaign?" by Ryan Lovelace, referring to Sater archive.is/SFloN
 | Aug 05, 2015 | New York Post: "FBI investigation of Hillary’s emails is ‘criminal probe’" archive.is/OiYr0
+| Aug 06, 2015 | First GOP primary debate, sponsored by FOX, held in Cleveland, OH
 | Aug 06, 2015 | Politico: "Trump's debate 'dirty trickster'" (Roger Stone) archive.is/lXPNo
 | Aug 08, 2015 | @costareports: "@realDonaldTrump has fired Roger Stone as a political adviser, per Trump in intvw w/ @washingtonpost"
 | Aug 08, 2015 | Daily Beast: "Donald Trump’s Gross History of Misogyny: From Rosie O’Donnell to Megyn Kelly" by Marlow Stern
@@ -930,6 +931,7 @@
 | Sep 10, 2015 | Daily Beast: "Hey, Trump, Your Swag Is Made in Africa. Here’s an Ohio Company That Can Make It for Less" by Michael Daly
 | Sep 11, 2015 | @markknoller: "Pres Obama will be in NYC for three days at the end of the month for the opening of the UN General Assembly session" archive.is/ihrLx
 | Sep 15, 2015 | Page: "Honestly, I thought it was weird that [?] would let you brief clapper before he got a recent update..."
+| Sep 16, 2015 | Second GOP primary debate, sponsored by CNN, held in Simi Valley, CA
 | Sep 16, 2015 | @guardianworld: "UN General Assembly starts today." archive.is/Ojd2G
 | Sep 17, 2015 | Sixty day congressional review period ends, the JCPOA goes into effect
 | Sep 20, 2015 | Trump tells CBS "I'd enjoy" meeting with Putin. Repeats it at a debate. Rubio hits back on it
@@ -960,6 +962,7 @@
 | Oct 22, 2015 | WSJ: "Spy vs. Spy: Inside the Fraying U.S.-Israel Ties" archive.is/bal3Q
 | Oct 24, 2015 | Telegraph: "'Spy in bag' Gareth Williams was 'murdered by Russian hitmen after sexual photo blackmail plot'" archive.is/Qf4As
 | Oct 28, 2015 | Trump reportedly signs the letter of intent for Trump Tower Moscow
+| Oct 28, 2015 | Third GOP primary debate, sponsored by CNBC, held in Boulder, CO
 | Oct 30, 2015 | Joseph Mifsud's profile disappears from a London legal practice's website, reports qz.com
 | Nov ??, 2015 | FBI agent Hawkins calls DNC help desk, says DNC server "calling home" to Moscow as part of a state-sponsored attack
 | Nov ??, 2015 | Papadopoulos joins Carson campaign
@@ -967,6 +970,7 @@
 | Nov 02, 2015 | NYT: "Jury Selection Begins in Sheldon Silver Corruption Trial" archive.is/5O9qY
 | Nov 03, 2015 | Jill McCabe loses to Dick Black in Virginia state senate race archive.is/semHR
 | Nov 03, 2015 | Felix Sater emails Michael Cohen, says they can get Trump elected president. "Buddy our boy can become president of the USA and we can engineer it. I will get all of Putins team to buy in on this, I will manage this process. My next steps are very sensitive with Putin’s very, very close people. We can pull this off" [see: Aug 30, 2017 Emptywheel]
+| Nov 10, 2015 | Fourth GOP primary debate, sponsored by FOX, held in Milwaukee, WI
 | Nov 12, 2015 | Yahoo: "U.S. weighs ‘genocide’ label for IS in Iraq — and more than a word may be at stake" by Michael Isikoff
 | Nov 15, 2015 | Reporter Evan Perez moves from WSJ to CNN
 | Nov 29, 2015 | Flynn in Der Speigel, criticizes Obama's mideast policy
@@ -997,6 +1001,7 @@
 | Dec 12, 2015 | Evelyn Lieberman dies. She had been working on HRCs campaign. She formerly was WH deputy COS and undersecretary of State Dept. She was known as an "enforcer" for the Clintons. Her husband, Ed Lieberman, has a relationship with Rinat Akhmetshin, and later shows up in the events surrounding the Trump Tower meeting.
 | Dec 14, 2015 | Aaron Zebley sends letter to DOJ, asks for Justin Cooper's Blackberry files (not HRC's) be destroyed
 | Dec 15, 2015 | DOJ sends letter to Zebley, agrees that the FBI will not review the back-up Blackberry files
+| Dec 15, 2015 | Fifth GOP primary debate, sponsored by CNN, held in Las Vegas, NV
 | Dec 15, 2015 | Dana Boente confirmed EDVA U.S. Attorney
 | Dec 15, 2015 | DOJ: "Former Russian Nuclear Energy Official Sentenced to 48 Months in Prison for Money Laundering Conspiracy Involving Foreign Corrupt Practices Act Violations" (Vadim Mikerin) archive.is/86hIi
 | Dec 15, 2015 | Yahoo: "Documents shed new light on Jeb Bush’s role in freeing a Cuban terrorist" by Michael Isikoff
@@ -1041,6 +1046,7 @@
 | Jan 11, 2016 | Zebley gives the data to Hillary lawyers and informs the DOJ (per their agreement).
 | Jan 12, 2016 | Email from Steele to Ohr. A New Years greeting. Mentions Deripaska's visa, trying to get into US for a meeting at the end of February. Ohr replies warmly the same day.
 | Jan 14, 2016 | Intelligence Community Inspector Charles McCullough letter to "senior lawmakers" said an intelligence review identified "several dozen" additional classified emails - including specific intelligence from "special access programs" (SAP)
+| Jan 14, 2016 | Sixth GOP primary debate, sponsored by FOX, held in Charleston, SC
 | Jan 14, 2016 | Cohen emails Peskov to ask for help with the Moscow project
 | Jan 15, 2016 | Alexandra Chalupa warns DNC about Paul Manafort
 | Jan 16, 2016 | Cohen again emails Peskov’s office, asking to speak with someone who speaks English
@@ -1055,6 +1061,7 @@
 | Jan 25, 2016 | CNN: "Hillary Clinton email delay 'grave' harm to voters, Vice News says" archive.is/jyTAL
 | Jan 26, 2016 | Sater asks Cohen to take a call from Evgeny Shmykov, the former intelligence officer coordinating the deal in Moscow. Cohen says he will
 | Jan 28, 2016 | Reception for the Cuba Consortium hosted at the Cuban Embassy in Washington is attended by Daniel Jones and Ben Rhodes
+| Jan 28, 2016 | Seventh GOP primary debate, sponsored by FOX, held in Des Moines, IA
 | Jan 29, 2016 | FBI.gov: "Andrew McCabe Named Deputy Director of the FBI" archive.is/2MsUP
 | Jan 29, 2016 | NBC News: "State Department Declares Some Hillary Clinton Emails 'Top Secret'" archive.is/CL0fo
 | Jan 29, 2016 | White House: "Press Briefing by Press Secretary Josh Earnest" archive.is/5K6jA
@@ -1079,6 +1086,7 @@
 | Feb 04, 2016 | Email mentions dinner plans among Rinat Akhmetshin, Glenn Simpson, and Natalia Veselnitskaya
 | Feb 05, 2016 | Strzok: "Work, but not for here. Agency F’ed uo big. Will get to Andy, prob Mon. Not telling you in that capacity, want to vent as a friend. Better to talk around it"
 | Feb 06, 2016 | Page: "[Andy] sent me his gmail, and said 'Don't send me anything classified, especially TS/SAP." archive.is/yC9Pn
+| Feb 06, 2016 | Eighth GOP primary debate, sponsored by ABC, held in Manchester, NH
 | Feb 06, 2016 | Clinton Campaign considers Rubio "out" after terrible debate performance. Campaign re-assesses everything. “'I asked a Clinton staffer about this,' said Sullivan, who around that time briefly went online to research Irish double-citizenship out of her revulsion with the Republican nominee-to-be. 'He said, ‘Well, you know, now we have to save the republic.’ It was a great paradox after nearly a year of virtual certainty—and outright enthusiasm—about their ultimate opponent that her team would swing between overconfidence, denial and disbelief as it struggled to concoct an electoral formula for stopping Trump. It was supposed to be Jeb Bush, if you asked Democratic honchos in mid-2015, except when it was always supposed to be Scott Walker. Eventually, they insisted, it was always supposed to be Rubio."
 | Feb 08, 2016 | Adm. Rogers announces spy/hacking reorganization project
 | Feb 08, 2016 | Adm. Rogers meets GCHQ's Hannigan at Bletchley Park
@@ -1092,6 +1100,7 @@
 | Feb 10, 2016 | Internet Research Agency (St. Petersburg) circulates plans to criticise Hillary Clinton while elevating Bernie Sanders and Donald Trump archive.is/Odx3A
 | Feb 11, 2016 | Politico: "What happened at Sanders U." (Jane Sanders, Burlington College) archive.is/rYbj1
 | Feb 12, 2016 | Munich Security Conference attended by Clapper, Kerry, Soros, Hannigan, McCain, Dmitri Alperovich. Runs through the 14th
+| Feb 13, 2016 | Ninth GOP primary debate, sponsored by CBS, held in Greenville, SC
 | Feb 13, 2016 | Politico: "Supreme Court Justice Antonin Scalia dead at 79" archive.is/fcLMU
 | Feb 13, 2016 | Gen Flynn on Jake Tapper says HRC should drop out
 | Feb 15, 2016 | Tom Barrack meets with Paul Manafort for coffee and snacks at Montage hotel in Beverly Hills [see: Apr 8, 2017 NYT]
@@ -1105,6 +1114,7 @@
 | Feb 21, 2016 | Steele tells Ohr he had talked to Waldman and Paul Hauser regarding Deripaska
 | Feb 21, 2016 | Farkas emails Podesta, asks to do surrogate work for Clinton campaign in relation to Eastern European communities
 | Feb 22, 2016 | Bloomberg: "Mercer, a Longtime Funder of Climate Skeptics, Backs a Believer" by Zachary Mider
+| Feb 25, 2016 | Tenth GOP primary debate, sponsored by CNN, held in Houston, TX
 | Feb 26, 2016 | Daily Beast: "Cruz Sugar Daddy Funds a Fake Black GOP Group" by Jay Michaelson, about Robert Mercer http://archive.is/sSia5
 | Feb 26, 2016 | The Moscow Times: "Putin Appoints New Head of Russian State Development Bank VEB" (Gorkov) archive.is/9lHK2
 | Feb 26, 2016 | Reuters: "Trump being advised by ex-U.S. Lieutenant General who favors closer Russia ties" archive.is/RQRko
@@ -1123,6 +1133,7 @@
 | Mar 02, 2016 | Strzok attends a MYE briefing
 | Mar 02, 2016 | @dcexaminer: "Ben Carson plans to exit 2016 race" archive.is/pr9rm
 | Mar 02, 2016 | Carter Page speak with FBI/SDNY prosecutors [see: Sep 9, 2018 @carterwpage]
+| Mar 03, 2016 | Eleventh GOP primary debate, sponsored by FOX, held in Detroit, MI
 | Mar 03, 2016 | Obama executive order extends Russia sanctions for another year
 | Mar 03, 2016 | Politico: "Trump names Sessions chairman of national security committee" archive.is/bM93Y
 | Mar 04, 2016 | NYT: "Ben Carson suspends his once-promising presidential bid" archive.is/86nTS
@@ -1142,6 +1153,7 @@
 | Mar 09, 2016 | Politico: "Lynch suggests White House 'stay silent' on Hillary Clinton email probe" archive.is/Lzrz9
 | Mar 09, 2016 | Daily Beast: "Trump Embraces Ex-Top Obama Intel Official" by Shane Harris, Nancy Youssef, about Flynn, mentions RT dinner http://archive.is/fI0HX
 | Mar 10, 2016 | First phishing attempts made against the Clinton Campaign, all but one bounce back unopened
+| Mar 10, 2016 | Twelveth GOP primary debate, sponsored by CNN, held in Miami, FL
 | Mar ??, 2016 | "Early" March, Fusion GPS approaches Perkins Coie and expressed interest in starting a contract regarding Trump research
 | Mar ??, 2016 | The FBI receives a batch of hacked documents from US intelligence agencies that had access to stolen emails stored on Russian networks. One of the intercepted documents revealed an alleged email from then-DNC Chairwoman Wasserman Schultz to to an operative working for billionaire Democratic fundraiser George Soros. It claimed Lynch had assured the Clinton campaign that investigators and prosecutors would go easy on Hillary. Lynch allegedly made the promise directly to Clinton political director Amanda Renteria
 | Mar 11, 2016 | Second round of phishing attempts, this time to senior Clinton officials
