@@ -2351,6 +2351,7 @@
 | Mar 22, 2017 | WaPo: "House Intelligence chair says Trump campaign officials were ensnared in surveillance operations"
 | Mar 22, 2017 | AP: "Exclusive: Before Trump job, Manafort worked to aid Putin" byline Jeff Horowitz and Chad Day. Talks about Manafort and Deripaska and secret deals
 | Mar 23, 2017 | WikiLeaks discloses CIA's "Dark Matter" [see: May 7, 2017 Wired]
+| Mar 23, 2017 | FBI raids Manhattan apartment of Joshua Adam Schulte [see: Sep 17, 2017 Schulte court filing]
 | Mar 23, 2017 | CNN: "US officials: Info suggests Trump associates may have coordinated with Russians"
 | Mar 23, 2017 | Page: "CNN said officials. I assume dems on Gang of 8"
 | Mar 23, 2017 | HuffPost: "Trump’s Links To Convicted Felon Who Stabbed A Man With A Margarita Glass Just Got Weirder" achive.is/Ddyjm
@@ -2778,6 +2779,7 @@
 | Aug 18, 2017 | NYT: "Stephen Bannon Out at the White House After Turbulent Run"
 | Aug 22, 2017 | Glenn Simpson testifies in closed-door hearing with Senate Judiciary. Brian Ross is the first to report his testimony.
 | Aug 24, 2017 | HPSCI serves subpoenas to AG Sessions and Director Wray for the production of all documents related to Christopher Steele, the Steele dossier, Fusion GPS and any FISA applications involving those actors. Setting 12:00pm on Sep 01, 2017 as the deadline.
+| Aug 24, 2017 | Joshua Adam Schulte arrested [see: Jun 18, 2018 DOJ]
 | Aug 25, 2017 | NBC News: "Mueller Seeks Grand Jury Testimony from PR Execs Who Worked With Manafort" archive.is/B7OUs
 | Aug 25, 2017 | Senate Judiciary letter to Rosenstein saying they coordinated with the Special Counsel's office and have limited the interview scope to avoid any conflict.
 | Aug 27, 2017 | Mother Jones: "A Putin-Friendly Oligarch’s Top US Executive Donated $285,000 to Trump" (Vekselberg, Intrater)
@@ -2803,6 +2805,7 @@
 | Sep 08, 2017 | Susan Rice testifies to HPSCI
 | Sep 11, 2017 | Assistant Attorney General Stephen Boyd letter to Senate Judiciary includes: "As a threshold matter, the scope of the Committee's inquiry has not been de-conflicted with Special Counsel Mueller's investigation. Therefore, in order to protect the integrity of the Special Counsel's investigation, as we have previously indicated, we will not be able to provide Mr. Ghattas or Mr. Rybicki for interviews at this time," Apparently Grassley threatens a subpoena and then DOJ starts cooperating more.
 | Sep 13, 2017 | CNN: "Exclusive: Justice Department declines Senate request to interview FBI officials over Comey firing" by Manu Raju
+| Sep 13, 2017 | Joshua Adam Schulte filing bit.ly/2QpRgX1
 | Sep 14, 2017 | Carter Page files defamation lawsuit against OATH, Inc. and Broadcasting Board of Governors in SDNY
 | Sep 15, 2017 | WSJ: "GOP Congressman Sought Trump Deal on WikiLeaks, Russia" Rep. Dana Rohrabacher made a proposal for pardon of Julian Assange in return for evidence Russia wasn’t source of hacked emails in a phone call with White House COS John Kelly on Wednesday, Sep 13, 2017
 | Sep 15, 2017 | Bloomberg: "Russia Laundering Probe Puts Trump Tower Meeting in New Light" archive.is/H40rz
@@ -3216,6 +3219,8 @@
 | May 13, 2018 | @MichaelAvenatti: "Why was Ahmed Al-Rumaihi meeting with Michael Cohen and Michael Flynn in December 2016 and why did Mr. Al-Rumaihi later brag about bribing administration officials according to a sworn declaration filed in court?" archive.is/aN1of
 | May 14, 2018 | The Hill: "Mueller may have a conflict — and it leads directly to a Russian oligarch" (archive.is/NPYDp)
 | May 15, 2018 | CNN: "Qatari investor confirms he attended Trump Tower meetings in 2016" (Ahmed Al-Rumaihi) archive.is/f2Z1m
+| May 15, 2018 | NYT: "Suspect Identified in C.I.A. Leak Was Charged, but Not for the Breach" (Schulte) archive.is/H0u2p
+| May 15, 2018 | WaPo: "U.S. identifies suspect in major leak of CIA hacking tools" (Schulte) archive.is/pyqpl
 | May 16, 2018 | U.S. District Judge Denise Cote orders Search and Seizure Warrant against Anthony Weiner be unsealed
 | May 16, 2018 | CNN: "DOJ Inspector General report on FBI handling of Clinton email probe entering final stages" archive.is/EvMJT
 | May 16, 2018 | New Yorker: "Missing Files Motivated the Leak of Michael Cohen’s Financial Records" archive.is/q5Zhi
@@ -3262,7 +3267,7 @@
 | Jun 17, 2018 | WaPo: "Trump associate Roger Stone reveals new contact with Russian national during 2016 campaign" archive.is/yDfGU
 | Jun 17, 2018 | CNN: "Former Trump operative Roger Stone met with Russian who wanted $2M for Clinton dirt" archive.is/XDLvX
 | Jun 18, 2018 | DOJ: "Joshua Adam Schulte Charged with the Unauthorized Disclosure of Classified Information and Other Offenses Relating to the Theft of Classified Material from the Central Intelligence Agency" archive.is/Kw1UP
-| Jun 18, 2018 | Joshua Adam Schulte grand jury charges archive.is/rhjke
+| Jun 18, 2018 | DOJ: "Joshua Adam Schulte Charged with the Unauthorized Disclosure of Classified Information and Other Offenses Relating to the Theft of Classified Material from the Central Intelligence Agency" archive.is/rhjke
 | Jun 19, 2018 | NYPost: "House GOPer unmasks identities of anti-Trump FBI agents"
 | Jun 19, 2018 | Miami Herald: "Mystery Miamian tied to Trump probe had many names, foul mouth, 2 DUI busts" archive.is/1hvDO
 | Jun 19, 2018 | WaPo: "At height of Russia tensions, Trump campaign chairman Manafort met with business associate from Ukraine"
