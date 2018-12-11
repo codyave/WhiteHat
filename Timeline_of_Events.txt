@@ -2801,6 +2801,7 @@
 | Aug 02, 2017 | CNN: "Chris Wray sworn in as FBI Director"
 | Aug 02, 2017 | Senate Judiciary Committee gets 20,000 documents from the Trump campaign [See: Aug 8, 2018 Bloomberg]
 | Aug 02, 2017 | Rosenstein issues revised memo to Mueller, outlines scope of investigation [see: April 3, 2018 CBS News]
+| Aug 03, 2017 | WaPo: "Secret Service vacates Trump Tower command post in lease dispute with president’s company" archive.is/SZFFM
 | Aug 03, 2017 | Dallas News: "GOP campaigns took $7.35 million from oligarch linked to Russia" (Blavatnik)
 | Aug 03, 2017 | WaPo: "‘This deal will make me look terrible’: Full transcripts of Trump’s calls with Mexico and Australia"
 | Aug 03, 2017 | NYT: "Mueller Issuing Subpoenas Through Washington Grand Jury" first time it's reported that a grand jury is empaneled for Mueller
@@ -3630,3 +3631,4 @@
 | Dec 10, 2018 | Channel News Asia: "Najib Razak arrested for allegedly tampering with 1MDB audit" archive.is/E4I1B
 | Dec 10, 2018 | WSJ: "Alleged Russian Agent Maria Butina Expected to Plead Guilty" archive.is/d3aGI
 | Dec 10, 2018 | ABC News: "Maria Butina, accused Russian agent, reaches plea deal with prosecutors that includes cooperation" archive.is/p6S3j
+| Dec 11, 2018 | Bloomberg: "U.S. Planning Actions Targeting Chinese Hackers, Spies, Sources Say" 
