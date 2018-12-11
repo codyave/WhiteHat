@@ -1174,7 +1174,6 @@
 | Mar ??, 2016 | Unknown foreign source emails FBI in early March, describes inappropriate conversation between Amanda Renteria and Loretta Lynch [see: May 24, 2017 WaPo]
 | Mar ??, 2016 | Joshua Adam Schulte steals Vault 7, sends to WikiLeaks sometime Jun '16 [see: Jun 18, 2018 grand jury charges]
 | Mar 01, 2016 | Super Tuesday
-| Mar 01, 2016 | Media Matters: "
 | Mar 01, 2016 | Yared Tamene of Mis Department, Inc. meets twice in person with FBI to confirm that Agent Hawkins is a real agent
 | Mar 01, 2016 | The RSA Conference speakers include Dmitri Alperovitch, Shawn Henry, DOJ's John Carlin, and AG Loretta Lynch
 | Mar 02, 2016 | Strzok attends a MYE briefing
@@ -2350,6 +2349,7 @@
 | Mar 21, 2017 | Asia Times: "Chinese banks, HSBC caught up in huge money laundering scam" archive.is/lhihA
 | Mar 22, 2017 | WaPo: "House Intelligence chair says Trump campaign officials were ensnared in surveillance operations"
 | Mar 22, 2017 | AP: "Exclusive: Before Trump job, Manafort worked to aid Putin" byline Jeff Horowitz and Chad Day. Talks about Manafort and Deripaska and secret deals
+| Mar 23, 2017 | WikiLeaks discloses CIA's "Dark Matter" [see: May 7, 2017 Wired]
 | Mar 23, 2017 | CNN: "US officials: Info suggests Trump associates may have coordinated with Russians"
 | Mar 23, 2017 | Page: "CNN said officials. I assume dems on Gang of 8"
 | Mar 23, 2017 | HuffPost: "Trump’s Links To Convicted Felon Who Stabbed A Man With A Margarita Glass Just Got Weirder" achive.is/Ddyjm
@@ -2399,6 +2399,7 @@
 | Mar 31, 2017 | Warner: "Keep me informed also any news about ur other guy on Manafort"
 | Mar 31, 2017 | Waldman: "My other guy, like Steele, very mistrustful of USG", "shut out of the country", "dragged through the mud"
 | Mar 31, 2017 | Waldman: "Update re the other other guy, my contact at DOJ has gone silent last 72 hrs. I gave him what he asked for."
+| Mar 31, 2017 | WikiLeaks discloses CIA's Marble Framework documents [see: May 7, 2017 Wired]
 | Apr ??, 2017 | Waldman visits Assange three times in the Ecuadorian Embassy in April [see: Jun 20, 2018 Guardian]
 | Apr ??, 2017 | New York AG Eric Schneiderman starts looking at Manafort transactions
 | Apr 01, 2017 | Evgeny Burakov released into ICE custody [see: Apr 5, 2017 CBS News]
@@ -2426,7 +2427,7 @@
 | Apr 06, 2017 | Imran Awan leaves DWS laptop in Capitol Hill phone booth w/note at 3am [see: Sep 9, 2017, Daily Caller]
 | Apr 06, 2017 | NYT: "Kushner Omitted Meeting With Russians on Security Clearance Forms" archive.is/6YdqL
 | Apr 06, 2017 | Waldman: "WSJ just called me and said they heard from senate intel comm that the committee and Steele are speaking"
-| Apr 07, 2017 | The Hacker Newz: "WikiLeaks Reveals CIA's Grasshopper Windows Hacking Framework"
+| Apr 07, 2017 | The Hacker Newz: "WikiLeaks Reveals CIA's Grasshopper Windows Hacking Framework" archive.is/zIDO5
 | Apr 07, 2017 | FISA Verified Application on Carter Page (p. 181-272) [signed: Comey, Boente]
 | Apr 07, 2017 | FISA Primary Order and Warrant on Carter Page (p. 273-291) [signed: Judge Conway]
 | Apr 07, 2017 | @GeorgePapa19: "Great decision by #POTUS--America is back as a force for good around the world" (first tweet) archive.is/ej3ug
@@ -2491,6 +2492,7 @@
 | May 04, 2017 | WaPo: "The mystery behind a Flynn associate’s quiet work for the Trump campaign" (Jon Iadonisi)
 | May 04, 2017 | Comey and NSA Director Rogers closed-door testify to HPSCI
 | May 06, 2017 | Grassley sends letter to FBI seeking records of a reported plan to pay Steele for the dossier
+| May 07, 2017 | Wired: "WikiLeaks drops 'Grasshopper' documents, part four of its CIA Vault 7 files" archive.is/zIkig
 | May 07, 2017 | Trump asks Stephen Miller to write a memo firing Comey. It never gets sent
 | May 07, 2017 | @ChuckRossDC: "Three register as foreign agents for Wang Wenliang, the Chinese billionaire at center of McAuliffe investigation" archive.is/Pd6ls
 | May 07, 2017 | Carter Page sends letter to Burr/Warner at SSCI, details two felony disclosures concerning his identity
