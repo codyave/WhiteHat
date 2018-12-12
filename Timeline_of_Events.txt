@@ -664,7 +664,7 @@
 | Jun 03, 2011 | NYT: "Why Khodorvorsky Matters" archive.is/EQRNC
 | Jun 04, 2011 | Wedding day of Andrea John Catsimatidis and Christopher Nixon Cox [see: Jun 22, 2011 New York Social Diary]
 | Jun 06, 2011 | Australian Financial Review: "Huawei hires political insiders" (Alexander Downer) archive.is/5N72H
-| Jun 13, 2011 | Solicitation finally awarded for FBI Cyber home, first issued in May 2008. GSA signs Lease. Award was for $53M. That is $444,791/mo for 10 years
+| Jun 13, 2011 | Solicitation finally awarded for FBI Cyber home, first issued in May 2008. GSA signs Lease. Award was for $53M. That is $444,791/mo for 10 years bit.ly/2LegCBa
 | Jun 22, 2011 | New York Social Diary: "Catsimatidis-Cox Wedding" rchive.is/Qfzlu
 | Jun 27, 2011 | @burgessct: "Moscow military court sentences Russian Alexander Poteyev to 25 years for treason"
 | Jun 27, 2011 | Sputnik: "Moscow military court sentences Russian mole to 25 years for treason" archive.is/FuC2j
@@ -714,6 +714,9 @@
 | Apr 15, 2012 | Alexander Torshin, a former Russian senator and lifetime member of the NRA, tweets about Butina’s group, comparing it to the NRA
 | Apr 17, 2012 | Gen. Flynn nominated DIA Director (assumes position Jul 2012) [see: May 9, 2017 NYDN]
 | Apr 18, 2012 | Shawn Henry leaves FBI for Crowdstrike bit.ly/2C6JEjo
+| Apr ??, 2012 | Chad Fulgham leaves FBI for Lockheed after substantially completing the SENTINEL project
+| May ??, 2012 | FBI starts its Next Generation Cyber initiative. As part of it, the Cyber Division is restructured to focus solely on computer intrusions and the FBI transferred responsibility for the investigation of crimes not focused on intrusion, specifically the Cyber Crime Program, Innocent Images National Initiative (addressing child pornography), Intellectual Property Rights, Internet Fraud, Internet Extortion, Identify Theft, Internet Money Laundering, and Internet Gambling, from the Cyber Division to the Criminal Investigative Division.
+| May 03, 2012 | Lockheed announces it will manage the DOD DC3 as part of a task order with GSA archive.is/hzBhM
 | May 07, 2012 | Guardian: "US air strike kills top al-Qaida leader in Yemen" (Fahd al-Quso) archive.is/8gXQ4
 | May 07, 2012 | Putin's last day as Prime Minister (assumes presidency May 8, 2012)
 | May 30, 2012 | Halper starts a contract with Pentagon Office of Net Assessment
@@ -763,6 +766,7 @@
 | Dec 30, 2012 | Reuters: "Huawei partner offered embargoed HP gear to Iran" archive.is/J0Rfd
 
 | ??? ??, 2013 | Jonathan Winer's consultations for APCO Worldwide ends sometime in 2013 archive.is/kMKUq
+| ??? ??, 2013 | DOJ stands up a CyberLaw section in Chantilly
 | Jan 21, 2013 | Obamas second inauguration
 | Jan 29, 2013 | WaPo: "John Kerry confirmed as secretary of state"
 | Jan 30, 2013 | HSBC.com: "Former US Deputy Attorney General joins HSBC Board" (Comey) archive.is/otLSo
@@ -784,6 +788,7 @@
 | Mar 28, 2013 | Institutional Investor: "Still Bullish on Ireland, Wilbur Ross Eyes Southern Europe" (Cyprus) archive.is/E24Ct
 | Apr 27, 2013 | BBC: "Is Russian crime arriving on UK shores?" archive.is/Bx2gs
 | May 09, 2013 | Global Natural Gas Ventures LLC created by Carter Page archive.is/k9oSD
+| May 15, 2013 | GSA signs Lease Supplemental for FBI Mission Ridge properties which talks about a big Tenant Improvement bit.ly/2QsvQZp
 | May 16, 2013 | UPI.com: "Obama to hold bilateral meeting with Turkish prime minister" archive.is/qiNp6
 | May 29, 2013 | @KedarPavgi: "James Comey to be nominated as FBI Director, per multiple reports"
 | Jun ??, 2013 | Carter Page meets with FBI at New York's Plaza Hotel regarding ongoing investigation
@@ -889,7 +894,9 @@
 | Sep 05, 2014 | Minsk agreements, Obama admin hopes is a first step to lifting sanctions
 | Sep ??, 2014 | Federal investigators detect a data breach affecting KeyPoint Government Solutions, a provider of investigative services for the U.S. government. It is believed that as many as 390,000 current and former DHS employees, contractors and job applicants may have had their private data compromised
 | Sep ??, 2014 | Alexander Poteyev targeted by Russian hitman around autumn, moves to a different house [see: Oct 2, 2018 BBC]
+| Sep 17, 2014 | James Comey testifies to the House Homeland Security Committee concerning "Worldwide Threats to the Homeland"
 | Oct ??, 2014 | Flynn Intel Group starts. Registered to McChrystal's Virginia townhouse [see: Nov 11, 2016 Daily Caller]
+| Oct 16, 2014 | GSA accepts 175,000 sqare feet of improved space at the FBI Mission Ridge properties bit.ly/2PxkNZG
 | Oct 31, 2014 | Vadim Mikerin charged, alongside Daren and Carol Condrey, and Boris Rubizhevsky (announced by Rod Rosenstein & McCabe) archive.fo/l5cbH
 | ??? ??, 2014 | Happened in "late" 2014. 500 million Yahoo! accounts hacked
 | Nov 11, 2014 | WaPo: "Tad Devine signs on to work with Bernie Sanders on potential 2016 run" archive.is/HljTr
