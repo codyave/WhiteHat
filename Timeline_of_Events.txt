@@ -51,6 +51,8 @@
 | ??? ??, 1995 | Trump declares $916m loss ($50m tax break eligible for 15yrs) [see: May 12, 2017 TheSternFacts]
 | Apr 19, 1995 | Oklahoma City Bombing
 
+| Feb 10, 1996 | Department of Defense Reform Initiative Directive #27 issued which establishes what later becomes the DOD Cyber Crime Center (DC3) bit.ly/2QShr8o
+
 | Mar 07, 1997 | WaPo: "Gore's Meltdown" (Krauthammer) archive.is/044Mx
 | May 19, 1997 | The Smoking Gun: "Donald Trump: Worried About OC In AC" (FBI Vault shows Trump is U.S. govt asset) archive.fo/8Pva5
 
@@ -345,7 +347,7 @@
 | Oct 25, 2009 | Guardian: "UN inspectors visit uranium enrichment facility in Iran" archive.is/GQl4X
 | Oct 27, 2009 | RT: "Moscow says Iran didn’t refuse to enrich uranium in Russia" web.archive.org/web/20091029004552/russiatoday.com/Top_News/2009-10-27/iran-uranium-enrichment-plan.html
 | Oct 29, 2009 | IAEA: "IAEA Receives Initial Iranian Response on Proposal to Supply Nuclear Fuel to Research Reactor" archive.is/BBhyo
-| Nov ??, 2009 | FBI presolicitation first issued on May 27, 2008 is modified. The area considered is more narrowly defined. A tenant improvement allowance is specified. Requested cccupancy date is now stated as Jan 12, 2012
+| Nov ??, 2009 | FBI presolicitation first issued on May 2008 is modified. The area considered is more narrowly defined. A tenant improvement allowance is specified. Requested cccupancy date is now stated as Jan 12, 2012
 | Nov 16, 2009 | Sergei Magnitsky dies from pancreatitis in a Russian prison [see: Nov 18, 2009 BBC]
 | Nov 18, 2009 | WikiLeaks cable: "The GOI described 2010 as a critical year -- if the Iranians continue to protect and harden their nuclear sites, it will be more difficult to target and damage them. Both sides then discussed the upcoming delivery of GBU-28 bunker busting  bombs to Israel, noting that the transfer should be handled  quietly to avoid any allegations that the USG is helping  Israel prepare for a strike against Iran." archive.is/m0sPZ
 | Nov 18, 2009 | BBC: "Row over Russia lawyer jail death" (Magnitsky) archive.is/I0KhL
@@ -353,6 +355,7 @@
 | Nov 24, 2009 | Guardian: "The mystery of Dr Aafia Siddiqui" archive.is/ljmqZ
 | Nov 27, 2009 | First kickback payment linked to Vadim Mikerin recorded by FBI through an informant [see: Oct 17, 2017 The Hill]
 | Nov 30, 2009 | UPI.com: "ElBaradei steps down" archive.is/gzN3N
+| Nov 30, 2009 | GSA publishes a draft solicitation for its National Broker Contract
 | Dec 05, 2009 | START I treaty expires [see: Dec 29, 2009 BBC]
 | Dec 09, 2009 | Politico: "Iran links U.S. hikers case to detained Iranians" archive.is/nLKxW
 | Dec 09, 2009 | LA Times: "Iran accuses U.S. and Saudis of kidnapping a nuclear scientist" (Shahram Amiri) archive.is/HUwUl
@@ -374,6 +377,7 @@
 | Jan 05, 2010 | Chelsea Manning downloads 400k documents while stationed in Kuwait (Iraq War Logs]
 | Jan 10, 2010 | Igor Shuvalov and Vladislav Surkov visit MIT, discuss plans for a Russian Silicon Valley [see: Jun 24, 2010 MIT]
 | Jan 12, 2010 | NYT: "Blast Kills Physics Professor in Tehran" (Masoud Ali Mohammadi) archive.is/MXgi
+| Jan 13, 2010 | GSA officially publishes its solicitation for the National Broker Contract. Due date is Feb 17, 2010 for proposals 
 | Jan 15, 2010 | Guardian: "Viktor Yanukovych poised to take Ukraine presidency" archive.is/xNd0b
 | Jan 17, 2010 | NYT: "Presidential Election in Ukraine Goes to a Runoff" archive.is/IoaBj
 | Jan 17, 2010 | @BW: "Yanukovych Wins First Round of Ukrainian Election" archive.is/jLzYB
@@ -434,6 +438,7 @@
 | Apr 16, 2010 | FBI informant, Douglas Campbell, details in a memo Russia's effort to aid Iran with uranium [see: Oct 19, 2017 Circa]
 | Apr 17, 2010 | NYT: "[Secretary] Gates Says U.S. Lacks a Policy to Thwart Iran" archive.is/J8iZx
 | Apr 19, 2010 | Reuters: "Iran says to start work on new enrichment plant" archive.is/IozCO
+| May ??, 2010 | FBI presolocitation first issued in May 2008 modified again. It proposes a two building scenario and sets out guidelines. Goes into extra detail about secure features needed. Occupancy requested by Jun 4, 2012
 | May 10, 2010 | White House: "Message from the President Regarding a Peaceful Nuclear Agreement with Russia" archive.is/d8mk7
 | May 16, 2010 | Guardian: "French academic Clotilde Reiss arrives home after Iran spying conviction" archive.is/tqdLh
 | May 19, 2010 | WaPo: "U.S., partners agree to sanctions on Iran" (draft) archive.is/t8PAh
@@ -448,6 +453,7 @@
 | May ??, 2010 | Somtime in late May, U.S. officials concerned Russian Illegals plan to leave U.S. in summer [see: Jul 9, 2010 NYT]
 | Jun ??, 2010 | Al-Qaeda operative, Rami Makanesi, arrested in Pakistan sometime Jun '16 [see: May 8, 2011 VOA News]
 | Jun ??, 2010 | Glenn Simpson, alongside Bruce and Nellis Ohr, are published in CIA Open Source Works report
+| Jun ??, 2010 | Jones Lang LaSalle (JLL) awarded the GSA National Broker Services Contract, along with CB Richard Ellis, Global Corporate Services and UGL Equis
 | Jun ??, 2010 | Retired FBI executive says agents feared Cynthia Murphy was too close to HRC [see: October 22, 2017 The Hill]
 | Jun ??, 2010 | Vladimir Poteyev flees to U.S. [see: Nov 14, 2010 Sputnik]
 | Jun 06, 2010 | Shaky-cam video emerges of a man alleged to be Iranian nuclear scientist, Shahram Amiri archive.is/voWjS
@@ -466,6 +472,7 @@
 | Jun 16, 2010 | Guardian: "WikiLeaks to release video of deadly US Afghan attack"
 | Jun 17, 2010 | Russian spy, Christopher Metsos, flies from the U.S. to Cyprus [see: Jul 2, 2010 Stratfor]
 | Jun 17, 2010 | Iranian client sends copy of unknown virus (Stuxnet) to VirusBlokAda, a Belarusian company [see: Mar 2, 2011 VF]
+| Jun 18, 2010 | GSA publicity says it’s not selecting Mission Ridge for home of FBI cyber branch bit.ly/2Qss6qP
 | Jun 18, 2010 | Obama holds meeting on Russian Illegals case with National Security Council [see: Jul 9, 2010 NYT]
 | Jun 19, 2010 | Aleksander Poteyev flees to U.S. three days before Medvedev visit to U.S. [see: Nov 11, 2010 Kommersant]
 | Jun 21, 2010 | IAEA: "Inspectors in Iran" archive.is/38te3
@@ -556,6 +563,8 @@
 | Aug 25, 2010 | @DavidClinchNews: "Swedish prosecutor says Assange no longer suspected of rape but "molesting" accusation still being investigated."
 | Aug 31, 2010 | Uranium One stockholders approved sale of 51% of U-1 shares to Atomredmetzoloto (Rosatom) [see: Sep 25, 2010 CNN]
 | Sep ??, 2010 | Shawn Henry named Executive Assistant Director of the Criminal, Cyber, Response, and Services Branch of the FBI archive.is/rdt7o
+| Sep ??, 2010 | FBI Chad Fulgham takes control of SENTINEL development from Lockheed
+| ??? ??, ???? | "3Q 2010" Jones Lang LaSalle buys Mission Ridge buildings from Pitcairn
 | Sep 01, 2010 | @expressen: "Swedish prosecutor has - again - opened the investigation on the #Assange rape"
 | Sep 03, 2010 | @AKIpress_com: "Kazakhstan officially approves Uranium One swap deal with ARMZ" archive.is/YTrOh
 | Sep 08, 2010 | UK terrorist, Abdul Jabbar, dies from a U.S. drone strike [see: Oct 5, 2010 Guardian]
@@ -623,7 +632,9 @@
 | Dec 28, 2010 | Vladimir Poteyev sets up Newtop, LLC
 | Dec 30, 2010 | Guardian: "Wired journalists deny cover-up over WikiLeaks boss and accused US soldier" archive.is/OFnYc
 
+| ??? ??, 2011 | FBI cyber ALAT program expands. Several FBI Cyber Division personnel were deployed to a handful of legat offices to address significant cyber threats in those regions impacting US interests and FBI investigations. Kiev, Estonia, Amsterdam.
 | Jan 07, 2011 | NYT: "Israeli Ex-Spy Predicts Delay for Iran’s Nuclear Ambitions" (Dagan) archive.is/n1tnI
+| Jan ??, 2011 | Martin Nesbitt Jan moves to Board of Directors of Jones Lang LaSalle
 | Feb 10, 2011 | Trump at CPAC says "the people that went to school with [Obama], they never saw him, they don't know who he is" [see: Feb 14, 2011 Politifact]
 | Feb 14, 2011 | Counterpunch: "The Siddiqui Case" archive.is/OOoA
 | Feb 14, 2011 | Politifact: "Donald Trump says people who went to school with Obama never saw him" archive.is/xRDS
@@ -648,10 +659,12 @@
 | May 10, 2011 | NPR: "Covert War With Iran: A 'Wilderness Of Mirrors'" (Iranian nuclear scientist, Shahram Amiri) archive.is/Lof9q
 | May 19, 2011 | NYT: "New York Attorney General Is Investigating Trump’s For-Profit School" archive.is/jjKo
 | May 26, 2011 | Daily Beast: "Inside Donald Trump's Empire: Why He Didn't Run for President in 2012" (Sater, SoHo) archive.is/jSYNB
+| May 26, 2011 | Barack Obama signed the PATRIOT Sunsets Extension Act of 2011, a four-year extension of three key provisions in the Act: roving wiretaps, searches of business records, and conducting surveillance of "lone wolves"
 | May 27, 2011 | Moscow Times: "Rosatom Restrictions Lifted" archive.is/yICXJ
 | Jun 03, 2011 | NYT: "Why Khodorvorsky Matters" archive.is/EQRNC
 | Jun 04, 2011 | Wedding day of Andrea John Catsimatidis and Christopher Nixon Cox [see: Jun 22, 2011 New York Social Diary]
 | Jun 06, 2011 | Australian Financial Review: "Huawei hires political insiders" (Alexander Downer) archive.is/5N72H
+| Jun 13, 2011 | Solicitation finally awarded for FBI Cyber home, first issued in May 2008. GSA signs Lease. Award was for $53M. That is $444,791/mo for 10 years
 | Jun 22, 2011 | New York Social Diary: "Catsimatidis-Cox Wedding" rchive.is/Qfzlu
 | Jun 27, 2011 | @burgessct: "Moscow military court sentences Russian Alexander Poteyev to 25 years for treason"
 | Jun 27, 2011 | Sputnik: "Moscow military court sentences Russian mole to 25 years for treason" archive.is/FuC2j
@@ -663,6 +676,7 @@
 | Sep ??, 2011 | Felix Sater begins work for TxOil (?) [see: Nov 10, 2018 @GeorgePapa19]
 | Oct 26, 2011 | Moscow Times: "Alexei Navalny vs. Vladlen Stepanov" archive.is/F4LUW
 | Oct 28, 2011 | Cezka Pozice: "US VP Biden warns Czechs over Russian nuke contracts" (promotes Westinghouse) archive.is/f1vht
+| Nov ??, 2011 | 2 FOIA requests filed by Colliers for info on Mission Ridge lease
 | Nov 01, 2011 | Daily Mail: "Did Russian spy get close to infiltrating Hillary Clinton's inner circle?" archive.is/YJseN
 | Nov 03, 2011 | TheRealDeal: "Trump Soho developers settle fraud suit, give buyers 90% refunds" archive.is/Gb22Q
 | Nov 05, 2011 | Gulf News Asia: "From Russia with love: Evidence from a ten-year FBI investigation into a team of spies is made public for the first time" archive.is/uCN3o
@@ -699,6 +713,7 @@
 | Apr 05, 2012 | Moscow Times: "Russian Spy's Closeness to Obama's Circle Prompted 2010 Arrests" archive.is/sKF6v
 | Apr 15, 2012 | Alexander Torshin, a former Russian senator and lifetime member of the NRA, tweets about Butina’s group, comparing it to the NRA
 | Apr 17, 2012 | Gen. Flynn nominated DIA Director (assumes position Jul 2012) [see: May 9, 2017 NYDN]
+| Apr 18, 2012 | Shawn Henry leaves FBI for Crowdstrike bit.ly/2C6JEjo
 | May 07, 2012 | Guardian: "US air strike kills top al-Qaida leader in Yemen" (Fahd al-Quso) archive.is/8gXQ4
 | May 07, 2012 | Putin's last day as Prime Minister (assumes presidency May 8, 2012)
 | May 30, 2012 | Halper starts a contract with Pentagon Office of Net Assessment
