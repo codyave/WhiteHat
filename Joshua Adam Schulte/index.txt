@@ -17,7 +17,7 @@
 | Aug 24, 2017 | Joshua Adam Schulte arrested at 5:30am [see: Aug 24, 2017 Schulte arraignment]
 | Aug 24, 2017 | Feds discover and seize a previously undisclosed computer at Joshua Adam Schulte's apartment [see: Aug 24, 2017 Schulte arraignment]
 | Aug 24, 2017 | Feds discover and seize a previously undisclosed diplomatic passport at Joshua Adam Schulte's apartment [see: Aug 24, 2017 Schulte arraignment]
-| Aug 24, 2017 | Joshua Adam Schulte's job as a Bloomberg senior software engineer terminated this day? [see: Aug 24, 2017 Schulte arraignment]
+| Aug 24, 2017 | Joshua Adam Schulte's job as a Bloomberg senior software engineer terminated this day? [see: Aug 24, 2017 Schulte arraignment] 
 | Sep 06, 2017 | Indictment against Joshua Adam Schulte archive.is/AQfir
 | Sep 14, 2017 | Arraignment and bond for Joshua Adam Schulte archive.is/d2aQO
 | Sep 15, 2017 | Proposed Protective Order for Joshua Adam Schulte archive.is/lL0NE
@@ -28,6 +28,7 @@
 | Dec 05, 2017 | Joshua Adam Schulte allegedly accesses Tor network [see: Jun 20, 2018 Emptywheel]
 | Dec 05, 2017 | Joshua Adam Schulte possibly arrested by NYPD on this day, charged with sexual assault [see: Jun 20, 2018 Emptywheel]
 | Dec 14, 2017 | Joshua Adam Schulte detained at the Metropolitan Correctional Center archive.is/lL0NE
+| May ??, 2018 | Joshua Adam Schulte passes classified info to family members sometime May 2018 [see: Nov 1, 2018 cyberscoop]
 | May 15, 2018 | NYT: "Suspect Identified in C.I.A. Leak Was Charged, but Not for the Breach" (Schulte) archive.is/H0u2p
 | May 15, 2018 | WaPo: "U.S. identifies suspect in major leak of CIA hacking tools" (Schulte) archive.is/pyqpl
 | Jun 18, 2018 | DOJ: "Joshua Adam Schulte Charged with the Unauthorized Disclosure of Classified Information and Other Offenses Relating to the Theft of Classified Material from the Central Intelligence Agency" archive.is/Kw1UP
@@ -38,3 +39,5 @@
 | Oct 01, 2018 | Joshua Adam Schulte placed in a more restrictive setting at the Metropolitan Correctional Center archive.is/lL0NE
 | Oct ??, 2018 | Govt learns Joshua Adam Schulte is using cell phones to transmit classified data archive.is/lL0NE
 | Oct 31, 2018 | Sputnik News: "CIA Coder Jailed for 'Vault 7' Leaks Complains of 'Cruel and Unusual' Punishment" archive.is/c9K6Q
+| Oct 31, 2018 | Emptywheel: "U.S. Govt reveals it has video evidence of Joshua Schulte sharing classified information as Ecuador restricts Assange's legal visits" archive.is/bN1tW
+| Nov 01, 2018 | cyberscoop.com: "Accused 'Vault 7' leaker to face new charges" (Schulte) archive.is/KJ0Af"
