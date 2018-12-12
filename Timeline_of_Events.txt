@@ -2593,7 +2593,7 @@
 | Apr 12, 2017 | NYT/WaPo calls Papadopoulos, says he's heard there's a FISA out on George
 | Apr 12, 2017 | CNN(?) calls Papadopoulos, says they've heard there's a FISA out on George
 | Apr 12, 2017 | @yashar: "Longtime Trump Friend Tom Barrack on CNN: I have known Paul Manafort for 30 years, I trust him, I believe him, I know who he is......" archive.is/WI0h7
-| Apr 13, 2017 | NBC Bay Area: "2 Secret Service Officers Fired Over WH Jumper" bit.ly/2UBBHda
+| Apr 13, 2017 | CNN: "Secret Service fires two officers over March fence-jumping incident" bit.ly/2Edlnd0
 | Apr 13, 2017 | NYT: "U.S. Drops 'Mother of All Bombs' on ISIS Caves in Afghanistan" archive.is/Xju8k
 | Apr 13, 2017 | Pompeo describes wikileaks as a "nonstate hostile intelligence service" Apparently negotiations between Assange and US didn't work out
 | Apr 13, 2017 | Guardian: "British spies were first to spot Trump team's links with Russia" archive.is/MITK1
@@ -2927,6 +2927,7 @@
 | Aug 18, 2017 | FBME: "Tanzania Bank Seeks to Avoid Being Cut Off From U.S." archive.is/wMnQv
 | Aug 18, 2017 | NYT: "Stephen Bannon Out at the White House After Turbulent Run"
 | Aug 22, 2017 | Glenn Simpson testifies in closed-door hearing with Senate Judiciary. Brian Ross is the first to report his testimony.
+| Aug 22, 2017 | Gen. Flynn FD-302 submitted for Jan 24, 2017 interview with agents under McCabe's command archive.is/jU8k4
 | Aug 23, 2017 | Joshua Adam Schulte arrest affadavit bit.ly/2SFLygw
 | Aug 24, 2017 | Joshua Adam Schulte arraignment bit.ly/2C3LrFY
 | Aug 24, 2017 | Joshua Adam Schulte arrested at 5:30am [see: Aug 24, 2017 Schulte arraignment]
@@ -2954,6 +2955,7 @@
 | Sep 06, 2017 | The Daily Caller: "Police report indicates Wasserman Schultz IT aide planted computer for investigators to find"
 | Sep 06, 2017 | @LouiseMensch: "You're fired. Thank you and Brad Moss for your past representation, pro bono and in a good cause, but @Evan_McMullin is not 'pathetic'."
 | Sep 06, 2017 | Daily Caller: "Exclusive: Police report indicates Wasserman Schultz IT aide planted computer for investigators to find" archive.is/Lu7d8
+| Sep 06, 2017 | Indictment against Joshua Adam Schulte archive.is/AQfir
 | Sep 07, 2017 | Donald Trump Jr. testifies to Senate Judiciary Committee
 | Sep 07, 2017 | Lisa Page interviewed by OIG (Horowitz team)
 | Sep 08, 2017 | Susan Rice testifies to HPSCI
@@ -2961,7 +2963,9 @@
 | Sep 11, 2017 | Assistant Attorney General Stephen Boyd letter to Senate Judiciary includes: "As a threshold matter, the scope of the Committee's inquiry has not been de-conflicted with Special Counsel Mueller's investigation. Therefore, in order to protect the integrity of the Special Counsel's investigation, as we have previously indicated, we will not be able to provide Mr. Ghattas or Mr. Rybicki for interviews at this time," Apparently Grassley threatens a subpoena and then DOJ starts cooperating more.
 | Sep 13, 2017 | CNN: "Exclusive: Justice Department declines Senate request to interview FBI officials over Comey firing" by Manu Raju
 | Sep 13, 2017 | Joshua Adam Schulte filing bit.ly/2QpRgX1
+| Sep 14, 2017 | Arraignment and bond for Joshua Adam Schulte archive.is/d2aQO
 | Sep 14, 2017 | Carter Page files defamation lawsuit against OATH, Inc. and Broadcasting Board of Governors in SDNY
+| Sep 15, 2017 | Proposed Protective Order for Joshua Adam Schulte archive.is/lL0NE
 | Sep 15, 2017 | WSJ: "GOP Congressman Sought Trump Deal on WikiLeaks, Russia" Rep. Dana Rohrabacher made a proposal for pardon of Julian Assange in return for evidence Russia wasn’t source of hacked emails in a phone call with White House COS John Kelly on Wednesday, Sep 13, 2017
 | Sep 15, 2017 | Bloomberg: "Russia Laundering Probe Puts Trump Tower Meeting in New Light" archive.is/H40rz
 | Sep 15, 2017 | HPSCI letter to Sessions and Wray. FBI/DOJ failed to meet deadline. Says that efforts to assemble such documents never advanced beyond a preliminary stage. Grants an additional 7 day extension.
@@ -2980,6 +2984,7 @@
 | Sep 21, 2017 | McClatchy: "Trump campaign bodyguard linked to ex-con who’s key in Russia probes" (Gary Uher)
 | Sep 22, 2017 | DAG Rosenstein letter to HPSCI saying he is on foreign travel and needs an additional extension of unspecified length. Very nice language asking for cooperation and understanding.
 | Sep 22, 2017 | DOJ letter to Senate Judiciary agrees to allow Ghattas and Rybicki to testify with four conditions. 1) the interview happens in a classified setting 2) asking for certain scope limitations 3) a DOJ representative must come along 4) the transcripts must be made available to the witnesses and DOJ.
+| Sep 25, 2015 | NBC News: "Fence Jumper Who Spent 15 Minutes on White House Grounds Gets No Jail Time" (Tran) bit.ly/2zUnfV3
 | Sep 26, 2017 | HPSCI letter to DAG Rosenstein "With respect to the pending supoenas, the repeated last-minute responses by DOJ and FBI to generous deadlines have been wholly inadequate." Sets up meeting for that Thursday.  
 | Sep 26, 2017 | UPI: "Acting DEA head Rosenberg announces resignation" (about Chuck Rosenberg) archive.is/CTQK4
 | Sep 26, 2017 | Roger Stone testifies to HPSCI
@@ -3356,6 +3361,7 @@
 | Apr 26, 2018 | RCP: "Baier to Comey: If Dossier Was "Salacious," Why Did You Use It To Get FISA Warrant?" ("broader mosaic of facts")
 | Apr 26, 2018 | Politico: "Pompeo confirmed as secretary of state" archive.is/FeiEi
 | Apr 28, 2018 | Sunday Morning Herald: "China is not Russia says former foreign minister Alexander Downer" archive.is/kXjoV
+| May ??, 2018 | Joshua Adam Schulte passes classified info to family members sometime in May 2018 [see: Nov 1, 2018 cyberscoop]
 | May 02, 2018 | @TomArnold: "Spent the day at my Funny & kind friend Felix Sater’s beautiful LI home." archive.is/j1SFD
 | May 02, 2018 | CNN: "Michael Caputo says 'it's clear' Mueller investigators focused on Russia collusion" archive.is/jjA5z
 | May 03, 2018 | James Wolfe grand jury proceedings begin
@@ -3437,10 +3443,11 @@
 | Jun 17, 2018 | CNN: "Former Trump operative Roger Stone met with Russian who wanted $2M for Clinton dirt" archive.is/XDLvX
 | Jun 17, 2018 | @JackPosobiec: "#Breaking Here is the full dossier on the FBI informant Henry Greenberg who reached out to Roger Stone and Michael Caputo; True name: Gennady Vasilievich Vostretsov" bit.ly/2Py9YGs 
 | Jun 18, 2018 | DOJ: "Joshua Adam Schulte Charged with the Unauthorized Disclosure of Classified Information and Other Offenses Relating to the Theft of Classified Material from the Central Intelligence Agency" archive.is/Kw1UP
-| Jun 18, 2018 | DOJ: "Joshua Adam Schulte Charged with the Unauthorized Disclosure of Classified Information and Other Offenses Relating to the Theft of Classified Material from the Central Intelligence Agency" archive.is/rhjke
+| Jun 18, 2018 | Superceding indictment against Joshua Adam Schulte archive.is/rhjke
 | Jun 19, 2018 | NYPost: "House GOPer unmasks identities of anti-Trump FBI agents"
 | Jun 19, 2018 | Miami Herald: "Mystery Miamian tied to Trump probe had many names, foul mouth, 2 DUI busts" archive.is/1hvDO
 | Jun 19, 2018 | WaPo: "At height of Russia tensions, Trump campaign chairman Manafort met with business associate from Ukraine"
+| Jun 19, 2018 | Lawfare: "Superseding Indictment Against Joshua Schulte for Alleged Leak of CIA Hacking Tools" archive.is/tEkx7
 | Jun 20, 2018 | Guardian: "US lobbyist for Russian oligarch visited Julian Assange nine times last year"
 | Jun 20, 2018 | Emptywheel: "Two days after Julian Assange threatened Don Jr, accused Vault 7 leaker Joshua Schulte took to Tor" archive.is/mjWxy
 | Jun 20, 2018 | @realDonaldTrump: "Look what Fake ABC News put out. I guess they had it prepared from the 13 Angry Democrats leading the Witch Hunt! #StopTheBias" (4:34pm est)
@@ -3530,9 +3537,11 @@
 | Aug 21, 2018 | Flynn hearing rescheduled
 | Aug 22, 2018 | Daily Caller: "The FBI deliberately ignored 'golden emails', crucial Abedin messages and more"
 | Aug 22, 2018 | Assange is referred to an unrelated sealed case to having charges against him by the U.S. [see: Nov 15, 2018 WaPo]
+| Aug 23, 2018 | DOJ: "Correctional Officer Arrested For Accepting A Bribe To Smuggle Cellphones Into The Metropolitan Correctional Center" (prison smuggler for Schulte?) archive.is/tET3p
 | Aug 23, 2018 | Paul Ceglia detained in Ecuador, prepared for extradition to U.S. [see: Nov 16, 2018 Sputnik]
 | Aug 23, 2018 | CNN: "NSA leaker Reality Winner sentenced to more than 5 years in prison"
 | Aug 23, 2018 | Acting CIA Inspector General, Christopher Sharpley, resigns
+| Aug 24, 2018 | NYT: "Gold Trader in High-Security Jail Was Smuggled Booze, Cell Phones and More by Guard" (Zarrab) archive.is/r0doI
 | Aug 27, 2018 | NYT: "U.S. and Mexico Agree to Preliminary Nafta Deal"
 | Aug 27, 2018 | Buzzfeed: "Lanny Davis Says He Was A Source For CNN’s Trump Tower Story"
 | Aug 27, 2018 | Daily Caller: "Source: FBI agents told Congress the Bureau used leaked stories to obtain spy warrants"
@@ -3635,6 +3644,9 @@
 | Oct 29, 2018 | CrimeRussia: "VTB demands more than £ 100m from Deripaska" (Putin owns VTB, so...) archive.is/x1qYq
 | Oct 31, 2018 | @GeorgePapa19: "When I outed the FBI’s asset [Mifsud] to them in January 17, I got in troub"
 | Oct 31, 2018 | Wired: "China's 5 steps for recruiting spies" archive.is/9px7p
+| Oct 31, 2018 | Sputnik News: "CIA Coder Jailed for 'Vault 7' Leaks Complains of 'Cruel and Unusual' Punishment" archive.is/c9K6Q
+| Oct 31, 2018 | Emptywheel: "U.S. Govt reveals it has video evidence of Joshua Schulte sharing classified information as Ecuador restricts Assange's legal visits" archive.is/bN1tW
+| Nov 01, 2018 | Cyberscoop.com: "Accused 'Vault 7' leaker to face new charges" (Schulte) archive.is/KJ0Af
 | Nov 01, 2018 | CNBC: "US charges former Goldman bankers for 1MDB" (Tim Leissner, Roger Ng) archive.is/oStPA
 | Nov 01, 2018 | Newsweek: "Riddle resolved: Who dimed out American traitor and super-spy, Robert Hanssen?" (Shcherbakov) archive.is/SGHKF
 | Nov 02, 2018 | WaPo: "CIA contractor gets 3-month prison sentence for taking home classified information" (Reynaldo Regis) archive.is/kBAPO
@@ -3743,3 +3755,5 @@
 | Dec 11, 2018 | Daily Beast: "Prosecutors Seek Two-Year Prison Term for Former Senate Intelligence Staffer James Wolfe" archive.is/uXRWB
 | Dec 11, 2018 | Daily Caller: "Christopher Steele provided information to longtime Clinton Crony" (Strobe Talbott) archive.is/2Raio
 | Dec 11, 2018 | CNN: "Michael Flynn asks federal judge to spare him from prison time in response to government sentencing memo" archive.is/hMWJn
+| Dec 11, 2018 | NYT: "Trump Administration to Step Up Pressure on China" archive.is/KvGEI
+| Dec 11, 2018 | RCI: "Cohen's 'Appointment in Prague' Was Dossier Bunk, Mueller Files Indicate" bit.ly/2EpSRFR
