@@ -1,5 +1,9 @@
 | ??? ??, 1977 | Gennady Vasilenko and Jack Platt meet at a Harlem Globetrotters game in DC [see: The Seven Million Dollar Spy]
 
+| Oct 25, 1978 | The Foreign Intelligence Surveillance Act of 1978 is signed into law by Jimmy Carter
+
+| Dec 04, 1981 | Executive Order 12333 issued, "United States Intelligence Activities"
+
 | Mar 16, 1982 | NYT: "Trump assured casino license; one snag is left" archive.is/19YTl
 
 | Nov 13, 1983 | NYT: "Resorts International ups the ante" archive.is/njWbz
@@ -41,9 +45,11 @@
 | Jan 22, 1993 | NYT: "Time's Up for William Sessions" (FBI Director) archive.is/rgm0
 | Jul 21, 1993 | NYT: "The New Man for the F.B.I.: Louis Joseph Freeh" archive.is/ojbBd
 
+| Feb 21, 1994 | CIA employee spying for Russia Aldrich Hazen Ames arrested in Virginia
 | Dec 05, 1994 | Strategic Arms Reduction Treaty (START I) goes into enforcement
 
 | ??? ??, 1995 | Trump declares $916m loss ($50m tax break eligible for 15yrs) [see: May 12, 2017 TheSternFacts]
+| Apr 19, 1995 | Oklahoma City Bombing
 
 | Mar 07, 1997 | WaPo: "Gore's Meltdown" (Krauthammer) archive.is/044Mx
 | May 19, 1997 | The Smoking Gun: "Donald Trump: Worried About OC In AC" (FBI Vault shows Trump is U.S. govt asset) archive.fo/8Pva5
@@ -71,6 +77,7 @@
 | Sep 06, 2000 | Wired: "U.S., Russia sign plutonium pact" archive.is/2msqr
 | Oct ??, 2000 | KGB defector, Alexander Litvienko, defects
 | Oct ??, 2000 | Colonel Sergei Tretyakov defects to the U.S. on Oct 11, 2000 [see: Jul 10, 2010 Pete Earley]
+| Oct 12, 2000 | USS Cole Bombing
 | Nov 09, 2000 | NYT: "Bush barely ahead of Gore in Florida as recount holds key to the election" archive.is/AULAX
 | Dec 11, 2000 | Jack Quinn delivers pardon petition to the White House [see: Jun 2001 Vanity Fair]
 | Dec 13, 2000 | NYT: "Bush prevails; by single vote, Justices end recount, blocking Gore after 5-week struggle" archive.is/kFohQ
@@ -89,14 +96,28 @@
 | Sep 11, 2001 | Four coordinated terrorist attacks on US mainland by Al-Qaeda kill 3,000 people
 | Sep 12, 2001 | UN Security Council Resolution 1368 condemns the terrorist attacks and expressing readiness to respond in accordance with the UN Charter
 | Oct 07, 2001 | The war in Afghanistan begins when US and British forces initiate aerial bombing campaigns targeting Taliban and Al-Qaeda groups
+| Oct 11, 2001 | FBI Field Divisions directed to expand Joint Terrorism Task Forces (JTTFs) bit.ly/2EeSahH
 | Oct 26, 2001 | PATRIOT Act signed into law by George W. Bush
+| Dec 03, 2001 | FBI Press Release: "FBI Headquarters Reorganization" FBI Security Division established, Cyber Divsion established, Office of Intelligence established archive.is/kj66b
 
+| Feb 07, 2002 | FBI Office of Records Management created bit.ly/2EeSahH
+| Apr 09, 2002 | Assistant Director of the Counterintelligence Division of the FBI, David Szady appears before the Senate Judiciary Committee. His statement is entitled "“Changes the FBI is Making to the Counterintelligence Program" bit.ly/2zTzwZZ
 | Jun 14, 2002 | CNN: "Bush: 'Radical killers' behind Karachi bomb" archive.is/I0BTW
+| Jun 18, 2002 | FBI National Joint Terrorism Task Force (NJTTF) created bit.ly/2EeSahH
+| Jul 31, 2002 | Congress approves FBI reorganizationand reprogramming. Reassigned 480 agents and 322 support positions from Criminal to Counterterrorism bit.ly/2EeSahH
+| Aug 06, 2002 | Foreign Terrorist Tracking Task Force (FTTTF) consolidated into FBI counterterrorism bit.ly/2EeSahH
+| Aug 13, 2002 | FBI's National Counterintelligence Strategy announced bit.ly/2EeSahH
 | Oct ??, 2002 | Intelligence Community releases classified National Intelligence Estimate which asserts evidence that Iraq possesses and is producing WMD. Brennan is deputy executive director of the CIA at the time
+| Nov 01, 2002 | FBI Fisa unit created bit.ly/2EeSahH
+| Nov 06, 2002 | Special Technologies and Applications Section (STAS) created as part of Cyber Division bit.ly/2EeSahH
 | Nov ??, 2002 | Sater offers a job to Jodi Kriss at Bayrock Group, mentions new investor Arik Tevfik [see: Jun 21, 2017 Bloomberg]
+| Dec 04, 2002 | FBI Communications Exploitation Section (CXS) created bit.ly/2EeSahH
+| Dec 31, 2002 | FBI Counterintelligence reprogramming approved by Congress. Reassigned 167 agents and 49 support positions from criminal to counterintelligence
 
 | ??? ??, 2003 | Michael R. Caputo founds Caputo Public Relations while his associate, Sergey Petrushin, operates as CEO in Moscow
+| Jan 10, 2002 | FBIHQ Local Area Network for storing TS/SCI material, codenamed SCION, becomes operational bit.ly/2EeSahH
 | Feb 05, 2003 | Colin Powell appears in front of UN presenting evidence of Iraq WMD
+| Feb 06, 2003 | FBI Intelligence program established. Executive Assistant Director for Intelligence and AD of Intelligence appointed bit.ly/2EeSahH
 | Mar 01, 2003 | Khalid Sheikh Mohammed arrested in Rawalpindi, Pakistan [see: Nov 27, 2011 Der Spiegel]
 | Mar 20, 2003 | Operation Iraqi Freedom starts
 | Mar 27, 2003 | Daily Times: "Pakistani couple sought in Qaeda hunt" (Aafid Siddiqui, Mohammed Khan) archive.is/YoYn5
@@ -115,6 +136,7 @@
 | Jan 08, 2004 | First appearance of The Apprentice on NBC [see: Jan 25, 2004 NYT]
 | Jan 25, 2004 | NYT: "TELEVISION; Due Diligence on the Donald" archive.is/rsOXE
 | Jun 28, 2004 | NATO Istanbul summit where Albania, Bulgaria, Estonia, Latvia, Lithuania, Macedonia, Romania, Slovakia, and Slovenia are officially added to NATO. Russia is especially bothered by Estonia, Latvia, Lithuania
+| Oct 01, 2004 | GSA National Broker Contract awarded to Jones Lang LaSalle (JLL), Staubach, Julien J. Studley, Inc., and The Trammel Crow Company
 | Oct 08, 2004 | Chicago Tribune: "Big names back Trump tower" (Soros $160m, Deutsche Bank $650m) archive.is/gKqj3
 | Dec 19, 2004 | Rosneft (thru shell company, Baikalfinansgrup) buys Yukos oil at auction for $9b [see: Mar 4, 2013 Vanity Fair]
 
@@ -123,6 +145,7 @@
 | ??? ??, 2005 | Deripaska issued a U.S. visa [see: May 11, 2007 Reuters]
 | Aug 04, 2005 | WSJ: "Deputy Attorney General Comey To Take Post at Lockheed Martin" archive.is/CGPHJ
 | Aug 25, 2005 | Gennady Vasilenko is beaten and imprisoned by KGB operatives who believe he is a mole [see: Oct 2, 2018 Daily Beast]
+| Oct 05, 2005 | FBI Intelligence Analyst Leandro Aragoncillo arrested in New Jersey and charged with espionage and with leaking classified information to a former Filipino president
 | Oct 07, 2005 | NBC News: "IAEA, ElBaradei win Nobel Peace Prize" archive.is/XDEAA
 | Oct 08, 2005 | Ekim Alptekin (Erdogan ally) starts Inovo BV in the Netherlands
 
@@ -132,6 +155,7 @@
 | Jan 10, 2006 | BBC: "Iran breaks seals at nuclear site" (Natanz) archive.is/lTtzG
 | Jan 25, 2006 | World Economic Summit at Davos (Jan. 25th-29th) archive.is/69lA5
 | Jan ??, 2006 | McCain meets Deripaska at a gathering in an apartment in Davos, arranged by Rick Davis [see: Jan 25, 2008 WaPo]
+| Mar 16, 2006 | Lockheed Martin awarded the six year, $305 million SENTINEL contract by the FBI. Project means to modernize case file information
 | May ??, 2006 | U.S. intel locates clandestine Iranain enrichment facility at IRCG base sometime Spring 2009 [see: Sep 25, 2009 NYT]
 | May 16, 2006 | Philly Mag: "Where’s Donald?" archive.is/RV97x
 | Jul ??, 2006 | Deripaska visa revoked [see: May 11, 2007 Reuters]
@@ -141,6 +165,7 @@
 | Sep 12, 2006 | Enron Task Force given honors at DOJ Annual Awards Ceremony, include Zebley, Laufman, Yates archive.is/sWGQk
 | Sep 26, 2006 | Jerusalem Post: "Russia agrees to ship nuclear fuel to Iran's atomic power plant" archive.is/2Y5TP
 | Sep 27, 2006 | NYT: "Russia Agrees to Send Fuel for Iran Nuclear Plant" archive.is/J4HTI
+| Oct ??, 2006 | GAO releases report: "FBI Has Largely Staffed Key Modernization Program, but Strategic Approach to Managing Program’s Human Capital Is Needed" referring to SENTINEL project bit.ly/2UDk114
 | Nov 01, 2006 | KGB defector, Alexander Litvienko, poisoned with polonium 
 | Nov 14, 2006 | IAEA: "Implementation of the NPT SafeguardsAgreement in the Islamic Republic of Iran" archive.is/3hOYb
 | Nov 20, 2006 | Guardian: "Former KGB officer was poisoned because he was enemy of Putin" (Litvienko) archive.is/NkmuN
@@ -155,6 +180,7 @@
 | Apr 17, 2007 | WSJ: "How Lobbyists Help Ex-Soviets Woo Washington" by Glenn Simpson and Mary Jacoby. Article mentions Paul Manafort, Bob Dole, Haley Barbour
 | Apr 25, 2007 | Fox News: "Former FBI Agent Robert Levinson: Missing in Iran?" archive.is/0Vjle
 | Apr 25, 2007 | C-SPAN: "McCain formally announces his campaign for the 2008 Republican presidential nomination" archive.is/7h3Zh
+| Apr 26, 2007 | New FBI budget proposed to Senate. Requests $7.5M for FBI headquarters annex and $4M for Central Records Complex
 | May 11, 2007 | Reuters: "U.S. revoked Deripaska visa - State Dep't official" archive.is/20spd
 | Jun 04, 2007 | Interior Ministry officer Artyom Kuznetsov raids Browder office [see: Oct 26, 2011 Moscow Times]
 | Jun 26, 2007 | Reuters: "Russia blames late payments for Iran reactor delay" archive.is/mNE60
@@ -164,6 +190,7 @@
 | Aug 31, 2007 | Gen. James Cartwright hired as Vice Charman for Obama's Joint Chiefs of Staff
 | Sep ??, 2007 | Trump SoHo opening [see: Dec 7, 2007 NYT]
 | Sep 24, 2007 | CBS News: "Ahmadinejad Questions 9/11, Holocaust" archive.is/dGodN
+| Oct ??, 2007 | Mission Ridge buildings completed by Carlyle. Immediately sold. But left vacant.
 | Oct 07, 2007 | Groundbreaking of Trump International Hotel in Toronto [see: Jan 10, 2017 Kansas City Star]
 | Oct 05, 2007 | Telegraph: "US imposes harsh new sanctions against Iran" archive.is/bpGoF
 | Oct 27, 2007 | Daily Mail: "Revealed: Poisoned ex-Russian spy Litvinenko WAS a paid-up MI6 agent" archive.is/xlVeK
@@ -176,12 +203,14 @@
 | ??? ??, 2008 | Douglas Campbell signs an NDA for his work as an informant for the FBI sometime in 2008 [see: Dec 4, 2017 The Hill]
 | ??? ??, 2008 | Alan Patricof retains Cynthia Murphy's firm, Morea Financial Services, around this time [see: Apr 5, 2012 Moscow Times]
 | Jan 01, 2008 | Victor Pinchuk, Ukraine oligarch, pledges five-year, $29-million commitment to the Clinton Global Initiative [see: Mar 19, 2015 WSJ]
+| Jan 08, 2008 | George W. Bush issues NSPD-54/HSPD-23 "Cybersecurity Policy" which establishes the FBI National Cyber Investigative Joint Task Force (NCIJTF) and a DHS National Cybersecurity Center bit.ly/2EqZjg0
 | Jan 08, 2008 | BBC: "Recession in the US 'has arrived'" archive.is/dbbrE
 | Jan 21, 2008 | Bayrock counsel, Julius Schwarz, emails Sater, "I think it is a trap," adding that the meeting with the Trumps was likely to become "a royal ass fucking." [see: Aug 13, 2017 Vanity Fair]
 | Jan 22, 2008 | Aafia Siddiqui arrives unexpectedly at the doorstep of her uncle's house  [see: Feb 04, 2010 BBC]
 | Jan 24, 2008 | WaPo: "Spy vs Spy" (David Wise book review wrt defector Sergei Tretyakov)
 | Jan 25, 2008 | WaPo: "Aide Helped Controversial Russian Meet McCain" (Rick Gates, Oleg Deripaska) archive.is/sZwYL
 | Jan 25, 2008 | WaPo: "John Podesta Leads Obama's Transition Team With His Usual Energy" archive.fo/6vyzF
+| Feb ??, 2008 | Budget for FY 2009 asks for 70 new special agents specifically for cyber. $38,648,000 increase in "Comprehensive National Cybersecurity Initiative" budget
 | Feb 14, 2008 | NYPost: "Breaking the mob" archive.is/3MkzE
 | Mar 02, 2008 | Toronto City News: "Fundraising Gala Brings Bill Clinton To Toronto" (Frank Giustra) archive.is/ppxvs
 | Mar 02, 2008 | The Star: "Bill Clinton speaks at Toronto fundraiser" (Frank Giustra) archive.is/tSUCA
@@ -193,6 +222,7 @@
 | May 06, 2008 | Reuters: "Russia, U.S. sign civilian nuclear pact" (U.S.-Russia Civilian Nuclear Cooperation agreement) archive.is/JTOC4
 | May 07, 2008 | Reuters: "Lawmakers urge Bush to shelve Russia nuclear deal" archive.is/KWtDL
 | May 07, 2008 | Putin's last day as president (becomes Prime Minister May 8)
+| May 27, 2008 | Prosolicitation sent out for FBI space in Northern Virginia. It requests cccupancy by Apr 8, 2011
 | May 11, 2008 | Foreign Policy: "The Israelis Who Prevented a War With Iran" archive.is/mZsZ5
 | Jun ??, 2008 | Two FBI agents (McCabe?) meet with Deripaska at a Paris hotel around this time [see: Dec 13, 2013 NYT]
 | Jun 01, 2008 | Hillary's Apple server (runs until March 2009)
@@ -202,12 +232,14 @@
 | Jun 25, 2008 | Reuters: "Russian nuclear chief tempts foreign investors" (Rosatom, Sergei Kiriyenko) archive.is/vLwOr
 | Jun 26, 2008 | Reuters: "Trump cashes in on weak dollar with overseas sales" (SoHo) archive.is/GXCN5
 | Jul 10, 2008 | FISA Amendments Act of 2008 signed by George W. Bush
+| Jul 14, 2008 | Jones Lang LaSalle (JLL) acquires Staubach
 | Jul 15, 2008 | Rybolovlev buys Trump mansion for ~$100m [see: Feb 17, 2017 McClatchly]
 | Jul 17, 2008 | Al-Qaeda operative, Aafia Siddiqui, arrested by FBI agents in Kabul [see: Nov 27, 2008 Der Spiegel]
 | Jul 25, 2008 | Telegraph: "Bill Browder accuses Russian corporate raiders of $230m fraud" archive.is/qfBDU
 | Aug 09, 2008 | Welt: "Georgia fighting continues over South Ossetia" archive.is/MKPfc
 | Aug 10, 2008 | Guardian: "Abkhazia: Moscow sends troops into second enclave" archive.is/qlQNj
 | Aug 27, 2008 | Times Online: "Russian-backed paramilitaries 'ethnically cleansing villages'" archive.is/NBcn2
+| Sep ??, 2008 | Shawn Henry becomes Assistant Director of the FBI Cyber division archive.is/rdt7o
 | Sep 09, 2008 | Pensions&Investments: "Developer sues Soros, Fortress, Cerberus" (Leslie Dick Worldwide) archive.is/VsKas
 | Sep 12, 2008 | Guardian: "ElBaradei to step down as chief of UN nuclear watchdog body" (leaked memo) archive.is/ri9e5
 | Sep 21, 2008 | CNN: "Bush wants OK to spend $700B" archive.is/EWSs
@@ -218,6 +250,7 @@
 | Nov 18, 2008 | Chicago Business: "Like Trump, other developers may sue lenders" archive.is/X53a6
 | Nov 19, 2008 | IMF: "IMF Executive Board Approves US$2.1 Billion Stand-By Arrangement for Iceland" archive.is/EKsTg
 | Nov 27, 2008 | Der Spiegel: "'The Most Dangerous Woman in the World'" (Ahmed Siddiqui) archive.is/k4Ypx
+| Dec ??, 2008 | Chad Fulgham hired by Director Mueller to oversee SENTINEL development
 | Dec 01, 2008 | Obama formally announced that Clinton would be his nominee for Secretary of State
 
 | ??? ??, 2009 | Joshua Adam Schulte begins sending & receiving online illicit images of minors [see: Jun 18, 2018 grand jury charges]
@@ -230,8 +263,10 @@
 | Jan 01, 2009 | Russia closes supply of natural gas to Ukraine [see: Jan 5, 2009 BBC]
 | Jan 05, 2009 | BBC: "Russia to cut Ukraine gas supply" archive.is/8PHz
 | Jan 21, 2009 | NYT: "Senate Confirms Clinton as Secretary of State"
+| Feb ??, 2009 | FBI budget for Fiscal Year 2010 submitted. Large ask for increase in Cyber staffing, part of "Comprehensive National Cybersecurity Initiative" which is now at $61,180,000 (an increase of that?)
 | Feb 02, 2009 | Israel Nation News: "Obama's Secret Talks with Iran" archive.is/lM0Hm
 | Feb 07, 2009 | WaPo: "'Reset' Sought on Relations With Russia, Biden Says" archive.is/1lJZL
+| Feb 09, 2009 | FBI SES meets at NRO in Chantilly
 | Feb 11, 2009 | Guardian: "Kadima and Likud claim victory in Israel poll" (Netanyahu) archive.is/7O5JH
 | Feb 17, 2009 | State Department security, intelligence and technology specialists, along with five officials from the NSA, gather in State Department conference room and explain the risks of Blackberry usage to Cheryl Mills while also seeking “mitigation options” that would accommodate Clinton’s wishes bit.ly/2RKABdb 
 | Feb 19, 2009 | Reuters: "Netanyahu wins backing in Israeli PM contest" archive.is/4JIw1
@@ -248,6 +283,7 @@
 | May 08, 2009 | Adam Waldman files FARA papers to represent Russian oligarch Oleg Deripaska to help with Deripaska’s US Visa, assistance with commercial transactions, and advice on global issues in the aluminum market [see: efile.fara.gov filing pdf]
 | May 25, 2009 | RFERL: "Kazakhstan Arrests Head Of State Uranium Company" archive.is/3tSNN
 | May 27, 2009 | Reuters: "UPDATE 2-Uranium One stock plunges on Kazakhstan probe" archive.is/wxVjA
+| May 29, 2009 | Fusion intelligence group, International Organized Crime Intelligence and Operations Center (IOC-2) established. Mission is to disrupt and dismantle international criminal organizations. Its located at DEA SOD archive.is/RnYoe
 | May ??, 2009 | Shahram Amiri disappears while traveling in Saudi Arabia in late May [see: Oct 9, 2009 LA Times]
 | Jun ??, 2009 | Ben Zygier investigated by Australian intel at least six months before Mahmoud al-Mabhouh assassination [see: Feb 13, 2013 The Age]
 | Jun ??, 2009 | Stock in Uranium One nosedives sometime in June 2009, falls 40% [see: Apr 23, 2015 NYT]
@@ -261,6 +297,7 @@
 | Jun 16, 2009 | NYT: "Obama Warns Against Direct Involvement by U.S. in Iran" archive.is/dGikl
 | Jun 17, 2009 | Harper's: "Russian Oligarch Retains Advisory Firm Close to Hillary to Help Resolve Visa Ban" archive.is/sPU8O
 | Jun 20, 2009 | Death of Iranian woman, Neda Agha-Soltan, filmed after being shot by Iranian forces [see: Jun 23, 2009 NYT]
+| Jun 23, 2009 | The Secretary of Defense directs the Commander of U.S. Strategic Command (USSTRATCOM) to establish USCYBERCOM, based at NSA Headquarters in Fort Meade, MD
 | Jun 23, 2009 | NYT: "Obama Condemns Iran’s Iron Fist Against Protests" archive.is/mIkXT
 | Jun ??, 2009 | Obama’s toughening stance against Iran attributed to Iranian crackdown on protesters [see: Feb 13, 2012 Newsweek]
 | Jun ??, 2009 | Stuxnet goes viral sometime Summer '09 (after Iranian election, before Aghazadeh resigns?) [see: Mar 2, 2011 VF]
@@ -308,6 +345,7 @@
 | Oct 25, 2009 | Guardian: "UN inspectors visit uranium enrichment facility in Iran" archive.is/GQl4X
 | Oct 27, 2009 | RT: "Moscow says Iran didn’t refuse to enrich uranium in Russia" web.archive.org/web/20091029004552/russiatoday.com/Top_News/2009-10-27/iran-uranium-enrichment-plan.html
 | Oct 29, 2009 | IAEA: "IAEA Receives Initial Iranian Response on Proposal to Supply Nuclear Fuel to Research Reactor" archive.is/BBhyo
+| Nov ??, 2009 | FBI presolicitation first issued on May 27, 2008 is modified. The area considered is more narrowly defined. A tenant improvement allowance is specified. Requested cccupancy date is now stated as Jan 12, 2012
 | Nov 16, 2009 | Sergei Magnitsky dies from pancreatitis in a Russian prison [see: Nov 18, 2009 BBC]
 | Nov 18, 2009 | WikiLeaks cable: "The GOI described 2010 as a critical year -- if the Iranians continue to protect and harden their nuclear sites, it will be more difficult to target and damage them. Both sides then discussed the upcoming delivery of GBU-28 bunker busting  bombs to Israel, noting that the transfer should be handled  quietly to avoid any allegations that the USG is helping  Israel prepare for a strike against Iran." archive.is/m0sPZ
 | Nov 18, 2009 | BBC: "Row over Russia lawyer jail death" (Magnitsky) archive.is/I0KhL
@@ -345,6 +383,7 @@
 | Jan 29, 2010 | BBC: "Hamas military commander 'assassinated in Dubai'" archive.is/3As46
 | Jan 31, 2010 | Mossad spy, Ben Zygier, arrested in Israel (correct date???) [see: Mar 7, 2013 Haaretz]
 | Feb ??, 2010 | White House briefed on 10 Russian spies under surveillance [see: Jul 9, 2010 @markknoller]
+| Feb ??, 2010 | Shawn Henry named Assistant Director in Charge of the Washington Field Office archive.is/rdt7o
 | Feb 02, 2010 | CBS News: "Ahmadinejad Offers Swap for U.S. Hikers" archive.is/495Cb
 | Feb 02, 2010 | Reuters: "Iran makes new nuclear offer, U.S. seeks firm deal" archive.is/Q1NNy
 | Feb 02, 2010 | Guardian: "CIA workers trained Wall Street firms to detect lies" archive.is/Sn6Na
@@ -516,6 +555,7 @@
 | Aug 25, 2010 | Daily Mail: "Women who accused WikiLeaks founder of sex attacks deny they are part of Pentagon conspiracy" archive.is/COuuh
 | Aug 25, 2010 | @DavidClinchNews: "Swedish prosecutor says Assange no longer suspected of rape but "molesting" accusation still being investigated."
 | Aug 31, 2010 | Uranium One stockholders approved sale of 51% of U-1 shares to Atomredmetzoloto (Rosatom) [see: Sep 25, 2010 CNN]
+| Sep ??, 2010 | Shawn Henry named Executive Assistant Director of the Criminal, Cyber, Response, and Services Branch of the FBI archive.is/rdt7o
 | Sep 01, 2010 | @expressen: "Swedish prosecutor has - again - opened the investigation on the #Assange rape"
 | Sep 03, 2010 | @AKIpress_com: "Kazakhstan officially approves Uranium One swap deal with ARMZ" archive.is/YTrOh
 | Sep 08, 2010 | UK terrorist, Abdul Jabbar, dies from a U.S. drone strike [see: Oct 5, 2010 Guardian]
@@ -672,6 +712,7 @@
 | Jun 24, 2012 | Guardian: "Julian Assange asylum bid: Ecuador's ambassador flies to Quito for talks" archive.is/V1ph8
 | Jun 28, 2012 | Guardian: "Julian Assange told to turn himself in at London police station" archive.is/jgGBK
 | Jun 29, 2012 | Telegraph: "WikiLeaks founder Julian Assange to remain in Ecuadorian Embassy" archive.is/AgIo
+| Jul ??, 2012 | FBI first deploys SENTINEL case file system to users bit.ly/2SFEvnW
 | Jul 01, 2012 | HRC sends Obama an email titled "Fw: Congratulations" from her plane while in Russia bit.ly/2QJcU88
 | Jul 24, 2012 | Reuters: "Special Report: Russian Railways' family connections" (Yakunin, Katsyv) archive.is/2rPK4
 | Jul 25, 2012 | Flynn made DIA. Clapper hints that its a "put-up-or-shut-up" promotion. He doesn't like that Flynn is criticizing the IC so he promotes him and sort of says this is your problem now
