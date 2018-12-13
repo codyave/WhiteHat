@@ -2759,6 +2759,7 @@
 | May 26, 2017 | NYT: "Kushner Is Said to Have Discussed a Secret Channel to Talk to Russia" archive.is/IfyMw
 | May 26, 2017 | The Hill: "GOP leaders launch internal review into leak" (McCarthy, Paul Ryan audio leak)
 | May 27, 2017 | @PhilipRucker: "McMaster said 'I would not be concerned” if admin staffer had backchannel comms with Russia.'"
+| May 28, 2017 | Lisa Page joins Special Counsel [see: Dec 13, 2018 DOJ OIG Report]
 | May 29, 2017 | NYPost: "The real reason red lights were flashing in White House windows"
 | May 29, 2017 | Carter Page sends letter to SSCI, complains about Brennan
 | May 30, 2017 | Two more candidates were interviewed for FBI director job (Wray, Pistole)
@@ -2859,6 +2860,8 @@
 | Jul 13, 2017 | Politico: "Co-founder of firm behind Trump-Russia dossier will not testify before Senate next week"
 | Jul 14, 2017 | Michael Caputo testifies to HPSCI
 | Jul 14, 2017 | CNN: "Former DNC contractor denies working with Ukrainian officials on anti-Trump research" (Chalupa) archive.is/eZqYt
+| Jul 15, 2017 | Lisa Page leaves Special Counsel [see: Dec 13, 2018 DOJ OIG Report]
+| Jul 15, 2017 | Office of Special Counsel Executive Officer says she does not receive Lisa Page's DOJ-issued iPhone or laptop, as required. Lisa Page says she left them both on a bookshelf in her office on her final day there. The Executive Officer finds the laptop, but not the iPhone [see: Dec 13, 2018 DOJ OIG Report]
 | Jul 15, 2017 | @MacFinn44: "Deripaska M-SAWO 7/14 Moscow-Newark. Maybe a round of golf with Trump in Bedminster" archive.is/eZR8D
 | Jul 16, 2017 | Steele: "they assured me they would stand in the way of our reengagement with the Bureau." [see: Aug 8, 2018 The Hill]
 | Jul 17, 2017 | WSJ: "New York Seeks Bank Records of Former Trump Associate Paul Manafort" ($15m loan) archive.is/ojMYT
@@ -3233,6 +3236,7 @@
 | Jan 23, 2018 | Fox News: "FBI Director Chris Wray replaces James Rybicki, Comey-era chief of staff" (Harmon) archive.is/P4IAn
 | Jan 23, 2018 | TheRealDeal: "SoftBank subsidiary issues loan to Kushner for Jersey City project" archive.is/2GR2y
 | Jan 24, 2018 | Assistant Attorney General for Legislative Affairs Stephen Boyd letter to HPSCI trying to stop the release of the Nunes memo. Calls releasing memo "extraordinarily reckless"
+| Jan 24, 2018 | Office of Special Counsel is asked to find Lisa Page's DOJ-issued iPhone, but cannot find it [see: Dec 13, 2018 DOJ OIG report]
 | Jan 25, 2018 | @ByronYork: "Grassley releases 7 pages of Strzok-Page texts. http://ow.ly/Y6vZ30i0ozQ"
 | Jan 25, 2018 | HPSCI letter to Rosenstein and Wray stating concerns about the five months of lost text messages between Strzok and Page and notifying FBI/DOJ of retention and preservation requirements for all communications between Strzok and Page 
 | Jan 27, 2018 | Assange DM's fake Hannity account, promises info on Warner [see: January 29, 2018 Daily Beast]
@@ -3578,8 +3582,9 @@
 | Aug 30, 2018 | Clinton Digital Library: "Declassified Documents Concerning Russian President Boris Yeltsin" archive.is/dzClN
 | Aug 30, 2018 | Daily Beast: "Rudy Giuliani Is Putting Together a ‘Counter-Report’ to Question Robert Mueller’s ‘Legitimacy’" archive.is/EhTdJ
 | Aug 31, 2018 | Guardian: "Manafort associate paid Trump inauguration $50,000 in Ukrainian cash" (Sam Patten)
-| Sep 05, 2018 | NYT: "Jerome Corsi, Conspiracy Theorist, Is Subpoenaed in Mueller Investigation"
+| Sep ??, 2018 | DOJ's Justice Management Division locates Lisa Page's DOJ-issued iPhone, notifies DOJ OIG who then take custody of the iPhone. Upon examination, DOJ OIG discovers the iPhone had been reset to factory default settings on Jul 31, 2017, a little over two weeks after Lisa Page departed the Special Counsel's team. All text messages are found to be erased, and  [see: Dec 13, 2018 DOJ OIG report]
 | Sep 01, 2018 | NYT: "Agents Tried to Flip Russian Oligarchs. The Fallout Spread to Trump"
+| Sep 05, 2018 | NYT: "Jerome Corsi, Conspiracy Theorist, Is Subpoenaed in Mueller Investigation"
 | Sep 05, 2018 | NYT: "Opinion: I Am Part of the Resistance Inside the Trump Administration"
 | Sep 06, 2018 | WaPo: "Prosecutors use grand jury as investigation of Andrew McCabe intensifies"
 | Sep 06, 2018 | The Hill: "Bruce Ohr's efforts to secretly reshape the Trump probe started earlier in summer '16"
