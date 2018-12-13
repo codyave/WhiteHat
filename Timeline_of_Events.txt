@@ -1006,6 +1006,7 @@
 | Jul 06, 2015 | Yahoo: "Eric Holder: The Justice Department could strike deal with Edward Snowden" by Michael Isikoff part of a whole interview with Isikoff which mostly centers around Snowden
 | Jul 07, 2015 | National Review: "With Mega-Donor’s Technology, Cruz Campaign Promises to Turn Out More GOP Voters than Ever Before" by Eliana Johnson talks about Cruz and Mercers and Cambridge Analytica
 | Jul 08, 2015 | Daily Beast: "Trump Tower Was Built on Undocumented Polish Immigrants' Backs" by Michael Daly
+| Jul 08, 2015 | James Comey and Sally Yates testify to Seante Judiciary Committee about the "Going Dark" initiative bit.ly/2EvJt3N  bit.ly/2UGTVdt
 | Jul 09, 2015 | Global Natural Gas Ventures LLC closed by Carter Page archive.is/k9oSD
 | Jul 09, 2015 | White House releases "FACT SHEET: Administration Cybersecurity Efforts 2015" archive.is/8quLQ
 | Jul 10, 2015 | CNN: "OPM government data breach impacted 21.5 million" Their internal investigation is closed
@@ -1120,6 +1121,7 @@
 | Dec 07, 2015 | @JebBush: "Donald Trump is unhinged. His "policy" proposals are not serious."
 | Dec 08, 2015 | @JebBush: "Maybe Donald negotiated a deal with his buddy @HillaryClinton. Continuing this path will put her in the White House."
 | Dec 09, 2015 | James Wolfe emails "REPORTER #1" (Devlin Barrett?) "Nice meeting you." to which the rpeorter replied "Very nice meeting you! Enjoyed the chat."
+| Dec 09, 2015 | Comey testifies to Senate Judiciary Committee regarding oversight bit.ly/2BfwYVQ
 | Dec 10, 2015 | ABC: "Memory Lapse? Trump Seeks Distance From 'Advisor' With Past Ties to Mafia" Brian Ross special report linking Trump to Sater
 | Dec 10, 2015 | Gen. Flynn photographed seated next to Putin for Russia Today's 10th anniversary
 | Dec ??, 2015 | John Podesta realizes that he’s not prepared for the eventuality that Trump wins nomination
@@ -1596,6 +1598,7 @@
 | Jul 05, 2016 | Comey defers HRC prosecution recommendation in public press conference
 | Jul 06, 2016 | Bruce Ohr meets Steele [see: September 6, 2018 The Hill]
 | Jul 06, 2016 | Guccifer 2.0 releases stolen DNC documents
+| Jul 06, 2016 | Letter from Grassley to Comey about Clinton emails bit.ly/2CavHkt
 | Jul 06, 2016 | Strzok calls someone from USD(I)
 | Jul 06, 2016 | Trump: "I don't like those mosquitoes. I never did. Okay, speaking of mosquitoes...hello, Hillary!" archive.is/bZMnU
 | Jul 07, 2016 | Steele and Bruce Ohr have a Skype call
@@ -1671,6 +1674,7 @@
 | Jul 26, 2016 | DNC convention Day 2 (Tuesday). Speakers include Bill Clinton, Madeline Albright, Eric Holder, Terry McAuliffe, Nancy Pelosi
 | Jul 26, 2016 | DC-PPD-41 issued by White House. NCIJTF designated the lead responder to cyber threats
 | Jul 26, 2016 | WaPo: "George F. Will: The path ahead for Clinton and Kaine"
+| Jul 26, 2016 | Letter from Grassley to Lynch and Comey asking about Russian hacking bit.ly/2SJ6rHv
 | Jul 26, 2016 | NYT: "Spy Agency Consensus Grows That Russia Hacked D.N.C." byline David Sanger and Eric Schmitt http://archive.is/GHyUW
 | Jul 26, 2016 | WaPo: "Bernie Sanders asks delegates to back Hillary Clinton, and hears boos"
 | Jul 26, 2016 | Steele memo filed, blames DNC hacks on Russia
@@ -2012,18 +2016,19 @@
 | Oct 27, 2016 | McCabe instructed to listen by phone to MYE-Wiener laptop conference led by Comey [see: Jun 14, 2018 IG]
 | Oct 27, 2016 | Peter Fritch email to Mark Cymrot ccing Glenn Simpson, about the Prevazon/Browder case
 | Oct 28, 2016 | Carter Page writes EU Human Rights commission to report election tampering by spying on him, leaking false info
-| Oct 28, 2016 | Comey notifies Congress reopening Clinton investigation
+| Oct 28, 2016 | Comey notifies Congress reopening Clinton investigation bit.ly/2EtXpuO
 | Oct 28, 2016 | Steele's relationship with the FBI breaks down
 | Oct ??, 2016 | (October 29th?) Steele Skypes with David Corn
 | Oct 29, 2016 | Joe DiGenova announces FBI did not destroy Clinton team laptops
 | Oct 29, 2016 | Stone says on local Florida television that he had no advanced knowledge of the forthcoming hack of Podesta's emails, but says he has a "backchannel contact" to Assange. "We have a mutual friend." When asked about the content of the information shared, "Broad information pertaining to the fact that Wikileaks has information pertaining to massive secret surveillance, war, oil, the U.S. election." Stone says he only knew about emails being released "in the broad sense." He says he has never met or spoken to Assange and didn't pass any information about it to Trump.
-| Oct 30, 2016 | WSJ: "FBI in Internal Feud Over Hillary Clinton Probe" archive.is/91ru0
 | Oct 29, 2016 | Joseph Mifsud emails his employee, Simona Mangiante, asking if he can meet with her in London
+| Oct 30, 2016 | WSJ: "FBI in Internal Feud Over Hillary Clinton Probe" archive.is/91ru0
 | Oct 30, 2016 | A British citizen envoy arrives in Charlotte, NC to walk precincts in support of Hillary Clinton, including Jen Thornton. Australians, led by  Stephen Donnelly, go to Charlston, NC
 | Oct 30, 2016 | Reid writes letter to Comey, demands he announce Trump Russia investigation
 | Oct 30, 2016 | WSJ article on McCabe's ties to McAuliffe
 | Oct 30, 2016 | McCabe in London
 | Oct ??, 2016 | Clinton campaign and DNC stop paying Fusion GPS through Perkins Coie
+| Oct 31, 2016 | Grassley letter to Comey asking about email investigation bit.ly/2Ei1PUT
 | Oct 31, 2016 | Slate: "Was a Trump Server Communicating With Russia?" archive.is/Z7kZm
 | Oct 31, 2016 | NYT: "Investigating Donald Trump, F.B.I. Sees No Clear Link to Russia" archive.is/GQy9Y
 | Oct 31, 2016 | FBI leaks confirmation of Trump-Russia investigation to Mother Jones
@@ -2040,7 +2045,7 @@
 | Nov 01, 2016 | Steele shows BBC reporter Paul Wood the Dossier
 | Nov 01, 2016 | Moscow confirms it received Obama admin's call on the secure line
 | Nov 01, 2016 | McCabe recuses himself from Clinton Foundation investigation [see: Jun 14, 2018 IG Report]
-| Nov 02, 2016 | Grassley sends letter to Comey about the relationship between Andrew McCabe, Jill McCabe, and Terry McAuliffe
+| Nov 02, 2016 | Grassley sends letter to Comey about the relationship between Andrew McCabe, Jill McCabe, and Terry McAuliffe bit.ly/2C9ih8r
 | Nov 02, 2016 | Alpektin meets with Brian McCauley and Bijan Kian in NYC at the Flynn Intel Group office in VA [see: Mar 16, 2017 New Yorker]
 | Nov 02, 2016 | Time: "President Obama Criticizes FBI Chief on Disclosure of New Hillary Clinton Email Probe" archive.is/W66Tv
 | Nov 02, 2016 | WSJ: "Secret Recordings Fueled FBI Feud in Clinton Probe" archive.is/UmZkP
@@ -2338,6 +2343,7 @@
 | Feb 15, 2017 | @realDonaldTrump: "The real scandal here is that classified information is illegally given out by "intelligence" like candy. Very un-American!"
 | Feb 15, 2017 | Newsweek: "U.S. allies conduct intelligence operation against Trump staff and associates, intercepted communications" archive.is/5UYIm
 | Feb 15, 2017 | Carter Page on PBS "I had no meetings, no meetings. I might have said hello to a few people as they were walking by me at my graduation — the graduation speech that I gave in July, but no meetings"
+| Feb 15, 2017 | @CheckGrassley: "Troubling Qs abt Flynn/Russia/intel leaks Cong intel comms right 2investigate + get answers ANY Russian meddling in US election UNACCEPTABLE"
 | Feb 16, 2017 | @realDonaldTrump: "The spotlight has finally been put on the low-life leakers! They will be caught!"
 | Feb 16, 2017 | Wikileaks leaks CIA documents showing they spied on the 2012 French presidential election and a press release archive.is/9cfIJ
 | Feb 16, 2017 | Waldman: "this guy is going to do something catastrophic for the dems, Obama, CIA and national security."
@@ -2383,7 +2389,7 @@
 | Mar 06, 2017 | James Madison Project FOIA's for any Trump-related FISA warrants [see: Oct 19, 2018 James Madison Project]
 | Mar 06, 2017 | Daily Caller: "Dem super-lobbyist Podesta got $170k to end US sanctions on Russian bank" archive.is/fvas0
 | Mar 06, 2017 | The Independent: "Ukranian businessman with links to Donald Trump and Russia dies in unexplained circumstances" archive.is/9RlPF
-| Mar 06, 2017 | Senate Judiciary letter to Comey. Includes, "FBI Plan to Pay Ex-Spy...Sparks Questions of Obama Admin’s Use of Federal Authorities for Political Gain" asks 12 questions including about FISA warrants http://archive.is/mwvIQ
+| Mar 06, 2017 | Senate Judiciary letter to Comey. Includes, "FBI Plan to Pay Ex-Spy...Sparks Questions of Obama Admin’s Use of Federal Authorities for Political Gain" asks 12 questions including about FISA warrants bit.ly/2EiZDMF
 | Mar 06, 2017 | Stone tweets -- then deletes -- about communicating with Assange, writing that he "never denied perfectly legal backchannel to Assange who indeed had the goods on #CrookedHillary."
 | Mar 07, 2017 | Daily Caller: "Podesta didn't register as a foreign agent when he represented a bank with ties to Russia spy agencies"
 | Mar 07, 2017 | Gen. Flynn files FARA for work on behalf of Inovo BV, as well as for an unnamed Israeli gas company
@@ -2437,7 +2443,7 @@
 | Mar 14, 2017 | McClatchly: "Here’s the surprise in Trump’s 2005 return – he paid $38 million in federal taxes" archive.is/9UFdg
 | Mar 15, 2017 | FBI searches Schulte's NYC apartment, recover (among other things) multiple computers, servers, and other portable electronic storage devices (approximately 60 in total), including Schulte's personal desktop computer (Schulte replaces his confiscated devices after law enforcement leaves) (Also: regular/official passport confiscated?) [see: Aug 23, 2017 Schulte arrest affidavit]
 | Mar 15, 2017 | @realDonaldTrump: "Does anybody really believe that a reporter, who nobody ever heard of, "went to his mailbox" and found my tax returns? @NBCNews  FAKE NEWS!" (6:55am est)
-| Mar 15, 2017 | @KatieBoWill: "Comey is in the Senate SCIF with Grassley and Feinstein. Schumer and Warner have also gone down." (3:55pm est) Here, Grassley finally gets a briefing on whether the FBI is investigating Trump Russia. Before, he vents to WaPo reporters that they are keeping him in the dark archive.is/YqxUX
+| Mar 15, 2017 | @KatieBoWill: "Comey is in the Senate SCIF with Grassley and Feinstein. Schumer and Warner have also gone down." (3:55pm est) Grassley finally gets a briefing on whether the FBI is investigating Trump Russia. Before, he vents to WaPo reporters that they are keeping him in the dark archive.is/YqxUX
 | Mar 15, 2017 | Complaint against McCabe received by INSD [see: Oct 15, 2018 FBI Vault]
 | Mar 15, 2017 | @yashar: "Direct Quote John McCain re Rand Paul 'The Senator from Kentucky is now working for Vladimir Putin'" 
 | Mar 15, 2017 | Ohr: "Special Counsel, right to question in U.K.?" [see: Gregg Jarrett, youtube.com/watch?v=eTtveyYnJGg&t=19m25s]
@@ -2472,6 +2478,7 @@
 | Mar 17, 2017 | NPR: "Secret Service Detains Driver Near White House In The Third Security Scare In 8 Days" 
 | Mar 17, 2017 | Chaffetz letter to William J. Callahan, acting Director of the Secret Service bit.ly/2rzfCyN
 | Mar 18, 2017 | Washington Examiner: "Spicer applauds secret service after would-be White House intruder tackled" archive.is/3PdZv
+| Mar 20, 2017 | @ChuckGrassley: "Leaks need 2 b investigated + Comey needs 2 b transparent about how that is being handled"
 | Mar 20, 2017 | Washington Examiner: "Secret Service had removed alarm sensors from fence intruder scaled" archive.is/YCXzB
 | Mar 20, 2017 | Joshua Adam Schulte consents to the FBI a search of his cell phone [see: Aug 23, 2017 Schulte arrest affidavit]
 | Mar 20, 2017 | @StoneColdRoger in response to the HPSCI hearing on Russian interference in the 2016 election: "It's only fair that I have a chance to respond 2 any smears or half truths about alleged "Collusion with Russians" from 2day's Intel Hearing."
@@ -2501,7 +2508,7 @@
 | Mar 24, 2017 | Daily Beast: "Paul Manafort’s Business Partner Left Pro-Trump Group Because of Russia Ties, Sources Say" (Rick Gates, America First Policies) archive.is/7QgT3
 | Mar 24, 2017 | Daily Caller: "Michael Flynn discussed covert extradition plan with Turkish government"
 | Mar 24, 2017 | WSJ: "Ex-CIA Director: Mike Flynn and Turkish Officials Discussed Removal of Erdogan Foe From U.S."
-| Mar 24, 2017 | Senate Judiciary letter to Fusion GPS requesting similar information as the Mar 06, 2017 letter to Comey, related to interactions with Christopher Steele http://archive.is/Ym3ca
+| Mar 24, 2017 | Senate Judiciary letter to Fusion GPS requesting information about Steele and with contact with FBI/DOJ  bit.ly/2zXsxzc
 | Mar 25, 2017 | The Hill: "Dems question potential Kushner real estate deal with Chinese firm" archive.is/WTwLC
 | Mar 25, 2017 | Waldman: "Deripaska is in London Monday-Thursday and I might be able to arrange a mtg with him too if you wish."
 | Mar 26, 2017 | Waldman: "I have an idea to explore with you."
@@ -2514,6 +2521,7 @@
 | Mar 27, 2017 | Chairman Burr and Vice Chairman Warner Statement on Kushner’s Voluntary Participation in SSCI Investigation archive.is/OGItH
 | Mar 27, 2017 | Patribotics: "Epshteyn Named in FBI FISA Application; Did Trump, Nunes Obstruct Justice?" archive.is/HBL58
 | Mar 27, 2017 | WhoWhatWhy: "Why FBI can't tell all on Trump, Russia" archive.is/uHCBz
+| Mar 28, 2017 | Grassley letter to Comey  bit.ly/2RWb29l
 | Mar 28, 2017 | Laufman emails Waldman, offers Assange immunity and safe passage [see: Jun 25, 2018 The Hill]
 | Mar 28, 2017 | Ben Jones meets with FBI and tells them about his PQG and funding Fusion and Steele after the election
 | Mar 28, 2017 | WNYC: "Paul Manafort's Puzzling New York Real Estate Purchases" archive.is/okldW
@@ -2526,6 +2534,7 @@
 | Mar 29, 2017 | Politico: "Ivanka Trump will become a federal employee as part of unpaid White House role" archive.is/pm1Ys
 | Mar 29, 2017 | New Yorker: "Deutsche Bank, mirror trades, and more Russian threads" archive.is/jw9tB
 | Mar 29, 2017 | WSJ: "Paul Manafort Received Loans From Another Former Trump Adviser’s Bank" (Steve Calk) archive.is/Cj9eW
+| Mar 30, 2017 | Grassley letter to Tillerson bit.ly/2UK0dJ9
 | Mar 30, 2017 | McClatchy: "A Kazakh dirty-money suit threatens to reach Trump’s business world" archive.is/sW5Xy
 | Mar 30, 2017 | Steve Bannon electronically files financial disclosure forms archive.is/oLLNb
 | Mar 30, 2017 | Just Security: "Following the Money: Russia, Cyprus, and the Trump Team’s Odd Business Dealings" archive.is/ZAknp
@@ -2540,6 +2549,7 @@
 | Mar 30, 2017 | Fox News: "Ex-Trump adviser Carter Page rips 'false narrative' on Russia collusion"
 | Mar 30, 2017 | Graham Kates sends email to Bureau of Prisons, requesting FOIA on Evgeny Buryakov archive.is/z6Cpn
 | Mar 31, 2017 | Graham Kates: "Banker who worked as Russian secret agent to be released early, deported"
+| Mar 31, 2017 | Grassley letter to Dana Boente asking about Fusion and Rinat Akhmetshin  https://bit.ly/2G9HBiy
 | Mar 31, 2017 | Warner: "Keep me informed also any news about ur other guy on Manafort"
 | Mar 31, 2017 | Waldman: "My other guy, like Steele, very mistrustful of USG", "shut out of the country", "dragged through the mud"
 | Mar 31, 2017 | Waldman: "Update re the other other guy, my contact at DOJ has gone silent last 72 hrs. I gave him what he asked for."
@@ -2577,7 +2587,7 @@
 | Apr 07, 2017 | FISA Primary Order and Warrant on Carter Page (p. 273-291) [signed: Judge Conway]
 | Apr 07, 2017 | @GeorgePapa19: "Great decision by #POTUS--America is back as a force for good around the world" (first tweet) archive.is/ej3ug
 | Apr 07, 2017 | National Review: "How the Clintons Sold Out U.S. National Interests to the Putin Regime" archive.is/d3GRU
-| Apr 07, 2017 | Fusion GPS counsel letter to Senate Judiciary, saying that the information and documentation requested are protected by First Amendment privilege and also by the work product doctrine, the attorney-client privilege and confidentiality agreements. So no information can be produced to the committee https://www.judiciary.senate.gov/imo/media/doc/2017-04-07%20Fusion%20GPS%20to%20CEG%20(Trump%20Dossier).pdf
+| Apr 07, 2017 | Fusion GPS counsel letter to Senate Judiciary, saying that the information and documentation requested are protected by First Amendment privilege and also by the work product doctrine, the attorney-client privilege and confidentiality agreements. So no information can be produced to the committee bit.ly/2QMTVcJ
 | Apr 08, 2017 | NYT: "To Charm Trump, Paul Manafort Sold Himself as an Affordable Outsider" archive.is/nofgp
 | Apr ??, 2017 | Kash Patel joins the HPSCI investigative team
 | Apr 10, 2017 | Strzok: "just gone to find this phone to tell you...media leak strategy with DOJ" [see: Sep 10, 2018 saraacarter.com]
@@ -2606,6 +2616,8 @@
 | Apr 13, 2017 | Vanity Fiar: "What the hell is going on with Carter Page?" archive.is/oPG4T
 | Apr 15, 2017 | CNN: "FBI documents show how Russians try to recruit spies"
 | Apr 16, 2017 | Washington Times: "Carter Page rebuts Democrats latching onto 'completely false' Russia dossier"
+| Apr 17, 2017 | Greg Brower letter to Grassley bit.ly/2C9SlcS
+| Apr 19, 2017 | FBI letter to Senate Judiciary. It's four sentences and doesn't provide requested info
 | Apr 19, 2017 | Waldman: "Maldives" (possibly traveling with Deripaska) [see: Feb 8, 2018 Fox News]
 | Apr 20, 2017 | NPR: "Leader Of Justice Department National Security Division On The Way Out" Mary McCord announces resignation, to take effect in two weeks
 | Apr 21, 2017 | Daily Beast: "Roger Stone Convinced Trump to Hire Paul Manafort, Former Officials Say" archive.is/mDZor
@@ -2615,6 +2627,7 @@
 | Apr 24, 2017 | Entertainment Weekly: "Essential, staggering Get Me Roger Stone rocks Tribeca Film Festival" archive.is/96hM1
 | Apr 24, 2017 | Warner and other are "very frustrated" at pace of Senate Intel Inquiry. Two staffers are hired to help, but the committee was woefully unprepared for this investigation
 | Apr 24, 2017 | NYT: "Russian Hackers Who Targeted Clinton Appear to Attack France’s Macron" http://archive.is/my0kw
+| Apr 24, 2017 | Grassley letter to Boente and Comey  bit.ly/2EtWz18
 | Apr 25, 2017 | Christopher Steele makes a court filing in the Webzilla UK case
 | Apr 25, 2017 | Waldman: "Steele is under a lot of duress" "I can't convince him to do a call first" "[Steele] fearful of the triumvirate of cost, time suck and reputation" [see: Feb 8, 2018 Fox News]
 | Apr 25, 2017 | Politico: "Senate confirms Rosenstein as deputy attorney general"
