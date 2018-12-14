@@ -310,6 +310,7 @@
 | Jun ??, 2009 | Secret uranium enrichment facility (Fordo) built near Qom detected sometime June '09 [see: Mar 5, 2018 Politico]
 | Jun 28, 2009 | Head of Iran's Atomic Energy Organization, Gholam Reza Aghazadeh, resigns [see: Jul 17, 2010 WikiLeaks.com]
 | Jul 01, 2009 | French academic, Clotilde Reiss, arrested in Iran [see: Jul 7, 2009 France24]
+| Jul 01, 2009 | CNN: "Supermarket tycoon sworn in as Panama president" (Ricardo Martinelli) archive.is/A1bIt
 | Jul 02, 2009 | IAEA: "Board Selects Japan´s Yukiya Amano as IAEA Director General" archive.is/LgcfT
 | Jul 03, 2009 | (Explosion or accident at Natanz nuclear facility in Iran around this?) time [see: Jul 17, 2017 WikiLeaks.com]
 | Jul 06, 2009 | White House: "Press Conference by President Obama and President Medvedev of Russia" archive.is/NEZw8
@@ -654,6 +655,7 @@
 | Mar 26, 2011 | Gen. Cartwright creates gmail account used to communicate with David Sanger about Stuxnet [see: Sep 12, 2012 Politico]
 | Apr 04, 2011 | Russian deputy prime minister Sergey B. Ivanov gives speech at CFR which shows that Operation Russian Reset was still in operation. Carter Page attends/participates in this event archive.is/RoJDz
 | Apr 07, 2011 | @Newsmax: "Trump: Grandma Says Obama Was Born in Kenya" archive.is/kQGXQ
+| Apr 16, 2011 | McClatchly: "Wikileaks: Dim view of Panama president Obama will meet" (Ricardo Martinelli) archive.is/6Qk0P
 | Apr 30, 2011 | White House Correspondents' Dinner. Obama hits Trump hard and Trump is steaming about it
 | May ??, 2011 | Iranian nuclear scientist, Shahram Amiri, is arrested and reportedly tried for treason [see: Aug 7, 2016 BBC]
 | May 03, 2011 | BBC: "Russia charges US spy ring 'traitor' Alexander Poteyev" archive.is/g4cUn
@@ -1010,8 +1012,9 @@
 | Jul 06, 2015 | WaPo: "At Trump hotel site, immigrant workers wary" by Antonio Olivo
 | Jul 06, 2015 | The Intercept: "Leaked documents show FBI, DEA, and U.S. Army buying Italian spyware" archive.is/mFMje
 | Jul 06, 2015 | Yahoo: "Eric Holder: The Justice Department could strike deal with Edward Snowden" by Michael Isikoff part of a whole interview with Isikoff which mostly centers around Snowden
+| Jul 07, 2015 | Motherboard: "Hacking Team's Equipment Got Stolen in Panama" archive.is/fG1TA
 | Jul 07, 2015 | National Review: "With Mega-Donor’s Technology, Cruz Campaign Promises to Turn Out More GOP Voters than Ever Before" by Eliana Johnson talks about Cruz and Mercers and Cambridge Analytica
-| Jul 08, 2015 | DOJ awards $150k contract to Crowdstrike, effective until Jul 7, 2016 usaspending.gov/#/award/13086712
+| Jul 08, 2015 | DOJ awards $150k contract to Crowdstrike (effective until Jul 7, 2016) usaspending.gov/#/award/13086712
 | Jul 08, 2015 | Daily Beast: "Trump Tower Was Built on Undocumented Polish Immigrants' Backs" by Michael Daly
 | Jul 09, 2015 | Global Natural Gas Ventures LLC closed by Carter Page archive.is/k9oSD
 | Jul 09, 2015 | White House releases "FACT SHEET: Administration Cybersecurity Efforts 2015" archive.is/8quLQ
@@ -1155,6 +1158,7 @@
 | Dec 18, 2015 | Mother Jones: "Pete Seeger’s FBI File Reveals How the Folk Legend First Became a Target of the Feds" by David Corn, Ironic, long article about how pete seeger was unfairly targeted by the FBI for communist sympathies
 | Dec 19, 2015 | Pro-Kasich ad runs which mentions Trump Putin "bromance" "Make Tyranny Great Again"
 | Dec 19, 2015 | To facilitate a trip to Russia, Sater asks Cohen to provide information about his and Trump’s passports. A contact in Russia, Evgeny Shmykov (who Sater later testifies once worked for Russian intelligence), needs the information to facilitate getting visas through VTB. Cohen sends photos of information from his own passport but not Trump’s
+| Dec 22, 2015 | BBC: "Panama orders arrest of ex-leader Ricardo Martinelli" archive.is/lAJXc
 | Dec 22, 2015 | Fox News: "Cyprus Central Bank revokes license of FBME Bank branch, bank to mount legal challenge" archive.is/6czN5
 | Dec 23, 2015 | Mother Jones: "Why Donald Trump Loves Vladimir Putin" by David Corn. All about Trump being a narcissist. Nothing about real connections to Russia 
 | Dec 28, 2015 | Page: "You get all our oconus lures approved? ;)"
@@ -2123,6 +2127,7 @@
 | Dec 05, 2016 | Strzok briefs HPSCI as part of full committe briefing on Russia cyber activity. FBI statements are "fuzzy" and "ambiguous" about the charges of trump-russia connections
 | Dec 07, 2016 | Daily Caller: "Trump fires Gen. Mike Flynn's son from transition team over 'PizzaGate' tweets" archive.is/JP5ZH
 | Dec 08, 2016 | McCain hand delivers a copy of the dossier to Comey
+| Dec 09, 2016 | Miami Herald: "Suspected of corruption at home, powerful foreigners find refuge in U.S." (Panamanian ex-President, Ricardo Martinelli) archive.is/VsHKE
 | Dec 09, 2016 | Brennan provides ICA assessment to Obama, showing Russia preferring Trump over Clinton
 | Dec 09, 2016 | Obama orders review of Russian interference in US elections going back to 2008
 | Dec 09, 2016 | Imran Awan returns to U.S. from Pakistan
@@ -2741,6 +2746,7 @@
 | Mar 21, 2017 | ABC News: "Russian mafia boss still at large after FBI wiretap at Trump Tower"
 | May 21, 2017 | Page: "In business wear. Because Mueller."
 | May 21, 2017 | Mifsud attends the Riyadh Forum on Countering Extremism and Fighting Terrorism at Kings College London
+| May 22, 2017 | Reuters: "Interpol arrest notice issued ex-Panamanian President Martinelli" archive.is/mJ7iq
 | May 22, 2017 | Carter Page sends letter to HPSCI, of little material
 | May 22, 2017 | Flynn letter to SSCI saying he invokes the Fifth amendment with regards to the committee's May 10, 2017 subpoena. Extends Fifth amendment to refusing to produce documents
 | May 22, 2017 | WaPo: "Trump asked intelligence chiefs to push back against FBI collusion probe after Comey revealed its existence" archive.is/eYPP2
@@ -2804,6 +2810,8 @@
 | Jun 12, 2017 | Financial Times: "Inquest opens into case of whistleblower Alexander Perepilichny" archive.is/U9lXA
 | Jun 12, 2017 | Counsel for Fusion GPS asks Senate Judiciary for a week's extension for responding to their Jun 07, 2017 letter because counsel for Fusion GPS was out of town that week on another matter
 | Jun 12, 2017 | Rick Gates chats with Tom Barrack and Yousef Al Otaiba (UAE ambassador in DC) in Trump International Hotel lobby [see: Jun 13, 2017 Politico]
+| Jun 12, 2017 | Miami Herald: "Former Panamanian president Ricardo Martinelli arrested in Coral Gables" archive.is/jxdpT
+| Jun 13, 2017 | Miami Herlad: "Ex-Panama president, shackled in Miami court, claims politics are behind his arrest" archive.is/mDoXT
 | Jun 12, 2017 | WSJ: "Secret Service Has No Audio or Transcripts of Any Tapes Made in Trump White House" archive.is/xumkp
 | Jun 13, 2017 | Politico: "Allstate, Marketplace Lending Association and others fly in" archive.is/xshra
 | Jun 13, 2017 | Jeff Sessions testifies to SSCI
