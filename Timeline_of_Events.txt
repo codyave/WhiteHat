@@ -1024,7 +1024,7 @@
 | Jun 15, 2015 | CNBC: "Donald Trump announces candidacy for president" Decends the golden escalator
 | Jun 16, 2015 | At a hearing before the House Oversight and Government Reform Committee, OPM Director Katherine Archuleta reveals that Social Security numbers stored by the OPM were not encrypted due to the networks being "too old."
 | Jun ??, 2015 | After Trump announces his campaign, Roger Stone sets up a meeting between Trump and Flynn almost immediately, in August 2015 archive.is/y3YPq
-| Jun 19, 2015 | Foreign Policy: "Out of Uniform and Into the Political Fray" (Flynn)
+| Jun 19, 2015 | Foreign Policy: "Out of Uniform and Into the Political Fray" (Flynn) archive.is/pzBoY
 | Jun 22, 2015 | CNN: "U.S. data hack may be 4 times larger than the government originally said" referring to the OPM hack. James Comey says it could have affected 18 million accounts
 | Jun 24, 2015 | The Atlantic: "Justice Dept. May Probe 'Compromise' of Classified Info In Hillary Clinton's Email" archive.is/U4hsS
 | Jun 25, 2015 | Clapper confirms that China is the chief suspect behind the OPM breach
@@ -2162,8 +2162,8 @@
 | Nov 28, 2016 | Goldstone emails Rhona Graff, subject line: "For Mr. Trump." Says: "Aras Agalarov has asked me to pass on this document in the hope it can be passed on to the appropriate team. If needed, a lawyer representing the case is in New York currently and happy to meet with any member of the transition team." Goes on to argue that Magnitsky Act sanctions were part of a plot to undermine Russian economic interests. Graff forwards the email to Steve Bannon
 | Nov 28, 2016 | In an interview, Bruno Kahl suggests Russia may try to interfere in upcoming German elections
 | Nov 29, 2016 | Strzok, Lisa Page discuss withholding info wrt McCabe and MYE ("Can we tailor what we send, ie, give them some some subset of what they're asking for?")
-| Nov 30, 2016 | WaPo: "Trump asks U.S. Attorney in Manhattan to stay on" (Bharara) archive.is/Fs0Eb
-| Nov 30, 2016 | @ChuckRossDC: "I wonder if Mike Flynn was in meeting with Preet Bharara" archive.is/NQTSY
+| Nov 30, 2016 | WaPo: "Trump asks U.S. Attorney in Manhattan to stay on" (Preet Bharara) bit.ly/2UJbkSI
+| Nov 30, 2016 | @ChuckRossDC: "I wonder if Mike Flynn was in the meeting with Preet Bharara" archive.is/NQTSY
 | Dec ??, 2016 | Federal Savings Bank loans $9.5m to Summerbreeze LLC (entity connected to Manafort) [see: Jul 25, 2017 Bloomberg]
 | Dec ??, 2016 | Ivanka and Jared set up personal emails on ijkfamily.com domain to conduct govt business [see: Nov 19, 2018 WaPo]
 | Dec 01, 2016 | @ChuckRossDC: ".@GenFlynn's intel firm formally terminated lobbying contract with Dutch company owned by Turkish businessman." archive.is/1Yl1s
