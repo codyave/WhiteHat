@@ -2751,8 +2751,8 @@
 | May 11, 2017 | DAG Rosenstein recieves a letter signed by 20 State AGs asking him to appoint a special counsel
 | May 11, 2017 | NYT puff profile on MCabe: "Andrew McCabe Is Known at F.B.I. for His Precision and Intellect"
 | May 11, 2017 | Peter Kadzik resigns
-| May 11, 2017 | "REPORTER #1" (Barrett? Nakashima?) emails James Wolfe "What's your cell?" at 11:13 am 
-| May 11, 2017 | "REPORTER #1" emails Wolfe again at 5:16 pm asking "Hi! When can we get coffee?" The signature block of the second email included a 44-character-long code that appears to be a "PGP" fingerprint, allowing encrypted communication
+| May 11, 2017 | "REPORTER #1" (Barrett? Nakashima?) emails James Wolfe; "What's your cell?" at 11:13am [see: Oct 19, 2018 Emptywheel]
+| May 11, 2017 | "REPORTER #1" emails Wolfe again at 5:16pm; "Hi! When can we get coffee?" The signature block of the second email included a 44-character-long code that appears to be a "PGP" fingerprint [see: Oct 19, 2018 Emptywheel]
 | May 11, 2017 | Mary McCord resigns [see: April 20, 2017 NPR]
 | May 11, 2017 | Strzok: "Burr happy. Warner conveyed he wanted special counsel, said DAG said he took that under advisement."
 | May 11, 2017 | Waldman texts Senator Warner, says Deripaska is getting questions about Manafort from multiple directions
@@ -3779,6 +3779,7 @@
 | Oct 17, 2018 | Daily Caller: "Treasury Dept Official leaked Trump associates' financial records to BuzzFeed"
 | Oct 17, 2018 | Fox News: "State Dept provided 'clearly false' statements to derail requests for Clinton docs, federal judge says"
 | Oct 17, 2018 | Front News: "Deripaska in London froze assets by a quarter billion. Not because of the sanction, but because of the litigation for the "Three-Mount Manufactory" archive.is/Xl2jq
+| Oct 19, 2018 | Emptywheel: "Who told Carter Page that James Wolfe was the source of the FISA leak?" archive.is/zLqa0
 | Oct 19, 2018 | David Lugo testifies before federal grand jury [see: Nov 7, 2018 Daily Caller]
 | Oct 19, 2018 | James Madison Project vs United States Dept of Justice
 | Oct 23, 2018 | The Hill: "A convenient omission? Trump campaign adviser denied collusion to FBI source early on" (Papadopoulos)
