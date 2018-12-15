@@ -2825,6 +2825,7 @@
 | May 24, 2017 | Daily Beast: "Reince Priebus Sweating Secret Comey Memos, White House Sources Say" archive.is/FmmEJ
 | May 24, 2017 | Strzok says he's staying on the Special Counsel, possibly out of loyalty to Baker and McCabe (seems uneasy, though)
 | May 24, 2017 | WaPo: "How a dubious Russian document influenced the FBI’s handling of the Clinton probe" web.archive.org/web/20170524203157/https://www.washingtonpost.com/world/national-security/how-a-dubious-russian-document-influenced-the-fbis-handling-of-the-clinton-probe/2017/05/24/f375c07c-3a95-11e7-9e48-c4f199710b69_story.html
+| May 25, 2017 | DIA briefs Judiciary Committee regarding classified documents about Gen. Flynn 
 | May 25, 2017 | FT: "FBI investigates Jared Kushner’s Russia ties" archive.is/cOpxh
 | May 25, 2017 | Lieberman withdraws his name from consideration for FBI Director
 | May 25, 2017 | Politico: "Manafort advised Trump team on Russia scandal" (panicked Manafort) archive.is/V0JUr
@@ -3041,6 +3042,7 @@
 | Aug 24, 2017 | Feds discover and seize a previously undisclosed diplomatic passport at Joshua Adam Schulte's apartment [see: Aug 24, 2017 Schulte arraignment]
 | Aug 24, 2017 | Joshua Adam Schulte's job as a Bloomberg senior software engineer likely terminated this day [see: Aug 24, 2017 Schulte arraignment]
 | Aug 24, 2017 | HPSCI serves subpoenas to AG Sessions and Director Wray for the production of all documents related to Christopher Steele, the Steele dossier, Fusion GPS and any FISA applications involving those actors. Setting 12:00pm on Sep 01, 2017 as the deadline.
+| Aug 25, 2017 | Grassley letter to Mattis; asks DIA to declassify a May 25, 2017 briefing given to Judiciary Committee regarding Gen. Flynn [see: Dec 14, 2018 @RepMarkMeadows]
 | Aug 25, 2017 | NBC News: "Mueller Seeks Grand Jury Testimony from PR Execs Who Worked With Manafort" archive.is/B7OUs
 | Aug 25, 2017 | Senate Judiciary letter to Rosenstein saying they coordinated with the Special Counsel's office and have limited the interview scope to avoid any conflict.
 | Aug 27, 2017 | Mother Jones: "A Putin-Friendly Oligarch’s Top US Executive Donated $285,000 to Trump" (Vekselberg, Intrater)
@@ -3927,3 +3929,4 @@
 | Dec 14, 2018 | Memo detailing Gen. Flynn's interview with Strzok and another agent on Jan 24, 2017 scribd.com/document/395715938/Attachment-A
 | Dec 14, 2018 | @bradheath: "The FBI says it can't reveal a short portion of one of former director James Comey's memos that deals with FISA because it would give people 'information they could use to attempt to undermine the investigation by fabricating records or information'" archive.is/yB2PM
 | Dec 14, 2018 | @RudyGiuliani: "Mueller’s office erased all the remaining messages on Stroyk and Paige cell phones even after their anti-Trump conspiratorial messages were discovered" archive.is/dxEhe
+| Dec 14, 2018 | @RepMarkMeadows: "This letter from @ChuckGrassley is critically important, asking for declassification of DIA docs on General Flynn. Americans should be able to see these documents and get the full truth about General Flynn's involvement in this "collusion" investigation" archive.is/DtpGJ
