@@ -2751,7 +2751,8 @@
 | May 11, 2017 | DAG Rosenstein recieves a letter signed by 20 State AGs asking him to appoint a special counsel
 | May 11, 2017 | NYT puff profile on MCabe: "Andrew McCabe Is Known at F.B.I. for His Precision and Intellect"
 | May 11, 2017 | Peter Kadzik resigns
-| May 11, 2017 | "REPORTER #1" (Devlin Barrett?) emails James Wolfe "What's your cell?" at 11:13 am. Same reporter emails Wolfe again at 5:16 pm asking "Hi! When can we get coffee?" The signature block of the second email included a 44-character-long code that appears to be a "PGP" fingerprint, allowing encrypted communication
+| May 11, 2017 | "REPORTER #1" (Barrett? Nakashima?) emails James Wolfe "What's your cell?" at 11:13 am 
+| May 11, 2017 | "REPORTER #1" emails Wolfe again at 5:16 pm asking "Hi! When can we get coffee?" The signature block of the second email included a 44-character-long code that appears to be a "PGP" fingerprint, allowing encrypted communication
 | May 11, 2017 | Mary McCord resigns [see: April 20, 2017 NPR]
 | May 11, 2017 | Strzok: "Burr happy. Warner conveyed he wanted special counsel, said DAG said he took that under advisement."
 | May 11, 2017 | Waldman texts Senator Warner, says Deripaska is getting questions about Manafort from multiple directions
