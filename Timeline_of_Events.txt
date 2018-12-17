@@ -619,7 +619,7 @@
 | Nov 18, 2010 | @A_Osborn: "Ex-KGB soldier named as double agent who exposed Anna Chapman spy ring" (11:43am est) archive.is/7VNt9
 | Nov 18, 2010 | @TelegraphNews: "Ex-KGB soldier named as double agent who exposed Anna Chapman spy ring" (11:58pm est) archive.is/Zqf7S
 | Nov 18, 2010 | Telegraph: "Ex-KGB soldier named as double agent who exposed Anna Chapman spy ring" (Poteyev ID'd) (12:30pm est) archive.is/IDEmQ
-| Nov 22, 2010 | Sporyshev serves as a Trade Representative of the Russian Federation in New York (until Nov 21, 2014) [see: Jan 26, 2015 Buryakov complaint]
+| Nov 22, 2010 | "Sporyshev officially serves as a trade representative of the Russian Federation in New York" (until Nov 21, 2014) [see: Jan 26, 2015 Buryakov complaint]
 | Nov 23, 2010 | U.S. Nuclear Regulatory Commission approves change of control from Uranium One to ARMZ archive.is/O2wmX
 | Nov 25, 2010 | @SkyNewsBreak: "Swedish court rejects Wikileaks founder Julian Assange's appeal against an arrest warrant issued following a rape allegation" (8:54am est)
 | Nov 29, 2010 | @markknoller: "Atty-Gen Holder says "there is an active, ongoing criminal investigation" into the WikiLeaks disclosures of classified material."
@@ -1408,6 +1408,7 @@
 | Mar 15, 2016 | Rubio suspends campaign after losing Florida
 | Mar 15, 2016 | Manafort begins to have ties with Trump campaign
 | Mar 15, 2016 | Bloomberg: "Trump’s Long Romance With Russia" by Josh Rogin; Agalarovs, Miss Universe Moscow bloom.bg/2BnhZZT
+| Mar 15, 2016 | "On or about March 15, 2016, YERMAKOV ran a technical query for the DNC's internet protocol configurations to identify connected devices. On or about the same day, YERMAKOV searched for open-source information about the DNC network, the Democratic Party, and Hillary Clinton" [see: Jul 13, 2018 Mueller indictment]
 | Mar 16, 2016 | Bruce Ohr emails NYT's Peter Carr; he denies that the now-deceased Mikhail Lesin had reached out to him earlier archive.is/PUAmF
 | Mar 16, 2016 | Strzok: "Just waiting for Baker, then done", Lisa Page: "Our guy is talking..." 
 | Mar 17, 2016 | InfoWars: "How the GOP elite plan to rob Donald Trump" archive.is/iYbK7
@@ -1466,8 +1467,9 @@
 | Apr 05, 2016 | NYT: "Donald Trump Settled a Real Estate Lawsuit, and a Criminal Case Was Closed" by Mike McIntire. Has Trump SoHo Manhattan, Felix Sater, Tevfik Arif archive.is/5S0Nj
 | Apr 05, 2016 | Olga Bielkova reportedly seeks meetings with five dozen members of U.S. Congress and reporters
 | Apr 05, 2016 | FBI General Counsel Jim Baker attends the Global Privacy Summit, along with Michael Sussmann (Perkins Coie)
-"On or about April 6, 2016, the Conspirators created an email account in the (with a one-letter deviation from the actual spelling) of a known member of the Clinton Campaign. The Conspirators then used that account to send spearphishing emails to the work accounts of more than thirty different Clinton Campaign employees" [see: Jul 13, 2018 Mueller indictment]
+| Apr 06, 2016 | "On or about April 6, 2016, the Conspirators created an email account in the (with a one-letter deviation from the actual spelling) of a known member of the Clinton Campaign. The Conspirators then used that account to send spearphishing emails to the work accounts of more than thirty different Clinton Campaign employees" [see: Jul 13, 2018 Mueller indictment]
 | Apr 06, 2016 | @WikiLeaks: "US govt funded #PanamaPapers attack story on Putin via USAID. Some good journalists but no model for integrity" archive.is/GGqKN
+| Apr 07, 2016 | "On or about April 7, 2016, YERMAKOV ran a technical query for the DCCC's internet protocol configurations to identify connected devices" [see: Jul 13, 2018 Mueller indictment]
 | Apr 07, 2016 | The Observer: "Panama Papers Reveal Clinton’s Kremlin Connection" (Sberbank, Podesta) archive.is/gk6j5
 | Apr 07, 2016 | Free Beacon: "Trump Elevates Former Putin Ally Adviser to Senior Campaign Role" (Manafort to lead RNC Convention)
 | Apr 07, 2016 | Article in jpost.com quotes Papadopoulos extensively. Talks about Russia
@@ -1484,10 +1486,12 @@
 | Apr 11, 2016 | Manafort: “How do we use to get whole” (w/ Caymans), “Has [Deripaska's] operation seen?” [see: Oct 2, 2017 Atlantic]
 | Apr 12, 2016 | Flynn on Megyn Kelly
 | Apr 12, 2016 | Olga Bielkova and a colleague meet with David Kramer, Liz Zentos, and Michael Kimmage
+| Apr 12, 2016 | "On or about April 12, 2016, the Conspirators used the stolen credentials of a DCCC Employee ("DCCC Employee 1") to access the DCCC network. DCCC Employee 1 had received a spearphishing email from the Conspirators on or about April 6, 2016, and entered her password after clicking on the link" [see: Jul 13, 2018 Mueller indictment]
 | Apr 12, 2016 | Someone pays $37 worth of bitcoin to the Romanian web hosting company THCServers.com, to reserve a website called Electionleaks.com [see: Nov 3, 2017 Tribune]
 | Apr 12, 2016 | Comey tells Yates, Rybicki, and Axelrod that he'd like to find a way to credibly close MYE [see: IG Report p. 168]
 | Apr 13, 2016 | Robert Mueller and an Obama intel official meet at White House
 | Apr ??, 2016 | Alexandra Chalupa begins working with Michael Isikoff about opposition research on Paul Manafort around this time
+| Apr 14, 2016 | "On or about April 14, 2016, the Conspirators repeatedly activated X-Agent's keylog and screenshot functions to surveil DCCC Employee 1's computer activit over the course of eight hours. During that time, the Conspirators captured DCCC Employee 1's communications with co-workers and the passwords she entered while working on fundraising and voter outreach projects" [see: Jul 13, 2018 Mueller indictment]
 | Apr 14, 2016 | Guardian: "Ukraine parliament approves Volodymyr Groysman as new PM" archive.is/UtEPK
 | Apr 14, 2016 | @NSC44: "Readout of @VP Biden’s Call with Ukraine's newly-elected Prime Minister Volodymyr Groysman"
 | Apr 15, 2016 | WaPo: "GOP foreign policy elites don’t know whether they’ll serve if Trump is president" archive.is/5EBaL
@@ -1509,6 +1513,7 @@
 | Apr 20, 2016 | Politico: "Trump campaign brings in lobbyists for key posts" (Rick Gates) archive.is/p3C7u
 | Apr 20, 2016 | Alexandra Chalupa begins receiving warnings about her Yahoo! mail account [see: Jan 11, 2017 Politico]
 | Apr 21, 2016 | Rybolovlev plane photographed in Charlotte @1:20pm by anonymous source [see: Mar 10, 2017 Charlotte Observer]
+| Apr 22, 2016 | "On or about April 22, 2016, the Conspirators activated X-Agent's keylog and screenshot functins to capture the discussions of another DCCC Employee ("DCCC Employee 2") about the DCCC's finances, as well as her individual banking information and other personal topics" [see: Jul 13, 2018 Mueller indictment]
 | Apr 22, 2016 | Alan Cullison: "So I'm told Deripaska was in the U.S. this past week." (email to David Kramer) archive.is/9V2IH
 | Apr 22, 2016 | Russian intel prepares massive amount of data for exfiltration from DNC servers
 | Apr 22, 2016 | Timofeev and Papadopoulos email about meeting in London or Moscow. Had an "extensive talk"
