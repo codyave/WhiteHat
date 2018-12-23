@@ -409,6 +409,7 @@
 | Jan 15, 2010 | Guardian: "Viktor Yanukovych poised to take Ukraine presidency" archive.is/xNd0b
 | Jan 17, 2010 | NYT: "Presidential Election in Ukraine Goes to a Runoff" bit.ly/2PGqy78
 | Jan 17, 2010 | @BW: "Yanukovych Wins First Round of Ukrainian Election" archive.is/jLzYB
+| Jan 18, 2010 | Hackers said to breach gmail accounts in China bit.ly/2EK2aAB
 | Jan 19, 2010 | Hamas military Commander, Mahmoud al-Mabhouh, assassinated in Dubai (Israel suspected) [see: Feb 17, 2010 Telegraph]
 | Jan 23, 2010 | On vacation, Chelsea Manning flies to the U.S. via Germany to visit her partner
 | Jan 27, 2010 | Ukrainian intel reportedly uncovers a Russian spy network and expels four Russian officers [see: Feb 3, 2010 RT]
@@ -1603,7 +1604,7 @@
 | May 05, 2016 | Sater texts Cohen to extend an invitation from Peskov to attend an event in St. Petersburg from June 16 to 19. The invitation includes a possible meeting with either Putin or Prime Minister Dmitry Medvedev
 | May 05, 2016 | Politico: "When Donald Trump brought Miss Universe to Moscow"
 | May 05, 2016 | DNC makes first payment to CrowdStrike [see: Apr 18, 2018 Free Beacon]
-| May 05, 2016 | CrowdStrikes installs FalcoHost software in DNC servers
+| May 05, 2016 | CrowdStrike CEO, Dmitry Alperovich, installs Falcon software on DNC servers bit.ly/2EHDEPK
 | May 05, 2016 | "CrowdStrike was responding to the DNC’s hack as of May 5, 2016, but emails continued to be stolen for weeks" [see: Dec 4, 2016 Daily Caller]
 | May 06, 2016 | Cohen replies to Sater, saying the proposed St. Petersburg dates would work
 | May 08, 2016 | Joshua Adam Schulte searches google on how to set up a Tor network [see: Jun 20, 2018 Emptywheel]
@@ -1691,15 +1692,14 @@
 | Jun 10, 2016 | INSA Oliver Baker Award Dinner
 | Jun 10, 2016 | NV goes to Washington, DC to meet with a key lawyer (unknown)
 | Jun 10, 2016 | Comey draft memo changes "gross negligence" to "extremely careless"
-| Jun 10, 2016 | NC chief operating officer Lindsey Reynolds, CrowdStrike tell DNC members to leave laptops behind as they are infected with malware and the software needed to be fully replaced ("Don't even talk to your dog about it") [see: Oct 24, 2016 Esquire]
-| Jun 10, 2016 | "CrowdStrike...took until June 10, 2016, to replace all the software in a move it believed would put an end to the breach" [see: Dec 4, 2018 Daily Caller]
+| Jun 10, 2016 | CrowdStrike takes possession of laptops of DNC members; infected software replaced bit.ly/2PWBNbP
 | Jun 10, 2016 | Samuelson and Mills get immunity deals and side deals to destroy their laptops. McCabe says no Hillary interview until laptops reviewed. Strzok gets laptops [see: Jun 10, 2018 @the_war_economy thread]
 | Jun ??, 2016 | "Early June" Carter Page gets invited to Halper's Cambridge University symposium
 | Jun ??, 2016 | Alexandra Chalupa's car is broken into around this time, she believes it was Russians [see: Jan 11, 2017 Politico]
 | Jun 10, 2016 | Politico: "Paul Manafort’s Wild and Lucrative Philippine Adventure" archive.is/5XI8Y
 | Jun 11, 2016 | NYT: "How Donald Trump Bankrupted His Atlantic City Casinos, but Still Earned Millions" archive.is/yqO36
 | Jun 12, 2016 | SDNY convicts Florida man, Timothy Sedlak, for attempted hacking into HRC server from June-July 2015
-| Jun 12, 2016 | Crowdstrike is done fixing the DNC computers, putting in security measures and updating passwords [see: Oct 24, 2016 Esquire]
+| Jun 12, 2016 | Crowdstrike fixes DNC laptops; Alperovitch & team celebrate at Brazilian steakhouse Fogo de Chão bit.ly/2PYOCT3
 | Jun 12, 2016 | Assange on interview with ITV. During the interview, Assange told British TV host Robert Preston that WikiLeaks had obtained "emails related to Hillary Clinton which are pending publication," which he said were "great."
 | Jun 12, 2016 | Politico: "Why This Russian Wants to Give Donald Trump 100,000 Rubles" by Julia Ioffe, talking about some random Russian dude named Felix Nikolaevich Kolsky archive.is/tR4RF
 | Jun 13, 2016 | NV and Akhmetshin host anti-Magnitsky Act film at the Newseum in Washington
@@ -1707,7 +1707,7 @@
 | Jun 14, 2016 | Debbie Wasserman Schultz hosts DNC conference, says Russians hacked their servers, stole Trump opposition research
 | Jun 14, 2016 | Sater and Cohen meet in the lobby of Trump Tower, and Cohen says he won’t attend the event after all. This is the end of the Trump Tower Moscow project
 | Jun 14, 2016 | WaPo: "Russian government hackers penetrated DNC, stole opposition research on Trump" this is the first time the public finds out that DNC was hacked and the DNC admits it knew months earlier
-| Jun 14, 2016 | CrowdStrike: "Bears in the Midst: Intrusion into the Democratic National Committee"
+| Jun 14, 2016 | CrowdStrike blog about Russian intel hacking DNC servers bit.ly/2SjiZ8A
 | Jun 14, 2016 | Veselnitkaya provides a hearing to the US House Foreign Relations Committee about Magnitsky act
 | Jun 14, 2016 | Crowdstrike and DNC demand FBI announce that Russian entities hacked their servers
 | Jun 14, 2016 | "On or about June 14, 2016, the Conspirators registered the domain actblues.com, which mimicked the domain of a political fundraising platform that included a DCCC donations page. Shortly thereafter, the Conspirators used stolen DCCC credentials to modify the DCCC website and redirect visitors to the actblues.com domain" [see: Jul 13, 2018 Mueller indictment]
@@ -1828,7 +1828,7 @@
 | Jul 21, 2016 | Papadopoulos sends another private Facebook message to Timofeev stating: “How are things? Keep an eye on the speech tonight. Should be good.”
 | Jul 21, 2016 | Weekly FBI counterintelligence exec meeting where "preliminary conclusions were discussed" regarding DNC hack. Comey is there as well as Lisa Page and Jon Moffa. Comey first sees pee tape allegation? [see: Jul 26, 2016 NYT]
 | Jul 22, 2016 | Australia supposedly tells the FBI of Papadopoulos’ comments to Downer from May 10, 2016
-| Jul 22, 2016 | WikiLeaks disseminates stolen DNC documents, including emails and other sensitive proprietary documents
+| Jul 22, 2016 | WikiLeaks disseminates stolen DNC documents bit.ly/2Sd7GyR
 | Jul 22, 2016 | Millian messages Papadopoulos on LinkedIn
 | Jul 22, 2016 | Papadopoulos dm's Timofeev on Facebook, asks if he "knew a particular individual with extensive ties to Russian-based businesses", about Millian. "[i]f you know any background of him that is noteworthy before I see him, kindly send my way.”
 | Jul 23, 2016 | Obama golfing at Ft. Belvoir
