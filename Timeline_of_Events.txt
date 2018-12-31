@@ -1,4 +1,4 @@
-| ??? ??, 1977 | Gennady Vasilenko and Jack Platt meet at a Harlem Globetrotters game in DC [see: The Seven Million Dollar Spy]
+﻿| ??? ??, 1977 | Gennady Vasilenko and Jack Platt meet at a Harlem Globetrotters game in DC [see: The Seven Million Dollar Spy]
 
 | Oct 25, 1978 | The Foreign Intelligence Surveillance Act of 1978 is signed into law by Jimmy Carter
 
@@ -1196,6 +1196,7 @@
 | Oct 20, 2015 | FBI discovers chain of custody has been lost for HRC's Dell PowerEdge 2900 tower PC from Platte River Networks (chain of custody originally authorized Aug 12, 2015) archive.is/nZYtk
 | Oct 20, 2015 | At a rally in Florida for Hillary Clinton, Obama calls out Rubio and other GOP senators for supporting a presidential nominee who has a "bromance" with Russian President Vladimir Putin. "If you've made a career out of idealizing Ronald Reagan, then where were you when your own party's nominee for president was kissing up to Vladimir Putin? You used to criticize me for even talking to the Russians. Now suddenly your nominee is having a bromance with Putin?"
 | Oct 22, 2015 | WSJ: "Spy vs. Spy: Inside the Fraying U.S.-Israel Ties" archive.is/bal3Q
+| Oct 22, 2015 | James Comey appears on Capitol Hill at a House Judiciary Committee oversight hearing bit.ly/2QZ0biu
 | Oct 24, 2015 | Telegraph: "'Spy in bag' Gareth Williams was 'murdered by Russian hitmen after sexual photo blackmail plot'" archive.is/Qf4As
 | Oct 28, 2015 | Trump reportedly signs the letter of intent for Trump Tower Moscow
 | Oct 28, 2015 | Third GOP primary debate, sponsored by CNBC, held in Boulder, CO
@@ -1766,6 +1767,7 @@
 | Jul 04, 2016 | Bruce Ohr meets Steele [see: September 6, 2018 The Hill]
 | Jul 05, 2016 | FBI agent Gaeta meets Steele in London, receives copy of Steele's memo, says he has to notify headquarters
 | Jul 05, 2016 | Comey defers HRC prosecution recommendation in public press conference
+| Jul 05, 2016 | Bob Goodlatte letter to James Comey asking pointed questions about his press conference bit.ly/2F0gDIT
 | Jul 06, 2016 | Bruce Ohr meets Steele [see: September 6, 2018 The Hill]
 | Jul 06, 2016 | Carter Page & Andrey Baranov watch Wales vs Portugal at a bar in Moscow bit.ly/2VbP987, bit.ly/2BJy5xn, bit.ly/2GHtdyq
 | Jul 06, 2016 | Guccifer 2.0 releases stolen DNC documents
@@ -2134,6 +2136,7 @@
 | Sep 26, 2016 | Turkish Minue: "Minister’s leaked emails show Erdoğan family conspired to intervene in US elections" (Berat Albayrak, RedHack) archive.is/0nby9
 | Sep 28, 2016 | Ryan, Pelosi, McConnel, and Reid sent letter to Todd Valentine about potential cyber attacks
 | Sep 28, 2016 | Weiner's lawyer turns over subpoenad emails to SDNY
+| Sep 28, 2016 | James Comey appears on Capitol Hill at a House Judiciary Committee oversight hearing bit.ly/2QbJDP2
 | Sep 29, 2016 | Strzok texts Page that he's sending a team up to SDNY the next day to review Anthony Wiener's subpoenaed documents
 | Sep 29, 2016 | Obama for America pays Perkins Coie $700,000
 | Sep 29, 2016 | Mikk Marran attends CEPA Forum in DC, panelists Thomas Kent, Mustafa Nayyem, Michael Weiss, speech by Benjamin Wittes
@@ -2218,6 +2221,7 @@
 | Oct 20, 2016 | Lisa Monaco meets with financial executives to discuss cyber security
 | Oct 20, 2016 | AG Lynch delivers remarks in Rome, Italy on DOJ efforts to fight international fraud and corruption bit.ly/2EGWCpD
 | Oct 21, 2016 | Preet Bharara instructs SDNY deputy to inform DOJ of Wiener laptop delay [see: Jun 22, 2018 Daily Caller]
+| Oct 21, 2016 | Bob Goodlatte letter to James Comey asking questions about the recently released 302s from the Mid Year Exam investigation bit.ly/2BUthFp
 | Oct 21, 2016 | Electronic surveillance warrant obtained against Carter Page bit.ly/2EGz8B8, 
 | Oct 21, 2016 | FISA Verified Application on Carter Page (p. 1-63) (signed: Comey, Yates) [see: Jul 21, 2018 FBI Vault]
 | Oct 21, 2016 | FISA Primary Order and Warrant on Carter Page (p. 64-83) (signed: Judge Collyer) [see: Jul 21, 2018 FBI Vault]
@@ -2662,12 +2666,13 @@
 | Mar 08, 2017 | Politico: "Authorities looked into Manafort protégé" referring to Kilimnik
 | Mar 08, 2017 | AP report on Gen. Flynn's Turkish lobbying; Devlin Barrett RTs the link archive.is/skzPj
 | Mar 09, 2017 | Complaint filed against McCabe [see: Oct 15, 2018 FBI Vault]
+| Mar 09, 2017 | Democrats on House Judiciary Committee send a letter to Rosenstein and McCabe asking them to preserve records bit.ly/2GQqF0Q
 | Mar 09, 2017 | Someone from DOJ (Laufman?) calls Adam Waldman [see: Warner-Waldman messages]
 | Mar 09, 2017 | Carter Page tells Natasha Bertrand that he spent many hours at Trump campaign headquarters bit.ly/2Tf9jw8
 | Mar 09, 2017 | BuzzFeed: "Nigel Farage Just Visited The Ecuadorian Embassy In London"
 | Mar 09, 2017 | WaPo: "House Intelligence Committee chiefs ask Justice for proof of wiretaps on Trump"
 | Mar 09, 2017 | CNN: "Sources: FBI investigation continues into 'odd' computer link between Russian bank and Trump Organization"
-| Mar 09, 2017 | Envelope sent to David Cay Johnston containg partial Trump tax return; postmarked Westchester, NY archive.is/bLkkz
+| Mar 09, 2017 | Envelope sent to David Cay Johnston containing partial Trump tax return; postmarked Westchester, NY archive.is/bLkkz
 | Mar 10, 2017 | McCabe squad questions Carter Page; involvement with Podobnyy comes up bit.ly/2SgAUwH, bit.ly/2Vb0mpa, bit.ly/2SlshRs
 | Mar 10, 2017 | Monica Crowley registers FARA for Ukrainian billionaire, Viktor Pinchuk [see: Mar 14, 2017 Daily Beast]
 | Mar 10, 2017 | Daily Beast: "CNN Calls B.S. on Monica Crowley Claiming Her Plagiarism Was ‘Debunked’" archive.is/6itjU
@@ -2894,6 +2899,7 @@
 | Apr 28, 2017 | Carter Page letter to HPSCI; says HRC/Obama allies will have "severe vomiting" when facts come out bit.ly/2BE1Y1Y
 | Apr 28, 2017 | SSCI sends letters to Manafort, Flynn, Page and Stone requesting information. Due date of May 19 [bit.ly/2EpJ02H]
 | Apr 30, 2017 | Glenn Simpson and Jonathan Winer attend the OffshoreAlert Conference in Miami
+| May 01, 2017 | Trisha Anderson is interviewed by the US Office of Special Counsel regarding whether Comey violated the Hatch Act through announcements in the Clinton emails case bit.ly/2GwhAtS
 | May 02, 2017 | @realDonaldTrump: "FBI Director Comey was the best thing that ever happened to Hillary Clinton in that he gave her a free pass for many bad deeds! The phony Trump/russia story was an excuse used by the democrats as justification for losing the election. Perhaps trump just ran a great campaign?"
 | May 03, 2017 | WaPo: "Read the full testimony of FBI Director James Comey in which he discusses Clinton email investigation" bit.ly/2S3APwo
 | May 03, 2017 | Comey: "...we may be finding the golden missing e-mails that would change this case" [see: May 3, 2017 WaPo]
@@ -2924,6 +2930,7 @@
 | May 08, 2017 | Trump gives a WH tour to three Time journalists (h/t @dawsonsfield). Narrates pre-recorded clips of the Clapper/Yates testimony
 | May 08, 2017 | @realDonaldTrump: "Ask Sally Yates, under oath, if she knows how classified information got into the newspapers soon after she explained it to W.H. Counsel" a0anLm
 | May 09, 2017 | FBI Inspection Division questions McCabe about the WSJ article leak and about Aug 12 call to PADAG
+| May 09, 2017 | US Office of Special Counsel interviews Jim Rybicki on whether Comey violated the Hatch act with regard to Clinton email announcements bit.ly/2V1GRiM
 | May 09, 2017 | HPSCI letters to Jeff Sessions and Mary McCord asking for voluntary transcribed interview and for document production
 | May 09, 2017 | NBC News: "Trump Fires FBI Director James Comey Over Email Investigation"
 | May 09, 2017 | Strzok: "And we need to open the case we've been waiting on now while Andy is acting."
@@ -3185,9 +3192,9 @@
 | Jul 26, 2017 | Tribune: "Ukrainian oligarch's legal team fires back at Chicago prosecutors' 'innuendo'" (Firtash) archive.is/717gL
 | Jul 26, 2017 | Scaramucci calls Ryan Lizza [see: Jul 27, 2017 New Yorker]
 | Jul 27, 2017 | @lawrencehurley: "Former president of Panama Ricardo Martinelli asks Supreme Court to let him out on bail pending extradition case" archive.fo/osudy
-| Jul 27, 2017 | Nunes sends a letter to Director of National Intelligence Dan Coats announcing that he is introducing a bill to require "individual, fact-based justifications for each request for U.S. person information sourced from disseminated intelligence reports."
+| Jul 27, 2017 | Nunes sends a letter to Director of National Intelligence Dan Coats announcing that he is introducing a bill to require "individual, fact-based justifications for each request for U.S. person information sourced from disseminated intelligence reports." bit.ly/2QeuZX3
 | Jul 27, 2017 | Acting Assistant Attorney General Sam Ramer letter to HPSCI refusing to allow an interview with Adrew McCabe or any relevant document production, citing the ongoing Special Counsel investigation. Uses same format as denial for Sessions and McCord
-| Jul 27, 2017 | Acting Assistant Attorney General Sam Ramer letter to Senate Judiciary includes: "Under these circumstances and consistent with the Department's long-standing policy regarding the confidentiality and sensitivity of information relating to pending matters, the Department cannot make Mr. Ghattas nor Mr. Rybicki available for transcribed interviews at this time"
+| Jul 27, 2017 | Acting Assistant Attorney General Sam Ramer letter to Senate Judiciary includes: "Under these circumstances and consistent with the Department's long-standing policy regarding the confidentiality and sensitivity of information relating to pending matters, the Department cannot make Mr. Ghattas nor Mr. Rybicki available for transcribed interviews at this time" bit.ly/2QNsdwA
 | Jul 27, 2017 | Halper (to Carter Page): "It seems attention has shifted from 'collusion' to 'contretemps' within the White House"
 | Jul 27, 2017 | Horowitz informs Mueller of Strzok/Page texts [see: December 13, 2017 Fox News]
 | Jul 27, 2017 | New Yorker: "Anthony Scaramucci Called Me to Unload About White House Leakers, Reince Priebus, and Steve Bannon"
@@ -3245,7 +3252,7 @@
 | Aug 24, 2017 | HPSCI serves subpoenas to AG Sessions and Director Wray for the production of all documents related to Christopher Steele, the Steele dossier, Fusion GPS and any FISA applications involving those actors. Setting 12:00pm on Sep 01, 2017 as the deadline.
 | Aug 25, 2017 | Grassley letter to Mattis; asks DIA to declassify a May 25, 2017 briefing given to Judiciary Committee regarding Gen. Flynn [see: Dec 14, 2018 @RepMarkMeadows]
 | Aug 25, 2017 | NBC News: "Mueller Seeks Grand Jury Testimony from PR Execs Who Worked With Manafort" archive.is/B7OUs
-| Aug 25, 2017 | Senate Judiciary letter to Rosenstein saying they coordinated with the Special Counsel's office and have limited the interview scope to avoid any conflict.
+| Aug 25, 2017 | Senate Judiciary letter to Rosenstein saying they coordinated with the Special Counsel's office and have limited the interview scope to avoid any conflict bit.ly/2C9X3an
 | Aug 27, 2017 | Mother Jones: "A Putin-Friendly Oligarch’s Top US Executive Donated $285,000 to Trump" (Vekselberg, Intrater)
 | Aug 27, 2017 | CNN: "FBI arrests Chinese national connected to malware used in OPM data breach"
 | Aug 28, 2017 | NYT: "Trump Associate Boasted That Moscow Business Deal ‘Will Get Donald Elected’" archive.is/rxkA7
@@ -3271,7 +3278,7 @@
 | Sep 07, 2017 | Lisa Page interviewed by OIG (Horowitz team)
 | Sep 08, 2017 | Susan Rice testifies to HPSCI
 | Sep ??, 2017 | Don Jr. gives up Secret Security protection around this time [see: Sep 18, 2017 NYT]
-| Sep 11, 2017 | Assistant Attorney General Stephen Boyd letter to Senate Judiciary includes: "As a threshold matter, the scope of the Committee's inquiry has not been de-conflicted with Special Counsel Mueller's investigation. Therefore, in order to protect the integrity of the Special Counsel's investigation, as we have previously indicated, we will not be able to provide Mr. Ghattas or Mr. Rybicki for interviews at this time," Apparently Grassley threatens a subpoena and then DOJ starts cooperating more.
+| Sep 11, 2017 | Assistant Attorney General Stephen Boyd letter to Senate Judiciary includes: "As a threshold matter, the scope of the Committee's inquiry has not been de-conflicted with Special Counsel Mueller's investigation. Therefore, in order to protect the integrity of the Special Counsel's investigation, as we have previously indicated, we will not be able to provide Mr. Ghattas or Mr. Rybicki for interviews at this time," Apparently Grassley threatens a subpoena and then DOJ starts cooperating more bit.ly/2RVlz4E
 | Sep 12, 2017 | Reporter #3: "Hello. I'm heading back now, unless you'd rather chat here"
 | Sep 12, 2017 | Wolfe: "I'm here." archive.is/2CF1E [see: Dec 14, 2018 James Wolfe response]
 | Sep 12, 2017 | Reporter #3: "On the subway so it'll be a minute" archive.is/2CF1E [see: Dec 14, 2018 James Wolfe response]
@@ -3304,13 +3311,13 @@
 | Sep 21, 2017 | NYT: "Skadden, Big New York Law Firm, Faces Questions on Work With Manafort" archive.is/FkL0p
 | Sep 21, 2017 | McClatchy: "Trump campaign bodyguard linked to ex-con who’s key in Russia probes" (Gary Uher)
 | Sep 22, 2017 | DAG Rosenstein letter to HPSCI saying he is on foreign travel and needs an additional extension of unspecified length. Very nice language asking for cooperation and understanding.
-| Sep 22, 2017 | DOJ letter to Senate Judiciary agrees to allow Ghattas and Rybicki to testify with four conditions. 1) the interview happens in a classified setting 2) asking for certain scope limitations 3) a DOJ representative must come along 4) the transcripts must be made available to the witnesses and DOJ.
+| Sep 22, 2017 | DOJ letter to Senate Judiciary agrees to allow Ghattas and Rybicki to testify with four conditions. 1) the interview happens in a classified setting 2) asking for certain scope limitations 3) a DOJ representative must come along 4) the transcripts must be made available to the witnesses and DOJ bit.ly/2Ca7r28
 | Sep 25, 2017 | @ajdukakis: "#Spotted: @brhodes on 2nd St NE leaving #Hart Senate Office after meeting w/#SenIntel investigators today for hour+, source confirms to @ABC" (AJ is Reporter #5?) archive.is/L8Wnc
 | Sep 25, 2017 | NBC News: "Fence Jumper Who Spent 15 Minutes on White House Grounds Gets No Jail Time" (Tran) bit.ly/2zUnfV3
 | Sep 26, 2017 | HPSCI letter to DAG Rosenstein "With respect to the pending supoenas, the repeated last-minute responses by DOJ and FBI to generous deadlines have been wholly inadequate." Sets up meeting for that Thursday.  
 | Sep 26, 2017 | UPI: "Acting DEA head Rosenberg announces resignation" (about Chuck Rosenberg) archive.is/CTQK4
 | Sep 26, 2017 | Roger Stone testifies to HPSCI
-| Sep 27, 2017 | Very testy Senate Judiciary letter to Rosenstein basically agreeing to the conditions for Ghattas and Rybicki interviews. Asking for the deal to be finalized. 
+| Sep 27, 2017 | Very testy Senate Judiciary letter to Rosenstein basically agreeing to the conditions for Ghattas and Rybicki interviews. Asking for the deal to be finalized bit.ly/2zVfxdg
 | Sep 28, 2017 | CNN: "Amid tensions, Grassley privately meets with Rosenstein" byline Manu Raju, they met for nearly an hour trying to get an agreement where Senate Judiciary can interview Ghattas and Rybicki. The months long tug of war spills out into the open. Who leaked this?
 | Sep 28, 2017 | Devin Nunes meets with Rosenstein in person [see: HPSCI letter to RR on Sep 26, 2017]
 | Sep 29, 2017 | BigLeaguePolitics: "Journalist Who Met With Assange: ‘I Am Willing to Testify Before Any Government Body’"
@@ -4025,6 +4032,7 @@
 | Nov 07, 2018 | Manafort ex son-in-law, Jeffrey Yohai, arrested on new criminal charges (fraud schemes) archive.is/iSaoJ
 | Nov 08, 2018 | Former NY AG Eric Schneiderman to aviod charges in abuse investigation bit.ly/2GKGAOu
 | Nov 08, 2018 | Mueller teambegins writing final report bit.ly/2T6BDka
+| Nov 08, 2018 | Democrats of the House Judiciary Committee write a letter to chairman Goodlatte asking for emergency hearings on Whitaker and legislation protecting the Special Counsel bit.ly/2AyAFqf
 | Nov 08, 2018 | U.S. Treasury targets serious human rights abusers in territories in Eastern Ukraine bit.ly/2Gznv1C
 | Nov 10, 2018 | U.S. Treasury freezes Deripaska assets, including mansions archive.is/VYSLh
 | Nov 10, 2018 | Papadopoulos twitter screenshot of Felix Sater's LinkedIn work history bit.ly/2T7JI8h archive.is/EaTs4
@@ -4057,6 +4065,7 @@
 | Nov 20, 2018 | Trump provides written responses to Mueller questions archive.is/Qb25h
 | Nov 20, 2018 | Trump says being president has cost him a fortune; says "someday I’ll tell you what that is" archive.is/plOov
 | Nov 20, 2018 | Interpol elects South Korean, Kim Jong-yang, as new president; Russian frontrunner rejected bit.ly/2BrulAr
+| Nov 21, 2018 | House Judiciary Committee issues a subpoena for Comey to appear for an interview bit.ly/2EZPsNm
 | Nov 21, 2018 | Ex-Rep Marjorie Margolies says she "didn’t think I did anything illegal" with campaign financing archive.is/u5Lqm
 | Nov 21, 2018 | Erdogan accuses Soros of supporting anti-government protests to divide Turkey bloom.bg/2PRvGp8
 | Nov 21, 2018 | International Petroleum Investment Company (Abu Dhabi) sues Goldman Sachs over 1MDB scandal archive.is/DWIkn
@@ -4107,7 +4116,7 @@
 | Dec 07, 2018 | BuzzFeed: "Federal Prosecutors Say Michael Cohen Should Serve A 'Substantial Term Of Imprisonment'" archive.is/iCI5K
 | Dec 07, 2018 | CNN: "Paul Manafort filing from Mueller to be largely secret" archive.is/2lAjx
 | Dec 08, 2018 | Daily Caller: "House Committees release James Comey transcript" archive.is/T5K4d
-| Dec 08, 2018 | Comey says dossier not verified before, or after, FISA warrant archive.is/wk2QI
+| Dec 08, 2018 | Comey transcript released. Says dossier not verified before, or after, FISA warrant archive.is/wk2QI bit.ly/2Sv15Qm
 | Dec 08, 2018 | U.K. police revisit "suicide" of Scot Young, Alexander Perepilichnyy dailym.ai/2SYcVma 
 | Dec 10, 2018 | Malaysian official, Najib Razak, arrested for allegedly tampering with 1MDB audit archive.is/E4I1B
 | Dec 10, 2018 | Turqoise Council President, Kemal Oksuz, pleads guilty to conceal funding of 2013 Congressional trip archive.is/GxPEW
