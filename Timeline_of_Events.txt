@@ -373,7 +373,7 @@
 | Oct 21, 2009 | NYT: "Iran Deal Would Slow Making of Nuclear Bombs" bit.ly/2rCjuyX
 | Oct 21, 2009 | Iran tentatively agrees to ship 3/4 of uranium fuel to Russia for enrichment [see: Oct 21, 2009 NYT]
 | Oct 22, 2009 | Radio Praha: "US Vice President Biden arriving in Prague Thursday evening ahead of talks with Czech leaders" archive.is/JogRC
-| Oct 23, 2009 | Court Hearing in United States of America vs John Doe (Felix Sater case where he is referred to as Felix Slater)
+| Oct 23, 2009 | Sentencing Hearing in United States of America vs John Doe (Felix Sater case where he is referred to as Felix Slater) bit.ly/2VkmoWV
 | Oct 23, 2009 | IAEA: "IAEA Statement on Proposal to Supply Nuclear Fuel to Iranian Research Reactor" archive.is/rUBnN
 | Oct 25, 2009 | Guardian: "UN inspectors visit uranium enrichment facility in Iran" archive.is/GQl4X
 | Oct 27, 2009 | RT: "Moscow says Iran didn’t refuse to enrich uranium in Russia" web.archive.org/web/20091029004552/russiatoday.com/Top_News/2009-10-27/iran-uranium-enrichment-plan.html
@@ -883,7 +883,8 @@
 | Aug 01, 2013 | Guardian: "Exclusive: NSA pays £100m in secret funding for GCHQ" archive.is/PLmv5
 | Aug ??, 2013 | FBI downloads a Nov 2012 report from Buryakov's banking office bit.ly/2AiKJDj
 | Aug 14, 2013 | France24: "US consultant admits role in France's 'Karachi affair'" archive.is/mHJLz
-| Aug 25, 2013 | In a letter sent to an academic press, Page refers to himself as “an informal advisor to the staff of the Kremlin.” [see: Feb 4, 2018 Time]
+| Aug 21, 2013 | Motion by Oberlander, Palmer and Lerner to unseal transcripts related to Felix Sater bit.ly/2GSgWap
+| Aug 25, 2013 | In a letter sent to an academic press, Carter Page refers to himself as “an informal advisor to the staff of the Kremlin.” [see: Feb 4, 2018 Time]
 | Aug 30, 2013 | US govt says Syria used chem weapons. Obama waffles
 | Sep 05, 2013 | NYDN: "James Comey sworn in as director of FBI" archive.is/tOZC0
 | Sep ??, 2013 | Jon Winer assigned as Special Envoy for Libya, a position that doesn't need confirmation by the Senate
@@ -1460,7 +1461,7 @@
 | Mar 21, 2016 | "On or about March 21, 2016 , LUKASHEV, YERMAKOV, and their co-conspirators stole the contents of the chairman's email account, which consisted of over 50,000 emails" [see: Jul 13, 2018 Mueller indictment]
 | Mar 21, 2016 | DOJ: "Turkish National Arrested for Conspiring to Evade U.S. Sanctions Against Iran, Money Laundering and Bank Fraud" archive.is/ig6qY
 | Mar 21, 2016 | Reuters: "U.S. arrests Turkish businessman accused of evading Iran sanctions" archive.is/W4D2z
-| Mar 21, 2016 | CNN: "Donald Trump unveils foreign policy advisers" Candidate Trump mets with WaPo editorial board. They ask him for names of his foreign policy advisors. He also He lists Page and Papadopoulos, as well as Phares, Schmitz, Kellogg. During the interview he's specifically asked about NATO. Trump says he doesn't want to pull out but thinks it needs to be reconsidered archive.is/tcTmJ
+| Mar 21, 2016 | CNN: "Donald Trump unveils foreign policy advisers" Candidate Trump mets with WaPo editorial board. They ask him for names of his foreign policy advisors. He also He lists Carter Page and George Papadopoulos, as well as Phares, Schmitz, Kellogg. During the interview he's specifically asked about NATO. Trump says he doesn't want to pull out but thinks it needs to be reconsidered archive.is/tcTmJ
 | Mar 21, 2016 | @PreetBharara: "Reza Zarrab to soon face American justice in a Manhattan courtroom. @SDNYnews" bit.ly/2S2pr3T
 | Mar 21, 2016 | Trump on Wolf Blitzer, asked again about NATO. Again, Trump talks about the costs and re-vamping it
 | Mar 21, 2016 | Comey and McCabe personally brief Loretta Lynch on the list of Trump foreign policy advisors. They discussed a "defensive briefing" but decide against it
@@ -1471,7 +1472,7 @@
 | Mar 24, 2016 | Papadopoulos sends email ("Meeting with Russian Leadership -- including Putin") to Trump campaign, including Clovis
 | Mar 24, 2016 | Slate: "Donald Trump Hates Women: It’s the one position he’s never changed" by Franklin Foer
 | Mar 25, 2016 | Alexandra Chalupa meets with top Ukrainian officials at Ukrainian Embassy in Washington D.C. to “expose ties between Trump, top campaign aide Paul Manafort and Russia,” according to Politico. Isikoff goes too. Chalupa makes prediction and warns Ukraine’s ambassador to the U.S. about Paul Manafort
-| Mar 25, 2016 | @billbrowder: "Carter Page is completely out of his mind in relation to Russia" archive.is/EJQ01
+| Mar 25, 2016 | @billbrowder: "Carter (Page) is completely out of his mind in relation to Russia" archive.is/EJQ01
 | Mar 25, 2016 | "On or about March 25, 2016, LUKASHEV used the same john356gh account to mask additional links included in spearphishing emails sent to numerous individuals affiliated with the Clinton Campaign, including Victims 1 and 2" [see: Jul 13, 2018 Netyksho Indictment]
 | Mar 26, 2016 | NYT: "After an Indictment, Turks Give U.S. Prosecutor a Hero’s Welcome Online" (Reza Zarrab) bit.ly/2QxuHQf
 | Mar 27, 2016 | WaPo: "How Clinton’s email scandal took root" archive.is/Tnlkq
@@ -1765,9 +1766,9 @@
 | Jul 01, 2016 | Steele: “something separate I wanted to discuss with you...It concerns our favourite business tycoon!”
 | Jul 01, 2016 | Strzok: "Holy cow... nyt breaking Apuzzo, Lync will accept whatever rec D and career prosecutors make"
 | Jul 01, 2016 | Strzok: "Lynch. Timing not great, but whatever. Wonder if that's why the no coordination language added"
-| Jul 01, 2016 | Page: "No way. This is a purposeful leak following the airplane snafu"
+| Jul 01, 2016 | Lisa Page: "No way. This is a purposeful leak following the airplane snafu"
 | Jul 01, 2016 | Strzok: "Timing looks like hell. Will appear choreographed. All major news networks literally leading with "AG to accept FBI D’s recommendation"
-| Jul 01, 2016 | Page: "And yeah, it's a real profile in couragw, since she knows no charges will be brought"
+| Jul 01, 2016 | Lisa Page: "And yeah, it's a real profile in couragw, since she knows no charges will be brought"
 | Jul 02, 2016 | Hillary interviewed by FBI agents
 | Jul 03, 2016 | Bruce Ohr schedules a Skype call with Steele
 | Jul 04, 2016 | Slate: "Putin's Puppet", by Franklin Foer
@@ -1804,7 +1805,7 @@
 | Jul ??, 2016 | Carter Page not interviewd by FBI agent from sometime Jul 2016 up until Mar 10, 2017 bit.ly/2EPjMv9
 | Jul 12, 2016 | Mike Flynn releases his book "The Field of Fight"
 | Jul 12, 2016 | DOJ provides defensive briefing to Lynch and Yates about the Renteria email [see: Jun 14, 2018 IG Report p. 172]
-| Jul 13, 2016 | Page: "let me ask Baker what the meeting with Fine was about...be better not to get Jim deep in the facts of this yet"
+| Jul 13, 2016 | Lisa Page: "let me ask Baker what the meeting with Fine was about...be better not to get Jim deep in the facts of this yet"
 | Jul ??, 2016 | Nuland's claim of when she says she first glimpsed Steele dossier
 | Jul 14, 2016 | Papadopoulos emails Timofeev again suggesting August or September in UK as a time and place for a meeting
 | Jul 14, 2016 | The GRU sends an email to WikiLeaks with an attachment titled “wk dnc link1.txt.gpg.” The attachment contained an encrypted file with instructions on accessing an online archive of hacked DNC documents [see: Jul 13, 2018 Mueller Indictment|
@@ -1853,7 +1854,7 @@
 | Jul 24, 2016 | Gianni Pitella is in Philadelphia meeting with "Italian american communities" that evening
 | Jul 24, 2016 | PJMedia: "'This Is Not My Party': George Will Goes from GOP to Unaffiliated"
 | Jul 25, 2016 | DNC convention Day 1 (Monday). Speakers include Michelle Obama, Bernie, Liz Warren
-| Jul 25, 2016 | Page and Strzok text each other about Strzok's relationship to Judge Rudolph Contreras
+| Jul 25, 2016 | Lisa Page and Peter Strzok text each other about Strzok's relationship to Judge Rudolph Contreras
 | Jul 25, 2016 | Strzok says "CI threat meeting has been set up". Still not totally sure with who? D and AG? Or White House?
 | Jul 25, 2016 | DNC/Perkins Coie/Fusion brief national media outlets on Trump-Russia
 | Jul 25, 2016 | Trump rally in Winton-Salem, NC
@@ -2764,6 +2765,7 @@
 | Mar 21, 2017 | Ukrainian lawmaker Sergii Leshchenko claims Paul Manafort masked payments from Yanukovych party bit.ly/2LyeBA1
 | Mar 21, 2017 | Bank of China, HSBC Hong Kong, & other Chinese banks caught up in money laundering scheme archive.is/lhihA
 | Mar 22, 2017 | WaPo: "House Intelligence chair says Trump campaign officials were ensnared in surveillance operations"
+| Mar 22, 2017 | Motion by Forbes Media and Richard Behar to unseal Felix Sater's docket. US Government opposes unsealing bit.ly/2LQmilz
 | Mar 22, 2017 | USSS arrests failed WH intruder who got stuck on a fence archive.is/fsKnR
 | Mar 22, 2017 | AP article on secret deals btw Deripaska and Manafort; byline Jeff Horowitz, Chad Day bit.ly/2s19GyV
 | Mar 23, 2017 | WikiLeaks discloses CIA's "Dark Matter" [see: May 7, 2017 Wired]
