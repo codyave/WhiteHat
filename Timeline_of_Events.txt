@@ -1,4 +1,5 @@
-﻿| ??? ??, 1977 | Gennady Vasilenko and Jack Platt meet at a Harlem Globetrotters game in DC [see: The Seven Million Dollar Spy]
+﻿
+| ??? ??, 1977 | Gennady Vasilenko and Jack Platt meet at a Harlem Globetrotters game in DC [see: The Seven Million Dollar Spy]
 
 | Oct 25, 1978 | The Foreign Intelligence Surveillance Act of 1978 is signed into law by Jimmy Carter
 
@@ -971,6 +972,8 @@
 | Jul 18, 2014 | Daily Signal: "Obama Sanctions Russian Firms Once Subsidized by Ex-Im Bank" (Novatek, Rosneft, Vneshekonombank, Gazprombank) archive.is/zKJ3p
 | ??? ??, 2014 | Happens in "summer". "Cozyduke" infiltrates "government networks". The Dutch say it’s the Russians and they are targeting the US Democratic Party, State Department and White House
 | Jul 22, 2014 | Buryakov and CS-1 discuss meeting on Jul 25, 2014; Sporyshev is hesitant, but allows the meeting bit.ly/2AklBMv
+| Jul 23, 2014 | House Select Committee on Benghazi reaches agreement with State Dept. to produce Clinton emails relevant to their investigation [see: Sep 19, 2016 USNews]
+| Jul 24, 2014 | Clinton IT aide Paul Combetta, using the alias "stonetear", requests assistance on Reddit for deleting VIP email addresses [see: Sep 19, 2016 USNews]
 | Jul 25, 2014 | Buryakov and CS-1 meet at Buryakov's banking office to discuss building casinos in Russia bit.ly/2AfGpoj
 | Jul 24, 2014 | SSA David Gadren of the DOE OIG confirms that Vadim Mikerin conspired to affect U.S. commerce archive.fo/O9eHu
 | Jul 27, 2014 | WSJ: "FBME Bank Named Primary Money Laundering Concern" archive.is/0p61U
@@ -990,6 +993,7 @@
 | Sep 17, 2014 | James Comey testifies to the House Homeland Security Committee concerning "Worldwide Threats to the Homeland"
 | Oct ??, 2014 | Flynn Intel Group starts. Registered to McChrystal's Virginia townhouse [see: Nov 11, 2016 Daily Caller]
 | Oct 01, 2014 | HuffPost hires Ali Watkins archive.is/Jo2Ax
+| Oct 15, 2014 | Clinton team instructs Datto to begin purging emails from their backup storage devices, which they apparently failed to do [see: Oct 6, 2015 Washington Examiner]
 | Oct 16, 2014 | GSA accepts 175,000 sqare feet of improved space at the FBI Mission Ridge properties bit.ly/2PxkNZG
 | Oct 27, 2014 | @PoliticoPlaybook: "HAPPY BIRTHDAY to @mlcalderone, @AliWatkins and Chris @vlasto!" archive.is/LA4Ws
 | Oct 27, 2014 | Ali Watkins and James Wolfe's first romantic encounter [see: Jun 24, 2018 NYT] archive.fo/164iY
@@ -1015,9 +1019,9 @@
 | Jan 22, 2015 | NYT: "Sheldon Silver, Assembly Speaker, Took Millions in Payoffs, U.S. Says" archive.is/iNVU2
 | Jan 22, 2015 | NYT: "Complaint Details How Silver Earned Millions From Obscure Legal Work" archive.is/kLL4q
 | Jan 22, 2015 | Gawker: "Flight Logs Put Clinton, Dershowitz on Pedophile Billionaire’s Sex Jet" archive.is/yADle
-| Jan 26, 2015 | @shimonpro: "FBI has arrested a man for acting as a Russian Spy collecting Intel in the Bronx" archive.is/5D9Ml
+| Jan 23, 2015 | Buryakov, Podobnyy & Sporyshev indicted by sealed complaint, filed in the court this day bit.ly/2rDcB0a
+| Jan 26, 2015 | @shimonpro: "FBI has arrested a man for acting as a Russian Spy collecting Intel in the Bronx" Burakov arrested. Co-defendants out of country archive.is/5D9Ml
 | Jan 26, 2015 | DOJ: "Attorney General Holder Announces Charges Against Russian Spy Ring in New York City" archive.is/fLVpQ
-| Jan 26, 2015 | Buryakov complaint bit.ly/2rDcB0a
 | Jan 26, 2015 | DOJ: "13 Suspects Indicted In West Tennessee On Federal Drug Trafficking Violations" archive.is/MvZzj
 | Jan 27, 2015 | Moscow Times speculates Buryakov traveled to Canada to gather intel on Bombardier Aircraft union bosses bit.ly/2Lx6QKV
 | Jan 27, 2015 | NYT: "Sheldon Silver to Be Replaced as Speaker of New York State Assembly" archive.is/sZYPT
@@ -1035,7 +1039,8 @@
 | Feb 25, 2015 | Jill McCabe: "Hi Andrew. The assistant to the Lieutenant Governer of Virginia called me today to ask if I would consider running against Dick Black for the State Senate" archive.is/FVrEv
 | Feb 25, 2015 | @JamesPindell: "Corey Lewandowski, who was with Trump in Iowa last month, will head up Trump efforts in NH"
 | Mar ??, 2015 | NSA contractor, Nghia H. Pho, charged by the FBI around this time [see: Dec 1, 2017 NYT]
-| Mar 02, 2015 | NYT: "Hillary Clinton Used Personal Email Account at State Dept., Possibly Breaking Rules" archive.is/wcglJ
+| Mar 02, 2015 | NYT: "Hillary Clinton Used Personal Email Account at State Dept., Possibly Breaking Rules" first disclosure of private server used while at State archive.is/wcglJ
+| Mar 03, 2015 | Clinton aides call Platte River Networks, which operated her email server, to confirm all emails were deleted per their 2014 order [see: Sep 8, 2016 NYT]
 | Mar 04, 2015 | John Podesta suggests to Cheryl Mills to withhold Obama emails bit.ly/2EMlz3Q
 | Mar 04, 2015 | Emails between Clinton Campaign members (Mills, Sullivan, Podesta, Mook, Reines) talking about how to "take advantage" of subpoenas of emails [see: Wikileaks Podesta emails]
 | Mar 05, 2015 | John Hannah LLC transfers Trump Tower apartment to Paul Manafort for $0 [see: Mar 28, 2017 WNYC]
@@ -1045,12 +1050,13 @@
 | Mar 07, 2015 | Cheryl Mills says HRC emails need to be cleaned up; says Obama has non-state.gov emails from HRC bit.ly/2rQEceJ
 | Mar 07, 2015 | At a gathering, Governor McAuliffe urges Jill McCabe to run for state senate [see: Oct 24, 2016 WSJ]
 | Mar 10, 2015 | State Dept acknowledges Russian hackers infiltrated their email system for much of the past year bit.ly/2SfqvkR
-| Mar 12, 2015 | Jill McCabe announces run for State Senate of Virginia
+| Mar 12, 2015 | Jill McCabe announces run for State Senate of Virginia archive.vn/qRdVn
 | Mar 16, 2015 | CBS reports that a Chinese company, Rilin Enterprises, pledged $2m to Clinton Foundation in 2013 archive.is/Oo46J
 | Mar 19, 2015 | WSJ: "Clinton Charity Tapped Foreign Friends" archive.is/PcgA3
-| Mar 25, 2015 | Combetta, Bleachbit
+| Mar 24, 2015 | Maria Butina makes offer to NRA fundraiser Paul Erickson to use NRA to influence GOP [see: Jul 14, 2018 Butina Affadavit]
+| Mar ??, 2015 | Somehwere between the 25th and 31st Combetta had an "oh shit" moment and used Bleachbit to delete all the emails [see: Sep 2, 2016 Politico]
 | Mar 26, 2015 | DOJ OIG report finds DEA agents engaged in sex parties w/prostitutes hired by drug cartels in Columbia bit.ly/2EK8jvJ
-| Mar 30, 2015 | Amitabh Desai email to Team Clinton re Pinchuk feeling neglected, demands attention
+| Mar 30, 2015 | Amitabh Desai email to Team Clinton re Pinchuk feeling neglected, demands attention archive.vn/Js5oQ
 | Apr ??, 2015 | Joshua Adam Schulte sexually assaults an unconscious woman (partner?), films it [see: Jun 20, 2018 Emptywheel]
 | Apr 02, 2015 | Iran promises to reduce its nuclear program in return for gradual lifting of sanctions bit.ly/2LwNrJN
 | Apr 02, 2015 | CNN article lists seven key points of Iran deal bit.ly/2EENaTX
@@ -1069,6 +1075,7 @@
 | Apr 24, 2015 | Michael Caputo blog: "Putin Paid, Then Uranium One Got Made" archive.is/HV5wH
 | Apr 24, 2015 | Maria Butina attends NRA convention in Nashville; she meets with Torshin Gov. Scott Walker
 | Apr 25, 2015 | NYT reports that Russian hackers have been able to read Obama’s unclassified emails since 2014 bit.ly/2rS7QjG
+| Apr 29. 2015 | FBI warns Andrew McCabe about potential conflicts of interest related to his wife's campaign [see: Jan 5, 2018 FBI Vault]
 | Apr 30, 2015 | Mike Vickers last day as Undersecretary of Defense for Intelligence. Retires from government service.
 | Apr 30, 2015 | Indian Today: "Hillary Clinton dismisses claims Indian cash swayed her nuclear deal stance" archive.is/hjmqk
 | May 05, 2015 | "Clinton Cash" hits bookshelves [see: Apr 19, 2015 NYT]
@@ -1078,7 +1085,7 @@
 | May 15, 2015 | @frankthorp: "Bernie Sanders taps his former Chief of Staff Jeff Weaver as his Presidential campaign manager" archive.is/ojwFu
 | May 16, 2015 | Philly Inquirer: "New owners see ill-fated Trump Tower Phila. plan as template to develop site" archive.is/AR4T7
 | May 18, 2015 | Independent: "Billionaire Russian businessman found dead outside Surrey home could have been poisoned" archive.is/Xylad
-| May 19, 2015 | Peter Kadzik tips off John Podesta about upcoming investigation into HRC State Dept emails
+| May 19, 2015 | DOJ official Peter Kadzik, writing from personal email account, emails John Podesta to warn of House probe into Clinton's emails archive.vn/Vodph
 | May 19, 2015 | Guardian: "'Poisoned' Russian whistleblower was fatalistic over death threats" archive.is/f6YX8
 | May 20, 2015 | RCP: "Hillary Defends Sidney Blumenthal: "Important" To Talk To 'Friends You Had Before You Were In Politics'" archive.is/PNAP
 | May 31, 2015 | FEC filings show Trump Org paid Drake Ventures, LLC (Roger Stone) $30k between Apr 10, 2015 and May 31, 2015 [see: Jul 20, 2015 Media Matters]
@@ -1090,7 +1097,7 @@
 | Jun 04, 2015 | CNN: "China might be building vast database of federal worker info, experts say"
 | Jun 10, 2015 | WSJ: "Spy Virus Linked to Israel Targeted Hotels Used for Iran Nuclear Talks"
 | Jun 11, 2015 | Speaking two days after the G7 threatened tougher measures against Moscow, Putin tells a press conference in Milan that many contracts signed by Italian firms had been stalled by the sanctions and may have to be torn up. Also says the G7 is "not an organization, just a club."
-| Jun 12, 2015 | National Interest: "The Bear and the Elephant" Article written by Maria Butina who argues that a Republican president might be the only way to improve relations with Russia
+| Jun 12, 2015 | National Interest: "The Bear and the Elephant" Article written by Maria Butina who argues that a Republican president might be the only way to improve relations with Russia. After the article was published, she sent it to Torshin, who approved [see: Jul 14, 2018 Butina Affadavit]
 | Jun 12, 2015 | Grassley letter to Comey about privacy issues of remotely-deployed spyware programs used by U.S. govt bit.ly/2SKMD6B
 | Jun 15, 2015 | CNBC: "Donald Trump announces candidacy for president" Decends the golden escalator
 | Jun 16, 2015 | At a hearing before the House Oversight and Government Reform Committee, OPM Director Katherine Archuleta reveals that Social Security numbers stored by the OPM were not encrypted due to the networks being "too old."
@@ -1121,6 +1128,7 @@
 | Jul 13, 2015 | Maria Butina attendds launch of Scott Walker’s presidential campaign
 | Jul 14, 2015 | Landmark deal reached on Iran nuclear program bit.ly/2SX23Vq
 | Jul 15, 2015 | CMP begins releasing Planned Parenthood videos. Fusion GPS is part of the team to diffuse the situation
+| Jul 17, 2015 | Memo from State OIG Linick and ICIG McCullough to Pat Kennedy of state describing potential issues in Clinton email investigation bit.ly/2RrfH6a
 | Jul 19, 2015 | State Dept transmits JPCOA to Congress; annexes, related materials; 60-day review period starts next day
 | Jul 22, 2015 | Politico report on Corey Lewandowski bit.ly/2QLS8Wk
 | Jul 22, 2015 | Yates 58-page memo; denies IG access & oversight to info collected by DOJ & FBI under Title III bit.ly/2T0Ue1c
@@ -1185,6 +1193,7 @@
 | Oct 01, 2015 | Russian airstrikes in Syria
 | Oct 01, 2015 | Start of Federal Fiscal Year 2016
 | Oct 03, 2015 | RT.com: "Blowback: Secret Service knew about leaked info used to smear congressman" archive.is/YaH33
+| Oct 06, 2015 | Washington Examiner: "Clinton's tech firm worried about being dragged into cover-up" archive.vn/50cfd
 | Oct 08, 2015 | Yahoo: "Benghazi committee, under fire, releases more Clinton emails" by Michael Isikoff. The headline really buries the lede. The article reveals that Sidney Blumenthal included the name of an undercover CIA officer in an email sent Hillary Clinton's private server, then Clinton forwarded it to a collegue 
 | Oct 09, 2015 | Sater emails Cohen to tell him he plans to meet with a Moscow developer about possible land for a building
 | Oct 11, 2015 | CNN: "Obama: Hillary Clinton emails didn't pose 'national security problem'" archive.is/a5tla
@@ -2098,6 +2107,7 @@
 | Sep 16, 2016 | Steele texts Bruce Ohr, says he will be back in town "on business of mutual interest"
 | Sep 18, 2016 | Consillium: "UN General Assembly, New York, 18-22 September 2016" archive.is/dCliO
 | Sep 19, 2016 | Woolsey, Flynn meet with two Turkish government ministers to discuss Gulen [see: Mar 24, 2017 Daily Caller]
+| Sep 19, 2016 | USNews: "Computer Specialist Who Deleted Clinton Emails May Have Asked Reddit for Tips" bit.ly/2RrB4o0
 | Sep 19, 2016 | Alptekin arranges a meeting between Flynn, Mevlut Cavusoglu, and Berat Albayrak in NYC [see: Mar 24, 2017 New Yorker]
 | Sep 19, 2016 | Turkish officials meet w/Flynn Intel Group at 21 Club in NYC, raise idea to extradite Gulen archive.is/cMBfz
 | Sep 20, 2016 | Genesis Capital files in state court seeking mortgage foreclosure on Manafort-linked loans after monthly payment is missed for property in Brooklyn [see: Jul 25, 2017 Bloomberg]
@@ -2183,12 +2193,12 @@
 | Oct 09, 2016 | Mueller joins Booz Allen Hamilton after Shadow Brokers investigation arrests NSA contractor Harold Martin
 | Oct 09, 2016 | WaPo: "Trump: If elected, I’ll appoint a special prosecutor to look into Clinton’s emails" archive.is/60Lv9
 | Oct 09, 2016 | FBI speaks with John Podesta, tells him his emails are being investigated [see: Oct 11, 2016 Politico]
+| Oct 09, 2016 | Intercept: "New Email Leak Reveals Clinton Campaign’s Cozy Press Relationship" archive.is/7IV0k
 | Oct ??, 2016 | FBI general counsel James Baker meets with DNC lawyers to discuss Trump-Russia collusion [see: Oct 3, 2018 The Hill]
 | Oct 10, 2016 | Page Six: "Billy Bush bragged about vulgar Trump video to NBC staffers"
 | Oct 10, 2016 | @mike pence: "Delicious stop at Tony's Ice Cream, a family-owned-and-operated small business in downtown Gastonia, NC"
 | Oct 10, 2016 | Alaturka: "Trump's adviser meets with Turkish society" (Flynn) archive.is/frp3W
 | Oct 10, 2016 | Gen. Flynn meets with Ibrahim Kurtulus and Hilal Mutlu, relatives of Erdogan, in NYC; in a Facebook post sometime later, Kurtulus brags that he used the meeting as an opportunity to “educate” Flynn about Gulenl also at the meeting was Halil Mutlu, another prominent player in the deep network of pro-Erdogan U.S.-based activists. Mutlu, whose late father Kemal was Erdogan’s uncle, serves as president of a U.S.-based non-profit called the Turken Foundation [see: Nov 16, 2016 Daily Caller]
-| Oct 09, 2016 | Intercept: "New Email Leak Reveals Clinton Campaign’s Cozy Press Relationship" archive.is/7IV0k
 | Oct 11, 2016 | Politico: "Podesta: Trump ally had ‘advance warning’ of hacked emails"
 | Oct 11, 2016 | Don Jr at event in Paris, hosted by French think tank. Fusion apparently knew about it
 | Oct 12, 2016 | Jane Rhodes-Wolfe hired as Head of Corporate Security and Group Vice President at Charter Communications bloomberg.com/research/stocks/people/person.asp?personId=404645889&privcapId=19609
@@ -2254,6 +2264,7 @@
 | Oct 29, 2016 | Stone says on local Florida television that he had no advanced knowledge of the forthcoming hack of Podesta's emails, but says he has a "backchannel contact" to Assange. "We have a mutual friend." When asked about the content of the information shared, "Broad information pertaining to the fact that Wikileaks has information pertaining to massive secret surveillance, war, oil, the U.S. election." Stone says he only knew about emails being released "in the broad sense." He says he has never met or spoken to Assange and didn't pass any information about it to Trump.
 | Oct 29, 2016 | Joseph Mifsud emails his employee, Simona Mangiante, asking if he can meet with her in London
 | Oct 30, 2016 | WSJ: "FBI in Internal Feud Over Hillary Clinton Probe" archive.is/91ru0
+| Oct 30, 2016 | 12:32pm Search warrant issued for examining Weiners laptop bit.ly/2RvG76L
 | Oct 30, 2016 | A British citizen envoy arrives in Charlotte, NC to walk precincts in support of Hillary Clinton, including Jen Thornton. Australians, led by  Stephen Donnelly, go to Charlston, NC
 | Oct 30, 2016 | Reid writes letter to Comey, demands he announce Trump Russia investigation
 | Oct 30, 2016 | WSJ article on McCabe's ties to McAuliffe
