@@ -531,7 +531,7 @@
 | Jun 26, 2010 | Anna Chapman calls her father about a suspicious request from her SVR handler
 | Jun 26, 2010 | Haaretz: "'Mossad Chief Meir Dagan to Step Down'" bit.ly/2GjvcJ9
 | Jun 27, 2010 | Scheduled departure day for SVR Illegal Chris Murphy to fly to Moscow [see: Jul 12, 2010 WaPo]
-| Jun 27, 2010 | Russia spies arrested in New York [see: Jul 8, 2010 WaPo]
+| Jun 27, 2010 | Russia spies arrested in New York and Massachusetts [see: Jul 8, 2010 Fox]
 | Jun 28, 2010 | @CBSNews: "FBI: 10 Russian Spies Arrested in U.S." (12:56pm)
 | Jun 28, 2010 | @gavinsblog: "Interesting those arrests happen just after Medvedev visits the US" (2:09pm)
 | Jun 29, 2010 | Bill Clinton receives $500k for a speech in Mosecow given to Renaissance Capital [see: July 18, 2017 Fox News]
@@ -603,7 +603,7 @@
 | Aug 31, 2010 | Uranium One stockholders approved sale of 51% of U-1 shares to Atomredmetzoloto (Rosatom) [see: Sep 25, 2010 CNN]
 | Sep ??, 2010 | Shawn Henry named Executive Assistant Director of the Criminal, Cyber, Response, and Services Branch of the FBI archive.is/rdt7o
 | Sep ??, 2010 | FBI Chad Fulgham takes control of SENTINEL development from Lockheed
-| ??? ??, ???? | "3Q 2010" Jones Lang LaSalle buys Mission Ridge buildings from Pitcairn
+| ??? ??, 2010 | "3Q 2010" Jones Lang LaSalle buys Mission Ridge buildings from Pitcairn
 | Sep 01, 2010 | @expressen: "Swedish prosecutor has - again - opened the investigation on the #Assange rape"
 | Sep 03, 2010 | @AKIpress_com: "Kazakhstan officially approves Uranium One swap deal with ARMZ" archive.is/YTrOh
 | Sep 08, 2010 | UK terrorist, Abdul Jabbar, dies from a U.S. drone strike [see: Oct 5, 2010 Guardian]
@@ -1625,6 +1625,7 @@
 | May 05, 2016 | CrowdStrike CEO, Dmitry Alperovich, installs Falcon software on DNC servers bit.ly/2EHDEPK
 | May 05, 2016 | "CrowdStrike was responding to the DNC’s hack as of May 5, 2016, but emails continued to be stolen for weeks" [see: Dec 4, 2016 Daily Caller]
 | May 06, 2016 | Cohen replies to Sater, saying the proposed St. Petersburg dates would work
+| May 06, 2016 | The Guardian: "The day we discovered our parents were Russian spies" about Donald Heathfield and Tracey Foley being nabbed by the FBI https://www.theguardian.com/world/2016/may/07/discovered-our-parents-were-russian-spies-tim-alex-foley 
 | May 08, 2016 | Joshua Adam Schulte searches google on how to set up a Tor network [see: Jun 20, 2018 Emptywheel]
 | May 09, 2016 | Bill Priestap is likely in London, possibly meeting with Downer and Pdop, around this time
 | May 10, 2016 | Papadopoulos meets Downer at a wine bar in London, Downer accompanied by Erika Thompson. Papadopoulos mentions the Russians having damaging emails for Clinton
