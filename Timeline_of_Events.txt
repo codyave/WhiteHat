@@ -777,6 +777,7 @@
 | Jun 19, 2012 | @WikiLeaks: "Julian Assange has requested political asylum and is under the protection of the Ecuadorian embassy"
 | Jun 19, 2012 | Telegraph: "Julian Assange: WikiLeaks founder seeks political asylum from Ecuador" archive.is/iU88
 | Jun 24, 2012 | Guardian: "Julian Assange asylum bid: Ecuador's ambassador flies to Quito for talks" archive.is/V1ph8
+| Jun 27, 2012 | Obama emails Sec State Clinton over unsecured server (briefing of emails on 28th) archive.is/iRxJP archive.is/LsBUx
 | Jun 28, 2012 | Guardian: "Julian Assange told to turn himself in at London police station" archive.is/jgGBK
 | Jun 29, 2012 | Telegraph: "WikiLeaks founder Julian Assange to remain in Ecuadorian Embassy" archive.is/AgIo
 | Jul ??, 2012 | FBI first deploys SENTINEL case file system to users bit.ly/2SFEvnW
@@ -802,7 +803,7 @@
 | Nov 08, 2012 | CBS: "Netanyahu reportedly backed off preps for Iran strike in 2010 amid rift with Israel's military" archive.is/YsF5t
 | Nov 09, 2012 | Guardian: "CIA director David Petraeus resigns over 'unacceptable' extramarital affair" archive.is/AVtlE
 | Nov 09, 2012 | WSJ: "Virus Aimed at Iran Infected Chevron Network" (Stuxnet) archive.is/fE6om
-| Nov 10, 2010 | Russian whistleblower, Alexander Perepilichny, dies in England [see: Nov 28, 2012 Reuters]
+| Nov 10, 2012 | Russian whistleblower, Alexander Perepilichny, dies in England [see: Nov 28, 2012 Reuters]
 | Nov 16, 2012 | NYT: "House Passes Russia Trade Bill With Eye on Rights Abuses" (Magnitsky) archive.is/HruP8
 | Nov 28, 2012 | Reuters: "Russian mafia whistleblower found dead outside UK mansion" (Perepilichny) archive.is/iHmly
 | Dec ??, 2012 | DOJ investigators zero in on Gen. Cartwright as suspected leaker of Stuxnet [see: Jun 27, 2013 NBC News]
@@ -1771,7 +1772,6 @@
 | Jun 27, 2016 | "On or about June 27, 2016, the Conspirators, posing as Guccifer 2.0, contacted a U.S. reporter with an offer to provide stolen emails from 'Hillary Clinton's staff.' The Conspirators then sent the reporer the password to access a nonpublic, password-protected portion of dcleaks.com containing emails stolen from Victim 1 by LUKASHEV, YERMAKOV, and their co-conspirators in or around March 2016" [see: Jul 13, 2018 Mueller indictment]
 | Jun 27, 2016 | Podesta, Mook, Donolin meet with Obama, Biden in VP residence 
 | Jun 27, 2016 | ABC15: "Loretta Lynch, Bill Clinton meet privately in Phoenix before Benghazi report" archive.is/8qZwg
-| Jun 27, 2018 | Obama emails Sec State Clinton over unsecured server (briefing of emails on 28th) archive.is/iRxJP archive.is/LsBUx
 | Jun 28, 2016 | ABC15: "Clinton: 'Time to move on' from Benghazi report" archive.is/BlGGR
 | Jun 28, 2016 | Strzok (to Jim Rybicki): "Jim, I have the POTUS-HRC emails [Director Comey] requested at the end of briefing yesterday. I hesitate to leave them. Please let me know a convenient time to drop them off" archive.is/yPeB9
 | Jun 29, 2016 | Long Term Strategy Group exercises a $216,178 Option
@@ -1817,7 +1817,7 @@
 | Jul 09, 2016 | Steele vacations in Cyprus with family until the 16th [see: August 7, 2018 The Hill]
 | Jul 09, 2016 | WaPo: "A curveball in Trump’s Veep search: He’s seriously considering a retired general" archive.is/DKq7w
 | Jul 10, 2016 | Seth Rich murdered
-| Jul 10, 2013 | Carter Page is in the U.K. until Jul 13, 2016 bit.ly/2Q3Y7Ap
+| Jul 10, 2016 | Carter Page is in the U.K. until Jul 13, 2016 bit.ly/2Q3Y7Ap
 | Jul 11, 2016 | Republicans of the House Judiciary Committee, second letter to Comey about his Mid Year Exam press conference bit.ly/2TilM23
 | Jul 11, 2016 | Elizabeth Dibble submits referral to the FBI about Downer-Papadopoulos bar conversation
 | Jul ??, 2016 | Carter Page not interviewd by FBI agent from sometime Jul 2016 up until Mar 10, 2017 bit.ly/2EPjMv9
@@ -1976,7 +1976,7 @@
 | Aug 06, 2016 | Obama leaves for his Marthas Vineyard Vacation
 | Aug 06, 2016 | Hillary tweets first video questioning Trump's relationship to Russia
 | Aug 07, 2016 | Guardian: "Iran executes nuclear scientist who returned to country from US" (Shahram Amiri) archive.is/KE0XX
-| Aug 07, 2006 | WaPo: "Iranian nuclear scientist Shahram Amiri 'executed'" archive.is/ksatw
+| Aug 07, 2016 | WaPo: "Iranian nuclear scientist Shahram Amiri 'executed'" archive.is/ksatw
 | Aug 07, 2016 | Washington Examiner: "[Senator] Cotton: Clinton discussed executed Iranian scientist on email" archive.is/eaqWg
 | Aug 08, 2016 | Alptekin emails Kian & Flynn; says, "I had a long meeting with Cavusoglu upon referall from Albayrak" archive.fo/Cwq8I
 | Aug 08, 2016 | The Observer: "Did NSA Try to Destroy Hillary Clinton"
@@ -2016,7 +2016,7 @@
 | Aug 16, 2016 | Daily Beast: "Donald Trump Took Liberal Icon George Soros’s Money" archive.is/fDAcL
 | Aug 16, 2016 | Mediaite: "Trump Defended George Soros During 2011 Tea Party Rally: ‘Leave Him Alone’" 
 | Aug 17, 2016 | Trump Campaign briefed by intelligence officials. Flynn was there and apparently asked pointed questions. Christie was there. Fewer than 10 people in the room. All the briefers were career intelligence officials, including both military officers and civilians. The briefing team was the same for both presidential candidates. None were political appointees, and none were among the team that briefs President Obama daily. The names of the briefers have not been made public
-| Aug 17, 2017 | Vanity Fair: "Exclusive: Stephen Bannon, Trump's new CEO, hints at his master plan" archive.is/TdEFC
+| Aug 17, 2016 | Vanity Fair: "Exclusive: Stephen Bannon, Trump's new CEO, hints at his master plan" archive.is/TdEFC
 | Aug 17, 2016 | Boingboing: "Breitbart's Stephen Bannon, now Trump's new CEO, reveals his master plan" archive.is/lUKmm
 | Aug 17, 2016 | Yahoo: "Manafort was go-between in secret Ukraine lobbying campaign" by Michael Isikoff
 | Aug 17, 2016 | AP: "Manafort tied to undisclosed foreign lobbying" byline Jeff Horowitz and Desmond Butler archive.is/ZWa1r
@@ -3325,7 +3325,7 @@
 | Sep 12, 2017 | Wolfe: "It's always good to see you." archive.is/2CF1E [see: Dec 14, 2018 James Wolfe response]
 | Sep 12, 2017 | Reporter #3: "Likewise! It's always a good break from the crazy." archive.is/2CF1E [see: Dec 14, 2018 James Wolfe response]
 | Sep 12, 2017 | Reporter #3: "Also, given your position, I consider all our conversations off the record. If I need to push for something with some kind of sourcing I will, but I have a feeling there may not much leeway..." archive.is/2CF1E [see: Dec 14, 2018 James Wolfe response]
- Sep 12, 2017 | Wolfe: "Roger." archive.is/2CF1E [see: Dec 14, 2018 James Wolfe response]
+| Sep 12, 2017 | Wolfe: "Roger." archive.is/2CF1E [see: Dec 14, 2018 James Wolfe response]
 | Sep 13, 2017 | CNN: "Exclusive: Justice Department declines Senate request to interview FBI officials over Comey firing" by Manu Raju
 | Sep 13, 2017 | Joshua Adam Schulte filing bit.ly/2QpRgX1
 | Sep 14, 2017 | Arraignment and bond for Joshua Adam Schulte archive.is/d2aQO
