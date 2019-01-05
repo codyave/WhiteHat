@@ -1216,13 +1216,15 @@
 | Oct 01, 2015 | Jill McCabe's State Senate campaign recieves $150k from Common Good VA, an organization linked to Terry McAuliffe archive.vn/MXzpT
 | Oct 03, 2015 | RT.com: "Blowback: Secret Service knew about leaked info used to smear congressman" archive.is/YaH33
 | Oct 03, 2015 | FBI seizes the Platte River Networks server as well as the "Pagliano" server, which were used to host Clinton email services bit.ly/2RbJ2C7
+| Oct 05, 2015 | FBI's Strzok sends letter to Datto, Inc. demanding the newly discovered backup server be turned over bit.ly/2RzE1CO
+| Oct 06, 2015 | McClatchy: "Unbeknownst to Clinton, IT firm had emails stored on cloud; now in FBI’s hands" by Greg Gordon and Anita Kumar archive.vn/CrNgI
 | Oct 06, 2015 | Washington Examiner: "Clinton's tech firm worried about being dragged into cover-up" archive.vn/50cfd
 | Oct 08, 2015 | Yahoo: "Benghazi committee, under fire, releases more Clinton emails" by Michael Isikoff. The headline really buries the lede. The article reveals that Sidney Blumenthal included the name of an undercover CIA officer in an email sent Hillary Clinton's private server, then Clinton forwarded it to a collegue 
 | Oct 09, 2015 | Sater emails Cohen to tell him he plans to meet with a Moscow developer about possible land for a building
-| Oct 11, 2015 | CNN: "Obama: Hillary Clinton emails didn't pose 'national security problem'" archive.is/a5tla
-| Oct 12, 2015 | Sater informs Cohen over email that his associates would be meeting with Russian President Vladimir Putin and a deputy on Oct. 14 and that VTB Bank would fund the project. VTB was and is subject to sanctions by the U.S. government
-| Oct 13, 2015 | Sater sends Cohen a letter of intent to move forward on a deal in Moscow. He includes a note: “Lets make this happen and build a Trump Moscow, and possibly fix relations between the countries by showing everyone that commerce & business are much better and more practical than politics. That should be Putins message as well, and we will help him agree on that message. Help world peace and make a lot of money, I would say thats a great lifetime goal for us to go after.”
-| Oct 13, 2015 | Email correspondence btw Leading Authorities, Inc. & Russia Today (Flynn related) bit.ly/2CwFL7q
+| Oct 11, 2015 | CNN: "Obama: Hillary Clinton emails didn't pose 'national security problem'" On 60 Minutes, President Obama absolves Hillary Clinton of blame for her private email server archive.is/a5tla
+| Oct 12, 2015 | Sater informs Cohen over email that his associates would be meeting with Russian President Vladimir Putin and a deputy on Oct. 14 and that VTB Bank would fund the project. VTB was and is subject to sanctions by the U.S. government [see: Mar 26, 2018 page 51 of minority views] 
+| Oct 13, 2015 | Sater sends Cohen a letter of intent to move forward on a deal in Moscow. He includes a note: “Lets make this happen and build a Trump Moscow, and possibly fix relations between the countries by showing everyone that commerce & business are much better and more practical than politics. That should be Putins message as well, and we will help him agree on that message. Help world peace and make a lot of money, I would say thats a great lifetime goal for us to go after.” bit.ly/2VAiusK
+| Oct 13, 2015 | Email correspondence btw Leading Authorities, Inc. & Russia Today (Flynn related) bit.ly/2CStv1t
 | Oct 13, 2015 | First Democratic debate. Sanders decides not to attack on the emails. Pivotal moment on Clinton not facing that challenge in the primary
 | Oct 14, 2015 | Yahoo: "What Clinton left out about her history with Gadhafi" by Michael Isikoff
 | Oct 14, 2015 | Guardian: "Bernie Sanders to Clinton: people 'are sick of hearing about your damn emails'" archive.is/sAMny
@@ -1235,6 +1237,7 @@
 | Oct 22, 2015 | WSJ: "Spy vs. Spy: Inside the Fraying U.S.-Israel Ties" archive.is/bal3Q
 | Oct 22, 2015 | James Comey appears on Capitol Hill at a House Judiciary Committee oversight hearing bit.ly/2QZ0biu bit.ly/2CIzuGa
 | Oct 24, 2015 | Telegraph: "'Spy in bag' Gareth Williams was 'murdered by Russian hitmen after sexual photo blackmail plot'" archive.is/Qf4As
+| Oct 26, 2015 | George Papadopoulos learns the Obama State Dept and/or the CIA is keeping tabs on him at the 2nd London Oil & Gas Forum archive.vn/D12LC
 | Oct 27, 2015 | Jill McCabe's State Senate campaign recieves $125k from Common Good VA, an organization linked to Terry McAuliffe archive.vn/MXzpT
 | Oct 28, 2015 | Trump reportedly signs the letter of intent for Trump Tower Moscow
 | Oct 28, 2015 | Third GOP primary debate, sponsored by CNBC, held in Boulder, CO
@@ -3754,10 +3757,12 @@
 | Mar 21, 2018 | @adamgoldmanNYT: "Mr. Nader has been granted immunity in a deal for his cooperation with the special counsel, Robert S. Mueller III" archive.is/XlmFp
 | Mar 21, 2018 | NYT: "How 2 Gulf Monarchies Sought to Influence the White House" archive.is/3Y6VH
 | Mar 22, 2018 | BuzzFeed: "The Cambridge Analytica Whistleblower Said He Wanted To Create 'The NSA’s Wet Dream'" (Christopher Wylie)
+| Mar 22, 2018 | HPSCI Majority released "Report on Russian Active Measures" bit.ly/2scDqbT
 | Mar 23, 2018 | WSJ: "Behind Richard Gates’ Guilty Plea in the Russia Probe"
 | Mar 24, 2018 | @gregolear: "13–14 December, 2016: New York (?), Kushner meets somewhere near Newark Airport with Sergei Gorkov" archive.is/JrDW8
 | Mar ??, 2018 | Diamond smuggling investigation into Lev Leviev begins sometime in late March [see: Nov 5, 2018 Haaretz]
 | Mar 25, 2018 | Daily Caller: "A London Meeting Before The Election Aroused George Papadopoulos’s Suspicions" archive.is/o3jju
+| Mar 26, 2018 | HPSCI minority members submit memo in response to majority "Report on Russian Active Measures" bit.ly/2Tynj4h
 | Mar 26, 2018 | WSJ: "How a Tiny Latvian Bank Became a Haven for the World’s Dirty Money" archive.is/1gNqr
 | Mar 28, 2018 | CNBC: "Mueller links former Trump campaign aide Rick Gates to Russian spy" (Kilimnik?) archive.is/C7uEJ
 | Mar 28, 2018 | Guardian: "Ecuador cuts off Julian Assange's internet access at London embassy"
