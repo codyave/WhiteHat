@@ -32,12 +32,12 @@
 | Nov 08, 2017 | Defense moves for change in bail conditions; court denies bit.ly/2RxRXND
 | Nov 08, 2017 | Defense asks for time to review 15TB of evidence; judge denies Schulte request to access email device bit.ly/2RanDt8
 | Nov 15, 2017 | Schulte charged in Loudoun County with two crimes relating to photos he took of his blacked-out roommate bit.ly/2AyXrOJ
-| Nov 16, 2017 | Accesses Tor network [see: Jun 20, 2018 Emptywheel]
-| Nov 17, 2017 | Accesses Tor network [see: Jun 20, 2018 Emptywheel]
-| Nov 26, 2017 | Accesses Tor network [see: Jun 20, 2018 Emptywheel]
-| Nov 30, 2017 | Accesses Tor network [see: Jun 20, 2018 Emptywheel]
-| Dec 05, 2017 | Accesses Tor network [see: Jun 20, 2018 Emptywheel]
-| Dec 07, 2017 | Schulte arrested; charged with sexual assault bit.ly/2RzKPAv
+| Nov 16, 2017 | Schulte accesses TOR bit.ly/2TrLKQA
+| Nov 17, 2017 | Schulte accesses TOR bit.ly/2TrLKQA
+| Nov 26, 2017 | Schulte accesses TOR bit.ly/2TrLKQA
+| Nov 30, 2017 | Schulte accesses TOR bit.ly/2TrLKQA
+| Dec 05, 2017 | Schulte accesses TOR bit.ly/2TrLKQA
+| Dec 07, 2017 | Schulte arrested; charged with sexual assault of his former roommate bit.ly/2RzKPAv
 | Dec 07, 2017 | Letter motion addressed to Judge Crotty from Matthew Laroche re: notion for detention bit.ly/2S6XS9p, bit.ly/2C3LrFY
 | Dec 14, 2017 | Defendant consents to being detained without prejudice; conference set for 1/4/18
 | Dec 14, 2017 | Bail revoked; defendant remanded to custody of U.S. Marshal bit.ly/2UPZqXi
