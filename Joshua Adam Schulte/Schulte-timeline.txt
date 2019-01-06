@@ -11,7 +11,7 @@
 | Nov ??, 2016 | Transports computer containing illicit images of minors across state lines around this time bit.ly/2LROEM0
 | Mar ??, 2017 | Receives/attempts to receive material containing illicit images of minors around this time [see: Aug 23, 2017 arrest affidavit]
 | Mar ??, 2017 | Possesses and accesses with intent to view illicit images of minors around this time [see: Aug 23, 2017 Schulte arrest affidavit]
-| Mar 02, 2017 | Schulte says the govt mistakes 3/2/17 dates for 3/7/17 dates (correct, I think?) bit.ly/2H0jao8
+| Mar 02, 2017 | Schulte says govt mistakes 3/2/17 dates for 3/7/17 dates; maybe related to 3/7/17 Vault 7 drop? bit.ly/2H0jao8
 | Mar 13, 2017 | Search warrant issued for Schulte's NYC apartment bit.ly/2QvNTcs
 | Mar 13, 2017 | Search warrant issued for Schulte's Google search history bit.ly/2SEs9wR
 | Mar 15, 2017 | FBI searches Schulte apartment; recovers approximately 60 devices; possibly a passport confiscated bit.ly/2SzIiDK
@@ -25,33 +25,18 @@
 | Aug 24, 2017 | Feds seize previously undisclosed computer at Josh's apartment [see: Aug 24, 2017 Schulte arraignment]
 | Aug 24, 2017 | Feds seize previously undisclosed diplomatic passport at Josh's apartment [see: Aug 24, 2017 Schulte arraignment]
 | Aug 24, 2017 | Job at Bloomberg ends this day? [see: Aug 24, 2017 Schulte arraignment] 
-| Sep 06, 2017 | Indictment bit.ly/2QyVo7a
-| Sep 11, 2017 | Notice of Attorney appearance; Alexander Benjamin Spiro; entered 09/11/2017
-| Sep 13, 2017 | Arraignment; plea of not guilty; defense proposes bail; govt opposes; released on bail conditions
-| Sep 13, 2017 | Set/reset deadlines/hearings; status conference set for 10/31/2017 at 11:30 AM before Judge Crotty
+| Sep 06, 2017 | Grand jury indictment against Schulte bit.ly/2QyVo7a
+| Sep 13, 2017 | Schulte arraigned; pleas not guilty; defense proposes bail; govt opposes; released on bail conditions bit.ly/2CU6iw1
 | Sep 14, 2017 | Bail conditions announced; Judge Crotty requires $250k bond & 4 co-signers bit.ly/2H0Nvmz
-| Sep 15, 2017 | Letter motion addressed to Judge Crotty re: discovery protective order; entered 09/15/2017 bit.ly/2PJekuy
-| Sep 15, 2017 | Appearance bond; entered 09/15/2017 bit.ly/2UOKLLV
-| Sep 18, 2017 | Protective order; signed by Judge Crotty on 9/18/2017; entered 09/18/2017 bit.ly/2SRp0ZY
-| Oct 02, 2017 | Transcript of proceedings re: conference held on 9/13/17 before Judge Crotty bit.ly/2UAWVbd
-| Oct 11, 2017 | Letter motion addressed to Judge Crotty re: withdrawal of counsel; filed by Joshua Adam Schulte; bit.ly/2SQathh
-| Oct 12, 2017 | Order granting 14 letter motion withdrawal of counsel; request granted; signed by Judge Crotty on 10/12/2017 
-| Oct 31, 2017 | Pretrial conference scheduled to go forward on 10/31/17 rescheduled to 11/02/17 @ 11:00 AM before Judge Crotty
-| Nov 02, 2017 | Pretrial Conference scheduled to go forward on 11/02/17 rescheduled to 11/08/17 @ 11:30 AM before Judge Crotty
-| Nov 07, 2017 | Memo endorsement addressed to Judge Crotty from Alex Spiro dated 10/11/17 re: Withdrawal of Counsel; so ordered 
-| Nov 08, 2017 | Defense moves for change in bail conditions; court denies; status conference set for 12/14/17 at 3:30 PM
+| Sep 15, 2016 | Schulte released on bail bit.ly/2Rf9D1e
+| Nov 08, 2017 | Defense moves for change in bail conditions; court denies
+| Nov 08, 2017 | Defense asks for time to review 15TB of evidence; judge denies Schulte request to access email device bit.ly/2RanDt8
 | Nov 16, 2017 | Accesses Tor network [see: Jun 20, 2018 Emptywheel]
 | Nov 17, 2017 | Accesses Tor network [see: Jun 20, 2018 Emptywheel]
 | Nov 26, 2017 | Accesses Tor network [see: Jun 20, 2018 Emptywheel]
-| Nov 29, 2017 | Notice of filing of 11/8/17 official transcript; entered 11/29/2017
-| Nov 29, 2017 | Transcript of proceedings re: conference held on 11/8/17 before Judge Crotty; entered 11/29/2017 bit.ly/2BkOg3G
 | Nov 30, 2017 | Accesses Tor network [see: Jun 20, 2018 Emptywheel]
-| Dec 05, 2017 | Attorney update; Attorney Kenneth Francis Smith terminated
-| Dec 05, 2017 | Endorsed letter to Judge Crotty from Attorney Kenneth F. Smith re: withdrawal as co-counsel; request granted
-| Dec 05, 2017 | Notice of Attorney appearance; Jacob Kaplan appearing; retained
-| Dec 05, 2017 | Letter motion addressed to Judge Crotty from Kenneth F. Smith re: withdrawal as counsel bit.ly/2A4Tcdc
 | Dec 05, 2017 | Accesses Tor network [see: Jun 20, 2018 Emptywheel]
-| Dec 05, 2017 | Arrested by NYPD on this day? Charged with sexual assault [see: Jun 20, 2018 Emptywheel]
+| Dec 07, 2017 | Schulte arrested; charged with sexual assault bit.ly/2RzKPAv
 | Dec 07, 2017 | Letter motion addressed to Judge Crotty from Matthew Laroche re: notion for detention bit.ly/2S6XS9p, bit.ly/2C3LrFY
 | Dec 14, 2017 | Defendant consents to being detained without prejudice; conference set for 1/4/18
 | Dec 14, 2017 | Bail revoked; defendant remanded to custody of U.S. Marshal bit.ly/2UPZqXi
