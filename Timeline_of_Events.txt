@@ -1229,7 +1229,7 @@
 | Oct 01, 2015 | Jill McCabe's State Senate campaign recieves $150k from Common Good VA, an organization linked to Terry McAuliffe archive.vn/MXzpT
 | Oct 03, 2015 | RT.com: "Blowback: Secret Service knew about leaked info used to smear congressman" archive.is/YaH33
 | Oct 03, 2015 | FBI seizes the Platte River Networks server as well as the "Pagliano" server, which were used to host Clinton email services bit.ly/2RbJ2C7
-| Oct 05, 2015 | FBI's Strzok sends letter to Datto, Inc. demanding the newly discovered backup server be turned over bit.ly/2RzE1CO
+| Oct 05, 2015 | Senator Ron Johnson sends letter to Datto, Inc. demanding the newly discovered backup server be turned over bit.ly/2RzE1CO
 | Oct 06, 2015 | McClatchy: "Unbeknownst to Clinton, IT firm had emails stored on cloud; now in FBI’s hands" by Greg Gordon and Anita Kumar archive.vn/CrNgI
 | Oct 06, 2015 | Washington Examiner: "Clinton's tech firm worried about being dragged into cover-up" archive.vn/50cfd
 | Oct 08, 2015 | Yahoo: "Benghazi committee, under fire, releases more Clinton emails" by Michael Isikoff. The headline really buries the lede. The article reveals that Sidney Blumenthal included the name of an undercover CIA officer in an email sent Hillary Clinton's private server, then Clinton forwarded it to a collegue 
@@ -1289,7 +1289,8 @@
 | Dec 07, 2015 | Mother Jones: "President Obama’s Terrorism Problem" by David Corn archive.vn/1IJit
 | Dec 07, 2015 | @JebBush: "Donald Trump is unhinged. His "policy" proposals are not serious."
 | Dec 08, 2015 | @JebBush: "Maybe Donald negotiated a deal with his buddy @HillaryClinton. Continuing this path will put her in the White House."
-| Dec 09, 2015 | James Wolfe emails "REPORTER #1" (Ellen Nakashima) "Nice meeting you." to which the rpeorter replied "Very nice meeting you! Enjoyed the chat."
+| Dec 08, 2015 | Ben Carson announces George Papadopoulos as a member of his National Security & Foreign Policy advisory team archive.ph/6YKy9
+| Dec 09, 2015 | James Wolfe emails "REPORTER #1" (Ellen Nakashima) "Nice meeting you." to which the reporter replied "Very nice meeting you! Enjoyed the chat."
 | Dec 09, 2015 | Comey testifies to Senate Judiciary Committee regarding oversight bit.ly/2BfwYVQ
 | Dec 10, 2015 | ABC: "Memory Lapse? Trump Seeks Distance From 'Advisor' With Past Ties to Mafia" Brian Ross special report linking Trump to Sater
 | Dec 10, 2015 | Gen. Flynn photographed seated next to Putin for Russia Today's 10th anniversary
@@ -1312,6 +1313,7 @@
 | Dec 18, 2015 | Politico article about Trump's comments about Putin; by Benjamin Oreskes bit.ly/2T5O6oj
 | Dec 18, 2015 | Mother Jones: "Pete Seeger’s FBI File Reveals How the Folk Legend First Became a Target of the Feds" by David Corn, Ironic, long article about how pete seeger was unfairly targeted by the FBI for communist sympathies
 | Dec 19, 2015 | Pro-Kasich ad runs which mentions Trump Putin "bromance" "Make Tyranny Great Again"
+| Dec 19, 2015 | Date of DNC oppo research document on Donald Trump.  This document was leaked by Guccifer 2.0 on June 15, 2016
 | Dec 19, 2015 | To facilitate a trip to Russia, Sater asks Cohen to provide information about his and Trump’s passports. A contact in Russia, Evgeny Shmykov (who Sater later testifies once worked for Russian intelligence), needs the information to facilitate getting visas through VTB. Cohen sends photos of information from his own passport but not Trump’s
 | Dec 22, 2015 | BBC: "Panama orders arrest of ex-leader Ricardo Martinelli" archive.is/lAJXc
 | Dec 22, 2015 | Fox News: "Cyprus Central Bank revokes license of FBME Bank branch, bank to mount legal challenge" archive.is/6czN5
@@ -1355,6 +1357,8 @@
 | Jan 16, 2016 | NYT: "What Donald Trump’s Plaza Deal Reveals About His White House Bid" (Tom Barrack mention) archive.is/G7w5e
 | Jan 16, 2016 | Cohen again emails Peskov’s office, asking to speak with someone who speaks English
 | Jan 17, 2016 | CNN: "U.S. to pay Iran $1.7 billion in legal settlement" archive.is/Cmi2C
+| Jan 19, 2016 | Goldstone emails DJT Jr. cc'g Rhona Graff.  Goldstone pitches some sort of page on VK, the Russian Facebook [see: Sep 7, 2017, Page 131 of Don Jr. transcript]
+| Jan 19, 2016 | Maria Butina and Alexander Torshin discuss 2016 National Prayer Breakfast.  Torshin has authorization from Ministry of Foreign Affairs to attend [see: Jul 14, 2018 Butina Affadavit]
 | Jan 19, 2016 | Fox: "Inspector General: Clinton emails had intel from most secretive, classified programs" byline Catherine Herridge, Pamela Browne archive.is/AL1gx
 | Jan 20, 2016 | Bloomberg: "What Kind of Man Spends Millions to Elect Ted Cruz" by Zachary Mider, about Robert Mercer
 | Jan 20, 2016 | Cohen and Peskov’s assistant (identified as “Assistant 1” in the statement of offense) speak on the phone for 20 minutes. From the statement of offense: “COHEN described his position at the Company and outlined the proposed Moscow Project, including the Russian development company with which the Company had partnered. COHEN requested assistance in moving the project forward, both in securing land to build the proposed tower and financing the construction. Assistant 1 asked detailed questions and took notes, stating that she would follow up with others in Russia.” Allegedly they discuss the prospect of giving the penthouse property, valued at $50 million, as a gift to Putin.
@@ -1377,6 +1381,7 @@
 | Jan 31, 2016 | NYPost: "'This was all planned': Former IG says Hillary, State Dept. are lying" by Paul Sperry archive.is/n11Nh
 | Feb ??, 2016 | UK and Australia target Papadopoulos and other Trump campaign members [see: Oct 7, 2018 @GeorgePapa19]
 | Feb ??, 2016 | FBI gives a presentation of findings about the Clinton Foundation to the DOJ. Apparently the DOJ does not like it at all. Really icy towards moving forward with anything. "That was one of the weirdest meetings I've ever been to" one participant told others.
+| Feb ??, 2016 | John Giacalone retires from the FBI
 | Feb 01, 2016 | DEA: "DEA And European Authorities Uncover Massive Hizballah Drug And Money Laundering Scheme" archive.is/iZeEY
 | Feb 01, 2016 | McCabe's first day as FBI Deputy Director [see: Jan 29, 2016 FBI.gov]
 | Feb 01, 2016 | Iowa Primary, Cruz wins but Trump is 2nd place
@@ -1390,6 +1395,7 @@
 | Feb 03, 2016 | USA Today: "Rand Paul ends presidential bid" archive.is/m9SHK
 | Feb 03, 2016 | Vox: "Rick Santorum’s presidential campaign ends in a whimper" archive.is/A1cU7
 | Feb 04, 2016 | Yahoo: "Family of murdered ISIS hostage Kayla Mueller speaks out" by Michael Isikoff
+| Feb 04, 2016 | Maria Butina and Alexander Torshin attend National Prayer Breakfast [see: Jul 14, 2018 Butina Affadavit]
 | Feb 04, 2016 | Email mentions dinner plans among Rinat Akhmetshin, Glenn Simpson, and NV
 | Feb 05, 2016 | Strzok: "Work, but not for here. Agency F’ed uo big. Will get to Andy, prob Mon. Not telling you in that capacity, want to vent as a friend. Better to talk around it"
 | Feb 06, 2016 | Page: "[Andy] sent me his gmail, and said 'Don't send me anything classified, especially TS/SAP." archive.is/yC9Pn
@@ -1488,6 +1494,7 @@
 | Mar 10, 2016 | Bruce Ohr twice visits the White House archive.is/f4v2t
 | Mar 10, 2016 | First phishing attempts made against the Clinton Campaign, all but one bounce back unopened
 | Mar 10, 2016 | Twelveth GOP primary debate, sponsored by CNN, held in Miami, FL
+| Mar 10, 2016 | Maria Butina and two U.S. persons exchange emails regarding effort to arrange "friendship and dialogue" dinners [see: Jul 14, 2018 Butina Affadavit]
 | Mar ??, 2016 | "Early" March, Fusion GPS approaches Perkins Coie and expressed interest in starting a contract regarding Trump research
 | Mar ??, 2016 | The FBI receives a batch of hacked documents from US intelligence agencies that had access to stolen emails stored on Russian networks. One of the intercepted documents revealed an alleged email from then-DNC Chairwoman Wasserman Schultz to to an operative working for billionaire Democratic fundraiser George Soros. It claimed Lynch had assured the Clinton campaign that investigators and prosecutors would go easy on Hillary. Lynch allegedly made the promise directly to Clinton political director Amanda Renteria
 | Mar 11, 2016 | Former CIA Deputy Director Morell emails Podesta; they agree to meet next day at John's house @ 10am bit.ly/2ERVmkH
@@ -1496,6 +1503,7 @@
 | Mar 11, 2016 | Buryakov guilty plea bit.ly/1RWTYuf, bit.ly/2AvErAG
 | Mar 12, 2016 | Miami Herald article about about Trump, Bayrock, Sater, Tevfik Arif; by Michael Sallah archive.is/Ljmig
 | Mar 13, 2016 | truepundit.com domain is registered archive.is/mBHjn
+| Mar 14, 2016 | Maria Butina emails US Person  to confirm that a Russian Official confirmed "his desire in our Russian-American project" [see: Jul 14, 2018 Butina Affadavit]
 | Mar 14, 2016 | Brennan flies to Moscow; flight not disclosed until Apr 2018; he visits the Director of FSB; it's possible he visits another official as well; does not visit the Foreign Ministry bit.ly/2RZhg8d [see: Mar 28, 2016 themoscowtimes.com]
 | Mar 14, 2016 | Yahoo: "Trump campaign violence goes back a long way" by Michael Isikoff about a fight between a demonstrator and Trump's bodyguard, Keith Schiller bit.ly/2BlV1m8
 | Mar 14, 2016 | Papadopoulos meets Joseph Mifsud in Italy at LINK Campus, Misfus promises contacts with Russian officials [see: Oct 5, 2017 Papadopoulos Statement of Offense]
@@ -1540,6 +1548,7 @@
 | Mar 29, 2016 | Strzok texts Lisa Page about an article explaining Combetta's use of BleachBit
 | Mar 30, 2016 | Alexandra Chalupa becomes hot topic after Manafort research pays off. She briefs Democratic National Committee (DNC) staff on Russia ties to Paul Manafort and Trump. With “DNC’s encouragement,” Chalupa asks Ukrainian embassy to arrange meeting with Ukrainian President Petro Poroshenko to discuss Manafort’s lobbying for Ukraine’s former president Viktor Yanukovych. The embassy declines to arrange meeting but becomes “helpful” in trading info and leads archive.is/EHQFd
 | Mar 30, 2016 | Flynn on Morning Joe
+| Mar 30, 2016 | Maria Butina thanks associate of National Prayer Breakfast organizer and suggests that Putin may attend 2017 National Prayer Breakfast [see: Jul 14, 2018 Butina Affadavit] 
 | Mar 30, 2016 | Politico: "Tip Sheets: Etsy registers" which has first mention of Sberbank hiring Podesta Group archive.is/ANo1b
 | Mar 30, 2016 | Bloomberg: "Trump’s New Russia Adviser Has Deep Ties to Kremlin’s Gazprom" about Carter Page. Based on interview the previous week, probably reached out right after Page was named in WaPo interview archive.is/nb8tB
 | Mar 31, 2016 | Trump meets in Washington D.C. with his foreign policy advisers. A picture of the meeting tweeted by Trump shows Jeff Sessions, George Papadopoulos, J.D. Gordon and others
@@ -2152,6 +2161,7 @@
 | Sep 15, 2016 | Long Term Strategy Group exercises a $240,815 Option
 | Sep 15, 2016 | Halper and Papadopolous meet at the Travellers Club, again with Azra Turk, Azra is said to have flirted with Pdop
 | Sep 15, 2016 | Isikoff leaves voicemail for Carter Page, asking for a call back, leaves similar voicemail on September 22
+| Sep 16, 2016 | Maria Butina arranges second "friendship and dialogue" dinner in DC with Paul Erickson and U.S. Person 2 [see: Jul 14, 2018 Butina Affadavit]
 | Sep 16, 2016 | Stone says on Boston Herald Radio that he expects Assange the WikiLeaks to "drop a payload of new documents on a weekly basis fairly soon. And that of course will answer the question of exactly what was erased on that email server." Stone adds of Assange, "I am in touch with him through an intermediary."
 | Sep 16, 2016 | WaPo: "Donor to Clinton Foundation, McAuliffe caught up in Chinese cash-for-votes scandal" (Wenliang) archive.is/LHWRo
 | Sep 16, 2016 | Steele texts Bruce Ohr, says he will be back in town "on business of mutual interest"
@@ -2225,7 +2235,9 @@
 | Oct 03, 2016 | Steele back in London
 | Oct 04, 2016 | FBI discovers +700k emails on Weiner laptop, also all HRC emails from 2006-2016 [see: Jun 22, 2018 Daily Caller]
 | Oct 04, 2016 | Second presidential debate
+| Oct 04, 2016 | A US Person working with Maria Butina sends an email to an acquaintence that he is working on a backdoor communications channel from Kremlin to GOP through NRA [see: Jul 14, 2018 Butina Affadavit]
 | Oct 04, 2016 | Guccifer 2.0 releases DCCC documents and falsely advertises them as Clinton Foundation documents
+| Oct 05, 2016 | Butina and Torshin exchange many Twitter direct messages [see: Jul 14, 2018 Butina Affadavit]
 | Oct 05, 2016 | Wordpress page first published showing links between Russian server and Trump tower
 | Oct 06, 2016 | WaPo hosts Cybersecurity Summit, attended by Lisa Monaco, Ellen Nakashima, and DNC's Michael Sussmann
 | Oct 06, 2016 | WaPo: "Trump personally lobbied Congress to give real estate developers bigger tax breaks" archive.is/7AjuE
