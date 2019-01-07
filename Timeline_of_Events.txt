@@ -1449,6 +1449,7 @@
 | Feb 28, 2016 | Business Insider: "A prominent US senator just threw his support to Donald Trump" archive.is/ugpnz
 | Feb 28, 2016 | CNN: "Sen. Jeff Sessions endorses Donald Trump" archive.is/CDHzH
 | Feb 28, 2016 | Cruz on Meet the Press, mentions possible Trump mob ties. Says that's why he won’t release his taxes.
+| Feb 29, 2016 | RSA information security conference held in San Francisco.  Speakers include CrowdStrike's Dmitri Alperovitch, DOJ's John Carlin, A.G. Loretta Lynch, and CrowdStrike's Shawn Henry. Runs through Mar 4th archive.ph/aXkXG
 | Feb 29, 2016 | Manafort writes a letter to the Trump campaign bit.ly/2F8JECg
 | Feb 29, 2016 | Postmark for letter Aras Agalarov sends to Trump which says "Alongside with many people in this country who appreciated your statement the US and Russia should work together more closely, all of us at Crocus Group follow with great interest you bright electoral campaign.” [see: Sep 7, 2017 Don Jr. transcript and exhibits]
 | Feb 29, 2016 | OCCRP: "Kazakh Oligarch’s Fugitive Brother-in-Law Granted EU Refugee Status" (Syrym Shalabayev) archive.is/ZIsDb
@@ -1466,7 +1467,7 @@
 | Mar 02, 2016 | War on the Rocks: "Open letter on Donald Trump from GOP national security leaders" bit.ly/2PJQDCE
 | Mar 02, 2016 | @dcexaminer: "Ben Carson plans to exit 2016 race" archive.is/pr9rm
 | Mar 02, 2016 | Strzok attends a MYE briefing archive.is/6OHb0
-| Mar 02, 2016 | Carter Page speaks with FBI/SDNY prosecutors bit.ly/2EHsBWN
+| Mar 02, 2016 | Carter Page speaks with FBI/SDNY prosecutors archive.ph/j5CqF
 | Mar 02, 2016 | @McFaul: "Flynn is advising Trump. Trump could be president. If Flynn is taking money from Russian govt., I want to know" bit.ly/2rEBWa5
 | Mar 03, 2016 | Eleventh GOP primary debate, sponsored by FOX, held in Detroit, MI
 | Mar 03, 2016 | Obama executive order extends Russia sanctions for another year
@@ -1484,9 +1485,9 @@
 | Mar 07, 2016 | John Giacalone joins Hilton Worldwide as the Vice President of Global Security and Safety bit.ly/2EnRRRK
 | Mar 08, 2016 | Joint Unclassified Statement Before the Committee on the Judiciary United States Senate at a Briefing on the FISA Amendments Act archive.is/LQeWW
 | Mar 08, 2016 | Politico: "Loretta Lynch bows out of Supreme Court running" archive.is/OTwCn
-| Mar 08, 2016 | Mifsud invited to World Summit on Uncontrolled Migration in Adelaide, Australia archive.is/8Hwlh
+| Mar 08, 2016 | Mifsud invited to World Summit on Uncontrolled Migration in Adelaide, Australia archive.is/8Hwlh, archive.ph/4SJr3
 | Mar 09, 2016 | FBI receives unknown classified from confidential human source (Buryakov?) archive.is/UM1A0
-| Mar 09, 2016 | DOJ oversight personnel discover they had disclosed raw FISA information to private contractors
+| Mar 09, 2016 | DOJ oversight personnel discover they had disclosed raw FISA information to private contractors archive.ph/KsH6a
 | Mar 09, 2016 | "need to try to fix a HUGE who f-up"
 | Mar 09, 2016 | Daily Beast: "Trump Embraces Ex-Top Obama Intel Official" (Flynn) archive.is/fI0HX
 | Mar 09, 2016 | Politico: "Lynch suggests White House 'stay silent' on Hillary Clinton email probe" archive.is/Lzrz9
@@ -1494,7 +1495,6 @@
 | Mar 09, 2016 | Buryakov, his lawyers, and federal prosecutors sign a plea agreement bit.ly/2GXpsVw
 | Mar 10, 2016 | Judge Berman notified in the afternoon that Buryakov is likely to proceed with a plea agreement bit.ly/2CRvbs5
 | Mar 10, 2016 | Bruce Ohr twice visits the White House archive.is/f4v2t
-| Mar 10, 2016 | First phishing attempts made against the Clinton Campaign, all but one bounce back unopened
 | Mar 10, 2016 | Twelveth GOP primary debate, sponsored by CNN, held in Miami, FL
 | Mar 10, 2016 | Maria Butina and two U.S. persons exchange emails regarding effort to arrange "friendship and dialogue" dinners [see: Jul 14, 2018 Butina Affadavit]
 | Mar ??, 2016 | "Early" March, Fusion GPS approaches Perkins Coie and expressed interest in starting a contract regarding Trump research
@@ -1503,6 +1503,7 @@
 | Mar 11, 2016 | Second round of phishing attempts, this time to senior Clinton officials
 | Mar 11, 2016 | Michelle Fields files charges against Corey Lewandowski
 | Mar 11, 2016 | Buryakov guilty plea bit.ly/1RWTYuf, bit.ly/2AvErAG
+| Mar 12, 2016 | Former CIA Director Michael Morell & John Podesta agree to meet in person at Podesta's house
 | Mar 12, 2016 | Miami Herald article about about Trump, Bayrock, Sater, Tevfik Arif; by Michael Sallah archive.is/Ljmig
 | Mar 13, 2016 | truepundit.com domain is registered archive.is/mBHjn
 | Mar 14, 2016 | Maria Butina emails US Person  to confirm that a Russian Official confirmed "his desire in our Russian-American project" [see: Jul 14, 2018 Butina Affadavit]
@@ -1513,7 +1514,7 @@
 | Mar 14, 2016 | "On or about Mar 14, 2016 and Apr 28, 2016, the Conspirtors used the same pool of bitcoin funds to purchase a virtual private network ("VPN") account and to lease a server in Malaysia." [see: Jul 13, 2018 Mueller indictment]
 | Mar 15, 2016 | Rubio suspends campaign after losing Florida
 | Mar 15, 2016 | Manafort begins to have ties with Trump campaign
-| Mar 15, 2016 | Bloomberg: "Trump’s Long Romance With Russia" by Josh Rogin; Agalarovs, Miss Universe Moscow bloom.bg/2BnhZZT
+| Mar 15, 2016 | Bloomberg: "Trump’s Long Romance With Russia" by Josh Rogin; Agalarovs, Miss Universe Moscow archive.ph/hYmfZ
 | Mar 15, 2016 | "On or about March 15, 2016, YERMAKOV ran a technical query for the DNC's internet protocol configurations to identify connected devices. On or about the same day, YERMAKOV searched for open-source information about the DNC network, the Democratic Party, and Hillary Clinton" [see: Jul 13, 2018 Mueller indictment]
 | Mar 16, 2016 | Bruce Ohr emails NYT's Peter Carr; he denies that the now-deceased Mikhail Lesin had reached out to him earlier archive.is/PUAmF
 | Mar 16, 2016 | Strzok: "Just waiting for Baker, then done", Lisa Page: "Our guy is talking..." 
@@ -2278,6 +2279,7 @@
 | Oct 14, 2016 | Melissa Hodgman-Strzok is promoted to Associate Director in the SEC's Enfocement Division
 | Oct ??, 2016 | Steele meets with several reporters again in mid-October
 | Oct 15, 2016 | John P. Carlin resigns
+| Oct 15, 2016 | Buzzfeed: "Meet Fancy Bear, The Russian Group Hacking The US Election" archive.ph/X1jfb
 | Oct 15, 2016 | FISA granted for "Any US person" connected to Alfa Bank or SVB (close w/Sberbank) bit.ly/2LwC1pB, bit.ly/2Ac5May 
 | Oct 16, 2016 | Assange's internet is severed; he blames John Kerry
 | Oct 17, 2016 | British bank, NatWest, a subsidiary of the Royal Bank of Scotland, drops Russian Today as a client bit.ly/2GMu00O
