@@ -122,6 +122,7 @@
 | Aug 13, 2002 | FBI's National Counterintelligence Strategy announced [see: Apr 14, 2004 Report, page 10]
 | Oct ??, 2002 | IC releases National Intelligence Estimate; asserts Iraq possesses WMD; Brennan is deputy exec director of CIA
 | Nov 01, 2002 | FBI Fisa unit created [see: Apr 14, 2004 Report, page 10]
+| Nov 05, 2002 | Devin Nunes first elected to US House of Representatives, defeating David LaPere http://www.washingtonpost.com/wp-srv/onpolitics/elections/2002/cq_houseroundup2002.htm#cal
 | Nov 06, 2002 | Special Technologies and Applications Section created as part of Cyber Division [see: Apr 14, 2004 Report, page 10]
 | Nov ??, 2002 | Sater offers a job to Jodi Kriss at Bayrock Group; mentions new investor, Arif Tevfik [see: Jun 21, 2017 Bloomberg]
 | Dec 04, 2002 | FBI Communications Exploitation Section (CXS) created [see: Apr 14, 2004 Report, page 10]
@@ -1015,6 +1016,7 @@
 | Oct 31, 2014 | Vadim Mikerin charged, alongside Daren and Carol Condrey, and Boris Rubizhevsky archive.fo/l5cbH
 | ??? ??, 2014 | 500 million Yahoo accounts hacked sometime late 2014
 | Nov 11, 2014 | Tad Devine signs on to work with Bernie Sanders on potential 2016 run archive.is/HljTr
+| Nov 19, 2014 | Devin Nunes appointed HPSCI Chairman by Speaker Boehner. Succeeds Mike Rogers https://nunes.house.gov/news/documentsingle.aspx?DocumentID=398246
 | Nov 20, 2014 | NYT: "Timeline on Iran’s Nuclear Program" archive.is/FgURh
 | Nov 21, 2014 | CIM Group wins Trump Soho in bankruptcy auction; Sapir Organization mentioned archive.is/r27Tm
 | Nov 21, 2014 | Sporyshev's last day serving as a trade representative of the Russian Federation in New York bit.ly/2VgOkuP
@@ -1207,6 +1209,7 @@
 | Sep 11, 2015 | The Guardian: "Trump discusses Ukraine and Syria with European politicians via video link" archive.vn/Yf7Tb
 | Sep 11, 2015 | @markknoller: "Pres Obama will be in NYC for three days at the end of the month for the opening of the UN General Assembly session" archive.is/ihrLx
 | Sep 15, 2015 | Page: "Honestly, I thought it was weird that [?] would let you brief clapper before he got a recent update..."
+| Sep 15, 2015 | Spycast podcast released where Vince Houghton interviews Ali Watkins
 | Sep 16, 2015 | Second GOP primary debate, sponsored by CNN, held in Simi Valley, CA
 | Sep 16, 2015 | @guardianworld: "UN General Assembly starts today." archive.is/Ojd2G
 | Sep 17, 2015 | Sixty day congressional review period ends, the JCPOA goes into effect
@@ -1961,7 +1964,7 @@
 | Jul 28, 2016 | Trump has two campaign stops in Iowa
 | Jul 28, 2016 | Politico: "Trump and the Oligarch" by Michael Crowley, about Dimitry Rybolovev archive.is/LP6s9
 | Jul 28, 2016 | Yahoo: "FBI warned Clinton campaign last spring of cyberattack" by Michael Isikoff
-| Jul 29, 2016 | Morning, Steele wites to Bruce Ohr saying he will be in DV at short notice on business and if Bruce and Nellie were free for breakfast. Bruce says yes and they agree to meet [see: Aug 8, 2018 Washington Examiner]
+| Jul 29, 2016 | Morning, Steele wites to Bruce Ohr saying he will be in DC at short notice on business and if Bruce and Nellie were free for breakfast. Bruce says yes and they agree to meet [see: Aug 8, 2018 Washington Examiner]
 | Jul 29, 2016 | First payment to Cambridge Analytica by Trump campaign [see: Nov 10, 2017 WSJ]
 | Jul 29, 2016 | WaPo: "Russias DNC hack: a prelude to intervention in November?" by David Ignatius
 | Jul 29, 2016 | Kilimnik: "I met today with the guy who gave you your biggest black caviar jar several years ago”, Kilimnik says he talked with Deripaska for about five hours [see: Jul 17, 2017 WSJ]
@@ -2043,7 +2046,8 @@
 | Aug 11, 2016 | Clapper visits Estonia
 | Aug 11, 2016 | Kian emails Alptekin; he and Flynn discussed campaign design, resources; mentions 20% kickbacks archive.fo/8QWud
 | Aug 11, 2016 | Kian and Alptekin's "Truth Campaign" changed to "Project Confidence"; Turkish govt funding concealed archive.fo/i7jkq
-| Aug 11, 2016 | Brennan briefs Reid, McConnell, Feinstein, Burr, Ryan, Pelosi, Nunes, and Schiff wrt Russian hacking attempts
+| Aug 11, 2016 | Brennan briefs Reid, McConnell, Feinstein, Burr, Ryan, Pelosi, Nunes, and Schiff (Gang of Eight) wrt "the full details of our understanding of Russian attempts to interfere in the election". Briefings are spread out through September 6th. He "provided the same briefing to each (person)" 
+| Aug 26, 2016 | In an interview with Breitbart Radio, Stone says, "I'm almost confident Mr. Assange has virtually every one of the emails that the Clinton henchwomen, Huma Abedin and Cheryl Mills, thought that they had deleted, and I suspect that he's going to drop them at strategic times in the run up to this race."
 | Aug 12, 2016 | @balkanewz: "Ivanka Trump, daughter of US presidential candidate, cruises into #Croatia's Dubrovnik with Kushner" archive.is/UMMOZ
 | Aug 12, 2016 | Matthew Axelrod calls McCabe, says NY FBI agents disregarding instructions on MYE [see: Nov 2, 2016 WSJ]
 | Aug 12, 2016 | McCabe: "Are you telling me that I need to shut down a validly predicated investigation?" [see: Nov 2, 2016 WSJ]
@@ -2096,8 +2100,7 @@
 | Aug 24, 2016 | Clapper and Brennan attend Presidential Daily Briefs Symposium at Nixon Library
 | Aug 24, 2016 | NYT reports it's Moscow bureau was unsuccessfully hacked
 | Aug 24, 2016 | Miami Herald: "Colombian official who fled corruption trial arrested in Weston" (Andres Felipes Arias, South Florida) archive.is/RWlML
-| Aug 25, 2016 | Brennan briefs Harry Reid personally, tells Reid to direct pressure towards FBI. Brennan: "Through the so-called Gang-of-Eight process we kept congress apprised of these issues as we identified them. Again, in consultation with the White House, I personally briefed the full details of our understanding of Russian attempts to interfere in the election to congressional leadership. Specifically, Senators Harry Reid, Mitch McConnell, Dianne Feinstein and Richard Burr and to representatives Paul Ryan, Nancy Pelosi, Devin Nunes and Adam Schiff between 11th August and 6th September. I provided the same briefing to each of the gang of eight members."
-| Aug 26, 2016 | In an interview with Breitbart Radio, Stone says, "I'm almost confident Mr. Assange has virtually every one of the emails that the Clinton henchwomen, Huma Abedin and Cheryl Mills, thought that they had deleted, and I suspect that he's going to drop them at strategic times in the run up to this race."
+| Aug 25, 2016 | Brennan briefs Harry Reid, tells Reid to direct pressure towards FBI
 | Aug 26, 2016 | Politico: "Trump’s mob-linked ex-associate gives $5,400 to campaign"
 | Aug 26, 2016 | Rebecca Mercer emails Alexander Nix, asks if he can help organize WikiLeaks emails [see: Oct 27, 2017 WSJ]
 | Aug 27, 2016 | Hacking tools and instructions on how to use it seized during raid on Harold T. Martin’s house [see: Oct 19, 2016 NYT]
@@ -2227,7 +2230,6 @@
 | Oct ??, 2016 | Steele debriefed by FBI, hands over Cody Shearer memo
 | Oct ??, 2016 | Kerry aides produce "action memo", includes relatiatory measures against Russia, not published till election night
 | Oct ??, 2016 | Successful FISA on a server in Trump Tower, suspected of comms with two Russian banks [see: Nov 7, 2016 Heat Street]
-| Oct ??, 2016 | James Wolfe messages a reporter (not Watkins; likely not Sotomayor; probably Nakashima or Jarrett) sometime Oct 2017, offers to be an unnamed source; unknown if offer accepted) [see: Jun 7, 2018]
 | Oct 01, 2016 | @StoneColdRoger: "Wednesday @HillaryClinton is done. #Wikileaks."
 | Oct 01, 2016 | At the FBIs request, Steele meets with "four FBI officials" in Rome, one of them from Washington, and offers a full debriefing on his information. It was in Rome presumably because of Mike Gaeta. FBI tells Steele about the human source in the Trump campaign, and that FBI was specifically looking at Papadopoulos
 | Oct 01, 2016 | NYT: "Pages From Donald Trump’s 1995 Income Tax Records" archive.is/Sdb4M
@@ -3754,7 +3756,7 @@
 | Feb 13, 2018 | FinCEN Names ABLV Bank of Latvia an Institution of Primary Money Laundering Concern archive.is/yVFhh
 | Feb 14, 2018 | Judge Sullivan asserts Brady Rule, orders Mueller to submit exculpatory evidence on Gen. Flynn
 | Feb 14, 2018 | The Hill: "Rice’s odd memo: Did Obama withhold intel from Trump?" archive.is/bAmOz
-| Feb 14, 2018 | Ali Watkins has dinner with a "Washington national security veteran" (not Wolfe; Dan Jones?) who surprises her with chocolates [see: Jun 24, 2018]
+| Feb 14, 2018 | Ali Watkins has dinner with a "Washington national security veteran" (not Wolfe; Dan Jones?) who surprises her with chocolates [see: Jun 24, 2018 NYT]
 | Feb 15, 2018 | In an email to colleagues, Ali Watkins says, "from an old source who somehow thought it wouldn’t be creepy to bring [chocolates] to a dinner, stupidly and unintentionally scheduled on valentine’s day" [see: Jun 24, 2018 NYT]
 | Feb 16, 2018 | WSJ: "Latvian Bank Pushes Back Against U.S. Allegations" archive.is/8XR4i
 | Feb 16, 2018 | HPSCI letter to Stephen Boyd at DOJ asking for relevant FISA court transcripts
@@ -3960,7 +3962,7 @@
 | Jun 22, 2018 | Daily Caller: "The FBI deliberately ignored 'golden emails,' crucial Abedin messages and more" archive.fo/enEqx
 | Jun 22, 2018 | WaPo: "Former CIA officer accused of selling top secret information to China" (Kevin Patrick Mallory) archive.is/QasUw
 | Jun 22, 2018 | @TomArnold: "Michael Cohen didn't say Me & him were teaming up to take down Trump!" archive.is/IYDe6
-| Jun 24, 2018 | NYT: "How an Affair Between a Reporter and a Security Aide Has Rattled Washington Media" 
+| Jun 24, 2018 | NYT: "How an Affair Between a Reporter and a Security Aide Has Rattled Washington Media" about James Wolfe and Ali Watkins
 | Jun 25, 2018 | @jSolomonReports: "How Comey intervened to kill WikiLeaks' immunity deal" (6:36pm est) archive.is/hTpFI
 | Jun 26, 2018 | RCP: "Here's One Unverified File the Feds Won't Leak: About Loretta Lynch" archive.is/0zVfb
 | Jun 28, 2018 | Rosenstein and Wray testify to the House Judiciary Committee. Rosenstein: "the information that's public about that doesn't match with my understanding of the one that I signed." bit.ly/2zTwl4m
