@@ -1,4 +1,4 @@
-| ??? ??, 1977 | Gennady Vasilenko and Jack Platt meet at a Harlem Globetrotters game in DC [see: The Seven Million Dollar Spy]
+﻿| ??? ??, 1977 | Gennady Vasilenko and Jack Platt meet at a Harlem Globetrotters game in DC [see: The Seven Million Dollar Spy]
 
 | Oct 25, 1978 | The Foreign Intelligence Surveillance Act of 1978 is signed into law by Jimmy Carter
 
@@ -122,7 +122,7 @@
 | Aug 13, 2002 | FBI's National Counterintelligence Strategy announced [see: Apr 14, 2004 Report, page 10]
 | Oct ??, 2002 | IC releases National Intelligence Estimate; asserts Iraq possesses WMD; Brennan is deputy exec director of CIA
 | Nov 01, 2002 | FBI Fisa unit created [see: Apr 14, 2004 Report, page 10]
-| Nov 05, 2002 | Devin Nunes first elected to US House of Representatives, defeating David LaPere http://www.washingtonpost.com/wp-srv/onpolitics/elections/2002/cq_houseroundup2002.htm#cal
+| Nov 05, 2002 | Devin Nunes first elected to US House of Representatives, defeating David LaPere bit.ly/2SDJRAq
 | Nov 06, 2002 | Special Technologies and Applications Section created as part of Cyber Division [see: Apr 14, 2004 Report, page 10]
 | Nov ??, 2002 | Sater offers a job to Jodi Kriss at Bayrock Group; mentions new investor, Arif Tevfik [see: Jun 21, 2017 Bloomberg]
 | Dec 04, 2002 | FBI Communications Exploitation Section (CXS) created [see: Apr 14, 2004 Report, page 10]
@@ -865,7 +865,7 @@
 | May 07, 2013 | Secretary of State Kerry travels to Moscow archive.is/HolCy
 | May 09, 2013 | Carter Page forms Global Natural Gas Ventures LLC archive.is/k9oSD
 | May 13, 2013 | Ryan C. Fogle detained by Russian officals, later declared persona non grata archive.is/LB4AI, archive.is/F1DDd
-| May 15, 2013 | In a conversation with Hugh Hewitt, Devin Nunes makes a comment about DOJ "tapping" the House of Representatives cloakroom. That is later corrected to say DOJ seized phone records http://www.hughhewitt.com/congressman-devin-nunes-previews-ways-and-means-hearing-friday-plus-a-bombshell-on-the-ap-scandal/
+| May 15, 2013 | In a conversation with Hugh Hewitt, Devin Nunes makes a comment about DOJ "tapping" the House of Representatives cloakroom. That is later corrected to say DOJ seized phone records bit.ly/2Rej4OH
 | May 15, 2013 | GSA signs Lease Supplemental for FBI Mission Ridge properties; Tenant Improvement bit.ly/2QsvQZp
 | May 16, 2013 | Manafort instructs his lobbyists to plant false stories in U.S. media on Tymoshenko bit.ly/2CScHrk
 | May 16, 2013 | Member of the Hapsburg Group meets with Obama and Biden in the White House to lobby for Ukraine bit.ly/2LTkR5B
@@ -4343,7 +4343,7 @@
 | Dec 22, 2018 | Brett McGurk, special presidential envoy for the Global Coalition to Defeat ISIS, resigns bit.ly/2GBURwI
 | Dec 22, 2018 | Mysterious foreign company challenging Mueller subpoena under seal files appeal to Supreme Court bit.ly/2Af4tb1
 | Dec 22, 2018 | CNN says mystery foreign company appealling to Supreme Court is involved in Mueller investigation bit.ly/2BA46b5
-| Dec 22, 2018 | NYT on cybersecurity firm New Knowledge; ran botnet against Roy Moore; wrote SSCI report http://archive.is/Amc3y
+| Dec 22, 2018 | NYT on cybersecurity firm New Knowledge; ran botnet against Roy Moore; wrote SSCI report archive.is/Amc3y
 | Dec 22, 2018 | WikiLeaks hints it's an open secret in DC that Mattis has been angling to run for president 2020 bit.ly/2rPRaJz
 | Dec 25, 2018 | USGS identifies largest continuous oil and gas resource potential ever assessed; NM, TX on.doi.gov/2AV1MuH
 | Dec 26, 2018 | Carter Page files response in opposition to DNC bit.ly/2ER5pq7
