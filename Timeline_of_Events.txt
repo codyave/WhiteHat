@@ -1,4 +1,4 @@
-| ??? ??, 1977 | Gennady Vasilenko and Jack Platt meet at a Harlem Globetrotters game in DC [see: The Seven Million Dollar Spy]
+﻿| ??? ??, 1977 | Gennady Vasilenko and Jack Platt meet at a Harlem Globetrotters game in DC [see: The Seven Million Dollar Spy]
 
 | Oct 25, 1978 | The Foreign Intelligence Surveillance Act of 1978 is signed into law by Jimmy Carter
 
@@ -122,7 +122,7 @@
 | Aug 13, 2002 | FBI's National Counterintelligence Strategy announced [see: Apr 14, 2004 Report, page 10]
 | Oct ??, 2002 | IC releases National Intelligence Estimate; asserts Iraq possesses WMD; Brennan is deputy exec director of CIA
 | Nov 01, 2002 | FBI Fisa unit created [see: Apr 14, 2004 Report, page 10]
-| Nov 05, 2002 | Devin Nunes first elected to US House of Representatives, defeating David LaPere http://www.washingtonpost.com/wp-srv/onpolitics/elections/2002/cq_houseroundup2002.htm#cal
+| Nov 05, 2002 | Devin Nunes first elected to US House of Representatives, defeating David LaPere bit.ly/2SDJRAq
 | Nov 06, 2002 | Special Technologies and Applications Section created as part of Cyber Division [see: Apr 14, 2004 Report, page 10]
 | Nov ??, 2002 | Sater offers a job to Jodi Kriss at Bayrock Group; mentions new investor, Arif Tevfik [see: Jun 21, 2017 Bloomberg]
 | Dec 04, 2002 | FBI Communications Exploitation Section (CXS) created [see: Apr 14, 2004 Report, page 10]
@@ -469,6 +469,7 @@
 | Mar 18, 2010 | Guardian article about Netanyahu; dispute with Obama about settlements archive.is/JRloh
 | Mar 19, 2010 | HRC to meet Putin on nuclear arms treaty archive.is/sNqPf
 | Mar 20, 2010 | WaPo: "Russia's Vladimir Putin bombards Hillary Clinton with complaints about trade" archive.is/AoMYs
+| Mar 21, 2010 | ThinkProgress: "GOP Rep. Nunes Excuses Racist, Homophobic Tea Partier Slurs As A Response To ‘Totalitarian Tactics’" https://thinkprogress.org/gop-rep-nunes-excuses-racist-homophobic-tea-partier-slurs-as-a-response-to-totalitarian-tactics-8125d2420676/
 | Mar 24, 2010 | NYT: "Russia and U.S. Report Breakthrough on Arms" (START I replacement) archive.is/zg569
 | Mar 29, 2010 | Buryakov issued a U.S. visa bit.ly/2F6bfE0
 | Apr ??, 2010 | Third version of Stuxnet appears online sometime April 2010 [see: Mar 2, 2011 Vanity Fair]
@@ -864,6 +865,7 @@
 | May 07, 2013 | Secretary of State Kerry travels to Moscow archive.is/HolCy
 | May 09, 2013 | Carter Page forms Global Natural Gas Ventures LLC archive.is/k9oSD
 | May 13, 2013 | Ryan C. Fogle detained by Russian officals, later declared persona non grata archive.is/LB4AI, archive.is/F1DDd
+| May 15, 2013 | In a conversation with Hugh Hewitt, Devin Nunes makes a comment about DOJ "tapping" the House of Representatives cloakroom. That is later corrected to say DOJ seized phone records bit.ly/2Rej4OH
 | May 15, 2013 | GSA signs Lease Supplemental for FBI Mission Ridge properties; Tenant Improvement bit.ly/2QsvQZp
 | May 16, 2013 | Manafort instructs his lobbyists to plant false stories in U.S. media on Tymoshenko bit.ly/2CScHrk
 | May 16, 2013 | Member of the Hapsburg Group meets with Obama and Biden in the White House to lobby for Ukraine bit.ly/2LTkR5B
@@ -912,6 +914,7 @@
 | Sep 20, 2013 | HuffPost: "N.S.A. Spying on Petrobras Forms Part of Wider U.S. Oil Espionage" archive.is/TMq2H
 | Sep 24, 2013 | Foreign Policy: "Obama’s Favorite General Stripped of His Security Clearance" (Cartwright) archive.is/InTCM
 | Sep 27, 2013 | Netanyahu adviser, Yaakov Amidror, confronts Susan Rice for secretly negotiating with Oman [see: Oct 22, 2015 WSJ]
+| Sep 30, 2013 | Devin Nunes calls members of the GOP "lemmings with suicide vests" for their plans to shut down the government https://thehill.com/blogs/blog-briefing-room/news/325631-gop-rep-calls-members-of-his-party-lemmings-with-suicide-vests
 | Oct 13, 2013 | Mikk Marran nominated to Director General of the Estonian Information Board
 | Oct 14, 2013 | WaPo: "NSA collects millions of e-mail address books globally" archive.is/ANFWF
 | Oct 16, 2013 | Reuters: "U.S. eavesdropping agency chief, top deputy expected to depart soon" archive.is/22jRl
@@ -1032,6 +1035,7 @@
 | Jan ??, 2015 | Paul Manafort purchases an apartment in Trump Tower [see: Apr 26, 2016 WaPo]
 | Jan 09, 2015 | Adam Schiff named as Democratic ranking member of HPSCI achive.is/P1Z42
 | Jan 12, 2015 | BBC: "Ukraine ex-leader Yanukovych wanted by Interpol" archive.is/l3Mmb
+| Jan 12, 2015 | Bloomberf interview with Devin Nunes, he talks about FISA among many other things https://www.bloomberg.com/opinion/articles/2015-01-12/meet-the-congressman-who-will-watch-our-spies?utm_campaign=trueAnthem:+Trending+Content&utm_content=dnndku&utm_medium=trueAnthem&utm_source=twitter#!dnndku
 | Jan 13, 2015 | Nick Merrill states in an email that Maggie Haberman has never let the Clintons down [see: Oct 9, 2016 Intercept]
 | Jan 20, 2015 | cbr.ru: "On appointing Alexander Torshin as State Secretary – Deputy Governor of the Bank of Russia" archive.is/3j8mi
 | Jan 22, 2015 | NYT: "Sheldon Silver, Assembly Speaker, Took Millions in Payoffs, U.S. Says" archive.is/iNVU2
@@ -1128,6 +1132,7 @@
 | Jun 12, 2015 | Grassley letter to Comey about privacy issues of remotely-deployed spyware programs used by U.S. govt bit.ly/2SKMD6B
 | Jun 15, 2015 | CNBC: "Donald Trump announces candidacy for president" Decends the golden escalator
 | Jun 16, 2015 | At a hearing before the House Oversight and Government Reform Committee, OPM Director Katherine Archuleta reveals that Social Security numbers stored by the OPM were not encrypted due to the networks being "too old."
+| Jun 17, 2015 | Devin Nunes sends a letter to all House members that voted for Lofgren Massie Amendment https://www.scribd.com/doc/269070676/Nunes-Clapper-Letter-Re-Massie-Lofgren-June-2015
 | Jun ??, 2015 | After Trump announces his campaign, Roger Stone sets up a meeting between Trump and Flynn almost immediately, in Aug 2015 (did I parse this tweet accurately( archive.is/y3YPq
 | Jun 18, 2015 | @RogerJStoneJr: "@TimNaftali Watched you--you aren't a historian - you are a lying cocksucer. Nixon was a great president, you are a duplicitous little fag" bit.ly/2CgaHZ
 | Jun 19, 2015 | Memo from State OIG Linick and ICIG McCullough to Pat Kennedy of State making four recommendations related to Clinton email investigation [see: Jul 17, 2015 IG Memo]
@@ -1177,6 +1182,7 @@
 | Jul 27, 2015 | Russian intel gained access to DNC netowrk from July 2015 until at least July 2016 [See: Jun 2018 IG report]
 | Jul 28, 2015 | National Review article on Roger Stone bit.ly/2CdBMgb
 | Jul 31, 2015 | NY1 News interview with Roger Stone bit.ly/2S351Ym
+| Jul 31, 2016 | NRO: "House Intel Chair Devin Nunes’s One-Man War on the Pentagon" https://www.nationalreview.com/2015/07/devin-nunes-pentagon-fight-lajes-air-force-base/
 | Jul 31, 2015 | CNN article on Trump's associations to mob figures; article based on a 1992 book by Wayne Barrett bit.ly/2CwNmTB
 | Jul 31, 2015 | Gen. Flynn schedules a meeting with Russian airliner, Volga-Dnepr bit.ly/2rQwocV
 | Aug ??, 2015 | Trump meets with Gen. Flynn sometime Aug 2016; meeting lasts 90min [see: Feb 27, 2017 New Yorker]
@@ -1324,8 +1330,10 @@
 | Dec 23, 2015 | Mother Jones: "Why Donald Trump Loves Vladimir Putin" by David Corn. All about Trump being a narcissist. Nothing about real connections to Russia 
 | Dec 28, 2015 | Page: "You get all our oconus lures approved? ;)"
 | Dec 28, 2015 | Daniel Jones named Senior Vice President and Public Policy Adviser at the Daschle Group archive.is/aUbk9
+| Dec 29, 2015 | WSJ: "U.S. Spy Net on Israel Snares Congress" https://www.wsj.com/articles/u-s-spy-net-on-israel-snares-congress-1451425210
 | Dec 29, 2015 | AIM.org: "Is Trump the new Armand Hammer" Pretty amazing article from Cliff Kincaid linking from and Russia really early on
 | Dec ??, 2015 | GCHQ picks up intelligence about Trump associates connected to Russians (later revealed in 2017 in Guardian)
+| Dec 30, 2015 | HPSCI announces it is looking into reports that the IC collected of communications between Israeli government officials and members of Congress. House Oversight sends a letter to Adm. Rogers later that day requesting documentation on the same subject
 | Dec 30, 2015 | Cohen, angry at the slow pace of progress, emails Sater. "One month plus since the signing of the [letter of intent] that I wasted my time on. I put the others all on hold and still, despite every conversation with you, nothing. … Not you or anyone you know will embarrass me in front of Mr. T when he asks me what is happening." Sater replies that he’d helped bury a story from ABC News in which Trump denied knowing Sater "because I kept my mouth shut for you and your team."
 | Dec 31, 2015 | @JenniferJJacobs: "SCOOP: 2 of Ben Carson's top aides have RESIGNED: campaign manager Barry Bennett and communications director Doug Watts, sources tell me." archive.is/FWISD
 | Dec 31, 2015 | Sater informs Cohen that the new funder will be GenBank, itself subject to sanctions shortly before. He indicates that meetings in Moscow will include Dmitry Peskov, Putin’s press secretary. Cohen responds unfavorably about how things were proceeding. "We’re done. Enough. I told you last week that you thinking you are running point on this is inaccurate. You are putting my job in jeopardy and making me look incompetent. I gave you two months and the best you send me is some ... garbage invite by some no name clerk at a third-tier bank."
@@ -2125,6 +2133,7 @@
 | Sep ??, 2016 | Clovis meets Halper at DoubleTree hotel in Arlington, VA, Halper discusses China, Papadopoulos
 | Sep ??, 2016 | Paul Ahern (Treasury Dept attorney) argues with FinCEN employees citizens private info being illegally searched
 | Sep ??, 2016 | Agents on the Clinton Foundation case, run out of Southern District of New York with assistance from Little Rock, ask EDNY to review laptops from Clinton email case. Clinton investigators say no because of immunity deals
+| Sep ??, 2016 | John Brennan interviewed by CTC https://ctc.usma.edu/a-view-from-the-ct-foxhole-an-interview-with-john-brennan-director-cia/
 | Sep ??, 2016 | Carter Page is in Brussels for four days around Labor Day Weekend bit.ly/2EQ7nqO
 | Sep 01, 2016 | NYT: "Behind China’s Anbang: Empty Offices and Obscure Names" bit.ly/2PCKg3M
 | Sep 01, 2016 | WSJ: "Donald Trump and the Mob" byline Michael Rothfeld and Alexandra Berzon
@@ -2348,6 +2357,7 @@
 | Oct 31, 2016 | FBI leaks confirmation of Trump-Russia investigation to Mother Jones
 | Oct 31, 2016 | Comey and McCabe have face-to-face conversation about 10/30 WSJ article
 | Oct 31, 2016 | Obama admin calls Moscow on a secure line (matter unknown)
+| Oct 31, 2016 | Gowdy on Fox: "Thank God he's leaving, is my initial reaction. My second reaction is, I did not know Mormons used drugs. And anyone who is capable of sending out that press release has to be under the influence of something."
 | Oct 31, 2016 | David Corn publishes an article about a veteran spy's finding on Trump and Russia
 | Oct 31, 2016 | NBC News: "FBI Making Inquiry Into Ex-Trump Campaign Manager's Foreign Ties" byline includes Ken Dilanian
 | Oct 31, 2016 | FT.com: "The shadowy Russian émigré touting Trump: US election raises ghosts of cold war-era spy games" by Catherine Belton, about Sergei Millian
@@ -3720,12 +3730,12 @@
 | Jan 29, 2018 | WaPo: "How a classified four-page Russia memo triggered a political firestorm"
 | Jan 31, 2018 | Feinstein and Schiff letter to Facebook and Twitter asking for more information about Russian interference and specifically aboout the #ReleaseTheMemo hashtag bit.ly/2Rm9PLz
 | Jan 31, 2018 | FBI Statement regarding Nunes Memo: "With regard to the House Intelligence Committee’s memorandum, the FBI was provided a limited opportunity to review this memo the day before the committee voted to release it. As expressed during our initial review, we have grave concerns about material omissions of fact that fundamentally impact the memo’s accuracy." 
-| Jan 31, 2018 | Nunes Statement: "Having stonewalled Congress’ demands for information for nearly a year, it’s no surprise to see the FBI and DOJ issue spurious objections to allowing the American people to see information related to surveillance abuses at these agencies. The FBI is intimately familiar with ‘material omissions’ with respect to their presentations to both Congress and the courts, and they are welcome to make public, to the greatest extent possible, all the information they have on these abuses. Regardless, it’s clear that top officials used unverified information in a court document to fuel a counter-intelligence investigation during an American political campaign. Once the truth gets out, we can begin taking steps to ensure our intelligence agencies and courts are never misused like this again."
+| Jan 31, 2018 | Nunes Statement: "Having stonewalled Congress’ demands for information for nearly a year, it’s no surprise to see the FBI and DOJ issue spurious objections to allowing the American people to see information related to surveillance abuses at these agencies...Once the truth gets out, we can begin taking steps to ensure our intelligence agencies and courts are never misused like this again."
 | Jan 31, 2018 | @RepAdamSchiff: "BREAKING: Discovered late tonight that Chairman Nunes made material changes to the memo he sent to White House – changes not approved by the Committee. White House therefore reviewing a document the Committee has not approved for release."
 | Jan 31, 2018 | Mueller files Status Report to postpone Gen. Flynn sentencing hearing for 90 days (May 1st, 2018)
 | Feb 01, 2018 | Rick Gates tells material lie to Mueller about 3/19/13 DC meeting set up by Manafort & Vin Weber bit.ly/2CRRCNW
 | Feb 01, 2018 | Comey letter to HPSCI declining to testify to committee
-| Feb 01, 2018 | Senate Democrats Press Release: "Schumer’s Demands to Ryan to Rein in House GOP and Remove Rep. Nunes  from House Intelligence Committee Comes In Wake Of Recent Actions Taken By Nunes – Including News That He Changed A Committee-Approved Classified Document Before It Was Sent To The White House – And The Fact That, Under Speaker Ryan’s Leadership, The House GOP Has Not Taken Credible Action To Fully Address Russia’s Meddling In The 2016 U.S. Elections"
+| Feb 01, 2018 | Senate Democrats press release: "Schumer’s demands to Ryan to rein in House GOP and remove Rep. Nunes from House Intelligence Committee comes in wake of recent actions taken By Nunes – including news that he changed a committee-approved classified document before it was sent to the White House – and the fact that, under Speaker Ryan’s leadership, the House GOP has not taken credible action to fully address Russia’s meddling in the 2016 U.S. Elections"
 | Feb 02, 2018 | NYT Op-Ed: "Why I am leaving the FBI" (Josh Campbell) archive.is/p7S6y
 | Feb 02, 2018 | Nunes memo bit.ly/2GI4kOQ
 | Feb 02, 2018 | CNN: "Disputed GOP-Nunes memo released with Trump's approval" archive.is/qsCez
@@ -4333,7 +4343,7 @@
 | Dec 22, 2018 | Brett McGurk, special presidential envoy for the Global Coalition to Defeat ISIS, resigns bit.ly/2GBURwI
 | Dec 22, 2018 | Mysterious foreign company challenging Mueller subpoena under seal files appeal to Supreme Court bit.ly/2Af4tb1
 | Dec 22, 2018 | CNN says mystery foreign company appealling to Supreme Court is involved in Mueller investigation bit.ly/2BA46b5
-| Dec 22, 2018 | NYT on cybersecurity firm New Knowledge; ran botnet against Roy Moore; wrote SSCI report http://archive.is/Amc3y
+| Dec 22, 2018 | NYT on cybersecurity firm New Knowledge; ran botnet against Roy Moore; wrote SSCI report archive.is/Amc3y
 | Dec 22, 2018 | WikiLeaks hints it's an open secret in DC that Mattis has been angling to run for president 2020 bit.ly/2rPRaJz
 | Dec 25, 2018 | USGS identifies largest continuous oil and gas resource potential ever assessed; NM, TX on.doi.gov/2AV1MuH
 | Dec 26, 2018 | Carter Page files response in opposition to DNC bit.ly/2ER5pq7
