@@ -597,6 +597,7 @@
 | Jul 15, 2010 | Shahram Amiri resurfaces in Iran, where he is welcomed by officials and family members [see: Aug 7, 2010 BBC]
 | Jul 15, 2010 | Krebs on Security: "Experts Warn of New Windows Shortcut Flaw" (Stuxnet) archive.is/DEezd
 | Jul 16, 2010 | NYT: "Spy Swap Forced Prosecutors Into Balancing Act" (Bharara) bit.ly/2SOoxIc
+| Jul 18, 2010 | Harold T. Martin creates twitter account "@hal_9999999999" bit.ly/2spC6Tr, bit.ly/2shBZsS
 | Jul 26, 2010 | WSJ: "Putin Sings With Deported Agents" archive.fo/j80EN
 | Aug ??, 2010 | Russian whistleblower, Alexander Perepilichny, contacts Bill Browder using a pseudonym [see: Dec 13, 2016 Atlantic]
 | Aug ??, 2010 | Oil drilling businessman, Todd Kozel, files for divorce in Florida court sometime Aug 2010 archive.is/2X29A
@@ -2255,6 +2256,7 @@
 | Oct 04, 2016 | Second presidential debate
 | Oct 04, 2016 | A US Person working with Maria Butina sends an email to an acquaintence that he is working on a backdoor communications channel from Kremlin to GOP through NRA [see: Jul 14, 2018 Butina Affadavit]
 | Oct 04, 2016 | Guccifer 2.0 releases DCCC documents and falsely advertises them as Clinton Foundation documents
+| Oct 05, 2016 | DOJ charges Harold T. Martin with removal of classified materials and theft of govt property bit.ly/2dvIIbd
 | Oct 05, 2016 | Butina and Torshin exchange many Twitter direct messages [see: Jul 14, 2018 Butina Affadavit]
 | Oct 05, 2016 | Wordpress page first published showing links between Russian server and Trump tower
 | Oct 06, 2016 | WaPo hosts Cybersecurity Summit, attended by Lisa Monaco, Ellen Nakashima, and DNC's Michael Sussmann
@@ -2699,7 +2701,7 @@
 | Feb 08, 2017 | Priebus invites Comey to his office, asks him if their conversation is private, then asks if there's a FISA on Flynn
 | Feb 08, 2017 | @WJCLNews: "Sessions confirmed by Senate as attorney general"
 | Feb 08, 2017 | FBI interviews Mifsud
-| Feb 08, 2017 | Harold T. Martin indictment bit.ly/2Ak2F0E
+| Feb 08, 2017 | Grand jury indicts Harold T. Martin bit.ly/2Ak2F0E, bit.ly/2ALxz2f
 | Feb 08, 2017 | Rybicki: "Sen. Warner Call" archive.is/2Ag8T
 | Feb 08, 2017 | Butina emails George O'Neill, saying the Russian delegation had a great time [see: Jul 14, 2018 Butina Affadavit]
 | Feb 08, 2017 | Comey: "Was this set up as a result of my request? I had asked Jason. Meeting is done. Took me to oval. Will be doing another memo" archive.is/2Ag8T
@@ -3956,6 +3958,7 @@
 | Jun 13, 2018 | Rolling Stone: "A Day in the Life of George and Simona Papadopoulos"
 | Jun 14, 2018 | CNN: "Key dates in the FBI probe of Hillary Clinton's emails"
 | Jun 14, 2018 | DOJ OIG releases report on various action by the Federal Bureau of Investigation and Department of Justice in advance of the 2016 election archive.is/hn7Hg
+| Jun 15, 2018 | Manafort imprisoned bit.ly/2SIW5b8
 | Jun 17, 2018 | WaPo: "Trump associate Roger Stone reveals new contact with Russian national during 2016 campaign" archive.is/yDfGU
 | Jun 17, 2018 | CNN: "Former Trump operative Roger Stone met with Russian who wanted $2M for Clinton dirt" archive.is/XDLvX
 | Jun 17, 2018 | @JackPosobiec: "#Breaking Here is the full dossier on the FBI informant Henry Greenberg who reached out to Roger Stone and Michael Caputo; True name: Gennady Vasilievich Vostretsov" bit.ly/2Py9YGs 
@@ -4339,6 +4342,7 @@
 | Dec 20, 2018 | Israel to escalate fight against Iran in Syria after U.S. exit reut.rs/2T8kPJN
 | Dec 20, 2018 | Suspected sponsor of the Charlie Hebdo attack, Peter Cherif, arrested in Djibouti bit.ly/2rQhoMc
 | Dec 20, 2018 | Louise Mensch suggests that info given to James Wolfe about Carter Page was invented bit.ly/2AehqC1
+| Dec 20, 2018 | Grand jury indicts Natalya Veselnitskaya for obstruction of justice; sealed until Jan 9, 2019 bit.ly/2FjF9Uw
 | Dec 21, 2018 | Maligant growths removed from Justice Ginsberg's lungs reut.rs/2T3BOfU
 | Dec 21, 2018 | Carter Page amicus brief against James Wolfe, filed 12/17/18; Michael Casey, Chris Joyner mentioned bit.ly/2rQkpw0
 | Dec 21, 2018 | DC Circuit denies motion filed by mystery company in mystery grand jury dispute bit.ly/2Luj3jd, bit.ly/2V2n0jH
@@ -4352,6 +4356,11 @@
 | Dec 26, 2018 | Carter Page files response in opposition to DNC bit.ly/2ER5pq7
 | Dec 28, 2018 | Goodlatte/Gowdy letter to McConnell, Whitaker, & Horowitz bit.ly/2EUY0Gk
 | Dec 31, 2018 | Hacker group The Dark Overlord threatens to release 9/11 secrets bit.ly/2VoFtXJ
-| Jan 04, 2018 | Edgar Veytia, former AG of Nayarit, Mexico, pleads guilty to conspiracy to smuggle drugs to the U.S. bit.ly/2Tw6kj2
-| Jan 07, 2018 | Justice Ginsberg misses her first day on the Supreme Court in 25 years bit.ly/2LXeu17
-| Jan 07, 2018 | WSJ reports China entertained offers to scuttle 1MDB scandal; also, to spy on WSJ journalists on.wsj.com/2VAMYuV
+
+| Jan 04, 2019 | Edgar Veytia, former AG of Nayarit, MX, pleads guilty to conspiracy to smuggle drugs to the U.S. bit.ly/2Tw6kj2
+| Jan 07, 2019 | Justice Ginsberg misses her first day on the Supreme Court in 25 years bit.ly/2LXeu17
+| Jan 07, 2019 | WSJ reports China sought to close 1MDB scandal; also, spioed on WSJ journalists researching 1MDB on.wsj.com/2VAMYuV
+| Jan 08, 2019 | 12/20/18 grand jury indictment of Natalya Veselnitskaya is ordered unsealed bit.ly/2siuHVS
+| Jan 08, 2019 | Manafort response to Mueller bit.ly/2LVSd3K, bit.ly/2TBj33I
+| Jan 08, 2019 | Reuters reveals Huawei had control over Skycom Tech Co Ltd & shell company Canicula Holdings Ltd. reut.rs/2RBYEOO
+| Jan 08, 2019 | Manafort filing accidentally reveals he and Kilimnik entertained several Ukrainian peace plans archive.is/VA1vd
