@@ -61,7 +61,7 @@ Oct 08, 1979 | CIA officer Jack Platt is nearly fired after a drunken night out 
 | Jan 24, 1997 | Al Gore admits California temple fundraiser was a mistake bit.ly/2SOAsFK
 | Mar 04, 1997 | Al Gore says he did nothing illegal in soliciting donations from the White House bit.ly/2EvBeDE
 | Mar 07, 1997 | Krauthammer op-ed on Al Gore fundraising scandal archive.is/044Mx
-| May 19, 1997 | The Smoking Gun publicizes FBI memo detailing Trump's assistance to the feds in Atlantic City in 1981 archive.fo/8Pva5
+| May 19, 1997 | FBI memo details Trump's assistance to the feds in Atlantic City in 1981 archive.fo/8Pva5
 
 | Aug 30, 1998 | Ruble crash bit.ly/2PGm4NQ
 
@@ -843,7 +843,7 @@ Oct 08, 1979 | CIA officer Jack Platt is nearly fired after a drunken night out 
 | Jan 31, 2013 | Sporyshev recorded from within a secure office in Manhattan; speaks with unnamed SVR agent bit.ly/2Sl5vt2
 | Feb 01, 2013 | HRC's last day as Secretary of State
 | Feb 04, 2013 | Maxine Waters interviewed by Roland Martin, talks about massive Obama for America database archive.is/BpYnR
-| Feb 07, 2013 | The Smoking Gun reveals Bush family email accounts hacked by entity called Guccifer bit.ly/2SQHIBH
+| Feb 07, 2013 | Bush family email accounts hacked by entity called Guccifer bit.ly/2SQHIBH
 | Feb 12, 2013 | ABC Australia: "Family tight-lipped on Israeli 'Prisoner X' case" archive.is/6MzZB
 | Feb 13, 2013 | NYT: "More Details Emerging About Israel’s Prisoner X" archive.is/Md4P5
 | Feb 13, 2013 | Guardian: "Australia was investigating 'Mossad agent' Zygier who died in Israeli jail" archive.is/2XQpw
@@ -855,12 +855,12 @@ Oct 08, 1979 | CIA officer Jack Platt is nearly fired after a drunken night out 
 | Mar ??, 2013 | Carter Page meets w/Podobnyy; Carter says Podobnyy didn't ask about documents, Gazprom bit.ly/2QPwhxd, bit.ly/2QPwhxd
 | Mar 07, 2013 | Haaretz: "Australian Probe: Zygier Was Facing 20-year Sentence for 'Serious Espionage'" archive.is/hdUV4
 | Mar 08, 2013 | John Brennan sworn in as CIA Director archive.is/bxPeH
-| Mar 11, 2013 | The Smoking Gun reveals Colin Powell's Facebook page was hacked by Guccifer bit.ly/2D62kQV
+| Mar 11, 2013 | Colin Powell Facebook page hacked by Guccifer bit.ly/2D62kQV
 | Mar 12, 2013 | Clapper publicly testifies to SSCI, says the NSA does not "wittingly" collect data on citizens
-| Mar 13, 2013 | The Smoking Gun reveals Colin Powell's AOL, Comcast email accounts hacked by Guccifer bit.ly/2SQzAkB
+| Mar 13, 2013 | Colin Powell AOL, Comcast email accounts hacked by Guccifer bit.ly/2SQzAkB
 | Mar 14, 2013 | Russia bans 18 Americans in a rebuke to the Magnitsky act; Preet Bharara is one of the people banned archive.is/SmGtS
-| Mar 15, 2013 | The Smoking Gun reveals Sidney Blumenthal's AOL email account hacked by Guccifer bit.ly/1S3HIf4
-| Mar 18, 2013 | The Smoking Gun reveals that Guccier has been disseminating four memos Sidney Blumenthal sent to HRC bit.ly/1BbUT3m
+| Mar 15, 2013 | Sidney Blumenthal AOL email account hacked by Guccifer bit.ly/1S3HIf4
+| Mar 18, 2013 | Guccier disseminates four memos Sidney Blumenthal sent to HRC bit.ly/1BbUT3m
 | Mar 19, 2013 | Manafort and Gates arrange a DC meeting w/Rohrabacher and Podesta Group's Vin Weber bit.ly/2TBdkeD, bit.ly/2FcNPMo
 | Mar 23, 2013 | Evening Standard: "Exiled Russian tycoon Boris Berezovsky is found dead in his bath" archive.is/mt6fP
 | Mar 28, 2013 | Institutional Investor: "Still Bullish on Ireland, Wilbur Ross Eyes Southern Europe" (Cyprus) archive.is/E24Ct
@@ -886,7 +886,8 @@ Oct 08, 1979 | CIA officer Jack Platt is nearly fired after a drunken night out 
 | Jun 05, 2013 | FBI Director Mueller travels meets Yanukovych in Ukraine; they discuss counterterrorism archive.is/u4mmy
 | Jun 08, 2013 | Guardian: "Boundless Informant: the NSA's secret tool to track global surveillance data" archive.fo/switR
 | Jun 06, 2013 | Ukrainian Embassy in U.S. shares on Facebook a photo of FBI Director Mueller with Ukraine President Yanukovytch
-| Jun 09, 2013 | Guardian: "Edward Snowden: the whistleblower behind the NSA surveillance revelations" archive.is/lJdcq
+| Jun 09, 2013 | Guardian exposé on Edward Snowden archive.is/lJdcq 
+| Jun 12, 2013 | Guccifer hacks Facebook account of Neile Miller, acting NNSA administrator bit.ly/2Fv64wI
 | Jun 13, 2013 | FBI interviews Male-1 about his relationship to Victor Podobnyy bit.ly/2AjA1MV
 | Jun 13, 2013 | @RobinLeach: "Donald Trump, Miss Universe sign document with Russian partner for Miss USA move to Moscow November 9"
 | Jun 13, 2013 | Trump: "The Miss Universe Pageant will be broadcast live from MOSCOW, RUSSIA on November 9th"
