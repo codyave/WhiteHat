@@ -3984,25 +3984,25 @@
 | Jun 22, 2018 | Daily Caller: "The FBI deliberately ignored 'golden emails,' crucial Abedin messages and more" archive.fo/enEqx
 | Jun 22, 2018 | WaPo: "Former CIA officer accused of selling top secret information to China" (Kevin Patrick Mallory) archive.is/QasUw
 | Jun 22, 2018 | @TomArnold: "Michael Cohen didn't say Me & him were teaming up to take down Trump!" archive.is/IYDe6
-| Jun 24, 2018 | NYT: "How an Affair Between a Reporter and a Security Aide Has Rattled Washington Media" about James Wolfe and Ali Watkins
+| Jun 24, 2018 | NYT article about James Wolfe and Ali Watkins nyti.ms/2Ip2Sk8
 | Jun 25, 2018 | @jSolomonReports: "How Comey intervened to kill WikiLeaks' immunity deal" (6:36pm est) archive.is/hTpFI
 | Jun 26, 2018 | RCP: "Here's One Unverified File the Feds Won't Leak: About Loretta Lynch" archive.is/0zVfb
-| Jun 28, 2018 | Rosenstein and Wray testify to the House Judiciary Committee. Rosenstein: "the information that's public about that doesn't match with my understanding of the one that I signed." bit.ly/2zTwl4m
-| Jul 02, 2018 | CNN: "Cohen: My family and country come first" archive.is/IP4WR
+| Jun 28, 2018 | Rosenstein and Wray testify to the House Judiciary Committee.
+| Jun 28, 2018 | "the information that's public about that doesn't match with my understanding of the one that I signed" bit.ly/2zTwl4m
+| Jul 02, 2018 | Michael Cohen says "family and country come first" archive.is/IP4WR
 | Jul 03, 2018 | CNN: "New York Times DC reporter who dated Senate intelligence staffer reassigned to New York"
 | Jul 07, 2018 | The Hill: "Memos detail FBI's 'Hurry the F up pressure' to probe Trump campaign"
 | Jul 09, 2018 | Radio Free Europe: "Russian Tycoon Deripaska Wins Million-Ruble Claim Against 'Nastya Rybka,' 'Sex-Guru' Partner"
 | Jul 10, 2018 | Judge Emmitt Sullivan schedules status hearing for Gen. Flynn
-| Jul 11, 2018 | CNN: "Lisa Page plans to defy GOP subpoena for her testimony, her lawyer says" archive.is/qZ0gQ
-| Jul 11, 2018 | CNN: "Republicans mull holding former FBI lawyer Lisa Page in contempt" archive.is/7MTcn
-| Jul 11, 2018 | @realDonaldTrump: "Ex-FBI LAYER Lisa Page today defied a House of Representatives issued Subpoena to testify before Congress! Wow, but is anybody really surprised!  Together with her lover, FBI Agent Peter Strzok, she worked on the Rigged Witch Hunt, perhaps the most tainted and corrupt case EVER!" archive.is/hBvNV
-| Jul 11, 2018 | @ChadPergram: "Lisa Page atty Amy Jeffress: Through her actions and words, Lisa has made it abundantly clear that she will cooperate with this investigation.  All she is asking is to be treated as other witnesses have under the Committees’ own rules" archive.is/fmtSu
-| Jul 12, 2018 | CNBC: "FBI agent Peter Strzok, Republicans clash in fiery House hearing" archive.is/WJNKR
+| Jul 11, 2018 | CNN article on Lisa Page; her attorney says she plans to defy GOP subpoena for her testimony archive.is/qZ0gQ
+| Jul 11, 2018 | CNN article on possible contempt charges against Lisa Page archive.is/7MTcn
+| Jul 11, 2018 | Trump tweets that Lisa Page has defied a subpoena to testify before HPSCI archive.is/hBvNV
+| Jul 11, 2018 | Counsel for Lisa Page says she intends to cooperate with the Mueller investigation archive.is/fmtSu
+| Jul 12, 2018 | CNBC article on Strzok televised hearing before HPSCI archive.is/WJNKR
 | Jul 12, 2018 | NYT: "Border Agent Who Questioned Reporter Is Investigated for Computer Misuse" archive.is/HKx9s
-| Jul 13, 2018 | @mikememoli: "Mark Meadows just told reporters that Lisa Page was a cooperative witness and had been “falsely accused” of not wanting to cooperate with congressional oversight" archive.fo/cYqMK
-| Jul 13, 2018 | @ChadPergram: "Meadows: Lisa Page is a very credible witness..she’s doing her best to help us find the truth and I think in ways she’snbeen falsely accused of not being willing to cooperate. We've learned.. evidence..that would suggest that she’s been willing to help in a spirit of transparency" bit.ly/2ryEarA
-| Jul 13, 2018 | Mueller indicts 12 Russian intelligence officers, accusing them of interfering in the 2016 US presidential election bit.ly/2QtyTR8
-| Jul 14, 2018 | Maria Butina indicted for Conspiracy to Act as an Agent of the Russian Federation Within the United States. FBI Agent Kevin Helson files an affadavit in support bit.ly/2zSo0hu
+| Jul 13, 2018 | Rep Mark Meadows puts out a statement that Lisa Page is a credible witness bit.ly/2ryEarA, archive.fo/cYqMK
+| Jul 13, 2018 | Mueller indicts 12 Russian intelligence officers bit.ly/2ustufe
+| Jul 14, 2018 | Maria Butina indicted for Conspiracy to Act as an Agent of the Russian Federation within the U.S. bit.ly/2zSo0hu
 | Jul 16, 2018 | Reuters: "Trump emerged from a meeting with Putin saying he saw no reason to believe Russia hacked 2016 U.S. election"
 | Jul 16, 2018 | Reuters: "After Helsinki, U.S. intel chief defends findings on Russian meddling"
 | Jul 17, 2018 | Bloomberg: "Trump Retreats and Says He Accepts U.S. Finding Russia Meddled"
@@ -4017,7 +4017,7 @@
 | Jul 26, 2018 | Politico: "Former Bernie Sanders consultant assisting Mueller investigation" (Tad Devine) archive.is/VtgHB
 | Jul 26, 2018 | Daily Caller: "Judge orders Fusion GPS to reveal dossier details in BuzzFeed lawsuit"
 | Jul 27, 2018 | CNN: "Cohen claims Trump knew in advance of 2016 Trump Tower meeting"
-| Jul 31, 2018 | @eorden: "NEW: Another MUELLER referral to SDNY. Mueller has referred an inquiry involving lobbyists Tony Podesta and Vin Weber, as well as former Skadden partner Greg Craig, to NY federal prosecutors."
+| Jul 31, 2018 | Mueller refers inquiry ihnto Tony Podesta, Vin Weber, and Greg Craig to SDNY bit.ly/2M7Ew23
 | Jul 31, 2018 | BuzzFeed: "Here Is The Money Trail From The Russian "Agent" And Her Republican Partner"
 | Aug 01, 2018 | Surveillance warrant approved to monitor Sours Edwards phone line [see: Oct 25, 2018 WSJ]
 | Aug 02, 2018 | Daily Mail obtains an excerpt from Omarosa's book
