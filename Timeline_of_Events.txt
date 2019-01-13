@@ -61,7 +61,7 @@
 | Jan 24, 1997 | Al Gore admits California temple fundraiser was a mistake bit.ly/2SOAsFK
 | Mar 04, 1997 | Al Gore says he did nothing illegal in soliciting donations from the White House bit.ly/2EvBeDE
 | Mar 07, 1997 | Krauthammer op-ed on Al Gore fundraising scandal archive.is/044Mx
-| May 19, 1997 | The Smoking Gun publicizes FBI memo detailing Trump's assistance to the feds in Atlantic City in 1981 archive.fo/8Pva5
+| May 19, 1997 | FBI memo details Trump's assistance to the feds in Atlantic City in 1981 archive.fo/8Pva5
 
 | Aug 30, 1998 | Ruble crash bit.ly/2PGm4NQ
 
@@ -843,6 +843,7 @@
 | Jan 31, 2013 | Sporyshev recorded from within a secure office in Manhattan; speaks with unnamed SVR agent bit.ly/2Sl5vt2
 | Feb 01, 2013 | HRC's last day as Secretary of State
 | Feb 04, 2013 | Maxine Waters interviewed by Roland Martin, talks about massive Obama for America database archive.is/BpYnR
+| Feb 07, 2013 | Bush family email accounts hacked by entity called Guccifer bit.ly/2SQHIBH
 | Feb 12, 2013 | ABC Australia: "Family tight-lipped on Israeli 'Prisoner X' case" archive.is/6MzZB
 | Feb 13, 2013 | NYT: "More Details Emerging About Israel’s Prisoner X" archive.is/Md4P5
 | Feb 13, 2013 | Guardian: "Australia was investigating 'Mossad agent' Zygier who died in Israeli jail" archive.is/2XQpw
@@ -852,14 +853,18 @@
 | Feb 20, 2013 | Gawker: "The Mystery of Israel's 'Prisoner X'" archive.is/P6uKm
 | Mar ??, 2013 | Justin Cooper gives Monica Hanley MacBook laptop, remotely transfers HRC emails to Apple mail program
 | Mar ??, 2013 | Carter Page meets w/Podobnyy; Carter says Podobnyy didn't ask about documents, Gazprom bit.ly/2QPwhxd, bit.ly/2QPwhxd
-| Mar 19, 2013 | Manafort and Gates arrange a DC meeting w/Rohrabacher and Podesta Group's Vin Weber bit.ly/2TBdkeD, bit.ly/2FcNPMo
 | Mar 07, 2013 | Haaretz: "Australian Probe: Zygier Was Facing 20-year Sentence for 'Serious Espionage'" archive.is/hdUV4
-| Mar 08, 2013 | NPR: "John Brennan Is Sworn In As CIA Director" archive.is/bxPeH
+| Mar 08, 2013 | John Brennan sworn in as CIA Director archive.is/bxPeH
+| Mar 11, 2013 | Colin Powell Facebook page hacked by Guccifer bit.ly/2D62kQV
 | Mar 12, 2013 | Clapper publicly testifies to SSCI, says the NSA does not "wittingly" collect data on citizens
-| Mar 14, 2013 | NYT: "Russia Bars 18 Americans After Sanctions by U.S." this is a Russian reponse to the Magnitsky act and Preet Bharara is one of the banned people archive.is/SmGtS
-| Mar 21, 2013 | The Smoking Gun reports that Guccifer hacked email account of Sidney Blumenthal
+| Mar 13, 2013 | Colin Powell AOL, Comcast email accounts hacked by Guccifer bit.ly/2SQzAkB
+| Mar 14, 2013 | Russia bans 18 Americans in a rebuke to the Magnitsky act; Preet Bharara is one of the people banned archive.is/SmGtS
+| Mar 15, 2013 | Sidney Blumenthal AOL email account hacked by Guccifer bit.ly/1S3HIf4
+| Mar 18, 2013 | Guccier disseminates four memos Sidney Blumenthal sent to HRC bit.ly/1BbUT3m
+| Mar 19, 2013 | Manafort and Gates arrange a DC meeting w/Rohrabacher and Podesta Group's Vin Weber bit.ly/2TBdkeD, bit.ly/2FcNPMo
 | Mar 23, 2013 | Evening Standard: "Exiled Russian tycoon Boris Berezovsky is found dead in his bath" archive.is/mt6fP
 | Mar 28, 2013 | Institutional Investor: "Still Bullish on Ireland, Wilbur Ross Eyes Southern Europe" (Cyprus) archive.is/E24Ct
+| Mar 28, 2013 | Baxter Hunt email says Podesta Group is lobbying for the Party of Regions bit.ly/2VOTHBC
 | Apr 08, 2013 | Podobnyy tells Sporyshev how he intends to persuade "Male-1" to deliver to him sensitive documents bit.ly/2Rm66xw
 | Apr 10, 2013 | Podobnyy recorded in an SVR office in NYC; confirms Sporyshev's cover is as a trade representative bit.ly/2AikvRm
 | Apr 11, 2013 | Sporyshev and Podobnyy recorded in an SVR office; they discuss Buryakov's prior banking employment bit.ly/2VcL2bJ
@@ -868,7 +873,7 @@
 | May 07, 2013 | Secretary of State Kerry travels to Moscow archive.is/HolCy
 | May 09, 2013 | Carter Page forms Global Natural Gas Ventures LLC archive.is/k9oSD
 | May 13, 2013 | Ryan C. Fogle detained by Russian officals, later declared persona non grata archive.is/LB4AI, archive.is/F1DDd
-| May 15, 2013 | In a conversation with Hugh Hewitt, Devin Nunes makes a comment about DOJ "tapping" the House of Representatives cloakroom. That is later corrected to say DOJ seized phone records bit.ly/2Rej4OH
+| May 15, 2013 | Nunes tells Hugh Hewitt of DOJ "tapping" congressional cloakroom; later corrected to phone records bit.ly/2Rej4OH
 | May 15, 2013 | GSA signs Lease Supplemental for FBI Mission Ridge properties; Tenant Improvement bit.ly/2QsvQZp
 | May 16, 2013 | Manafort instructs his lobbyists to plant false stories in U.S. media on Tymoshenko bit.ly/2CScHrk
 | May 16, 2013 | Member of the Hapsburg Group meets with Obama and Biden in the White House to lobby for Ukraine bit.ly/2LTkR5B
@@ -882,7 +887,8 @@
 | Jun 05, 2013 | FBI Director Mueller travels meets Yanukovych in Ukraine; they discuss counterterrorism archive.is/u4mmy
 | Jun 08, 2013 | Guardian: "Boundless Informant: the NSA's secret tool to track global surveillance data" archive.fo/switR
 | Jun 06, 2013 | Ukrainian Embassy in U.S. shares on Facebook a photo of FBI Director Mueller with Ukraine President Yanukovytch
-| Jun 09, 2013 | Guardian: "Edward Snowden: the whistleblower behind the NSA surveillance revelations" archive.is/lJdcq
+| Jun 09, 2013 | Guardian exposé on Edward Snowden archive.is/lJdcq 
+| Jun 12, 2013 | Guccifer hacks Facebook account of Neile Miller, acting NNSA administrator bit.ly/2Fv64wI
 | Jun 13, 2013 | FBI interviews Male-1 about his relationship to Victor Podobnyy bit.ly/2AjA1MV
 | Jun 13, 2013 | @RobinLeach: "Donald Trump, Miss Universe sign document with Russian partner for Miss USA move to Moscow November 9"
 | Jun 13, 2013 | Trump: "The Miss Universe Pageant will be broadcast live from MOSCOW, RUSSIA on November 9th"
@@ -895,29 +901,29 @@
 | Jun 21, 2013 | Yaoo: "Witness: Hastings’ speeding car ‘shook my car like a freight truck going by’" bit.ly/2C9HEHg
 | Jun 26, 2013 | NYT: "Marc Rich, Financier and Famous Fugitive, Dies at 78" archive.is/IQ3JG
 | Jun 27, 2013 | NBC: "Ex-Pentagon general target of leak investigation, sources say" (Cartwright) archive.is/GMeQM
-| Jul 29, 2013 | EUCOM: "Russia’s Skolkovo Innovation Center" bit.ly/2Bpursf
-| Jun 30, 2013 | Platte River Networks server ("successor server", runs until Oct 2015)
+| Jul 29, 2013 | EUCOM research paper on Skolkovo bit.ly/2Bpursf
+| Jun 30, 2013 | Platte River Networks server; "successor server"; runs until Oct 2015
 | Jul 01, 2013 | Susan Rice succeeds Tom Donilon as National Security Advisor. Does not need to be confirmed by Senate.
-| Jul 02, 2013 | NY Gov: "Governor Cuomo Appoints Moreland 'Commission to Investigate Public Corruption,' with Attorney General Schneiderman Designating Commission Members as Deputy Attorneys General" archive.is/z0Fxv
+| Jul 02, 2013 | Gov Cuomo appoints Moreland "Commission to Investigate Public Corruption" archive.is/z0Fxv
 | Jul 08, 2013 | BBC: "Donald Trump sued over failed Florida deal" (Marc Renaud, Fort Lauderdale) archive.is/ASqzH
-| Jul 08, 2013 | The Independent: "Donald Trump walks out over questions about his mafia connections during BBC Panorama interview" by John Sweeney, where BBC Panorama reporters ask Trump about Felix Sater's mob connections. Trump says "I hate to do this but I do have that big group of people waiting so I have leave…"
+| Jul 08, 2013 | The Independent article on Trump's connections to Felix Sater bit.ly/2H76SKR
 | Aug ??, 2013 | AG Schneiderman files $40m civil fraud lawsuit against Trump University sometime in August [see: May 11, 2018 NYT]
 | Aug 01, 2013 | The Hill: "Samantha Power confirmed as Obama’s UN ambassador"
 | Aug 01, 2013 | Guardian: "Exclusive: NSA pays £100m in secret funding for GCHQ" archive.is/PLmv5
 | Aug ??, 2013 | FBI downloads a Nov 2012 report from Buryakov's banking office bit.ly/2AiKJDj
 | Aug 14, 2013 | France24: "US consultant admits role in France's 'Karachi affair'" archive.is/mHJLz
 | Aug 21, 2013 | Motion by Oberlander, Palmer and Lerner to unseal transcripts related to Felix Sater bit.ly/2GSgWap
-| Aug 25, 2013 | In a letter sent to an academic press, Carter Page refers to himself as “an informal advisor to the staff of the Kremlin.” [see: Feb 4, 2018 Time]
+| Aug 25, 2013 | In a letter, Carter Page refers to himself as an informal advisor to the staff of the Kremlin [see: Feb 4, 2018 Time]
 | Aug 30, 2013 | US govt says Syria used chem weapons. Obama waffles
 | Sep 05, 2013 | NYDN: "James Comey sworn in as director of FBI" archive.is/tOZC0
 | Sep ??, 2013 | Jon Winer assigned as Special Envoy for Libya, a position that doesn't need confirmation by the Senate
-| Sep 06, 2013 | @realDonaldTrump: "I wonder how much our 'leaders' have promised, or given, Russia in order for them to behave and not make the U.S. look even worse?" archive.is/HYsnv
+| Sep 06, 2013 | Trump questions what American officials have promised to Russia archive.is/HYsnv
 | Sep 12, 2013 | Podobnyy's last day serving as Attache to the Permanent Mission of the Russian Federation bit.ly/2rYeYv2
 | Sep 14, 2013 | Kerry agrees to a framework where Russia is in charge of removing Syrian chem weapons
 | Sep 20, 2013 | HuffPost: "N.S.A. Spying on Petrobras Forms Part of Wider U.S. Oil Espionage" archive.is/TMq2H
 | Sep 24, 2013 | Foreign Policy: "Obama’s Favorite General Stripped of His Security Clearance" (Cartwright) archive.is/InTCM
 | Sep 27, 2013 | Netanyahu adviser, Yaakov Amidror, confronts Susan Rice for secretly negotiating with Oman [see: Oct 22, 2015 WSJ]
-| Sep 30, 2013 | Devin Nunes calls members of the GOP "lemmings with suicide vests" for their plans to shut down the government archive.is/IlAbS
+| Sep 30, 2013 | Nunes calls GOP "lemmings with suicide vests" for their plans to shut down the government archive.is/IlAbS
 | Oct 13, 2013 | Mikk Marran nominated to Director General of the Estonian Information Board
 | Oct 14, 2013 | WaPo: "NSA collects millions of e-mail address books globally" archive.is/ANFWF
 | Oct 16, 2013 | Reuters: "U.S. eavesdropping agency chief, top deputy expected to depart soon" archive.is/22jRl
@@ -984,6 +990,7 @@
 | Jun ??, 2014 | Ali Watkins and James Wolfe begin exchanging tens of thousands of texts & phone calls from a timeframe that extends up until or around Dec 2017 [see: Jun 24, 2018 NYT]
 | Jun 05, 2014 | @mcfaul: "Obama: 'the stroke of a pen can never legitimize the theft of a neighbor’s land. So we will not accept Russia’s occupation of Crimea...'" archive.is/sNvyb
 | Jun 05, 2014 | CBS News: "Obama, Cameron set new Russia sanctions deadline" archive.is/x0OBE
+| Jun 12, 2014 | Virginia federal court indicts Marcel Lehel Lazar, aka Guccifer, on nine counts; 15 pages bit.ly/1Mm4bOZ
 | Jun 14, 2014 | Former Colombian agriculture minister, Andrés Felipe Arias, passes through U.S. customs on his way to South Florida shortly after a Panamanian judge finds him guilty of embezzlement [see: Aug 24, 2016 Miami Herald]
 | Jun 17, 2014 | Private contractor United States Investigation Services (USIS) discloses a breach of 25,000 government employees' personal information to the OPM and sends out a memo notifying 15 large federal agencies of the intrusion. OPM severs its contracts with USIS
 | Jun 14, 2014 | Veselnitskaya goes to House hearing on "U.S. Policy Toward Putin's Russia", sits behind Michael McFaul
@@ -1364,7 +1371,7 @@
 | Jan 10, 2016 | Glenn Fine becomes Acting Inspector General for the DOD. Previously served as IG for DOJ (2000-2010)
 | Jan 11, 2016 | DOJ sends letter Aaron Zebley, DOJ memorializes agreement that Zebley will back-up all relevant email communications
 | Jan 11, 2016 | Zebley gives the data to Hillary lawyers and informs the DOJ (per their agreement).
-| Jan 12, 2016 | Email from Steele to Ohr. A New Years greeting. Mentions Deripaska's visa, trying to get into US for a meeting at the end of February. Ohr replies warmly the same day [see: Aug 8, 2018 Washington Examiner]
+| Jan 12, 2016 | Steele emails Ohr; mentions Waldman applying for Deripaska visa; trying to get to U.S. for Feb meeting bit.ly/2spxnAR
 | Jan 13, 2016 | An individual from FBI’s Washington Field Office emails Strzok and other employees that their polygraphs were “out of scope.” [see: June 28, 2018 Wray Testimony]
 | Jan 14, 2016 | Intelligence Community Inspector Charles McCullough letter to "senior lawmakers" said an intelligence review identified "several dozen" additional classified emails - including specific intelligence from "special access programs" (SAP) [see: Jan 19, 2016 Fox]
 | Jan 14, 2016 | Sixth GOP primary debate, sponsored by FOX, held in Charleston, SC
@@ -1420,7 +1427,7 @@
 | Feb 06, 2016 | Clinton Campaign considers Rubio "out" after terrible debate performance. Campaign re-assesses everything. “'I asked a Clinton staffer about this,' said Sullivan, who around that time briefly went online to research Irish double-citizenship out of her revulsion with the Republican nominee-to-be. 'He said, ‘Well, you know, now we have to save the republic.’ It was a great paradox after nearly a year of virtual certainty—and outright enthusiasm—about their ultimate opponent that her team would swing between overconfidence, denial and disbelief as it struggled to concoct an electoral formula for stopping Trump. It was supposed to be Jeb Bush, if you asked Democratic honchos in mid-2015, except when it was always supposed to be Scott Walker. Eventually, they insisted, it was always supposed to be Rubio."
 | Feb 08, 2016 | Adm. Rogers announces spy/hacking reorganization project
 | Feb 08, 2016 | Adm. Rogers meets GCHQ's Hannigan at Bletchley Park
-| Feb 08, 2016 | Steele sends Ohr another email talking about Deripaska. Ohr says he'll keep an eye on it [see: Aug 8, 2018 Washington Examiner]
+| Feb 08, 2016 | Steele emails Ohr; mentions Deripaska visa approved to visit U.S. later in the month bit.ly/2spxnAR
 | Feb 08, 2016 | Steele sends an email to a potential private sector client: "I also don’t believe any Russian client or associate will admit to a Western business contact that PUTIN has been weakened or is on the way out, as the intel suggests, out of fear of being branded an oppositionist. We shall see but I hope you find them informative/useful anyway. All are sensitive source, of course, and need handling accordingly with anyone Russian or Ukrainian." [see: Nov 19, 2018 The Hill]
 | Feb 09, 2016 | New Hampshire Primary, Trump wins
 | Feb 09, 2016 | Clapper provide statement to Senate Armed Services Committee, says that Putin appeared emboldened for a "more assertive foreign policy approach" bit.ly/2sefNQw
@@ -1448,7 +1455,7 @@
 | Feb 18, 2016 | In FBI interview, Paul Combetta indicates he did not "recall conducting deletions based upon this realization [that he was instructed to delete HRC's emails starting Dec '14 per Cheryl Mills, but only remembered ~Mar 25-31, 2015]" archive.is/PqOXB
 | Feb 18, 2016 | VneshEconomBank chairman, Vladimir Dmitriyev, announces his resignation bit.ly/2CShjOm
 | Feb 20, 2016 | Guardian: "Jeb Bush ends presidential bid after Donald Trump wins in South Carolina" archive.is/IZn2I
-| Feb 21, 2016 | Steele tells Ohr he had talked to Waldman and Paul Hauser regarding Deripaska [see: Aug 8, 2018 Washington Examiner]
+| Feb 21, 2016 | Steele emails Ohr; mentions Waldman, Hauser; Ohr to attend inter-agency meeting on Deripaska that week bit.ly/2Fq4xsO
 | Feb 21, 2016 | Farkas emails Podesta, asks to do surrogate work for Clinton campaign in relation to Eastern European communities archive.ph/Ago9X
 | Feb 22, 2016 | Bloomberg: "Mercer, a Longtime Funder of Climate Skeptics, Backs a Believer" by Zachary Mider bloom.bg/2PFkyM3
 | Feb 22, 2016 | Gateway Pundit: "Trump Insider ROGER STONE Says CBS About to SLIME Trump with Alleged Mafia Ties" archive.is/gsZVx
@@ -1473,7 +1480,7 @@
 | Mar ??, 2016 | Bank approves $3.5m loan for Manafort based on fraudulent filings on Manafort's Manhattan condo bit.ly/2QnHXly
 | Mar ??, 2016 | FBI receives AG Lynch/Renteria email sometime early Mar 2016 from unknown foreign source [see: May 24, 2017 WaPo]
 | Mar ??, 2016 | Sam Clovis aska Carter Page to sign an NDA sometime Mar 2016 inside Trump Tower bit.ly/2VcpLih, bit.ly/2BHQbQh
-| Mar ??, 2016 | Joshua Adam Schulte steals Vault 7 sometime early Mar 2016; later, Joshua sends Vault7 to WikiLeaks sometime Jun '16 [see: Jun 18, 2018 grand jury charges]
+| Mar ??, 2016 | Joshua Adam Schulte steals Vault 7 sometime early Mar 2016 [see: Jun 18, 2018 grand jury charges]
 | Mar ??, 2016 | One of President Erdoğan’s chief advisors, journalist İlnur Çevik, sends Berat Albayrak an email sometime Mar 2016 that includes lists of opposition groups in Washington, D.C., in order to help the lobbying for Erdoğan; Çevik urges action beyond the White House. “There is no chance of improving the image of the Turkish government while Barack Obama is in power as president of the United States,” Çevik adds [see: Sep 27, 2017 RedHack]
 | Mar ??, 2016 | Fusion GPS approaches Perkins Coie sometime early Mar 2016 [see: Oct 24, 2017 Matthew Gehringer letter]
 | Mar 01, 2016 | Super Tuesday
@@ -1482,21 +1489,21 @@
 | Mar 01, 2016 | RSA Conference speakers include Dmitri Alperovitch, Shawn Henry, DOJ's John Carlin, & AG Lynch bit.ly/2Ad6y7v
 | Mar 02, 2016 | NBC News: "Is Brennan Joking When He Says CIA Spies Doesn't Steal Secrets?" bit.ly/2SOgk6T
 | Mar 02, 2016 | War on the Rocks: "Open letter on Donald Trump from GOP national security leaders" bit.ly/2PJQDCE
-| Mar 02, 2016 | @dcexaminer: "Ben Carson plans to exit 2016 race" archive.is/pr9rm
+| Mar 02, 2016 | Ben Carson campaign heads for the exits archive.is/pr9rm
 | Mar 02, 2016 | Strzok attends a MYE briefing archive.is/6OHb0
 | Mar 02, 2016 | Carter Page speaks with FBI/SDNY prosecutors archive.ph/j5CqF
-| Mar 02, 2016 | @McFaul: "Flynn is advising Trump. Trump could be president. If Flynn is taking money from Russian govt., I want to know" bit.ly/2rEBWa5
+| Mar 02, 2016 | Ambassador McFaul tweets that he wants to know if Gen. Flynn is taking money from the Russian govt bit.ly/2rEBWa5
 | Mar 03, 2016 | Eleventh GOP primary debate, sponsored by FOX, held in Detroit, MI
 | Mar 03, 2016 | Obama executive order extends Russia sanctions for another year
 | Mar 03, 2016 | Politico: "Trump names Sessions chairman of national security committee" archive.is/bM93Y
 | Mar 03, 2016 | Moscow Times: "How Putin's Bank Became Russia's $20 Billion Problem" (VneshEconomBank) archive.is/fmuaC
-| Mar 04, 2016 | NYT: "Ben Carson suspends his once-promising presidential bid" archive.is/86nTS
+| Mar 04, 2016 | Ben Carson suspends campaign archive.is/86nTS
 | Mar 05, 2016 | Donna Brazile emails a CNN debate question in advance to John Podesta
-| Mar 05, 2016 | Buffalo News: "The radical adventures of conservative radio host Mike Caputo" (joins Trump campaign) archive.is/NGbsZ
+| Mar 05, 2016 | Buffalo News article on Michael Caputo joining Trump campaign archive.is/NGbsZ
 | Mar 06, 2016 | Papadopoulos learns he'll be joining the Trump campaign and based on a conversation he had with "Campaign Supervisor", he understood that a principal foreign policy focus of the Campaign was an improved US relationship with Russia [see: Oct 5, 2017 Papadopoulos Statement of Offense]
-| Mar 06, 2016 | Bloomberg: "Trump Tower Funded by Rich Chinese Who Invest Cash for Visas" by Jesse Drucker bit.ly/2URaGm7
-| Mar 07, 2016 | Yahoo: "Trump challenged over ties to mob-linked gambler with ugly past" by Michael Isikoff about mob connections like Robert LiButti
-| Mar 07, 2016 | RT.com: "Hacker ‘Guccifer,’ who uncovered Clinton’s private emails, to be extradited to US" bit.ly/2QRGzMo
+| Mar 06, 2016 | Bloomberg article on Chinese investors receiving U.S. visas for investing in Kushner properties bit.ly/2SQEr5n
+| Mar 07, 2016 | Yahoo article on mafia-related figures who've done business with Trump by Michael Isikoff bit.ly/2Fp4fCv
+| Mar 07, 2016 | RT.com reports Marcel Lazar Lehel, aka Guccifer, to be extradited to the U.S. bit.ly/2QRGzMo
 | Mar 07, 2016 | Podesta Group contracts w/Sberbank; charges $20k/mo till Sep 2016; LDA not filed till 3/25/16 bit.ly/2Tv04bb
 | Mar 07, 2016 | Papadopoulos in Israel for Hadera Energy conference though the 11th
 | Mar 07, 2016 | John Giacalone joins Hilton Worldwide as the Vice President of Global Security and Safety bit.ly/2EnRRRK
@@ -1527,23 +1534,22 @@
 | Mar 14, 2016 | Brennan flies to Moscow; flight not disclosed until Apr 2018; he visits the Director of FSB; it's possible he visits another official as well; does not visit the Foreign Ministry bit.ly/2RZhg8d [see: Mar 28, 2016 themoscowtimes.com]
 | Mar 14, 2016 | Yahoo: "Trump campaign violence goes back a long way" by Michael Isikoff about a fight between a demonstrator and Trump's bodyguard, Keith Schiller bit.ly/2BlV1m8
 | Mar 14, 2016 | Papadopoulos meets Joseph Mifsud in Italy at LINK Campus, Misfus promises contacts with Russian officials [see: Oct 5, 2017 Papadopoulos Statement of Offense]
-| Mar 14, 2016 | "On or about March 14, 2016, using funds in a bitcoin address, the Conspirators purchased a VPN account, which they later used to log into the @Guccifer_2 Twitter account. The remaining funds from that bitcoin address were then used on or about April 28, 2016, to lease a Malaysian server that hosted the dcleaks.com website" [see: Jul 13, 2018 Mueller indictment]
+| Mar 14, 2016 | Russian hackers purchase a VPN with bitcoin; later, VPN is used to log into @Guccifer_2 account bit.ly/2Cj0pa5
 | Mar 14, 2016 | "On or about Mar 14, 2016 and Apr 28, 2016, the Conspirtors used the same pool of bitcoin funds to purchase a virtual private network ("VPN") account and to lease a server in Malaysia." [see: Jul 13, 2018 Mueller indictment]
 | Mar 15, 2016 | Rubio suspends campaign after losing Florida
 | Mar 15, 2016 | Manafort begins to have ties with Trump campaign
 | Mar 15, 2016 | Manafort recommends hiring pollster Tony Fabrizio shortly after joining the Trump campaign bit.ly/2FjFWpp
 | Mar 15, 2016 | Bloomberg: "Trump’s Long Romance With Russia" by Josh Rogin; Agalarovs, Miss Universe Moscow archive.ph/hYmfZ
-| Mar 15, 2016 | "On or about March 15, 2016, YERMAKOV ran a technical query for the DNC's internet protocol configurations to identify connected devices. On or about the same day, YERMAKOV searched for open-source information about the DNC network, the Democratic Party, and Hillary Clinton" [see: Jul 13, 2018 Mueller indictment]
+| Mar 15, 2016 | Yermakov runs a technical query for the DNC's IP configurations; searches open source info on DNC/HRC bit.ly/2SSLHgQ
 | Mar 16, 2016 | Bruce Ohr emails NYT's Peter Carr; he denies that the now-deceased Mikhail Lesin had reached out to him earlier archive.is/PUAmF
 | Mar 16, 2016 | Strzok: "Just waiting for Baker, then done", Lisa Page: "Our guy is talking..." 
 | Mar 17, 2016 | InfoWars: "How the GOP elite plan to rob Donald Trump" archive.is/iYbK7
-| Mar 17, 2016 | Steele emails Bruce Ohr; he asks if he has plans to visit Europe; Ohr says he does not, and asks Steele if would like to set up a call [see: Aug 8, 2018 Washington Examiner]
+| Mar 17, 2016 | Steele emails Ohr; Ohr says he has no plans to visit Europe; Steele asks to set up a call bit.ly/2CfPii4
 | Mar 18, 2016 | The Observer:"Hillary Clinton Has an NSA Problem"
-| Mar 19, 2016 | "On or about March 19, 2016, LUKASHEV and his co-conspirators created and spent a spearfishing email to the chairman of the Clinton Campaign" [see: Jul 13, 2018 Mueller indictment]
-| Mar 19, 2016 | Podesta gets the phishing email and takes the bait; campaign staffer, Charles Delavan, instructs John Podesta to change his password ASAP [see: Dec 13, 2016 NYT and Jul 13, 2018 Netyksho Indictment]
+| Mar 19, 2016 | Luvashev and co-conspirators send spearphishing email to John Podesta bit.ly/2FroK1k
 | Mar 19, 2016 | Alexandra Chalupa starts consulting with DNC on Trump's Russia ties
 | Mar ??, 2016 | Adm Rogers becomes aware of improper access to raw FISA data
-| Mar 21, 2016 | "On or about March 21, 2016 , LUKASHEV, YERMAKOV, and their co-conspirators stole the contents of the chairman's email account, which consisted of over 50,000 emails" [see: Jul 13, 2018 Mueller indictment]
+| Mar 21, 2016 | Lukashev, Yermakov, and co-conspirators steal about 50,000 emails from John Podesta's online account bit.ly/2Fp7Mkm
 | Mar 21, 2016 | DOJ: "Turkish National Arrested for Conspiring to Evade U.S. Sanctions Against Iran, Money Laundering and Bank Fraud" archive.is/ig6qY
 | Mar 21, 2016 | Reuters: "U.S. arrests Turkish businessman accused of evading Iran sanctions" archive.is/W4D2z
 | Mar 21, 2016 | CNN: "Donald Trump unveils foreign policy advisers" Candidate Trump mets with WaPo editorial board. They ask him for names of his foreign policy advisors. He also He lists Carter Page and George Papadopoulos, as well as Phares, Schmitz, Kellogg. During the interview he's specifically asked about NATO. Trump says he doesn't want to pull out but thinks it needs to be reconsidered archive.is/tcTmJ
@@ -1559,12 +1565,12 @@
 | Mar 25, 2016 | Podesta Group files LDA on 3/7/16 contract work w/Sberbank bit.ly/2Tv04bb
 | Mar 25, 2016 | Alexandra Chalupa meets with top Ukrainian officials at Ukrainian Embassy in Washington D.C. to “expose ties between Trump, top campaign aide Paul Manafort and Russia,” according to Politico. Isikoff goes too. Chalupa makes prediction and warns Ukraine’s ambassador to the U.S. about Paul Manafort
 | Mar 25, 2016 | @billbrowder: "Carter Page is completely out of his mind in relation to Russia" archive.is/EJQ01
-| Mar 25, 2016 | "On or about March 25, 2016, LUKASHEV used the same john356gh account to mask additional links included in spearphishing emails sent to numerous individuals affiliated with the Clinton Campaign, including Victims 1 and 2" [see: Jul 13, 2018 Netyksho Indictment]
+| Mar 25, 2016 | Luskahsev uses john356gh account to mask additional links included in spearphishing emails bit.ly/2QG40UF
 | Mar 26, 2016 | NYT: "After an Indictment, Turks Give U.S. Prosecutor a Hero’s Welcome Online" (Reza Zarrab) bit.ly/2QxuHQf
 | Mar 27, 2016 | WaPo: "How Clinton’s email scandal took root" archive.is/Tnlkq
 | Mar 28, 2016 | NYT: "Donald Trump Hires Paul Manafort to Lead Delegate Effort" archive.is/mMB0K
-| Mar 28, 2016 | "On or about March 28, 2016, YERMAKOV researched the names of Victims 1 and 2 and their association with Clinton on various social media sites." [see: Jul 13, 2018 Mueller indictment]
-| Mar 28, 2016 | themoscowtimes.com: "CIA Director Brennan Made Secret Trip to Moscow" bit.ly/2GjrzCK
+| Mar 28, 2016 | Yermakov researches the names of Victims 1 and 2 and their association with Clinton on social media bit.ly/2H6ClwE
+| Mar 28, 2016 | First report about CIA Director Brennan Made Secret Trip to Moscow" bit.ly/2GjrzCK
 | Mar 28, 2016 | Clinton says that Trump wants to pull out of NATO during one of her campaign speeches
 | Mar 29, 2016 | Strzok texts Lisa Page about an article explaining Combetta's use of BleachBit
 | Mar 30, 2016 | Alexandra Chalupa becomes hot topic after Manafort research pays off. She briefs Democratic National Committee (DNC) staff on Russia ties to Paul Manafort and Trump. With “DNC’s encouragement,” Chalupa asks Ukrainian embassy to arrange meeting with Ukrainian President Petro Poroshenko to discuss Manafort’s lobbying for Ukraine’s former president Viktor Yanukovych. The embassy declines to arrange meeting but becomes “helpful” in trading info and leads archive.is/EHQFd
@@ -1597,9 +1603,9 @@
 | Apr 05, 2016 | NYT: "Donald Trump Settled a Real Estate Lawsuit, and a Criminal Case Was Closed" by Mike McIntire. Has Trump SoHo Manhattan, Felix Sater, Tevfik Arif archive.is/5S0Nj
 | Apr 05, 2016 | Olga Bielkova reportedly seeks meetings with five dozen members of U.S. Congress and reporters
 | Apr 05, 2016 | FBI General Counsel Jim Baker attends the Global Privacy Summit, along with Michael Sussmann (Perkins Coie)
-| Apr 06, 2016 | "On or about April 6, 2016, the Conspirators created an email account in the (with a one-letter deviation from the actual spelling) of a known member of the Clinton Campaign. The Conspirators then used that account to send spearphishing emails to the work accounts of more than thirty different Clinton Campaign employees" [see: Jul 13, 2018 Mueller indictment]
+| Apr 06, 2016 | Fake email account is used to send spearphishing emails to +30 Clinton Campaign employees bit.ly/2QMUEGY
 | Apr 06, 2016 | @WikiLeaks: "US govt funded #PanamaPapers attack story on Putin via USAID. Some good journalists but no model for integrity" archive.is/GGqKN
-| Apr 07, 2016 | "On or about April 7, 2016, YERMAKOV ran a technical query for the DCCC's internet protocol configurations to identify connected devices" [see: Jul 13, 2018 Mueller indictment]
+| Apr 07, 2016 | Yermakov runs a technical query for the DCCC's internet protocol configurations to identify devices bit.ly/2ALa1KD
 | Apr 07, 2016 | The Observer: "Panama Papers Reveal Clinton’s Kremlin Connection" (Sberbank, Podesta) archive.is/gk6j5
 | Apr 07, 2016 | Free Beacon: "Trump Elevates Former Putin Ally Adviser to Senior Campaign Role" (Manafort to lead RNC Convention)
 | Apr 07, 2016 | Article in jpost.com quotes Papadopoulos extensively. Talks about Russia
@@ -1610,47 +1616,47 @@
 | Apr 10, 2016 | Fox News: "President Barack Obama on 'Fox News Sunday'" archive.is/NvHt6
 | Apr 10, 2016 | USA Today: "Obama to Fox News: No politics in Hillary Clinton email investigation" archive.is/xy3fl
 | Apr 10, 2016 | Papadopoulos emails Olga Vinogradova, who he believes is Putin's neice. Contacts her again on April 11 and April 12
+| Apr ??, 2016 | DCCC is hacked around Apr 11-12, 2016 bit.ly/2FoSxYE
 | Apr 11, 2016 | Glenn Simpson attends Logan Symposium, along with Jane Meyer (New Yorker) and Ken Vogel (Politico)
 | Apr 11, 2016 | Manafort: "I assume you have shown our friends my media coverage, right?" [see: Oct 2, 2017 Atlantic]
 | Apr 11, 2016 | Kilimnik: "Absolutely. Every article." [see: Oct 2, 2017 Atlantic]
 | Apr 11, 2016 | Manafort: “How do we use to get whole” (w/ Caymans), “Has [Deripaska's] operation seen?” [see: Oct 2, 2017 Atlantic]
 | Apr 12, 2016 | Flynn on Megyn Kelly
 | Apr 12, 2016 | Olga Bielkova and a colleague meet with David Kramer, Liz Zentos, and Michael Kimmage
-| Apr 12, 2016 | "On or about April 12, 2016, the Conspirators used the stolen credentials of a DCCC Employee ("DCCC Employee 1") to access the DCCC network. DCCC Employee 1 had received a spearphishing email from the Conspirators on or about April 6, 2016, and entered her password after clicking on the link" [see: Jul 13, 2018 Mueller indictment]
+| Apr 12, 2016 | Stolen credentials of a DCCC employee is used to access the DCCC network bit.ly/2TJZIxq
 | Apr 12, 2016 | Someone pays $37 worth of bitcoin to the Romanian web hosting company THCServers.com, to reserve a website called Electionleaks.com [see: Nov 3, 2017 Tribune]
 | Apr 12, 2016 | Comey tells Yates, Rybicki, and Axelrod that he'd like to find a way to credibly close MYE [see: IG Report p. 168]
 | Apr 13, 2016 | Robert Mueller and an Obama intel official meet at White House
 | Apr ??, 2016 | Alexandra Chalupa begins working with Michael Isikoff about opposition research on Paul Manafort around this time
-| Apr 14, 2016 | "On or about April 14, 2016, the Conspirators repeatedly activated X-Agent's keylog and screenshot functions to surveil DCCC Employee 1's computer activit over the course of eight hours. During that time, the Conspirators captured DCCC Employee 1's communications with co-workers and the passwords she entered while working on fundraising and voter outreach projects" [see: Jul 13, 2018 Mueller indictment]
+| Apr 14, 2016 | X-Agent keylog and screenshot functions activated to surveil DCCC Employee 1's computer activity bit.ly/2VPfCIQ
 | Apr 14, 2016 | Guardian: "Ukraine parliament approves Volodymyr Groysman as new PM" archive.is/UtEPK
 | Apr 14, 2016 | @NSC44: "Readout of @VP Biden’s Call with Ukraine's newly-elected Prime Minister Volodymyr Groysman"
 | Apr 15, 2016 | WaPo: "GOP foreign policy elites don’t know whether they’ll serve if Trump is president" archive.is/5EBaL
-| Apr 15, 2016 | "On or about April 15, 2016" the Conspirators searched one hacked DCCC computer for terms that included "hillary," "cruz," and "trump." The Conspirators also copied select DCCC folders, including "Benghazi Investigations." The Conspirators targeted computers containing information such as opposition research and field operation plans for the 2016 elections" [see: Jul 13, 2018 Mueller indictment]
+| Apr 15, 2016 | Hacked DCCC computer is searched thru for terms that include "hillary," "cruz," "trump," & "Benghazi" bit.ly/2STykgG
 | Apr 16, 2016 | Olga Bielkova and a colleague meet with Sen. John McCain associate David Kramer with the McCain Institute. Bielkova also meets with Liz Zentos of Obama’s National Security Council, and State Department official Michael Kimmage archive.is/c7F17
 | Apr 16, 2016 | Barbara Westgate appointed Director of Washington Headquarters Services (DOD Field Activity, agency that paid Halper)
 | Apr 18, 2016 | @SopanDeb: "New power to watch in Trump world: Rick Gates - a Manafort deputy, now playing a big role in campaign" archive.is/whPIy
 | Apr 18, 2016 | Mike Rogers shuts down all outside contractor access to raw FISA information – specifically outside contractors working for the FBI. The discovery that outside contractors were accessing raw FISA data is probably the event that precipitated Rogers ordering a full compliance review. Both the FBI and DOJ’s NSD become aware of Rogers’ compliance review. They may have known earlier but they were certainly aware after outside contractor access was halted. But "About" queries continue, probably from CIA employees
 | Apr 18, 2016 | @HeatStreet: "Hello tweeps."
-| Apr 18, 2016 | Heat Street: "Catholic Parishioners: Investigate Bernie Sanders’ Wife for Fraud" archive.is/yNiPI
-| Apr 18, 2016 | Vanity Fair: "Rupert Murdoch's new libertarian web site comes out swinging at Jane Sanders" archive.is/Np3PY
-| Apr 18, 2016 | Mifsud tells Papadopoulos that he had a meeting with Ivan Timofeev and talks about setting up a meeting between the two
+| Apr 18, 2016 | Heat Street article on Jane Sanders archive.is/yNiPI
+| Apr 18, 2016 | Vanity Fair article about Heat Street archive.is/Np3PY
+| Apr 18, 2016 | Mifsud tells Papadopoulos that he had a meeting with Ivan Timofeev; talks about setting up a meeting between the two
 | Apr 18, 2016 | Yahoo: "Top Trump aide lobbied for Pakistani spy front" by Mike Isikoff, talking about Manafort archive.is/4fOUp
-| Apr 18, 2016 | "On or about April 18, 2016, the Conspirators hacked into the DNC's computers through their access to the DCCC network. The Conspirators then installed and managed different types of malware (as they did the DCCC network) to explore the DNC network and steal documents" [see: Jul 13, 2018 Mueller indictment]
-| Apr 18, 2016 | "On or about April 18, 2016, the Conspirators activated X-Agent's keylog and screenshot functions to steal credentials of a DCCC employee who was authorized to access the DNC network. The Conspirators hacked into the DNC network from the DCCC network using stolen credentials. By in or around June 2016, they gained access to approximately thirty-three DNC computers" [see: Jul 13, 2018 Mueller indictment]
+| Apr 18, 2016 | X-Agent keylog and screenshot functions activated to steal credentials of a DCCC employee bit.ly/2D5P8vc
 | Apr 19, 2016 | Trump takes New York Primary archive.is/M9W5n
 | Apr 19, 2016 | Deccan Chronicle: "Top Trump aide lobbied for Pak ISI frontal outfit in US" archive.is/o8Riq
 | Apr 19, 2016 | Mary Jacoby signs visitor guestbook at White House
 | Apr 19, 2016 | NYMag: "How Paul Manafort Took Over the Trump Campaign" archive.is/78nbS
-| Apr 19, 2016 | "On or about April 19, 2016, KOZACHEK, YERSHOV, and their co-conspirators remotely configured an overseas computer to relay communications between the X-Agent malware and the AMS panel and then tested X-Agent's ability to connect to this computer. The Conspirators referred to this computer as a "middle server". The middle server acted as a proxy to obscure the connection between malware at the DCCC and the Conspirators' AMS panel" [see: Jul 13, 2018 Mueller indictment]
-| Apr 19, 2016 | "On or about April 19, 2016, after attempting to register the domain electionleaks.com, the Conspirators registered the domain dcleaks.com through a service that anonymized the registrant" [see: Jul 13, 2018 Mueller indictment]
+| Apr 19, 2016 | Overseas computer configured to relay communications between X-Agent malware and AMS panel bit.ly/2VOkVIr
+| Apr 19, 2016 | Hackers attempt to register electionleaks.com; ultimately register dcleaks.com thru anon service bit.ly/2D6ovpU
 | Apr ??, 2016 | Brennan receives Baltic tape showing Kremlin money going into a presidential campaign [see: Jan 27, 2017 BBC]
 | Apr ??, 2016 | Brennan creates two task forces - Domestic task force (FBI, DOJ, Treasury) and Foreign task force (CIA, ODNI, NSA)
 | Apr 20, 2016 | Politico: "Trump campaign brings in lobbyists for key posts" (Rick Gates) archive.is/p3C7u
 | Apr 20, 2016 | Alexandra Chalupa begins receiving warnings about her Yahoo! mail account [see: Jan 11, 2017 Politico]
-| Apr 20, 2016 | "On or about April 20, 2016, the Conspirators directed the X-Agent malware on the DCCC computers to connect to this middle server and receive directions from the Conspirators" [see: Jul 13, 2018 Mueller indictment]
+| Apr 20, 2016 | X-Agent malware on the DCCC computers connects to AMS panel to receive directions from the Conspirators bit.ly/2RMIkeb
 | Apr 21, 2016 | Rybolovlev plane photographed in Charlotte @1:20pm by anonymous source [see: Mar 10, 2017 Charlotte Observer]
-| Apr 22, 2016 | "On or about April 22, 2016, the Conspirators compressed gigabytes of data from DNC computers, including opposition research. The Conspirators later moved the compressed DNC data using X-Tunnel to a GRU-leased computer located in Illinois" [see: Jul 13, 2018 Mueller indictment]
-| Apr 22, 2016 | "On or about April 22, 2016, the Conspirators activated X-Agent's keylog and screenshot functins to capture the discussions of another DCCC Employee ("DCCC Employee 2") about the DCCC's finances, as well as her individual banking information and other personal topics" [see: Jul 13, 2018 Mueller indictment]
+| Apr 22, 2016 | Using X-Tunnel, gigabytes of data from DNC computers is sent to a GRU-leased server in Illinois bit.ly/2FtiPIh
+| Apr 22, 2016 | X-Agent keylog and screenshot functions activated to capture discussions of "DCCC Employee 2" bit.ly/2FtottT
 | Apr 22, 2016 | Alan Cullison: "So I'm told Deripaska was in the U.S. this past week." (email to David Kramer) archive.is/9V2IH
 | Apr 22, 2016 | Russian intel prepares massive amount of data for exfiltration from DNC servers
 | Apr 22, 2016 | Timofeev and Papadopoulos email about meeting in London or Moscow. Had an "extensive talk"
@@ -1660,15 +1666,16 @@
 | Apr 26, 2016 | Mifsud tells Papadopoulos over breakfast about Russian officials who have damaging material on HRC [see: Oct 5, 2017 Papadopoulos Statement of Offense]
 | Apr 26, 2016 | WaPo: "Inside Trump adviser Manafort’s world of politics and global financial dealmaking" archive.is/ifRKi
 | Apr 26, 2016 | Yahoo: "Trump’s campaign chief is questioned about ties to Russian billionaire" by Mike Isikoff, about Manafort, Ukraine and the Cayman Islands filing by Deripaska archive.is/4M2qX
-| Apr 27, 2016 | Carter Page is in Dubai at this time bit.ly/2RkGbX0, bit.ly/2V5Bf7r
+| Apr 27, 2016 | Carter Page is in Dubai around this time bit.ly/2RkGbX0, bit.ly/2V5Bf7r
 | Apr 27, 2016 | Politico: "How Donald Trump became the Kremlin's Candidate" by Michael Crowley, talks about Flynn
 | Apr 27, 2016 | Bruno Kahl nominated to be President of the Federal Intelligence Service in Germany
 | Apr 27, 2016 | Papadopoulos sends email to Lewandowski, refers to possible meetings with Russian officials, says he was receiving “a lot of calls over the past month” about arranging a Russia meeting
+| Apr 28, 2016 | Hackers use remaining bitcoin from 3/14/16 to lease Malaysian server that hosts dcleaks.com website bit.ly/2RqpOcf
 | Apr 28, 2016 | Alexandra Chalupa invited to Ukraine at Library of Congress for Open World Leadership Center discuss Manafort research
-| Apr 28, 2016 | DNC detects infiltration of GRU ("Fancy Bear"), FBI not informed, Michael Sussman summoned to emergency meeting
+| Apr 28, 2016 | DNC detects infiltration of GRU; FBI not informed; Michael Sussman summoned to emergency meeting
 | Apr 28, 2016 | Vice: "A Brief History of Donald Trump and the Mafia: in the 1980s, the budding real estate mogul had a soft spot for wise guys" by Tom Robbins archive.is/ivVPS
 | Apr 28, 2016 | Slate: "The Quiet American: Paul Manafort made a career out of stealthily reinventing the world’s nastiest tyrants as noble defenders of freedom. Getting Donald Trump elected will be a cinch" by Franklin Foer
-| Apr 28, 2016 | "On or about April 28, 2016, the Conspirators connected to and tested the same computer located in Illinois. Later that day, the Conspirators used X-Tunnel to connect to that computer to steal additional documents from the DCCC network" [see: Jul 13, 2018 Mueller indictment]
+| Apr 28, 2016 | X-Tunnel is used to send additional documents from the DCCC to the GRU-leased computer in Illinois bit.ly/2Fo96DM
 | Apr 29, 2016 | WaPo: "Sanders campaign drops lawsuit against DNC stemming from December data breach"
 | Apr 29, 2016 | McClatchly: "What Panama Papers say - and don’t say - about Trump"
 | Apr 30, 2016 | Strzok: "And now we've switched from the Patriot Act to a wire carrying current."
@@ -1702,7 +1709,7 @@
 | May 11, 2016 | Credit Suisse prospectus released and the Mission Ridge properties are in it. In the diagrams, it says that Mission Ridge space is leased to a Government tenant. But in the "property" section it names the FBI and talks about the line of sight from NRO bit.ly/2Qrg15k
 | May 11, 2016 | Judge releases documents to AP relating to links between Trump and Felix Sater
 | May 13, 2016 | Mifsud emails Papadopoulos an update about "recent conversations"
-| May 13, 2016 | "On or about May 13, 2016, the Conspirators cleared the event logs from a DNC computer" [see: Jul 13, 2018 Mueller indictment]
+| May 13, 2016 | Event logs from a DNC computer are cleared in order to cover tracks of remote hackers bit.ly/2H7OCRG
 | May 15, 2016 | Evan Perez indicates wiretapping of Paul Manafort ends sometime in 2016 due to lack of evidence
 | May 15, 2016 | Crowdstrike claims it investigated DNC hacking and that the Russians were responsible. FBI denied access to server
 | May 15, 2016 | Fusion GPS hires Nellie Ohr for their Russian research
@@ -1732,7 +1739,7 @@
 | May 25, 2016 | Yahoo: "Trump moneyman’s shady history" by Michael Isikoff about Elliott Broidy
 | May 25, 2016 | ABC News: "Russian Spy Who Posed as Manhattan Banker Is Heading to Prison" archive.is/ZsGgS
 | May 25, 2016 | @USAttyBharara: "Banker by day, Russian agent by night. Buryakov sentenced for conspiracy to 30 mths in prison"
-| May 25, 2016 | "Between on or about May 25, 2016 and June 1, 2016, the Conspirators hacked the DNC Microsoft Exchange Server and stole thousands of emails from the work accounts of DNC employees. During that time, YERMAKOV researched PowerShell cmmands related to accessing and managing the Microsoft Exchange Server" [see: Jul 13, 2018 Mueller indictment]
+| May 25, 2016 | DNC Microsoft Exchange Server is hacked; thousands of emails from DNC employees work accounts is stolen bit.ly/2QK4SYz
 | May 26, 2016 | Carter Page emails J.D. Gordon and another foreign policy team member, Bernadette Kilroy, letting them know he will be speaking at the New Economic School’s commencement [see: Nov 2, 2017 Carter Page transcript]
 | May 26, 2016 | Telegraph: "Donald Trump signed off deal designed to deprive US of tens of millions of dollars in tax" byline Ruth Sherlock, Edward Malnick, Claire Newell about Felix Sater
 | May 26, 2016 | @DavidCornDC: "Trump has had mob links, and he's upset about HRC's server and her bad judgment. #OhMy" RTs David Cay Johnson's Politico article
@@ -1740,10 +1747,10 @@
 | May 27, 2016 | Yahoo: "Senate sleuths focus on ex-State Department aide in Clinton email ‘cover-up’" by Michael Isikoff
 | May 27, 2016 | CNN: "Trump's Veepstakes: Who is Michael Flynn?" archive.is/fpTzd
 | May 29, 2016 | Henry Greenberg solicits Stone and Caputo in Sunny Isles, FL (see date on text message) [see: Jun 17, 2018 WaPo]
-| May 30, 2016 | "On or about May 30, 2016, MALYSHEV accessed the AMS panel in order to upgrade custom AMS software on the server. That day, the AMS panel received updates from approximately thirteen different X-Agent malware implants on DCCC and DNC computers" [see: Jul 13, 2018 Mueller indictment]
+| May 30, 2016 | Malyshev accesses AMS panel; X-Agent malware implants on DCCC and DNC computers are updated bit.ly/2HakdSv
 | May 31, 2016 | NV receives confirmation for an interview regarding her B1 visa application
-| May 31, 2016 | "On or about May 31, 2016, YERMAKOV searched for open-source information about Company 1 and its reporting on X-Agent and X-Tunnel" [see: Jul 13, 2018 Mueller indictment]
-| Jun 01, 2016 | "On or about June 1, 2016, the Conspirators attempted to delete traces of their presences on the DCCC network using the computer program CCleaner" [see: Jul 13, 2018 Mueller indictment]
+| May 31, 2016 | Yermakov searches for open-source info about [CrowdStrike] and its reporting on X-Agent and X-Tunnel bit.ly/2Fy63YS
+| Jun 01, 2016 | Russian hackers attempt to delete traces of their presences on the DCCC network using CCleaner bit.ly/2srGsJn
 | Jun ??, 2016 | NV shops financial info on Ziff brothers in DC around this time bit.ly/2Ezaoea, bit.ly/2LyqINO
 | Jun ??, 2016 | Sergei Skripal visits Estonian intelligence officers, arranged by British intelligence
 | Jun ??, 2016 | Steele flies to Rome to brief FBI agent Gaeta about dossier
@@ -1770,7 +1777,8 @@
 | Jun 07, 2016 | Paul Manafort was not wiretapped by the FBI at this time
 | Jun 07, 2016 | Assange accuses Google of conspiring with the Clinton campaign
 | Jun 07, 2016 | Strzok briefs USD(I)
-| Jun 08, 2016 | "On or about June 8, 2016, the Conspirators launched the public website dcleaks.com, which they used to release stolen emails" [see: Jul 13, 2018 Mueller indictment]
+| Jun 08, 2016 | dcleaks.com website launches bit.ly/2AGK6E4
+| Jun 08, 2016 | @dcleaks_ twitter account created bit.ly/2Rqoiqz
 | Jun 08, 2016 | NV arrives in New York in the evening, dinner with Glenn Simpson
 | Jun 09, 2016 | NV emails Rob Goldstone at 9:30am asking to bring Akhmetshin
 | Jun 09, 2016 | Melanne Verveer attends the House of Ukraine event in Washington, DC
@@ -1800,15 +1808,13 @@
 | Jun 14, 2016 | CrowdStrike blog about Russian intel hacking DNC servers bit.ly/2SjiZ8A
 | Jun 14, 2016 | Veselnitkaya provides a hearing to the US House Foreign Relations Committee about Magnitsky act
 | Jun 14, 2016 | Crowdstrike and DNC demand FBI announce that Russian entities hacked their servers
-| Jun 14, 2016 | "On or about June 14, 2016, the Conspirators registered the domain actblues.com, which mimicked the domain of a political fundraising platform that included a DCCC donations page. Shortly thereafter, the Conspirators used stolen DCCC credentials to modify the DCCC website and redirect visitors to the actblues.com domain" [see: Jul 13, 2018 Mueller indictment]
-| Jun 14, 2016 | "On or about June 14, 2016, the DNC -- through [CrowdStrike] -- publicly announced that it had been hacked by Russian government actors. In response, the Conspirators created the online persona Guccifer 2.0 and falsely claimed to be a lone Romanian hacker to undermine the allegations of Russian responsibility for the intrusion" [see: Jul 13, 2018 Mueller indictment]
-| Jun 15, 2016 | Guccifer 2.0: "DNC's Servers Hacked by a Lone Hacker", claims responsibility
-| Jun 15, 2016 | @TaraMckelvey: ""We strongly support a delivery on revolution," Vice President Biden told PM Groysman of Ukraine here today."
+| Jun 14, 2016 | Russian hackers register actblues.com; DCCC website modified; visitors redirected to actblues.com bit.ly/2RG0RsH
+| Jun 14, 2016 | The DNC, through [CrowdStrike], announces it has been hacked by Russian government actors bit.ly/2AHV8c2
+| Jun 14, 2016 | Russian hackers create the online persona Guccifer 2.0 and falsely claim to be a lone Romanian hacker bit.ly/2AHV8c2
 | Jun 15, 2016 | Stanislav Yezhov translates in a meeting with Joe Biden at the White House [see: Dec 21, 2017 Guardian]
 | Jun 15, 2016 | Yahoo: "Back to court for Trump, now in his suit against chef Zakarian" by Michael Isikoff
 | Jun 15, 2016 | Alexandra Chalupa's consulting contract with the DNC ends
-| Jun 15, 2016 | "On or about June 15, 2016, the Conspirators logged into a Moscow-based server used and managed by Unit 74455 and, between 4:19 PM and 4:56 PM Moscow Standard Time, searched for certain words and phrases, including: 'some hundred sheets', 'some hundreds of sheets', 'dcleaks', 'illuminati', 'worldwide known', 'think twice about', and 'company's competence'"  [see: Jul 13, 2018 Mueller indictment]
-| Jun 15, 2016 | "Later that day [on June 15, 2016], at 7:02 PM Moscow Standard Time, the online persona Guccifer 2.0 published its first post on a blog site created through WordPress. Titled 'DNC's servers hacked by a lone hacker,' the post used numerous English words and phrases that the Conspirators had searched for earlier that day" [see: Jul 13, 2018 Mueller indictment]
+| Jun 15, 2016 | Hackers search for esoteric phrases; later, used in "DNC's servers hacked by a lone hacker" blog bit.ly/2RrrUZs
 | Jun 16, 2016 | NV returns to New York
 | Jun 16, 2016 | John Brennan appears on Capitol Hill for an open SSCI hearing bit.ly/2rZYK4e
 | Jun 17, 2016 | Sberbank/Huawei memorandum is signed at St. Petersburg International Economic Forum [see: Jun 20, 2016 rbth.com]
@@ -1817,8 +1823,8 @@
 | Jun 18, 2016 | Fusion GPS hires Christopher Steele
 | Jun 19, 2016 | Stephanie Burant emails Robert Otto, asks Otto for his take on a WaPo article about Manafort 
 | Jun 19, 2016 | Bloomberg: "Putin Said to Weigh $11 Billion Rosneft Sale to China, India" archive.is/bxXdR
-| Jun 20, 2016 | "On or about June 20, 2016, the Conspirators deleted logs from the AMS panel that documented their activies on the panel, including login history" [see: Jul 13, 2018 Mueller indictment]
-| Jun 20, 2016 | "On or about June 20, 2016, after Company 1 had disabled X-Agent on the DCCC network, the Conspirtors spent over seven hours unsuccessfully trying to connect to X-Agent. The Conspirators also tried to access the DCCC network using previously stolen credentials" [see: Jul 13, 2018 Mueller indictment]
+| Jun 20, 2016 | Logs deleted from DNC network through the AMS panel bit.ly/2RGdWlK
+| Jun 20, 2016 | [CrowdStrike] disables X-Agent on DCCC network; Conspirtors try, but fail to reconnect to X-Agent bit.ly/2TNBwdK
 | Jun 20, 2016 | Steele files first Trump-Russia memo, cites Source D
 | Jun 20, 2016 | rbth.com: "Sberbank, Huawei sign memorandum, general agreement on cooperation" archive.is/FA6XJ
 | Jun 20, 2016 | Reuters: "Trump fires campaign manager in shakeup for election push" (Lewandowski) archive.is/LiB02
@@ -1831,7 +1837,7 @@
 | Jun 22, 2016 | Legal Insurrection: "Trump Promotes Paul Manafort to Campaign Manager" archive.is/f9ftR
 | Jun 22, 2016 | Bloomberg: "Clinton Foundation Said to Be Breached by Russian Hackers" by Michael Riley bit.ly/2BlB6Ud
 | Jun 22, 2016 | WaPo: "Republicans: Save your party, don’t give to Trump" by George Will
-| Jun 22, 2016 | "On or about June 22, 2016, [WikiLeaks] sent a private message to Guccifer 2.0 to '[s]end any new material [stolen from the DNC] here for us to review and it will have a much higher impact than what you are doing.'" [see: Jul 13, 2018 Mueller indictment]
+| Jun 22, 2016 | [WikiLeaks] DM's Guccifer 2.0, requests new DNC materials be sent for review bit.ly/2H7iPQJ
 | Jun 21, 2016 | Guccifer 2.0 releases a batch of stolen DNC documents about Secretary Clinton
 | Jun 23, 2016 | Brexit 
 | Jun 24, 2016 | Media Matters: "Roger Stone: Trump 'Wisely Fired Corey Lewandowski,' Now Working For CNN, The 'Most Anti-Trump' Network" archive.is/szsU9
@@ -1839,7 +1845,7 @@
 | Jun 24, 2016 | Simpson contacts Steele to arrange to receive a copy of the dossier, sent courier from the UK to Washington, DC
 | Jun ??, 2016 | DOJ/NSD submit first FISA application from two Russian banks. Rejected by FISA court. Unclear if this really happened, but it was requested by Chuck Grassley
 | Jun 26, 2016 | Steele talks to Mike Gaeta, says he has info he needs to show him. Gaeta checks with Victoria Nuland who gives the green light
-| Jun 27, 2016 | "On or about June 27, 2016, the Conspirators, posing as Guccifer 2.0, contacted a U.S. reporter with an offer to provide stolen emails from 'Hillary Clinton's staff.' The Conspirators then sent the reporer the password to access a nonpublic, password-protected portion of dcleaks.com containing emails stolen from Victim 1 by LUKASHEV, YERMAKOV, and their co-conspirators in or around March 2016" [see: Jul 13, 2018 Mueller indictment]
+| Jun 27, 2016 | Guccifer 2.0 sends a password to a U.S. reporters that purportedly gives access to HRC staff emails bit.ly/2QI5Jcj
 | Jun 27, 2016 | Podesta, Mook, Donolin meet with Obama, Biden in VP residence 
 | Jun 27, 2016 | ABC15: "Loretta Lynch, Bill Clinton meet privately in Phoenix before Benghazi report" archive.is/8qZwg
 | Jun 28, 2016 | ABC15: "Clinton: 'Time to move on' from Benghazi report" archive.is/BlGGR
@@ -1852,7 +1858,7 @@
 | Jul ??, 2016 | DOJ/NSD submit narrowed FISA application (still on two Russian banks?), fails again
 | Jul ??, 2016 | (early July) Unmasking of Trump officials increases
 | Jul 01, 2016 | Bruno Kahl confirmed as President of the Federal Intelligence Service in Germany
-| Jul 01, 2016 | Steele texts Bruce Ohr, says he'd like to discuss his "favorite business tycoon" bit.ly/2sf7T9u [see: Aug 8, 2018 Washington Examiner]
+| Jul 01, 2016 | Steele emails Bruce Ohr; says he'd like to discuss their "favorite business tycoon" bit.ly/2sf7T9u, bit.ly/2RrAqHS
 | Jul 01, 2016 | Strzok: "Holy cow... nyt breaking Apuzzo, Lync will accept whatever rec D and career prosecutors make"
 | Jul 01, 2016 | Strzok: "Lynch. Timing not great, but whatever. Wonder if that's why the no coordination language added"
 | Jul 01, 2016 | Lisa Page: "No way. This is a purposeful leak following the airplane snafu"
@@ -1871,9 +1877,9 @@
 | Jul 06, 2016 | Letter from Grassley to Comey about Clinton emails bit.ly/2CavHkt
 | Jul 06, 2016 | Strzok calls someone from USD(I)
 | Jul 06, 2016 | Trump: "I don't like those mosquitoes. I never did. Okay, speaking of mosquitoes...hello, Hillary!" archive.is/bZMnU
-| Jul 06, 2016 | "On or about July 6, 2016, the Conspirators used the VPN to log into the @Guccifer_2 Twitter account. The Conspirators opened that VPN account from the same server that was also used to register malicious domains for the hacking of the DCCC and DNC networks" [see: Jul 13, 2018 Mueller indictment]
-| Jul 06, 2016 | "On or about July 6, 2016, [WikiLeaks] added 'if you have anything hillary related we want it in the next tweo [sic] days prefable [sic] because the DNC is appraoching and she will solidify bernie supporters behind her after.' The Conspirators repsonded, 'ok...i see.' [WikiLeaks] explained, 'we think trump has only a 25% chance of winning against hillary...so conflict between bernie and hillary is interesting.'" [see: Jul 13, 2018 Mueller indictment]
-| Jul 07, 2016 | Skype call between Steele and Ohr at 10am EST bit.ly/2AuDaJN [see: Aug 8, 2018 Washington Examiner]
+| Jul 06, 2016 | Russian hackers use VPN to log into the @Guccifer_2 from same server used to register malicious domains bit.ly/2M9dkj8
+| Jul 06, 2016 | [WikiLeaks] requests from Guccifer 2.0 any documents related to HRC be expedited out for review bit.ly/2QJeWkq
+| Jul 07, 2016 | Skype call between Steele and Ohr from 8-8:30am bit.ly/2AuDaJN, bit.ly/2SPF3YU
 | Jul 07, 2016 | Carter Page gives a Power Point presentation and Q&A on “the future of the world economy” in Moscow
 | Jul 07, 2016 | Daily Mail: "Mystery over claims that Russian double agent, 64, who exposed glamour spy Anna Chapman has died in US"
 | Jul 07, 2016 | @DrLeoStrauss: "Intel - the underlying Interfax report driving all RF media reports #SVR Col. Poteyev is deceased."
@@ -1896,7 +1902,7 @@
 | Jul 13, 2016 | Lisa Page: "let me ask Baker what the meeting with Fine was about...be better not to get Jim deep in the facts of this yet"
 | Jul ??, 2016 | Nuland's claim of when she says she first glimpsed Steele dossier
 | Jul 14, 2016 | Papadopoulos emails Timofeev again suggesting August or September in UK as a time and place for a meeting
-| Jul 14, 2016 | The GRU sends an email to WikiLeaks with an attachment titled “wk dnc link1.txt.gpg.” The attachment contained an encrypted file with instructions on accessing an online archive of hacked DNC documents [see: Jul 13, 2018 Mueller Indictment|
+| Jul 14, 2016 | Guccifer 2.0 sends [WikiLeaks] encrypted file with instructions on accessing hacked DNC documents bit.ly/2FyaEKC
 | Jul 14, 2016 | "On or about July 14, 2016, [WikiLeaks] released over 20,000 emails and other documents stolen from the DNC network by the Conspirators. This release occured approximately three days before the start of the Democratic National Convention. [WikiLeaks] did not disclose Guccifer 2.0's role in providing them." [see: Jul 13, 2018 Mueller indictment]
 | Jul 15, 2016 | Arsen Avakov tweets criticisms of Trump and Manafort, calls Trump “an even bigger danger to the US than terrorism.”
 | Jul 15, 2016 | Papadopoulos sends a private Facebook message to a Facebook account identified with Timofeev, stating: “We can chat on this, this weekend if you can’t tonight.” Timofeev messaged back a Facebook “thumbs up.”
@@ -1907,6 +1913,7 @@
 | Jul 17, 2016 | Bloomberg: "Coup Was ‘Gift From God’ for Erdogan Planning a New Turkey" archive.is/ol3IR
 | Jul 18, 2016 | NYPost: "Ed Cox almost made Donald Trump really, really mad" (Ed Cox moves to block Newt) archive.is/xi40p
 | Jul 18, 2016 | GOP convention in Ohio begins
+| Jul 18, 2016 | [WikiLeaks] informs Guccifer 2.0 that they have the 1gb archive of hacked DNC documents bit.ly/2TLRjcW
 | Jul 18, 2016 | The Hill: "New Guccifer 2.0 dump highlights ‘wobbly Dems’ on Iran deal" Gucccifer 2.0 provides documents exclusively to The Hill including DNC banking records archive.is/xPD3p
 | Jul 18, 2016 | Interview between Mike Isikoff and Mike Flynn at RNC convention. Previews Russia-Flynn accusations. "Were you paid for that event?" "Why did you speak at that RT event?"
 | Jul 18, 2016 | WaPo: "George F. Will: GOP minds are at sea, but not the right one"
@@ -1922,7 +1929,7 @@
 | Jul 21, 2016 | Papadopoulos sends another private Facebook message to Timofeev stating: “How are things? Keep an eye on the speech tonight. Should be good.”
 | Jul 21, 2016 | Weekly FBI counterintelligence exec meeting where "preliminary conclusions were discussed" regarding DNC hack. Comey is there as well as Lisa Page and Jon Moffa. Comey first sees pee tape allegation? [see: Jul 26, 2016 NYT]
 | Jul 22, 2016 | Australia supposedly tells the FBI of Papadopoulos’ comments to Downer from May 10, 2016
-| Jul 22, 2016 | WikiLeaks disseminates stolen DNC documents bit.ly/2Sd7GyR
+| Jul 22, 2016 | WikiLeaks releases hacked DNC documents; latest-in-time email released is dated 5/25/16 bit.ly/2Sd7GyR, bit.ly/2Rmdl9k
 | Jul 22, 2016 | Millian messages Papadopoulos on LinkedIn
 | Jul 22, 2016 | Papadopoulos dm's Timofeev on Facebook, asks if he "knew a particular individual with extensive ties to Russian-based businesses", about Millian. "[i]f you know any background of him that is noteworthy before I see him, kindly send my way.”
 | Jul 23, 2016 | Obama golfing at Ft. Belvoir
@@ -1948,8 +1955,9 @@
 | Jul 25, 2016 | Trump rally in Winton-Salem, NC
 | Jul ??, 2016 | Sergei Millian does an interview with ABC’s Brian Ross archive.is/ROHZm
 | Jul 25, 2016 | Long Term Strategy Group excercises a $354,612 Option
-| Jul 25, 2016 | Yahoo: "Exclusive: Suspected Russian hack of DNC widens — includes personal email of staffer researching Manafort" by Michael Isikoff bit.ly/2QU4LOc
-| Jul 26, 2016 | DNC convention Day 2 (Tuesday). Speakers include Bill Clinton, Madeline Albright, Eric Holder, Terry McAuliffe, Nancy Pelosi
+| Jul 25, 2016 | Yahoo article on hacked accounts of DNC employees by Michael Isikoff bit.ly/2QU4LOc
+| Jul 26, 2016 | Spearphishing emails sent to third-party server hosting Clinton campaign accounts bit.ly/2CiGaZY
+| Jul 26, 2016 | DNC convention Day 2 (Tuesday); Speakers: Bill Clinton, Madeline Albright, Eric Holder, Terry McAuliffe, Nancy Pelosi
 | Jul 26, 2016 | DC-PPD-41 issued by White House. NCIJTF designated the lead responder to cyber threats
 | Jul 26, 2016 | WaPo: "George F. Will: The path ahead for Clinton and Kaine"
 | Jul 26, 2016 | Letter from Grassley to Lynch and Comey asking about Russian hacking bit.ly/2SJ6rHv
@@ -1960,13 +1968,13 @@
 | Jul 26, 2016 | Alexandra Chalupa leaves the DNC to work full-time on her research into Manafort, Trump and Russia
 | Jul 26, 2016 | @realDonaldTrump: "For the record, I have ZERO investments in Russia."
 | Jul 26, 2016 | Sater: "'Fuck me, I thought to myself. All that work for nothing'" [see: May 17, 2018 BuzzFeed]
-| Jul 26, 2016 | WSJ's Damian Paletta messages Carter Page about contacts with Sechin, Diyevkin bit.ly/2QPjHhf, bit.ly/2LAqZ2D, archive.vn/crTX3
+| Jul 26, 2016 | WSJ's Damian Paletta messages Carter Page about Sechin, Diyevkin bit.ly/2QPjHhf, bit.ly/2LAqZ2D, archive.vn/crTX3
 | Jul 27, 2016 | Kian tells Alptekin he had a "detailed discussion" with Flynn the previous night archive.fo/cCuFX
 | Jul 27, 2016 | Kian informs Alptekin that, "We are ready to engage on what needs to be done" archive.fo/cCuFX
 | Jul 27, 2016 | Kian adds, "At the right time, I will include our partners in the communications" archive.fo/cCuFX
 | Jul 27, 2016 | HuffPost: "Harry Reid To Intel Community: Give Donald Trump Fake Briefings" archive.is/JqUSh
-| Jul 27, 2016 | DNC Convention Day 3 (Wednesday). Adam Schiff, Harry Reid, Joe Biden, Barack Obama, Pitella gives speeches at convention
-| Jul 27, 2016 | Guardian: "Trump: 'Russia, I hope you can find Hillary's missing emails'" he says it at a campaign event in Florida that morning archive.is/PfsuV
+| Jul 27, 2016 | DNC Convention Day 3 (Wednesday); Speakers: Schiff, Reid, Biden, Obama, Pitella 
+| Jul 27, 2016 | Trump says he hopes Russia "can find Hillary's missing emails" archive.is/PfsuV
 | Jul 27, 2016 | In the afternoon, Trump is in Scranton, PA with Pence
 | Jul 27, 2016 | Trump holds a rally in Toledo, OH that night
 | Jul 27, 2016 | Trump states he would recognise Moscow’s annexation of Crimea
@@ -2072,9 +2080,9 @@
 | Aug 13, 2016 | Page: "I'm going to forward to Kortan. God, makes me want to tell state to go f it."
 | Aug 13, 2016 | Strzok: "States BS just makes me want to include those additional 302s. But that's just vindictiveness talking."
 | Aug 14, 2016 | NYT: "Secret Ledger in Ukraine Lists Cash for Donald Trump's Campaign Chief" Maggie Haberman calls it "deeply reported" Byline is Kramer, McIntyre and Meyer archive.is/Z5NPE
-| Aug 14, 2016 | Stone engages in direct messages with DNC hacker Guccifer 2.0, according to direct messages reported by the Washington Times and The Smoking Gun. Stone tells the hacker he was "delighted" Twitter reinstated his account
+| Aug 14, 2016 | Stone engages in direct messages with DNC hacker Guccifer 2.0, according to direct messages reported by the Washington Times and The Smoking Gun. Stone tells the hacker he was "delighted" Twitter reinstated his account bit.ly/2skb8fQ
 | Aug 15, 2016 | Kian and Alptekin set the start date for "Operation Confidence" (formerly "Truth Campaign") archive.fo/Dm5pA
-| Aug 15, 2016 | "On or about August 15, 2016, the Conspirators, posing as Guccifer 2.0, received a request for stolen documents from a candidate for the U.S. Congress. The Conspirators responded using the Guccifer 2.0 persona and sent the candidate stolen documents related to the candidate's opponent" [see: Jul 13, 2018 Mueller indictment]
+| Aug 15, 2016 | Guccifer 2.0 receives a request for stolen documents from a candidate for the U.S. Congress bit.ly/2QHsihe
 | Aug 15, 2016 | DOH's Jeh Johnson calls state officials to gain support for election defense, but was met with "a wall of resistance"
 | Aug 15, 2016 | Bruce Ohr contacts Peter Strzok [see: September 6, 2018 The Hill]
 | Aug 15, 2016 | Stone tells World Net Daily he communicated with Assange and forthcoming material will be related to the Clinton Foundation
@@ -2111,7 +2119,8 @@
 | Aug 21, 2016 | @StoneColdRoger: "it will soon the Podesta's time in the barrel"
 | Aug 21, 2016 | Obama gets back from Martha's Vineyard vacation. Unofficial deadline for outlining options regarding Russia
 | Aug 21, 2016 | Robbie Mook on Stephanopoulos going off on Trump Russia
-| Aug 22, 2016 | "On or about August 22, 2016, the Conspirators, posing as Guccifer 2.0, sent a reporter stolen documents pertaining to the Black Lives Matter movement. The reporter responded by discussing when to release the documents and offering to write an article about their release" [see: Jul 13, 2018 Mueller indictment]
+| Aug 22, 2016 | Russian hackers compress, then send 2.5gb of data stolen from the DCCC, sent to a state lobbyist bit.ly/2TMHqeT
+| Aug 22, 2016 | Hackers posing as Guccifer 2.0 sends a reporter stolen documents pertaining to Black Lives Matter bit.ly/2VRC1FB
 | Aug 22, 2016 | Poteyev registers to vote [see: Oct 3, 2018 BuzzFeed] [see: Jun 5, 2017 @textifire]
 | Aug 22, 2016 | Bruce Ohr meets Glenn Simpson, Simpson offers intermediaries between Trump campaign and Russia, also Alfa Bank info; Simpson: "Can u ring" [see: Aug 8, 2018 Washington Examiner]
 | Aug 24, 2016 | Clapper and Brennan attend Presidential Daily Briefs Symposium at Nixon Library
@@ -2134,6 +2143,7 @@
 | Aug 30, 2016 | NBCNews: "Russians Hacked Two U.S. Voter Databases, Officials Say" byline Robert Windrem, William M. Arkin and Ken Dilanian
 | Aug 31, 2016 | Report filed against Anthony Weiner to ACS
 | Aug ??, 2016 | Susan Rice orders stand down to White House cyber security coordinator, Michael Daniel. Happens in "late Aug". Don't get ahead of the white house on this [see: Jun 20, 2018 Yahoo]
+| Sep ??, 2016 | Russian hackers access DNC computers thru third-party cloud-based service sometime Sep 2016 bit.ly/2TJKgS7
 | Sep ??, 2016 | DOJ inquires as to whether Manafort/Gates have been acting as unregistered agents of a foreign country bit.ly/2C0OnSx
 | Sep ??, 2016 | Comey, while testifying before Congress, does not confirm existence of any investigation into Trump's campaign aides
 | Sep ??, 2016 | Steele briefs Jonathon Winer on dossier at DC hotel, Winer gives 2-page summary to Nuland and Jon Finer
@@ -2245,6 +2255,7 @@
 | Sep 30, 2016 | House leadership gets another warning about the Awans
 | Sep 30, 2016 | End of FY 2016, beginning of FY 2017
 | Sep ??, 2016 | Steele attends several off-the-record meetings with U.S. journalists from NYT, WaPo, Yahoo, New Yorker, and CNN
+| Oct ??, 2016 | Linux-based version of X-Agent remains on the DNC network until sometime Oct 2016 bit.ly/2TJJ4hB
 | Oct ??, 2016 | Steele debriefed by FBI, hands over Cody Shearer memo
 | Oct ??, 2016 | Kerry aides produce "action memo", includes relatiatory measures against Russia, not published till election night
 | Oct ??, 2016 | Successful FISA on a server in Trump Tower, suspected of comms with two Russian banks [see: Nov 7, 2016 Heat Street]
@@ -2271,8 +2282,7 @@
 | Oct 07, 2016 | Susan Rice summons Ambassador Kislyak to the White House to relay a message to Vladimir Putin
 | Oct 07, 2016 | Strzok: : “Jesus. More BO leaks in the NYT” (Bruce Ohr?)
 | Oct 07, 2016 | Access Hollywood tape released
-| Oct 07, 2016 | "On or about October 7, 2016, [WikiLeaks] released the first set of emails from the chairman of the Clinton Campaign that had been stolen by LUKASHEV and his co-conspirators." [see: Jul 13, 2018 Mueller indictment]
-| Oct 07, 2016 | "Between on or about October 7, 2016 and November 7, 2016, [WikiLeaks] released approximately thirty-three tranches of documents that had been stolen from the chairman of the Clinton Campaign. In total over 50,000 stolen documents were released" [see: Jul 13, 2018 Mueller indictment]
+| Oct 07, 2016 | [WikiLeaks] releases the first set of emails from John Podesta bit.ly/2D5kqT4
 | Oct 08, 2016 | NeverTrumper GOP Congressman Will Hurd dumps Trump
 | Oct 09, 2016 | Second presidential debate. Hillary specifically mentions "17 intelligence agencies" assessment
 | Oct 09, 2016 | Poteyev applies for a fishing license at a Wal-Mart in Florida, using his full name [see: Oct 3, 2018 BuzzFeed]
@@ -2587,7 +2597,7 @@
 | Jan 11, 2017 | Daily Mail: "British government must NOT protect ex-spy behind claims of 'dirty' dossier on Trump" archive.is/ugzha
 | Jan 12, 2017 | FISA Verified Application on Carter Page (p. 84-162) [signed: Comey, Yates]
 | Jan 12, 2017 | FISA Primary Order and Warrant on Carter Page (p. 163-181) [signed: Judge Mosman]
-| Jan 12, 2017 | "On or about January 12, 2017, the Conspirators published a statement on the Guccifer 2.0 WordPress blog, falsely claiming that the instrusions and release of stolen documents had 'totally no relation to the Russian government.'" [see: Jul 13, 2018 Mueller indictment]
+| Jan 12, 2017 | Russian hackers falsely claim in a WordPress blog that Guccifer 2.0 has no relation to the Russian govt bit.ly/2TJkM7h
 | Jan 12, 2017 | Adam Lovinger invited to leave Office of Net Assessment
 | Jan 12, 2017 | CNN: "Intel chiefs presented Trump with claims of Russian efforts to compromise him" archive.is/1bfXX
 | Jan 12, 2017 | Paul Wood: "Trump 'compromising' claims: How and why did we get here?" archive.is/t5qrQ
@@ -3057,8 +3067,8 @@
 | May 08, 2017 | FBI interviews Bruce Ohr (Ohr FD-302 May 10, 2017)
 | May 08, 2017 | Allegedly the FBI brings Eric Trump and Don Jr. to the FBI's New York headquarters to ask them about attempted overseas cyberattacks against the Trump Organization. Representatives of the CIA also attend meeting. Reported by Brian Ross [See: May 26, 2017 ABC News]
 | May 08, 2017 | 11am, Comey gives speech at Anti Defamation League in Washington. Confirms he's on Twitter as Reinhold Neihbur
-| May 08, 2017 | James Clapper and Sally Yates testify to Senate Judiciary Committee. Steele doesn't like their answers and neither does Strzok
-| May 08, 2017 | AG Sessions and DAG Rosenstein meet with Trump in Oval Office. Trump tells them he wants to fire Comey. Rosenstein offers to write a memo
+| May 08, 2017 | Clapper, Yates testify to Senate Judiciary Committee. Steele doesn't like their answers and neither does Strzok
+| May 08, 2017 | Sessions, Rosenstein meet in Oval Office; Trump tells them he wants to fire Comey; Rosenstein offers to write a memo
 | May 08, 2017 | 1:30pm, At Burr and Warner's request, Comey meets with them to discuss ongoing Russia investigation and next steps.
 | May 08, 2017 | HPSCI letter to Acting Deputy Attorney General Dana Boente talking about media reports of FISA warrants. Asks to see them.
 | May 08, 2017 | Carter Page emails "REPORTER #1" (Ellen Nakashima) complaining about coverage and blind copies ("Bcc's") James Wolfe on the email [see: Oct 30, 2018 Emptywheel]
@@ -3071,7 +3081,7 @@
 | May 09, 2017 | Democrats on House Judiciary Committee send a letter to Rosenstein and McCabe asking them to preserve records bit.ly/2GQqF0Q 
 | May 09, 2017 | US Office of Special Counsel interviews Jim Rybicki on whether Comey violated the Hatch act with regard to Clinton email announcements bit.ly/2V1GRiM
 | May 09, 2017 | HPSCI letters to Jeff Sessions and Mary McCord asking for voluntary transcribed interview and for document production
-| May 09, 2017 | NBC News: "Trump Fires FBI Director James Comey Over Email Investigation"
+| May 09, 2017 | Rosenstein letter on Comey firing; "Restoring Public Confidence in the FBI"; 3 pages bit.ly/2CfToXq
 | May 09, 2017 | Strzok: "And we need to open the case we've been waiting on now while Andy is acting."
 | May 10, 2017 | NYT: "Days Before Firing, Comey Asked for More Resources for Russia Inquiry" Justice spox push back hard on the story.
 | May 10, 2017 | SSCI issues first subpoena to Flynn. SSCI also asks FINCEN for financial information on Trump and some of his associates. Democrats on committee say they will block the confirmation of Sigal Mandelker, Trump’s nominee to be the top Treasury official for terrorism and financial crimes, until the network delivers the information
@@ -3080,7 +3090,7 @@
 | May 10, 2017 | Ohr: "very concerned about Comey firing, afraid they will be exposed”  [see: Aug 8, 2018 The Hill]
 | May 10, 2017 | Jeff Sessions informally speaks with potential FBI director candidates, including McCabe and John Cornyn. Potentially one could serve as interim director as well
 | May ??, 2017 | Carter Page bcc's SSCI's Michael Casey, Chris Joyner a few days after James Wolfe bcc on May 8, 2017 bit.ly/2EG6GiZ
-| May 11, 2017 | Acting FBI Director McCabe testifies to SSCI and says he was not aware of any request from Comey for more resources
+| May 11, 2017 | McCabe testifies to SSCI; he says he was not aware of any request from Comey for more resources bit.ly/2Fq8qOz
 | May 11, 2017 | ~10:00am, Burr and Warner meet with DAG Rosenstein in the Senate office building
 | May 11, 2017 | Senate Judiciary staff call Fusion GPS counsel and ask to review the confidentiality agreements that Fusion talks about in their letters. Fusion says no because the agreements themselves are confidential
 | May 11, 2017 | DAG Rosenstein recieves a letter signed by 20 State AGs asking him to appoint a special counsel
@@ -3124,20 +3134,20 @@
 | May 15, 2017 | Rosenstein attends a dinner for Baltimore Business leaders. Says, "If you ask me, one of the main problems in Washington, D.C., is everybody is so busy running around trying to protect their reputation instead of protecting the republic, which is what they're supposed to be doing."
 | May 16, 2017 | "On Fox News’ 'The Story,' Gowdy cryptically told host Martha McCallum that he believes 'history will be much kinder to Jim Comey in that July press conference than the Democrats were'"; "'I think he had access to information that, because he is a stand-up guy he’s not gonna disseminate classified information (though God knows everybody else is)…so all your viewers see is this meeting on the tarmac,'"; "'Jim Comey had access to additional information that I am convinced left him with no other choice but to make the decision he made in July'"; "'Trust me when I tell you this, Martha — I know what it was and I have been a critic of James Comey in the past. But he made the only decision he could have made with respect to appropriating that decision away from the Department of Justice and making the decision himself'" [see: May 16, 2017 Daily Caller]
 | May 16, 2017 | Daily Caller: "Trey Gowdy Stops Just Short Of Calling Collusion On The Clintons And The DOJ " archive.is/pBZ99
-| May 16, 2017 | HPSCI letter to Andrew McCabe, then acting Director of the FBI, asking for voluntary transcribed interview and for document production
+| May 16, 2017 | HPSCI letter to McCabe; asks for voluntary transcribed interview and for document production
 | May 16, 2017 | McCabe and Rosenstein have a meeting in the AM. Apparently they talk about wearing a wire to surveil Trump
 | May 16, 2017 | Cornyn removes his name from consideration for FBI director job
 | May 16, 2017 | Anonymous source says Trump interviewed Mueller for FBI job [see: Jun 13, 2017 CNN]
 | May 16, 2017 | 12:08pm EST, NYT: "Comey Memo Says Trump Asked Him to End Flynn Investigation"
-| May 16, 2017 | McCabe and Rosenstein meet again in the PM. A meeting that was supposed to be short goes way long. Strzok is on the edge of his seat to hear a report from Page
-| May 17, 2017 | CNN: "Special counsel appointed in Russia probe" archive.is/k8MUD
+| May 16, 2017 | McCabe, Rosenstein meet in PM; meeting goes long; Strzok is on the edge of his seat to hear a report from Page
+| May 17, 2017 | Palpatine's revenge bit.ly/2QJywgz
+| May 17, 2017 | CNN reports Mueller appointed special counsel archive.is/k8MUD
 | May 17, 2017 | WSJ: "Russian State-Run Bank Financed Deal Involving Trump Hotel Partner" archive.is/V5re6
 | May 17, 2017 | HPSCI letter to Mueller and McCabe asking for copies of documents that relate to Comey's firing as well as any "documents memorializing conversations between the President and Mr. Comey"
 | May 17, 2017 | WaPo: "House Majority Leader to Colleagues in 2016: 'I think Putin pays' Trump" archive.is/SKY1S
 | May 17, 2017 | Business Insider: "Meet the candidates Trump is considering for FBI director" archive.is/K61gP
-| May 17, 2017 | NYT: "Rod Rosenstein’s Letter Appointing Mueller Special Counsel" archive.is/mnPtg
+| May 17, 2017 | Rosenstein Letter appointing Mueller as special counsel archive.is/mnPtg
 | May 17, 2017 | DAG Rosenstein briefs entire congress about state of Trump-Russia
-| May 18, 2017 | Third Estate News Group publishes screenshots of a purported Gliph conversation bit.ly/2RgUWKp, 
 | May 18, 2017 | WaPo article on Gen. Flynn's Turkish lobbying bit.ly/2RjYoDZ
 | May 18, 2017 | Debbie Wasserman Schultz threatens "consequences" if the laptop is not returned to her
 | May 18, 2017 | CNBC: "Trump interviews 4 candidates to post of FBI director" archive.is/kSeIL
@@ -3281,6 +3291,7 @@
 | Jul 05, 2017 | Text messages from May 18, 2017, until this day are recovered only from Page's iPhone [see: Dec 13, 2018 OIG]
 | Jul 05, 2017 | NYPost: "Uncovering the Russia ties of Hillary’s campaign chief"
 | Jul 07, 2017 | Sam Ramer letter to HPSCI; refuses Sessions, McCord interview; no document production; cites special counsel invest
+| Jul 07, 2017 | Trump meets with Putin at G20 Summit in Hamburg; bit.ly/2RPBTa6
 | Jul 08, 2017 | NYT breaking news; first report of Trump campaign meeting with Russians at Trump Tower on 6/9/16 bit.ly/2GKn30j
 | Jul 11, 2017 | User "Johnnie Walker" posts Robert Otto emails to cyberguerilla.org
 | Jul 11, 2017 | Senate Judiciary letter directly to Carl Ghattas and to James Rybicki, asking them for a transcribed interview. Requests July 24 as the date
@@ -3848,23 +3859,24 @@
 | Mar 30, 2018 | Greg Brower (FBI Assistant Director for the Office of Congressional Affairs) resigns
 | Mar 30, 2018 | MSNBC: "Carter Page returns to All In"
 | Mar 31, 2018 | @carterwpage: "Great to be on @WattersWorld at 8 pm EDT tonight!"
+| Apr ??, 2018 | Inquiry into Tony Podesta referred to SDNY prosecutors sometime shortly before 4/9/18 Cohen raid bit.ly/2VMsSOq
 | Apr 01, 2018 | DC rumors that Trump isn't pleased with Mattis in the administration bit.ly/2Rfk5VN
 | Apr 02, 2018 | WaPo: "Trump floated a Putin visit to the White House in a March 20 phone call"
 | Apr 02, 2018 | WSJ: "Roger Stone’s Claim of a 2016 Julian Assange Meeting Draws Scrutiny"
 | Apr 03, 2018 | CBS News: "Rod Rosenstein outlined scope for special counsel probe in August 2017"
-| Apr 03, 2018 | WaPo: "Mueller told Trump’s attorneys the president remains under investigation but is not currently a criminal target" archive.is/cvAhk
+| Apr 03, 2018 | Mueller tells Trump attorneys the president remains under investigation, but not a criminal target archive.is/cvAhk
 | Apr 05, 2018 | CNN: "Exclusive: Mueller's team questioning Russian oligarchs"
 | Apr 05, 2018 | CNN: "Mueller using information related to searches of Manafort's belongings for ongoing investigation"
 | Apr 05, 2018 | CNN: "Sex coach who claims to have US election dirt charged with prostitution"
 | Apr 06, 2018 | Reuters: "Russian businessmen, officials on new U.S. sanctions list" (Shamalov, Bogdanov, Rotenberg, Deripaska)
 | Apr 09, 2018 | Mueller agents execute search warrants on Michael Cohen's home, office, and hotel room [see: Oct 25, 2018 WSJ]
-| Apr 09, 2018 | forimmediaterelease.net: "Acclaimed New York Prosecutor Nicole Argentieri Joins O'Melveny" archive.is/llFsj
-| Apr 11, 2018 | CNN: "House Speaker Paul Ryan won't seek re-election: 'I like to think I've done my part'" archive.is/36D0a
+| Apr 09, 2018 | EDNY prosecutors Nicole Argentieri joins O'Melveny archive.is/llFsj
+| Apr 11, 2018 | Speaker Ryan says he won't seek re-election archive.is/36D0a
 | Apr 13, 2018 | @NPR: "'His leadership is transactional, ego driven and about personal loyalty,' Comey writes."
 | Apr 13, 2018 | NYT: "Trump Pardons Scooter Libby for Perjury in C.I.A. Leak Case" archive.is/gajWX
-| Apr 13, 2018 | Philly.com: "Feds granted immunity to former U.S. Rep. Marjorie Margolies" aFeds granted immunity to former U.S. Rep. Marjorie Margolies" archive.is/ELMe4
+| Apr 13, 2018 | Philly.com article says DOJ granted immunity to former U.S. Rep. Marjorie Margolies archive.is/ELMe4
 | Apr 13, 2018 | Global insurer Hiscox is hacked; possibly related to The Dark Overlord hacking group bit.ly/2EZC38Y
-| Apr 13, 2018 | McClatchy article says Mueller has evidence Cohen was in Prague in Aug 2016 archive.is/GW3rm
+| Apr 13, 2018 | McClatchy article says Mueller has evidence Cohen was in Prague sometime Aug 2016 archive.is/GW3rm
 | Apr 15, 2018 | Comey: "there was material that I knew someday, when it's declassified, and I thought that would be decades in the future, would cause historians to wonder, 'Hmm, was there some strange business going on there? Was Loretta Lynch somehow in -- carrying water for the campaign and controlling what the F.B.I. did?'" [see: Apr 15, 2018 ABC News]
 | Apr 15, 2018 | ABC News: "Transcript: James Comey's interview with ABC News chief anchor George Stephanopoulos" archive.is/vhSe4
 | Apr 15, 2018 | CNN: "ABC News: Comey says his belief Clinton would win election 'a factor' in email probe"
@@ -3984,25 +3996,25 @@
 | Jun 22, 2018 | Daily Caller: "The FBI deliberately ignored 'golden emails,' crucial Abedin messages and more" archive.fo/enEqx
 | Jun 22, 2018 | WaPo: "Former CIA officer accused of selling top secret information to China" (Kevin Patrick Mallory) archive.is/QasUw
 | Jun 22, 2018 | @TomArnold: "Michael Cohen didn't say Me & him were teaming up to take down Trump!" archive.is/IYDe6
-| Jun 24, 2018 | NYT: "How an Affair Between a Reporter and a Security Aide Has Rattled Washington Media" about James Wolfe and Ali Watkins
+| Jun 24, 2018 | NYT article about James Wolfe and Ali Watkins nyti.ms/2Ip2Sk8
 | Jun 25, 2018 | @jSolomonReports: "How Comey intervened to kill WikiLeaks' immunity deal" (6:36pm est) archive.is/hTpFI
 | Jun 26, 2018 | RCP: "Here's One Unverified File the Feds Won't Leak: About Loretta Lynch" archive.is/0zVfb
-| Jun 28, 2018 | Rosenstein and Wray testify to the House Judiciary Committee. Rosenstein: "the information that's public about that doesn't match with my understanding of the one that I signed." bit.ly/2zTwl4m
-| Jul 02, 2018 | CNN: "Cohen: My family and country come first" archive.is/IP4WR
+| Jun 28, 2018 | Rosenstein and Wray testify to the House Judiciary Committee.
+| Jun 28, 2018 | "the information that's public about that doesn't match with my understanding of the one that I signed" bit.ly/2zTwl4m
+| Jul 02, 2018 | Michael Cohen says "family and country come first" archive.is/IP4WR
 | Jul 03, 2018 | CNN: "New York Times DC reporter who dated Senate intelligence staffer reassigned to New York"
 | Jul 07, 2018 | The Hill: "Memos detail FBI's 'Hurry the F up pressure' to probe Trump campaign"
 | Jul 09, 2018 | Radio Free Europe: "Russian Tycoon Deripaska Wins Million-Ruble Claim Against 'Nastya Rybka,' 'Sex-Guru' Partner"
 | Jul 10, 2018 | Judge Emmitt Sullivan schedules status hearing for Gen. Flynn
-| Jul 11, 2018 | CNN: "Lisa Page plans to defy GOP subpoena for her testimony, her lawyer says" archive.is/qZ0gQ
-| Jul 11, 2018 | CNN: "Republicans mull holding former FBI lawyer Lisa Page in contempt" archive.is/7MTcn
-| Jul 11, 2018 | @realDonaldTrump: "Ex-FBI LAYER Lisa Page today defied a House of Representatives issued Subpoena to testify before Congress! Wow, but is anybody really surprised!  Together with her lover, FBI Agent Peter Strzok, she worked on the Rigged Witch Hunt, perhaps the most tainted and corrupt case EVER!" archive.is/hBvNV
-| Jul 11, 2018 | @ChadPergram: "Lisa Page atty Amy Jeffress: Through her actions and words, Lisa has made it abundantly clear that she will cooperate with this investigation.  All she is asking is to be treated as other witnesses have under the Committees’ own rules" archive.is/fmtSu
-| Jul 12, 2018 | CNBC: "FBI agent Peter Strzok, Republicans clash in fiery House hearing" archive.is/WJNKR
+| Jul 11, 2018 | CNN article on Lisa Page; her attorney says she plans to defy GOP subpoena for her testimony archive.is/qZ0gQ
+| Jul 11, 2018 | CNN article on possible contempt charges against Lisa Page archive.is/7MTcn
+| Jul 11, 2018 | Trump tweets that Lisa Page has defied a subpoena to testify before HPSCI archive.is/hBvNV
+| Jul 11, 2018 | Counsel for Lisa Page says she intends to cooperate with the Mueller investigation archive.is/fmtSu
+| Jul 12, 2018 | CNBC article on Strzok televised hearing before HPSCI archive.is/WJNKR
 | Jul 12, 2018 | NYT: "Border Agent Who Questioned Reporter Is Investigated for Computer Misuse" archive.is/HKx9s
-| Jul 13, 2018 | @mikememoli: "Mark Meadows just told reporters that Lisa Page was a cooperative witness and had been “falsely accused” of not wanting to cooperate with congressional oversight" archive.fo/cYqMK
-| Jul 13, 2018 | @ChadPergram: "Meadows: Lisa Page is a very credible witness..she’s doing her best to help us find the truth and I think in ways she’snbeen falsely accused of not being willing to cooperate. We've learned.. evidence..that would suggest that she’s been willing to help in a spirit of transparency" bit.ly/2ryEarA
-| Jul 13, 2018 | Mueller indicts 12 Russian intelligence officers, accusing them of interfering in the 2016 US presidential election bit.ly/2QtyTR8
-| Jul 14, 2018 | Maria Butina indicted for Conspiracy to Act as an Agent of the Russian Federation Within the United States. FBI Agent Kevin Helson files an affadavit in support bit.ly/2zSo0hu
+| Jul 13, 2018 | Rep Mark Meadows puts out a statement that Lisa Page is a credible witness bit.ly/2ryEarA, archive.fo/cYqMK
+| Jul 13, 2018 | Mueller indicts 12 Russian intelligence officers bit.ly/2ustufe
+| Jul 14, 2018 | Maria Butina indicted for Conspiracy to Act as an Agent of the Russian Federation within the U.S. bit.ly/2zSo0hu
 | Jul 16, 2018 | Reuters: "Trump emerged from a meeting with Putin saying he saw no reason to believe Russia hacked 2016 U.S. election"
 | Jul 16, 2018 | Reuters: "After Helsinki, U.S. intel chief defends findings on Russian meddling"
 | Jul 17, 2018 | Bloomberg: "Trump Retreats and Says He Accepts U.S. Finding Russia Meddled"
@@ -4017,7 +4029,7 @@
 | Jul 26, 2018 | Politico: "Former Bernie Sanders consultant assisting Mueller investigation" (Tad Devine) archive.is/VtgHB
 | Jul 26, 2018 | Daily Caller: "Judge orders Fusion GPS to reveal dossier details in BuzzFeed lawsuit"
 | Jul 27, 2018 | CNN: "Cohen claims Trump knew in advance of 2016 Trump Tower meeting"
-| Jul 31, 2018 | @eorden: "NEW: Another MUELLER referral to SDNY. Mueller has referred an inquiry involving lobbyists Tony Podesta and Vin Weber, as well as former Skadden partner Greg Craig, to NY federal prosecutors."
+| Jul 31, 2018 | Mueller refers inquiry ihnto Tony Podesta, Vin Weber, and Greg Craig to SDNY bit.ly/2M7Ew23
 | Jul 31, 2018 | BuzzFeed: "Here Is The Money Trail From The Russian "Agent" And Her Republican Partner"
 | Aug 01, 2018 | Surveillance warrant approved to monitor Sours Edwards phone line [see: Oct 25, 2018 WSJ]
 | Aug 02, 2018 | Daily Mail obtains an excerpt from Omarosa's book
@@ -4222,9 +4234,9 @@
 | Nov 19, 2018 | Putin visits Istanbul to mark the completion of Turkstream gas pipeline archive.is/SefRX
 | Nov 19, 2018 | Actress Mareli Miniutti files for domestic violence restraining order against Michael Avenatti archive.is/me6Ay
 | Nov 19, 2018 | Ex-Panama President, Ricardo Martinelli, argues in Panama court that he shouldn't have to stand trial archive.is/JbeDN
-| Nov 19, 2018 | The Hill: "Questions grow about FBI vetting of Christopher Steele’s Russia expertise" archive.ph/29Frd
-| Nov 19, 2018 | InsuranceJournal: "Explaining Danske Bank’s €200 Billion Money Laundering Scandal" archive.is/MoAJk
-| Nov 19, 2018 | CNN: "Nissan Chairman Carlos Ghosn arrested over 'significant' financial misconduct" archive.is/u2e99
+| Nov 19, 2018 | The Hill article that questions the FBI's vetting of Christopher Steele's expertise archive.ph/29Frd
+| Nov 19, 2018 | Exposé of Danske Bank’s €200 Billion laundering scandal archive.is/MoAJk
+| Nov 19, 2018 | Nissan chairman Carlos Ghosn arrested over financial misconduct archive.is/u2e99
 | Nov 19, 2018 | WHCA announces acclaimed author Ron Chernow as featered speaker for 2019 dinner archive.is/O2SAN
 | Nov 19, 2018 | NYT book review of new title by White House staffer, Cliff Sims archive.is/EpSsm
 | Nov 20, 2018 | NYT report that Trump wanted to order DOJ to prosecute Comey and Clinton archive.is/BiKWV
@@ -4369,3 +4381,5 @@
 | Jan 08, 2019 | Manafort response to Mueller bit.ly/2LVSd3K, bit.ly/2TBj33I
 | Jan 08, 2019 | Reuters reveals Huawei had control over Skycom Tech Co Ltd & shell company Canicula Holdings Ltd. reut.rs/2RBYEOO
 | Jan 08, 2019 | Manafort filing accidentally reveals he and Kilimnik entertained several Ukrainian peace plans archive.is/VA1vd
+| Jan 12, 2019 | Veselnitskaya says she won't appear in Manhattan to face charges from SDNY yhoo.it/2TJsb6v
+| Jan 12, 2019 | WaPo article on omitted translator notes of meetings between Trump & Putin bit.ly/2smXpoB
