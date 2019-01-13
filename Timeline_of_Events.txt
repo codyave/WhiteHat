@@ -1540,7 +1540,7 @@
 | Mar 15, 2016 | Manafort begins to have ties with Trump campaign
 | Mar 15, 2016 | Manafort recommends hiring pollster Tony Fabrizio shortly after joining the Trump campaign bit.ly/2FjFWpp
 | Mar 15, 2016 | Bloomberg: "Trump’s Long Romance With Russia" by Josh Rogin; Agalarovs, Miss Universe Moscow archive.ph/hYmfZ
-| Mar 15, 2016 | "On or about March 15, 2016, YERMAKOV ran a technical query for the DNC's internet protocol configurations to identify connected devices. On or about the same day, YERMAKOV searched for open-source information about the DNC network, the Democratic Party, and Hillary Clinton" [see: Jul 13, 2018 Mueller indictment]
+| Mar 15, 2016 | Yermakov runs a technical query for the DNC's IP configurations; searches open source info on DNC/HRC bit.ly/2SSLHgQ
 | Mar 16, 2016 | Bruce Ohr emails NYT's Peter Carr; he denies that the now-deceased Mikhail Lesin had reached out to him earlier archive.is/PUAmF
 | Mar 16, 2016 | Strzok: "Just waiting for Baker, then done", Lisa Page: "Our guy is talking..." 
 | Mar 17, 2016 | InfoWars: "How the GOP elite plan to rob Donald Trump" archive.is/iYbK7
@@ -1605,7 +1605,7 @@
 | Apr 05, 2016 | FBI General Counsel Jim Baker attends the Global Privacy Summit, along with Michael Sussmann (Perkins Coie)
 | Apr 06, 2016 | Fake email account is used to send spearphishing emails to +30 Clinton Campaign employees bit.ly/2QMUEGY
 | Apr 06, 2016 | @WikiLeaks: "US govt funded #PanamaPapers attack story on Putin via USAID. Some good journalists but no model for integrity" archive.is/GGqKN
-| Apr 07, 2016 | "On or about April 7, 2016, YERMAKOV ran a technical query for the DCCC's internet protocol configurations to identify connected devices" [see: Jul 13, 2018 Mueller indictment]
+| Apr 07, 2016 | Yermakov runs a technical query for the DCCC's internet protocol configurations to identify devices bit.ly/2ALa1KD
 | Apr 07, 2016 | The Observer: "Panama Papers Reveal Clinton’s Kremlin Connection" (Sberbank, Podesta) archive.is/gk6j5
 | Apr 07, 2016 | Free Beacon: "Trump Elevates Former Putin Ally Adviser to Senior Campaign Role" (Manafort to lead RNC Convention)
 | Apr 07, 2016 | Article in jpost.com quotes Papadopoulos extensively. Talks about Russia
@@ -1616,18 +1616,19 @@
 | Apr 10, 2016 | Fox News: "President Barack Obama on 'Fox News Sunday'" archive.is/NvHt6
 | Apr 10, 2016 | USA Today: "Obama to Fox News: No politics in Hillary Clinton email investigation" archive.is/xy3fl
 | Apr 10, 2016 | Papadopoulos emails Olga Vinogradova, who he believes is Putin's neice. Contacts her again on April 11 and April 12
+| Apr ??, 2016 | DCCC is hacked around Apr 11-12, 2016 bit.ly/2FoSxYE
 | Apr 11, 2016 | Glenn Simpson attends Logan Symposium, along with Jane Meyer (New Yorker) and Ken Vogel (Politico)
 | Apr 11, 2016 | Manafort: "I assume you have shown our friends my media coverage, right?" [see: Oct 2, 2017 Atlantic]
 | Apr 11, 2016 | Kilimnik: "Absolutely. Every article." [see: Oct 2, 2017 Atlantic]
 | Apr 11, 2016 | Manafort: “How do we use to get whole” (w/ Caymans), “Has [Deripaska's] operation seen?” [see: Oct 2, 2017 Atlantic]
 | Apr 12, 2016 | Flynn on Megyn Kelly
 | Apr 12, 2016 | Olga Bielkova and a colleague meet with David Kramer, Liz Zentos, and Michael Kimmage
-| Apr 12, 2016 | "On or about April 12, 2016, the Conspirators used the stolen credentials of a DCCC Employee ("DCCC Employee 1") to access the DCCC network. DCCC Employee 1 had received a spearphishing email from the Conspirators on or about April 6, 2016, and entered her password after clicking on the link" [see: Jul 13, 2018 Mueller indictment]
+| Apr 12, 2016 | Stolen credentials of a DCCC employee is used to access the DCCC network bit.ly/2TJZIxq
 | Apr 12, 2016 | Someone pays $37 worth of bitcoin to the Romanian web hosting company THCServers.com, to reserve a website called Electionleaks.com [see: Nov 3, 2017 Tribune]
 | Apr 12, 2016 | Comey tells Yates, Rybicki, and Axelrod that he'd like to find a way to credibly close MYE [see: IG Report p. 168]
 | Apr 13, 2016 | Robert Mueller and an Obama intel official meet at White House
 | Apr ??, 2016 | Alexandra Chalupa begins working with Michael Isikoff about opposition research on Paul Manafort around this time
-| Apr 14, 2016 | "On or about April 14, 2016, the Conspirators repeatedly activated X-Agent's keylog and screenshot functions to surveil DCCC Employee 1's computer activit over the course of eight hours. During that time, the Conspirators captured DCCC Employee 1's communications with co-workers and the passwords she entered while working on fundraising and voter outreach projects" [see: Jul 13, 2018 Mueller indictment]
+| Apr 14, 2016 | X-Agent keylog and screenshot functions activated to surveil DCCC Employee 1's computer activity bit.ly/2VPfCIQ
 | Apr 14, 2016 | Guardian: "Ukraine parliament approves Volodymyr Groysman as new PM" archive.is/UtEPK
 | Apr 14, 2016 | @NSC44: "Readout of @VP Biden’s Call with Ukraine's newly-elected Prime Minister Volodymyr Groysman"
 | Apr 15, 2016 | WaPo: "GOP foreign policy elites don’t know whether they’ll serve if Trump is president" archive.is/5EBaL
@@ -1647,16 +1648,16 @@
 | Apr 19, 2016 | Deccan Chronicle: "Top Trump aide lobbied for Pak ISI frontal outfit in US" archive.is/o8Riq
 | Apr 19, 2016 | Mary Jacoby signs visitor guestbook at White House
 | Apr 19, 2016 | NYMag: "How Paul Manafort Took Over the Trump Campaign" archive.is/78nbS
-| Apr 19, 2016 | "On or about April 19, 2016, KOZACHEK, YERSHOV, and their co-conspirators remotely configured an overseas computer to relay communications between the X-Agent malware and the AMS panel and then tested X-Agent's ability to connect to this computer. The Conspirators referred to this computer as a "middle server". The middle server acted as a proxy to obscure the connection between malware at the DCCC and the Conspirators' AMS panel" [see: Jul 13, 2018 Mueller indictment]
+| Apr 19, 2016 | Overseas computer configured to relay communications between X-Agent malware and AMS panel bit.ly/2VOkVIr
 | Apr 19, 2016 | "On or about April 19, 2016, after attempting to register the domain electionleaks.com, the Conspirators registered the domain dcleaks.com through a service that anonymized the registrant" [see: Jul 13, 2018 Mueller indictment]
 | Apr ??, 2016 | Brennan receives Baltic tape showing Kremlin money going into a presidential campaign [see: Jan 27, 2017 BBC]
 | Apr ??, 2016 | Brennan creates two task forces - Domestic task force (FBI, DOJ, Treasury) and Foreign task force (CIA, ODNI, NSA)
 | Apr 20, 2016 | Politico: "Trump campaign brings in lobbyists for key posts" (Rick Gates) archive.is/p3C7u
 | Apr 20, 2016 | Alexandra Chalupa begins receiving warnings about her Yahoo! mail account [see: Jan 11, 2017 Politico]
-| Apr 20, 2016 | "On or about April 20, 2016, the Conspirators directed the X-Agent malware on the DCCC computers to connect to this middle server and receive directions from the Conspirators" [see: Jul 13, 2018 Mueller indictment]
+| Apr 20, 2016 | X-Agent malware on the DCCC computers connects to AMS panel to receive directions from the Conspirators bit.ly/2RMIkeb
 | Apr 21, 2016 | Rybolovlev plane photographed in Charlotte @1:20pm by anonymous source [see: Mar 10, 2017 Charlotte Observer]
 | Apr 22, 2016 | "On or about April 22, 2016, the Conspirators compressed gigabytes of data from DNC computers, including opposition research. The Conspirators later moved the compressed DNC data using X-Tunnel to a GRU-leased computer located in Illinois" [see: Jul 13, 2018 Mueller indictment]
-| Apr 22, 2016 | "On or about April 22, 2016, the Conspirators activated X-Agent's keylog and screenshot functins to capture the discussions of another DCCC Employee ("DCCC Employee 2") about the DCCC's finances, as well as her individual banking information and other personal topics" [see: Jul 13, 2018 Mueller indictment]
+| Apr 22, 2016 | X-Agent keylog and screenshot functions activated to capture discussions of "DCCC Employee 2" bit.ly/2FtottT
 | Apr 22, 2016 | Alan Cullison: "So I'm told Deripaska was in the U.S. this past week." (email to David Kramer) archive.is/9V2IH
 | Apr 22, 2016 | Russian intel prepares massive amount of data for exfiltration from DNC servers
 | Apr 22, 2016 | Timofeev and Papadopoulos email about meeting in London or Moscow. Had an "extensive talk"
