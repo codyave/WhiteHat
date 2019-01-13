@@ -1902,7 +1902,7 @@
 | Jul 13, 2016 | Lisa Page: "let me ask Baker what the meeting with Fine was about...be better not to get Jim deep in the facts of this yet"
 | Jul ??, 2016 | Nuland's claim of when she says she first glimpsed Steele dossier
 | Jul 14, 2016 | Papadopoulos emails Timofeev again suggesting August or September in UK as a time and place for a meeting
-| Jul 14, 2016 | The GRU sends an email to WikiLeaks with an attachment titled “wk dnc link1.txt.gpg.” The attachment contained an encrypted file with instructions on accessing an online archive of hacked DNC documents [see: Jul 13, 2018 Mueller Indictment|
+| Jul 14, 2016 | Guccifer 2.0 sends [WikiLeaks] encrypted file with instructions on accessing hacked DNC documents bit.ly/2FyaEKC
 | Jul 14, 2016 | "On or about July 14, 2016, [WikiLeaks] released over 20,000 emails and other documents stolen from the DNC network by the Conspirators. This release occured approximately three days before the start of the Democratic National Convention. [WikiLeaks] did not disclose Guccifer 2.0's role in providing them." [see: Jul 13, 2018 Mueller indictment]
 | Jul 15, 2016 | Arsen Avakov tweets criticisms of Trump and Manafort, calls Trump “an even bigger danger to the US than terrorism.”
 | Jul 15, 2016 | Papadopoulos sends a private Facebook message to a Facebook account identified with Timofeev, stating: “We can chat on this, this weekend if you can’t tonight.” Timofeev messaged back a Facebook “thumbs up.”
@@ -1913,6 +1913,7 @@
 | Jul 17, 2016 | Bloomberg: "Coup Was ‘Gift From God’ for Erdogan Planning a New Turkey" archive.is/ol3IR
 | Jul 18, 2016 | NYPost: "Ed Cox almost made Donald Trump really, really mad" (Ed Cox moves to block Newt) archive.is/xi40p
 | Jul 18, 2016 | GOP convention in Ohio begins
+| Jul 18, 2016 | [WikiLeaks] informs Guccifer 2.0 that they have the 1gb archive of hacked DNC documents bit.ly/2TLRjcW
 | Jul 18, 2016 | The Hill: "New Guccifer 2.0 dump highlights ‘wobbly Dems’ on Iran deal" Gucccifer 2.0 provides documents exclusively to The Hill including DNC banking records archive.is/xPD3p
 | Jul 18, 2016 | Interview between Mike Isikoff and Mike Flynn at RNC convention. Previews Russia-Flynn accusations. "Were you paid for that event?" "Why did you speak at that RT event?"
 | Jul 18, 2016 | WaPo: "George F. Will: GOP minds are at sea, but not the right one"
@@ -1928,7 +1929,7 @@
 | Jul 21, 2016 | Papadopoulos sends another private Facebook message to Timofeev stating: “How are things? Keep an eye on the speech tonight. Should be good.”
 | Jul 21, 2016 | Weekly FBI counterintelligence exec meeting where "preliminary conclusions were discussed" regarding DNC hack. Comey is there as well as Lisa Page and Jon Moffa. Comey first sees pee tape allegation? [see: Jul 26, 2016 NYT]
 | Jul 22, 2016 | Australia supposedly tells the FBI of Papadopoulos’ comments to Downer from May 10, 2016
-| Jul 22, 2016 | WikiLeaks disseminates stolen DNC documents bit.ly/2Sd7GyR
+| Jul 22, 2016 | WikiLeaks releases hacked DNC documents; latest-in-time email released is dated 5/25/16 bit.ly/2Sd7GyR, bit.ly/2Rmdl9k
 | Jul 22, 2016 | Millian messages Papadopoulos on LinkedIn
 | Jul 22, 2016 | Papadopoulos dm's Timofeev on Facebook, asks if he "knew a particular individual with extensive ties to Russian-based businesses", about Millian. "[i]f you know any background of him that is noteworthy before I see him, kindly send my way.”
 | Jul 23, 2016 | Obama golfing at Ft. Belvoir
@@ -2281,8 +2282,7 @@
 | Oct 07, 2016 | Susan Rice summons Ambassador Kislyak to the White House to relay a message to Vladimir Putin
 | Oct 07, 2016 | Strzok: : “Jesus. More BO leaks in the NYT” (Bruce Ohr?)
 | Oct 07, 2016 | Access Hollywood tape released
-| Oct 07, 2016 | "On or about October 7, 2016, [WikiLeaks] released the first set of emails from the chairman of the Clinton Campaign that had been stolen by LUKASHEV and his co-conspirators." [see: Jul 13, 2018 Mueller indictment]
-| Oct 07, 2016 | "Between on or about October 7, 2016 and November 7, 2016, [WikiLeaks] released approximately thirty-three tranches of documents that had been stolen from the chairman of the Clinton Campaign. In total over 50,000 stolen documents were released" [see: Jul 13, 2018 Mueller indictment]
+| Oct 07, 2016 | [WikiLeaks] releases the first set of emails from John Podesta bit.ly/2D5kqT4
 | Oct 08, 2016 | NeverTrumper GOP Congressman Will Hurd dumps Trump
 | Oct 09, 2016 | Second presidential debate. Hillary specifically mentions "17 intelligence agencies" assessment
 | Oct 09, 2016 | Poteyev applies for a fishing license at a Wal-Mart in Florida, using his full name [see: Oct 3, 2018 BuzzFeed]
