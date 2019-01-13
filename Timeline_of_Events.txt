@@ -1603,7 +1603,7 @@
 | Apr 05, 2016 | NYT: "Donald Trump Settled a Real Estate Lawsuit, and a Criminal Case Was Closed" by Mike McIntire. Has Trump SoHo Manhattan, Felix Sater, Tevfik Arif archive.is/5S0Nj
 | Apr 05, 2016 | Olga Bielkova reportedly seeks meetings with five dozen members of U.S. Congress and reporters
 | Apr 05, 2016 | FBI General Counsel Jim Baker attends the Global Privacy Summit, along with Michael Sussmann (Perkins Coie)
-| Apr 06, 2016 | "On or about April 6, 2016, the Conspirators created an email account in the (with a one-letter deviation from the actual spelling) of a known member of the Clinton Campaign. The Conspirators then used that account to send spearphishing emails to the work accounts of more than thirty different Clinton Campaign employees" [see: Jul 13, 2018 Mueller indictment]
+| Apr 06, 2016 | Fake email account is used to send spearphishing emails to +30 Clinton Campaign employees bit.ly/2QMUEGY
 | Apr 06, 2016 | @WikiLeaks: "US govt funded #PanamaPapers attack story on Putin via USAID. Some good journalists but no model for integrity" archive.is/GGqKN
 | Apr 07, 2016 | "On or about April 7, 2016, YERMAKOV ran a technical query for the DCCC's internet protocol configurations to identify connected devices" [see: Jul 13, 2018 Mueller indictment]
 | Apr 07, 2016 | The Observer: "Panama Papers Reveal Clinton’s Kremlin Connection" (Sberbank, Podesta) archive.is/gk6j5
@@ -1954,8 +1954,9 @@
 | Jul 25, 2016 | Trump rally in Winton-Salem, NC
 | Jul ??, 2016 | Sergei Millian does an interview with ABC’s Brian Ross archive.is/ROHZm
 | Jul 25, 2016 | Long Term Strategy Group excercises a $354,612 Option
-| Jul 25, 2016 | Yahoo: "Exclusive: Suspected Russian hack of DNC widens — includes personal email of staffer researching Manafort" by Michael Isikoff bit.ly/2QU4LOc
-| Jul 26, 2016 | DNC convention Day 2 (Tuesday). Speakers include Bill Clinton, Madeline Albright, Eric Holder, Terry McAuliffe, Nancy Pelosi
+| Jul 25, 2016 | Yahoo article on hacked accounts of DNC employees by Michael Isikoff bit.ly/2QU4LOc
+| Jul 26, 2016 | Spearphishing emails sent to third-party server hosting Clinton campaign accounts bit.ly/2CiGaZY
+| Jul 26, 2016 | DNC convention Day 2 (Tuesday); Speakers: Bill Clinton, Madeline Albright, Eric Holder, Terry McAuliffe, Nancy Pelosi
 | Jul 26, 2016 | DC-PPD-41 issued by White House. NCIJTF designated the lead responder to cyber threats
 | Jul 26, 2016 | WaPo: "George F. Will: The path ahead for Clinton and Kaine"
 | Jul 26, 2016 | Letter from Grassley to Lynch and Comey asking about Russian hacking bit.ly/2SJ6rHv
@@ -1966,13 +1967,13 @@
 | Jul 26, 2016 | Alexandra Chalupa leaves the DNC to work full-time on her research into Manafort, Trump and Russia
 | Jul 26, 2016 | @realDonaldTrump: "For the record, I have ZERO investments in Russia."
 | Jul 26, 2016 | Sater: "'Fuck me, I thought to myself. All that work for nothing'" [see: May 17, 2018 BuzzFeed]
-| Jul 26, 2016 | WSJ's Damian Paletta messages Carter Page about contacts with Sechin, Diyevkin bit.ly/2QPjHhf, bit.ly/2LAqZ2D, archive.vn/crTX3
+| Jul 26, 2016 | WSJ's Damian Paletta messages Carter Page about Sechin, Diyevkin bit.ly/2QPjHhf, bit.ly/2LAqZ2D, archive.vn/crTX3
 | Jul 27, 2016 | Kian tells Alptekin he had a "detailed discussion" with Flynn the previous night archive.fo/cCuFX
 | Jul 27, 2016 | Kian informs Alptekin that, "We are ready to engage on what needs to be done" archive.fo/cCuFX
 | Jul 27, 2016 | Kian adds, "At the right time, I will include our partners in the communications" archive.fo/cCuFX
 | Jul 27, 2016 | HuffPost: "Harry Reid To Intel Community: Give Donald Trump Fake Briefings" archive.is/JqUSh
-| Jul 27, 2016 | DNC Convention Day 3 (Wednesday). Adam Schiff, Harry Reid, Joe Biden, Barack Obama, Pitella gives speeches at convention
-| Jul 27, 2016 | Guardian: "Trump: 'Russia, I hope you can find Hillary's missing emails'" he says it at a campaign event in Florida that morning archive.is/PfsuV
+| Jul 27, 2016 | DNC Convention Day 3 (Wednesday); Speakers: Schiff, Reid, Biden, Obama, Pitella 
+| Jul 27, 2016 | Trump says he hopes Russia "can find Hillary's missing emails" archive.is/PfsuV
 | Jul 27, 2016 | In the afternoon, Trump is in Scranton, PA with Pence
 | Jul 27, 2016 | Trump holds a rally in Toledo, OH that night
 | Jul 27, 2016 | Trump states he would recognise Moscow’s annexation of Crimea
