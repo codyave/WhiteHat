@@ -1534,7 +1534,7 @@
 | Mar 14, 2016 | Brennan flies to Moscow; flight not disclosed until Apr 2018; he visits the Director of FSB; it's possible he visits another official as well; does not visit the Foreign Ministry bit.ly/2RZhg8d [see: Mar 28, 2016 themoscowtimes.com]
 | Mar 14, 2016 | Yahoo: "Trump campaign violence goes back a long way" by Michael Isikoff about a fight between a demonstrator and Trump's bodyguard, Keith Schiller bit.ly/2BlV1m8
 | Mar 14, 2016 | Papadopoulos meets Joseph Mifsud in Italy at LINK Campus, Misfus promises contacts with Russian officials [see: Oct 5, 2017 Papadopoulos Statement of Offense]
-| Mar 14, 2016 | "On or about March 14, 2016, using funds in a bitcoin address, the Conspirators purchased a VPN account, which they later used to log into the @Guccifer_2 Twitter account. The remaining funds from that bitcoin address were then used on or about April 28, 2016, to lease a Malaysian server that hosted the dcleaks.com website" [see: Jul 13, 2018 Mueller indictment]
+| Mar 14, 2016 | Russian hackers purchase a VPN with bitcoin; later, VPN is used to log into @Guccifer_2 account bit.ly/2Cj0pa5
 | Mar 14, 2016 | "On or about Mar 14, 2016 and Apr 28, 2016, the Conspirtors used the same pool of bitcoin funds to purchase a virtual private network ("VPN") account and to lease a server in Malaysia." [see: Jul 13, 2018 Mueller indictment]
 | Mar 15, 2016 | Rubio suspends campaign after losing Florida
 | Mar 15, 2016 | Manafort begins to have ties with Trump campaign
@@ -1666,12 +1666,13 @@
 | Apr 26, 2016 | Mifsud tells Papadopoulos over breakfast about Russian officials who have damaging material on HRC [see: Oct 5, 2017 Papadopoulos Statement of Offense]
 | Apr 26, 2016 | WaPo: "Inside Trump adviser Manafort’s world of politics and global financial dealmaking" archive.is/ifRKi
 | Apr 26, 2016 | Yahoo: "Trump’s campaign chief is questioned about ties to Russian billionaire" by Mike Isikoff, about Manafort, Ukraine and the Cayman Islands filing by Deripaska archive.is/4M2qX
-| Apr 27, 2016 | Carter Page is in Dubai at this time bit.ly/2RkGbX0, bit.ly/2V5Bf7r
+| Apr 27, 2016 | Carter Page is in Dubai around this time bit.ly/2RkGbX0, bit.ly/2V5Bf7r
 | Apr 27, 2016 | Politico: "How Donald Trump became the Kremlin's Candidate" by Michael Crowley, talks about Flynn
 | Apr 27, 2016 | Bruno Kahl nominated to be President of the Federal Intelligence Service in Germany
 | Apr 27, 2016 | Papadopoulos sends email to Lewandowski, refers to possible meetings with Russian officials, says he was receiving “a lot of calls over the past month” about arranging a Russia meeting
+| Apr 28, 2016 | Hackers use remaining bitcoin from 3/14/16 to lease Malaysian server that hosts dcleaks.com website bit.ly/2RqpOcf
 | Apr 28, 2016 | Alexandra Chalupa invited to Ukraine at Library of Congress for Open World Leadership Center discuss Manafort research
-| Apr 28, 2016 | DNC detects infiltration of GRU ("Fancy Bear"), FBI not informed, Michael Sussman summoned to emergency meeting
+| Apr 28, 2016 | DNC detects infiltration of GRU; FBI not informed; Michael Sussman summoned to emergency meeting
 | Apr 28, 2016 | Vice: "A Brief History of Donald Trump and the Mafia: in the 1980s, the budding real estate mogul had a soft spot for wise guys" by Tom Robbins archive.is/ivVPS
 | Apr 28, 2016 | Slate: "The Quiet American: Paul Manafort made a career out of stealthily reinventing the world’s nastiest tyrants as noble defenders of freedom. Getting Donald Trump elected will be a cinch" by Franklin Foer
 | Apr 28, 2016 | X-Tunnel is used to send additional documents from the DCCC to the GRU-leased computer in Illinois bit.ly/2Fo96DM
@@ -1836,7 +1837,7 @@
 | Jun 22, 2016 | Legal Insurrection: "Trump Promotes Paul Manafort to Campaign Manager" archive.is/f9ftR
 | Jun 22, 2016 | Bloomberg: "Clinton Foundation Said to Be Breached by Russian Hackers" by Michael Riley bit.ly/2BlB6Ud
 | Jun 22, 2016 | WaPo: "Republicans: Save your party, don’t give to Trump" by George Will
-| Jun 22, 2016 | "On or about June 22, 2016, [WikiLeaks] sent a private message to Guccifer 2.0 to '[s]end any new material [stolen from the DNC] here for us to review and it will have a much higher impact than what you are doing.'" [see: Jul 13, 2018 Mueller indictment]
+| Jun 22, 2016 | [WikiLeaks] DM's Guccifer 2.0, requests new DNC materials be sent for review bit.ly/2H7iPQJ
 | Jun 21, 2016 | Guccifer 2.0 releases a batch of stolen DNC documents about Secretary Clinton
 | Jun 23, 2016 | Brexit 
 | Jun 24, 2016 | Media Matters: "Roger Stone: Trump 'Wisely Fired Corey Lewandowski,' Now Working For CNN, The 'Most Anti-Trump' Network" archive.is/szsU9
@@ -1844,7 +1845,7 @@
 | Jun 24, 2016 | Simpson contacts Steele to arrange to receive a copy of the dossier, sent courier from the UK to Washington, DC
 | Jun ??, 2016 | DOJ/NSD submit first FISA application from two Russian banks. Rejected by FISA court. Unclear if this really happened, but it was requested by Chuck Grassley
 | Jun 26, 2016 | Steele talks to Mike Gaeta, says he has info he needs to show him. Gaeta checks with Victoria Nuland who gives the green light
-| Jun 27, 2016 | "On or about June 27, 2016, the Conspirators, posing as Guccifer 2.0, contacted a U.S. reporter with an offer to provide stolen emails from 'Hillary Clinton's staff.' The Conspirators then sent the reporer the password to access a nonpublic, password-protected portion of dcleaks.com containing emails stolen from Victim 1 by LUKASHEV, YERMAKOV, and their co-conspirators in or around March 2016" [see: Jul 13, 2018 Mueller indictment]
+| Jun 27, 2016 | Guccifer 2.0 sends a password to a U.S. reporters that purportedly gives access to HRC staff emails bit.ly/2QI5Jcj
 | Jun 27, 2016 | Podesta, Mook, Donolin meet with Obama, Biden in VP residence 
 | Jun 27, 2016 | ABC15: "Loretta Lynch, Bill Clinton meet privately in Phoenix before Benghazi report" archive.is/8qZwg
 | Jun 28, 2016 | ABC15: "Clinton: 'Time to move on' from Benghazi report" archive.is/BlGGR
@@ -1876,8 +1877,8 @@
 | Jul 06, 2016 | Letter from Grassley to Comey about Clinton emails bit.ly/2CavHkt
 | Jul 06, 2016 | Strzok calls someone from USD(I)
 | Jul 06, 2016 | Trump: "I don't like those mosquitoes. I never did. Okay, speaking of mosquitoes...hello, Hillary!" archive.is/bZMnU
-| Jul 06, 2016 | "On or about July 6, 2016, the Conspirators used the VPN to log into the @Guccifer_2 Twitter account. The Conspirators opened that VPN account from the same server that was also used to register malicious domains for the hacking of the DCCC and DNC networks" [see: Jul 13, 2018 Mueller indictment]
-| Jul 06, 2016 | "On or about July 6, 2016, [WikiLeaks] added 'if you have anything hillary related we want it in the next tweo [sic] days prefable [sic] because the DNC is appraoching and she will solidify bernie supporters behind her after.' The Conspirators repsonded, 'ok...i see.' [WikiLeaks] explained, 'we think trump has only a 25% chance of winning against hillary...so conflict between bernie and hillary is interesting.'" [see: Jul 13, 2018 Mueller indictment]
+| Jul 06, 2016 | Russian hackers use VPN to log into the @Guccifer_2 from same server used to register malicious domains bit.ly/2M9dkj8
+| Jul 06, 2016 | [WikiLeaks] requests from Guccifer 2.0 any documents related to HRC be expedited out for review bit.ly/2QJeWkq
 | Jul 07, 2016 | Skype call between Steele and Ohr from 8-8:30am bit.ly/2AuDaJN, bit.ly/2SPF3YU
 | Jul 07, 2016 | Carter Page gives a Power Point presentation and Q&A on “the future of the world economy” in Moscow
 | Jul 07, 2016 | Daily Mail: "Mystery over claims that Russian double agent, 64, who exposed glamour spy Anna Chapman has died in US"
@@ -2596,7 +2597,7 @@
 | Jan 11, 2017 | Daily Mail: "British government must NOT protect ex-spy behind claims of 'dirty' dossier on Trump" archive.is/ugzha
 | Jan 12, 2017 | FISA Verified Application on Carter Page (p. 84-162) [signed: Comey, Yates]
 | Jan 12, 2017 | FISA Primary Order and Warrant on Carter Page (p. 163-181) [signed: Judge Mosman]
-| Jan 12, 2017 | "On or about January 12, 2017, the Conspirators published a statement on the Guccifer 2.0 WordPress blog, falsely claiming that the instrusions and release of stolen documents had 'totally no relation to the Russian government.'" [see: Jul 13, 2018 Mueller indictment]
+| Jan 12, 2017 | Russian hackers falsely claim in a WordPress blog that Guccifer 2.0 has no relation to the Russian govt bit.ly/2TJkM7h
 | Jan 12, 2017 | Adam Lovinger invited to leave Office of Net Assessment
 | Jan 12, 2017 | CNN: "Intel chiefs presented Trump with claims of Russian efforts to compromise him" archive.is/1bfXX
 | Jan 12, 2017 | Paul Wood: "Trump 'compromising' claims: How and why did we get here?" archive.is/t5qrQ
