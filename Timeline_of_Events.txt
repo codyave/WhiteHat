@@ -1861,14 +1861,10 @@
 | Jul ??, 2016 | (early July) Unmasking of Trump officials increases
 | Jul 01, 2016 | Bruno Kahl confirmed as President of the Federal Intelligence Service in Germany
 | Jul 01, 2016 | Steele emails Bruce Ohr; says he'd like to discuss their "favorite business tycoon" bit.ly/2sf7T9u, bit.ly/2RrAqHS
-| Jul 01, 2016 | Strzok: "Holy cow... nyt breaking Apuzzo, Lync will accept whatever rec D and career prosecutors make"
-| Jul 01, 2016 | Strzok: "Lynch. Timing not great, but whatever. Wonder if that's why the no coordination language added"
-| Jul 01, 2016 | Lisa Page: "No way. This is a purposeful leak following the airplane snafu"
-| Jul 01, 2016 | Strzok: "Timing looks like hell. Will appear choreographed. All major news networks literally leading with "AG to accept FBI D’s recommendation"
-| Jul 01, 2016 | Lisa Page: "And yeah, it's a real profile in couragw, since she knows no charges will be brought"
+| Jul 01, 2016 | Strzok and Page discuss reporting about AG Lynch's non-recusal recusal bit.ly/2RN21Td
 | Jul 02, 2016 | Hillary interviewed by FBI agents
 | Jul 03, 2016 | Bruce Ohr schedules a Skype call with Steele
-| Jul 04, 2016 | Slate: "Putin's Puppet", by Franklin Foer
+| Jul 04, 2016 | Slate: "Putin's Puppet" by Franklin Foer bit.ly/29pAd19
 | Jul 04, 2016 | Bruce Ohr meets Steele [see: September 6, 2018 The Hill]
 | Jul 05, 2016 | FBI agent Gaeta meets Steele in London, receives copy of Steele's memo, says he has to notify headquarters
 | Jul 05, 2016 | Comey defers HRC prosecution recommendation in public press conference
@@ -1878,41 +1874,36 @@
 | Jul 06, 2016 | Guccifer 2.0 releases stolen DNC documents
 | Jul 06, 2016 | Letter from Grassley to Comey about Clinton emails bit.ly/2CavHkt
 | Jul 06, 2016 | Strzok calls someone from USD(I)
-| Jul 06, 2016 | Trump: "I don't like those mosquitoes. I never did. Okay, speaking of mosquitoes...hello, Hillary!" archive.is/bZMnU
+| Jul 06, 2016 | Trump: "I don't like those mosquitoes...I never did...okay, speaking of mosquitoes...hello, Hillary!" bit.ly/2qVhvph
 | Jul 06, 2016 | Russian hackers use VPN to log into the @Guccifer_2 from same server used to register malicious domains bit.ly/2M9dkj8
 | Jul 06, 2016 | [WikiLeaks] requests from Guccifer 2.0 any documents related to HRC be expedited out for review bit.ly/2QJeWkq
 | Jul 07, 2016 | Skype call between Steele and Ohr from 8-8:30am bit.ly/2AuDaJN, bit.ly/2SPF3YU
 | Jul 07, 2016 | Carter Page gives a Power Point presentation and Q&A on “the future of the world economy” in Moscow
-| Jul 07, 2016 | Daily Mail: "Mystery over claims that Russian double agent, 64, who exposed glamour spy Anna Chapman has died in US"
-| Jul 07, 2016 | @DrLeoStrauss: "Intel - the underlying Interfax report driving all RF media reports #SVR Col. Poteyev is deceased."
-| Jul 07, 2016 | Sputnik: "Russian Foreign Intelligence Mute on Reports of Ex-Employee Death in US"
-| Jul 07, 2016 | Sputnik: "Russian Senator Doubts Ex-Agent Poteyev's Reported Death in US 'Fake'"
+| Jul 07, 2016 | Russian media reports Col. Alexander Poteyev has died in the U.S. bit.ly/2VMGTM9, dailym.ai/2VKTkIh
 | Jul 07, 2016 | Manafort (to Kilimnik?): "If [Deripaska] needs private briefings, we can accomodate" [see: Sep 20, 2018 WaPo]
 | Jul 07, 2016 | IC IG McCullough testifies before HPSCI that he can not provide some segment of HRC's emails
-| Jul 08, 2016 | Carter Page gives the commencement address for the New Economic School at the World Trade Center in Moscow, criticizing U.S. policy toward Russia for being too harsh
-| Jul 08, 2016 | Kyiv Post: "Trump’s campaign manager haunted by past business" archive.is/IuJaT
-| Jul 09, 2016 | The Daily Beast: "Is This American Spy Dead? Or Was He Ever Real?" (Poteyev)
+| Jul 08, 2016 | Carter Page speaks at the New Economic School in Moscow; critices U.S. policy toward Russia for being too harsh
+| Jul 08, 2016 | Kyiv Post article about Paul Manafort's lobbying work in Ukraine archive.is/IuJaT
+| Jul 09, 2016 | Daily Beast article questions whether Russian media reports of Poteyev's death are accurate bit.ly/2FuP2Po (Poteyev)
 | Jul 09, 2016 | Steele vacations in Cyprus with family until the 16th bit.ly/2SAT0cR
-| Jul 09, 2016 | WaPo: "A curveball in Trump’s Veep search: He’s seriously considering a retired general" archive.is/DKq7w
+| Jul 09, 2016 | Washington Post article suggests Gen. Flynn could be tapped as Trump's VP pick bit.ly/2FvHtYH
 | Jul 10, 2016 | Seth Rich murdered
-| Jul 10, 2016 | Carter Page is in the U.K. until Jul 13, 2016 bit.ly/2Q3Y7Ap
-| Jul 11, 2016 | Republicans of the House Judiciary Committee, second letter to Comey about his Mid Year Exam press conference bit.ly/2TilM23
+| Jul 10, 2016 | Carter Page in the U.K. till 7/13/16 bit.ly/2Q3Y7Ap
+| Jul 11, 2016 | Republicans of the House Judiciary Committee send letter to Comey about MYE press conference bit.ly/2TilM23
 | Jul 11, 2016 | Elizabeth Dibble submits referral to the FBI about Downer-Papadopoulos bar conversation
 | Jul ??, 2016 | Carter Page not interviewd by FBI agent from sometime Jul 2016 up until Mar 10, 2017 bit.ly/2EPjMv9
 | Jul 12, 2016 | Mike Flynn releases his book "The Field of Fight"
 | Jul 12, 2016 | DOJ provides defensive briefing to Lynch and Yates about the Renteria email [see: Jun 14, 2018 IG Report p. 172]
-| Jul 13, 2016 | Lisa Page: "let me ask Baker what the meeting with Fine was about...be better not to get Jim deep in the facts of this yet"
-| Jul ??, 2016 | Nuland's claim of when she says she first glimpsed Steele dossier
+| Jul ??, 2016 | Nuland claims she saw the Steele dossier for the first time around this time
 | Jul 14, 2016 | Papadopoulos emails Timofeev again suggesting August or September in UK as a time and place for a meeting
 | Jul 14, 2016 | Guccifer 2.0 sends [WikiLeaks] encrypted file with instructions on accessing hacked DNC documents bit.ly/2FyaEKC
-| Jul 14, 2016 | "On or about July 14, 2016, [WikiLeaks] released over 20,000 emails and other documents stolen from the DNC network by the Conspirators. This release occured approximately three days before the start of the Democratic National Convention. [WikiLeaks] did not disclose Guccifer 2.0's role in providing them." [see: Jul 13, 2018 Mueller indictment]
 | Jul 15, 2016 | Arsen Avakov tweets criticisms of Trump and Manafort, calls Trump “an even bigger danger to the US than terrorism.”
 | Jul 15, 2016 | Papadopoulos sends a private Facebook message to a Facebook account identified with Timofeev, stating: “We can chat on this, this weekend if you can’t tonight.” Timofeev messaged back a Facebook “thumbs up.”
 | Jul 15, 2016 | Arseny Yatseniuk writes on Facebook that Trump has challenged the very values of the free world
-| Jul 15, 2016 | Bill Browder files a compaint with the Justice Dept about Veselnitkaya and Rinat Akhmetshin. No one followed up at DOJ until April 2017
+| Jul 15, 2016 | Bill Browder files a compaint with DoJ about Veselnitkaya and Akhmetshin. No one followed up at DOJ until April 2017
 | Jul 15, 2016 | Pence picked as VP, relieving some pressure off of Flynn
-| Jul 16, 2016 | Carter Page: Professor who "offered a range of possibilities regarding how he and the University might be able to help"
-| Jul 17, 2016 | Bloomberg: "Coup Was ‘Gift From God’ for Erdogan Planning a New Turkey" archive.is/ol3IR
+| Jul 16, 2016 | Carter Page email mentions a professor who offered help to the Trump campaign bit.ly/2QKH1Yv
+| Jul 17, 2016 | Erdogan says coup Was a "gift from God" archive.is/ol3IR
 | Jul 18, 2016 | NYPost: "Ed Cox almost made Donald Trump really, really mad" (Ed Cox moves to block Newt) archive.is/xi40p
 | Jul 18, 2016 | GOP convention in Ohio begins
 | Jul 18, 2016 | [WikiLeaks] informs Guccifer 2.0 that they have the 1gb archive of hacked DNC documents bit.ly/2TLRjcW
