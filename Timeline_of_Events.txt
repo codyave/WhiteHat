@@ -1630,6 +1630,7 @@
 | Apr 10, 2016 | Fox News: "President Barack Obama on 'Fox News Sunday'" archive.is/NvHt6
 | Apr 10, 2016 | USA Today: "Obama to Fox News: No politics in Hillary Clinton email investigation" archive.is/xy3fl
 | Apr 10, 2016 | Papadopoulos emails "Putin's niece"; she responds favorably the next day; Pdop then cc's Mifsud bit.ly/2T4Qw6P
+| Apr 11, 2016 | Mifsud emails Papadopoulos; says he is visiting the Duma on 4/18/16 bit.ly/2S2mrb6
 | Apr ??, 2016 | DCCC is hacked around Apr 11-12, 2016 bit.ly/2FoSxYE
 | Apr 11, 2016 | Glenn Simpson attends Logan Symposium, along with Jane Meyer (New Yorker) and Ken Vogel (Politico)
 | Apr 11, 2016 | Manafort emails Kimlimnick; asks how he repay his debt to Deripaska bit.ly/2HlRjyZ
@@ -1652,7 +1653,7 @@
 | Apr 18, 2016 | First tweet from @HeatStreet bit.ly/2D6OQo7
 | Apr 18, 2016 | Heat Street article on Jane Sanders archive.is/yNiPI
 | Apr 18, 2016 | Vanity Fair article about Heat Street archive.is/Np3PY
-| Apr 18, 2016 | Mifsud tells Papadopoulos he met w/Ivan Timofeev; talks about setting up a meeting between the two bit.ly/2QZR0t2
+| Apr 18, 2016 | Mifsud tells Papadopoulos he met w/Ivan Timofeev; talks about setting up a meeting between the two bit.ly/2Hm8uR6
 | Apr 18, 2016 | Yahoo article about Manafort's past lobbying efforts for for Pakistani spy front; by Isikoff bit.ly/2Meym09
 | Apr 18, 2016 | X-Agent keylog and screenshot functions activated to steal credentials of a DCCC employee bit.ly/2D5P8vc
 | Apr 19, 2016 | Trump takes New York Primary archive.is/M9W5n
@@ -1671,18 +1672,19 @@
 | Apr 22, 2016 | X-Agent keylog and screenshot functions activated to capture discussions of "DCCC Employee 2" bit.ly/2FtottT
 | Apr 22, 2016 | Alan Cullison: "So I'm told Deripaska was in the U.S. this past week." (email to David Kramer) archive.is/9V2IH
 | Apr 22, 2016 | Russian intel prepares massive amount of data for exfiltration from DNC servers
-| Apr 22, 2016 | Timofeev and Papadopoulos email about meeting in London or Moscow. Had an "extensive talk"
+| Apr 22, 2016 | Timofeev and Papadopoulos email about meeting in London or Moscow bit.ly/2W3hQEq
+| Apr 25, 2016 | Papadopoulos emails [Clovis?]; says he's secured a meeting with Putin, if needed bit.ly/2W4pA9p
 | Apr 25, 2016 | Obama For America begins paying funds into Perkins Coie for "legal services." Total OFA payments would total $972k
 | Apr 25, 2016 | White House meeting including James Baker and Trisha Anderson and several FISA lawyers
 | Apr 25, 2016 | House IG notified of irregularities, regarding Awan case
-| Apr 26, 2016 | Mifsud tells Papadopoulos that Russian officials have damaging material on HRC bit.ly/2SYWJRR, bit.ly/2W2QluP
+| Apr 26, 2016 | In London, Mifsud tells Papadopoulos that Russian officials have "dirt" on HRC bit.ly/2SYWJRR, bit.ly/2W2QluP
 | Apr 26, 2016 | WaPo: "Inside Trump adviser Manafort’s world of politics and global financial dealmaking" archive.is/ifRKi
 | Apr 26, 2016 | Yahoo article about Manafort, Ukraine and the Cayman Islands filing by Deripaska; by Isikoff archive.is/4M2qX
 | Apr 27, 2016 | Carter Page is in Dubai around this time bit.ly/2RkGbX0, bit.ly/2V5Bf7r
 | Apr 27, 2016 | Politico: "How Donald Trump became the Kremlin's Candidate" by Michael Crowley, talks about Flynn
 | Apr 27, 2016 | Bruno Kahl nominated to be President of the Federal Intelligence Service in Germany
 | Apr 27, 2016 | Trump gives his first speech on foreign policy; mentions "improved relations with Russia" bit.ly/2SXg1ah
-| Apr 27, 2016 | Papadopoulos emails Lewandowski; refers to possible meetings with Russian officials bit.ly/2W1GBks
+| Apr 27, 2016 | Papadopoulos emails Lewandowski; refers to possible meetings with Russian officials bit.ly/2W1GBks, bit.ly/2Czb2FR
 | Apr 27, 2016 | Alexandra Chalupa attends Ukraine at Library of Congress to discuss Manafort research bit.ly/2FwdqjR
 | Apr 28, 2016 | Hackers use remaining bitcoin from 3/14/16 to lease Malaysian server that hosts dcleaks.com website bit.ly/2RqpOcf
 | Apr 28, 2016 | DNC detects infiltration of GRU; FBI not informed; Michael Sussman summoned to emergency meeting
@@ -1692,6 +1694,7 @@
 | Apr 29, 2016 | WaPo: "Sanders campaign drops lawsuit against DNC stemming from December data breach"
 | Apr 29, 2016 | McClatchly: "What Panama Papers say - and don’t say - about Trump"
 | Apr 30, 2016 | Strzok: "And now we've switched from the Patriot Act to a wire carrying current."
+| Apr 30, 2016 | Papadopoulos thanks Mifsud for arranging a meeting between the Trump campaign and Russian govt bit.ly/2QZJpuL
 | Apr 30, 2016 | Hillary/DNC discovers it has been hacked and compromising information is now out there "in the wild". It hires Crowdstrike, an IT company, through a cutout, legal firm Perkins Coie to investigate the hack. Apparently all DNC contractors were notified, thus Fusion GPS was notified
 | May ??, 2016 | Comey briefs Obama's NSC principals about "the [Carter] Page information" sometime late Spring 2016 bit.ly/2QLBoJI
 | May ??, 2016 | Stefan Halper communicates with Steele, according to Yaacov Appelbaum
@@ -1702,7 +1705,7 @@
 | May 02, 2016 | Comey drafts initial statement regarding Hillary's use of a private server bit.ly/2TSU24b
 | May 03, 2016 | Alexandra Chalupa warns Luis Miranda that "a big Trump component...will hit in next few weeks" bit.ly/2TMokFI
 | May 03, 2016 | Alexandra Chalupa tells Luis Miranda that she's been getting strange messages on her Yahoo account bit.ly/2Cg64O2
-| May 04, 2016 | Papadopoulos forwards Timofeev email to Lewandowski, Sam Clovis, other members of the Trump campaign. In the email, Timofeev, reached out to report that Russian foreign ministry officials were open to a Trump visit to Moscow and requested that the campaign and Russians write a formal letter outlining the meeting
+| May 04, 2016 | Papadopoulos forwards Timofeev email to Lewandowski, Sam Clovis wrt meeting with Russian govt bit.ly/2QYPCXW
 | May 04, 2016 | Cruz drops out. Trump de-facto wins nomination. No serious threat anymore. A couple Page-Strzok texts lamenting
 | May 04, 2016 | Sussman calls CrowdStrike's Shawn Henry regarding DNC server
 | May 04, 2016 | Sater texts Cohen. “I had a chat with Moscow. ASSUMING the trip does happen the question is before or after the convention. Obviously the pre-meeting trip [you only] can happen anytime you want but the 2 big guys where [sic] the question. I said I would confirm and revert.” Cohen replies, “My trip before Cleveland. [Trump] once he becomes the nominee after the convention.”
@@ -1723,8 +1726,9 @@
 | May 11, 2016 | Romney facebook post encourages Trump to release taxes. Hints at mob ties
 | May 11, 2016 | Credit Suisse prospectus released and the Mission Ridge properties are in it. In the diagrams, it says that Mission Ridge space is leased to a Government tenant. But in the "property" section it names the FBI and talks about the line of sight from NRO bit.ly/2Qrg15k
 | May 11, 2016 | Judge releases documents to AP relating to links between Trump and Felix Sater
-| May 13, 2016 | Mifsud emails Papadopoulos an update about "recent conversations"
+| May 13, 2016 | Mifsud emails Papadopoulos; says he will continue to send updates about potential future meetings bit.ly/2sBTF2r
 | May 13, 2016 | Event logs from a DNC computer are cleared in order to cover tracks of remote hackers bit.ly/2H7OCRG
+| May 14, 2016 | Papadopoulos emails [Clovis/Lewandowski?]; says Russian govt is interested in hosting Trump bit.ly/2R4mgaI
 | May 15, 2016 | Evan Perez indicates wiretapping of Paul Manafort ends sometime in 2016 due to lack of evidence
 | May 15, 2016 | Crowdstrike claims it investigated DNC hacking and that the Russians were responsible. FBI denied access to server
 | May 15, 2016 | Fusion GPS hires Nellie Ohr for their Russian research
@@ -1735,7 +1739,7 @@
 | May 16, 2016 | Trump campaign hires pollster Tony Fabrizio after a month of rumors politi.co/2SOhvnc
 | May 16, 2016 | Times of Israel: "Netanyahu brought about Iran nuke deal, says ex-Mossad head in last interview" archive.is/QyX9A
 | May 16, 2016 | Yahoo: "Senate report on CIA torture is one step closer to disappearing" by Michael Isikoff
-| May 17, 2016 | WaPo: "Former Mafia-linked figure describes association with Trump" by Rosalind Helderman and Tom Hamburger, about Sater
+| May 17, 2016 | Washington Post article on Felix Sater; by Rosalind Helderman and Tom Hamburger bit.ly/2S2ohsw
 | May 17, 2016 | Forbes interview of Emin and Aras Agalarov where they boast of Trump Connections. Article with text of interview is now deleted
 | May 17, 2016 | Sidney Blumenthal attends a book party at John and Christina Ritch's home, where Sid meets Jamie Raskin (D-MD)
 | May 17, 2016 | Grassley sends letter to Comey about Clinton's server
@@ -1744,7 +1748,7 @@
 | May 19, 2016 | WaPo: "Veteran strategist Paul Manafort becomes Trump’s campaign chairman" archive.fo/yiugF
 | May 19, 2016 | D.C. Judge Rudolph Contreras appointed to FISC
 | May 21, 2016 | Carter Page attends a speech by Roger Stone at the Metropolitan Republican Club archive.is/PFRUa
-| May 21, 2016 | Papadopoulos emails a senior Trump campaign official that begins "Request from Russia to meet Mr. Trump" 
+| May 21, 2016 | Papadopoulos emails senior campaign official; says Russian govt interested in meeting Trump bit.ly/2sCB8mK
 | May 22, 2016 | Politico: "Just What Were Donald Trump’s Ties to the Mob?" by David Cay Johnston, talking about the book by Wayne Barrett again
 | May 23, 2016 | Nellie Ohr obtains ham radio license
 | May 23, 2016 | WSJ: "FBI Investigating Donations to Virginia Gov. Terry McAuliffe" (Wang Wenliang) archive.is/j0TPI
