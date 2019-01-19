@@ -1677,7 +1677,7 @@
 | Apr 25, 2016 | Obama For America begins paying funds into Perkins Coie for "legal services." Total OFA payments would total $972k
 | Apr 25, 2016 | White House meeting including James Baker and Trisha Anderson and several FISA lawyers
 | Apr 25, 2016 | House IG notified of irregularities, regarding Awan case
-| Apr 26, 2016 | In London, Mifsud tells Papadopoulos that Russian officials have "dirt" on HRC bit.ly/2SYWJRR, bit.ly/2W2QluP
+| Apr 26, 2016 | At a hotel in London, Mifsud tells Papadopoulos that Russian officials have dirt on HRC bit.ly/2SYWJRR, bit.ly/2W2QluP
 | Apr 26, 2016 | WaPo: "Inside Trump adviser Manafort’s world of politics and global financial dealmaking" archive.is/ifRKi
 | Apr 26, 2016 | Yahoo article about Manafort, Ukraine and the Cayman Islands filing by Deripaska; by Isikoff archive.is/4M2qX
 | Apr 27, 2016 | Carter Page is in Dubai around this time bit.ly/2RkGbX0, bit.ly/2V5Bf7r
@@ -1706,6 +1706,7 @@
 | May 03, 2016 | Alexandra Chalupa warns Luis Miranda that "a big Trump component...will hit in next few weeks" bit.ly/2TMokFI
 | May 03, 2016 | Alexandra Chalupa tells Luis Miranda that she's been getting strange messages on her Yahoo account bit.ly/2Cg64O2
 | May 04, 2016 | Papadopoulos forwards Timofeev email to Lewandowski, Sam Clovis wrt meeting with Russian govt bit.ly/2QYPCXW
+| May 04, 2016 | In an interview with the London Times, Papadopoulos says PM Cameron should apologize to Trump bit.ly/2ASCONo
 | May 04, 2016 | Cruz drops out. Trump de-facto wins nomination. No serious threat anymore. A couple Page-Strzok texts lamenting
 | May 04, 2016 | Sussman calls CrowdStrike's Shawn Henry regarding DNC server
 | May 04, 2016 | Sater texts Cohen. “I had a chat with Moscow. ASSUMING the trip does happen the question is before or after the convention. Obviously the pre-meeting trip [you only] can happen anytime you want but the 2 big guys where [sic] the question. I said I would confirm and revert.” Cohen replies, “My trip before Cleveland. [Trump] once he becomes the nominee after the convention.”
@@ -1722,7 +1723,7 @@
 | May 06, 2016 | The Guardian: "The day we discovered our parents were Russian spies" about Donald Heathfield and Tracey Foley being nabbed by the FBI https://www.theguardian.com/world/2016/may/07/discovered-our-parents-were-russian-spies-tim-alex-foley 
 | May 08, 2016 | Joshua Adam Schulte searches google on how to set up a Tor network [see: Jun 20, 2018 Emptywheel]
 | May 09, 2016 | Bill Priestap is likely in London, possibly meeting with Downer and Pdop, around this time
-| May 10, 2016 | Papadopoulos meets Downer at a wine bar in London, Downer accompanied by Erika Thompson. Papadopoulos mentions the Russians having damaging emails for Clinton
+| May 10, 2016 | Papadopoulos meets Downer, Erika Thompson in London; Pdop mentions Russians have damaging HRC emails bit.ly/2FCRaFU
 | May 11, 2016 | Romney facebook post encourages Trump to release taxes. Hints at mob ties
 | May 11, 2016 | Credit Suisse prospectus released and the Mission Ridge properties are in it. In the diagrams, it says that Mission Ridge space is leased to a Government tenant. But in the "property" section it names the FBI and talks about the line of sight from NRO bit.ly/2Qrg15k
 | May 11, 2016 | Judge releases documents to AP relating to links between Trump and Felix Sater
@@ -3659,27 +3660,25 @@
 | Nov 30, 2017 | Flynn accepts plea deal
 | Nov 30, 2017 | Erik Prince testifies to HPSCI archive.vn/8BeaR
 | Nov 30, 2017 | Jeff Sessions testifies to HPSCI
-| Dec ??, 2017 | Treasury officials say North Korea’s nuclear missile program was using front companies to move money through ABLV in late 2017 [see: Mar 26, 2018 WSJ]
+| Dec ??, 2017 | Treasury officials say North Korea’s nuclear missile program was using front companies to move money through ABLV in late 2017 [see: 3/26/18 WSJ]
 | Dec ??, 2017 | Ali Watkins joins the New York Times sometime Dec 2017 [see: Jun 24, 2018 NYT]
 | Dec 01, 2017 | HPSCI again asks FBI/DOJ for availability to talk to Strzok
 | Dec 01, 2017 | ABC: "Flynn promised full cooperation to Mueller and says candidate Trump directed him to make contact with Russians."
 | Dec 01, 2017 | Judge Contreras accepts Flynn's guilty plea
 | Dec 01, 2017 | NYT: "Former N.S.A. Employee Pleads Guilty to Taking Classified Information (Nghia H. Pho) archive.is/SGEiU
 | Dec 02, 2017 | Mueller's team interviews WH Counsel Don McGahn
-| Dec 02, 2017 | WaPo: "Top FBI official assigned to Mueller’s Russia probe said to have been removed after sending anti-Trump texts" byline Karoun Demirjian and Devlin Barrett. First reveals the existance of incriminating text messages between Peter Strzok and Lisa Page archive.is/tLgZD
+| Dec 02, 2017 | Washington Post first to report on Strzok-Page texts; byline Karoun Demirjian, Devlin Barrett bit.ly/2MkgaCb
 | Dec 02, 2017 | HPSCI submits written request to Rod Rosenstein for Strzok-Page texts
 | Dec 02, 2017 | Inspector General issues statement in response to inquiries
-| Dec 04, 2017 | Politico: "George Papadopoulos' late night with the FBI"
-| Dec 04, 2017 | CNN: Strzok changed wording of Clinton investigation to avoid criminal charges
+| Dec 04, 2017 | Politico artice about the 7/27/17 Dulles airport arrest of George Papadopoulos politi.co/2iMc7Eb
 | Dec 04, 2017 | John Podesta testifies to HPSCI again
-| Dec 04, 2017 | Free Beacon: "Rap Star Probed by DOJ for Political Donations is Clinton Foundation Donor" (Pras Michel) archive.is/kdPBL
-| Dec 04, 2017 | ABC: "Paul Manafort was working with a Russian intelligence-connected official as recently as last week"
-| Dec 04, 2017 | The Hill: "DOJ failed to interview FBI informant before it filed charges in Russian nuclear bribery case" (Douglas Campbell) archive.is/bzm7e
-| Dec 04, 2017 | Fox: "FBI agent fired from Russia probe oversaw Flynn interviews, softened Comey language on Clinton email actions" by Nicole Darrah archive.is/Abukw
-| Dec 04, 2017 | CNN "FBI agent dismissed from Mueller probe changed Comey's description of Clinton to 'extremely careless'" by Laura Jarrett and Evan Perez archive.is/51WTI
+| Dec 04, 2017 | Free Beacon article on Pras Michael's legal troubles wrt donations to the Clinton Foundation archive.is/kdPBL
+| Dec 04, 2017 | ABC article on Paul Manafort's recent contact with Kilimnik in writing a pro-Ukrainian op-ed bit.ly/2FNp1Ld
+| Dec 04, 2017 | John Solomon op-ed on Rosenstein's "failure" to interview FBI undercover informant, Douglas Campbell bit.ly/2T1RtNf
+| Dec 04, 2017 | Fox News reveals Peter Strzok interviewed Gen. Flynn on 1/27/17; also, changed Comey's 5/2/16 HRC memo bit.ly/2FCSWqy
 | Dec 05, 2017 | Joshua Adam Schulte allegedly accesses Tor network [see: Jun 20, 2018 Emptywheel]
 | Dec 05, 2017 | Joshua Adam Schulte possibly arrested by NYPD on this day, charged with sexual assault [see: Jun 20, 2018 Emptywheel]
-| Dec 05, 2017 | Senate Judiciary (Grassley) letter to Wray asking for Strzok-Page texts, other relevant communications from Strzok and the Flynn 302s. 
+| Dec 05, 2017 | Grassley letter to Wray; asks for Strzok-Page texts, other relevant communications from Strzok and the Flynn 302s
 | Dec 05, 2017 | WaPo: "Conservative group says Mueller team lawyer’s email shows bias" by Devlin Barrett archive.is/oah0n
 | Dec 05, 2017 | Bloomberg: "Mueller Subpoenaed Deutsche Bank Records on Trump Several Weeks Ago" (Story retracted) archive.is/jxpKb
 | Dec 05, 2017 | Reuters: "Trump lawyer denies Deutsche Bank got subpoena on Trump accounts" archive.is/v4FF0
@@ -3739,7 +3738,7 @@
 | Dec 23, 2017 | Medium: "Real Estate transactions on the old New York Times Building" (Kushner, Lev Leviev) archive.is/FpPfQ
 | Dec 24, 2017 | Guardian: "FBI investigates Russian-linked Cyprus bank accused of money laundering" (FBME) archive.is/Jlr08
 | Dec 28, 2017 | HPSCI sends a letter to Rosenstein, tearing him apart. New deadline of Jan 03, 2018 for documents. Also asks for testimony from Strzok, Baker, Page, Ohr, Sally Moyer, Brower. "At this point, the DOJ and FBI need to be investigating themselves"
-| Dec 30, 2017 | NYT: "How the Russia Inquiry Began: A Campaign Aide, Drinks and Talk of Political Dirt" byline Sharon LaFraniere, Mark Mazzetti and Matt Apuzzo. Origin story shifts to Papadopoulos.
+| Dec 30, 2017 | NYT expose on Papadopoulos' 5/10/16 meeting with Downer; byline LaFraniere, Mazzetti, and Apuzzo bit.ly/2FEFke4
 
 | Jan 01, 2018 | The Atlantic: "What Putin really wants" archive.is/R23iK
 | Jan 02, 2018 | Glenn Simpsons NYT op-ed, demands August 22, 2017 transcripts be made public
