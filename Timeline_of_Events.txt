@@ -1514,7 +1514,7 @@
 | Mar 04, 2016 | Ben Carson suspends campaign archive.is/86nTS
 | Mar 05, 2016 | Donna Brazile emails a CNN debate question in advance to John Podesta
 | Mar 05, 2016 | Buffalo News article on Michael Caputo joining Trump campaign archive.is/NGbsZ
-| Mar 06, 2016 | Papadopoulos learns he'll be joining the Trump campaign and based on a conversation he had with "Campaign Supervisor", he understood that a principal foreign policy focus of the Campaign was an improved US relationship with Russia [see: Oct 5, 2017 Papadopoulos Statement of Offense]
+| Mar 06, 2016 | Papadopoulos learns he'll be joining the Trump campaign, by at least 3/6/16 bit.ly/2QZGySz
 | Mar 06, 2016 | Bloomberg article on Chinese investors receiving U.S. visas for investing in Kushner properties bit.ly/2SQEr5n
 | Mar 07, 2016 | Yahoo article on mafia-related figures who've done business with Trump by Michael Isikoff bit.ly/2Fp4fCv
 | Mar 07, 2016 | RT.com reports Marcel Lazar Lehel, aka Guccifer, to be extradited to the U.S. bit.ly/2QRGzMo
@@ -1572,7 +1572,7 @@
 | Mar 23, 2016 | Free Beacon: "Trump Adviser Compared U.S.-Russia Policy to Slavery, Police Shootings" archive.is/EnM6q
 | Mar 23, 2016 | Flynn on RT
 | Mar 24, 2016 | Papadopoulos meets with Mifsud in London; Pdop introduced to "Putin's niece" (Olga Vinogradova) bit.ly/2U2vlT0
-| Mar 24, 2016 | Papadopoulos sends email ("Meeting with Russian Leadership -- including Putin") to Trump campaign, including Clovis
+| Mar 24, 2016 | Papadopoulos sends email ("Meeting with Russian Leadership -- including Putin") to Sam Clovis bit.ly/2DlLfCF
 | Mar 24, 2016 | Slate: "Donald Trump Hates Women: It’s the one position he’s never changed" by Franklin Foer
 | Mar 24, 2016 | Alexandra Chalupa shares her research on Manafort with Ukraine's ambassador to the U.S., Valeriy Chaly bit.ly/2H8hLvJ
 | Mar 25, 2016 | Podesta Group files LDA on 3/7/16 contract work w/Sberbank bit.ly/2Tv04bb
@@ -1593,7 +1593,7 @@
 | Mar 30, 2016 | Bloomberg: "Trump’s New Russia Adviser Has Deep Ties to Kremlin’s Gazprom" about Carter Page. Based on interview the previous week, probably reached out right after Page was named in WaPo interview archive.is/nb8tB
 | Mar 31, 2016 | Trump meets in Washington D.C. with his foreign policy advisers. A picture of the meeting tweeted by Trump shows Jeff Sessions, George Papadopoulos, J.D. Gordon and others
 | Mar 31, 2016 | Nellie Ohr emails Robert Otto, mentions Aras Agalarov archive.is/2m6Iu
-| Mar 31, 2016 | Papadopoulos attends national security meeting with other foreign policy members of the Trump campaign in DC. At the meeting, Papadopoulos raises the possibility about a high level meeting with Russia but is shot down
+| Mar 31, 2016 | Papadopoulos attends natsec meeting in DC; says he know high level Russian officials, but is shot down bit.ly/2MmiSqC
 | Mar 31, 2016 | Jane Rhodes-Wolfe retires as Section Chief of the Exploitation Threat Section, Counterterrorism Division [see: Sep 2, 2016 jerriwilliams.com]
 | Apr ??, 2016 | Perkins Coie hires Fusion GPS
 | Apr ??, 2016 | Mission Ridge buildings are sold to Salus
@@ -1618,7 +1618,7 @@
 | Apr 05, 2016 | FBI General Counsel Jim Baker attends the Global Privacy Summit, along with Michael Sussmann (Perkins Coie)
 | Apr ??, 2016 | Alexandra Chalupa meets with asst. to Rep Kaptur (D-OH) around this time to discuss Manafort research bit.ly/2FqYgNg
 | Apr 06, 2016 | Fake email account is used to send spearphishing emails to +30 Clinton Campaign employees bit.ly/2QMUEGY
-| Apr 06, 2016 | @WikiLeaks: "US govt funded #PanamaPapers attack story on Putin via USAID. Some good journalists but no model for integrity" archive.is/GGqKN
+| Apr 06, 2016 | WikiLeaks tweets that the Panama Papers is funded by the U.S. govt, and is an attack on Putin archive.is/GGqKN
 | Apr 07, 2016 | Yermakov runs a technical query for the DCCC's internet protocol configurations to identify devices bit.ly/2ALa1KD
 | Apr 07, 2016 | The Observer: "Panama Papers Reveal Clinton’s Kremlin Connection" (Sberbank, Podesta) archive.is/gk6j5
 | Apr 07, 2016 | Free Beacon: "Trump Elevates Former Putin Ally Adviser to Senior Campaign Role" (Manafort to lead RNC Convention)
@@ -1629,7 +1629,7 @@
 | Apr 09, 2016 | ONA Director Baker rats on Strzok to FBI Counsel Baker wrt March 9 illegal access [see: April 10, 2016 Strzok texts[
 | Apr 10, 2016 | Fox News: "President Barack Obama on 'Fox News Sunday'" archive.is/NvHt6
 | Apr 10, 2016 | USA Today: "Obama to Fox News: No politics in Hillary Clinton email investigation" archive.is/xy3fl
-| Apr 10, 2016 | Papadopoulos emails Olga Vinogradova, who he believes is Putin's neice. Contacts her again on April 11 and April 12
+| Apr 10, 2016 | Papadopoulos emails "Putin's niece"; she responds favorably the next day; Pdop then cc's Mifsud bit.ly/2T4Qw6P
 | Apr ??, 2016 | DCCC is hacked around Apr 11-12, 2016 bit.ly/2FoSxYE
 | Apr 11, 2016 | Glenn Simpson attends Logan Symposium, along with Jane Meyer (New Yorker) and Ken Vogel (Politico)
 | Apr 11, 2016 | Manafort emails Kimlimnick; asks how he repay his debt to Deripaska bit.ly/2HlRjyZ
@@ -1677,12 +1677,12 @@
 | Apr 25, 2016 | House IG notified of irregularities, regarding Awan case
 | Apr 26, 2016 | Mifsud tells Papadopoulos that Russian officials have damaging material on HRC bit.ly/2SYWJRR, bit.ly/2W2QluP
 | Apr 26, 2016 | WaPo: "Inside Trump adviser Manafort’s world of politics and global financial dealmaking" archive.is/ifRKi
-| Apr 26, 2016 | Yahoo: "Trump’s campaign chief is questioned about ties to Russian billionaire" by Mike Isikoff, about Manafort, Ukraine and the Cayman Islands filing by Deripaska archive.is/4M2qX
+| Apr 26, 2016 | Yahoo article about Manafort, Ukraine and the Cayman Islands filing by Deripaska; by Isikoff archive.is/4M2qX
 | Apr 27, 2016 | Carter Page is in Dubai around this time bit.ly/2RkGbX0, bit.ly/2V5Bf7r
 | Apr 27, 2016 | Politico: "How Donald Trump became the Kremlin's Candidate" by Michael Crowley, talks about Flynn
 | Apr 27, 2016 | Bruno Kahl nominated to be President of the Federal Intelligence Service in Germany
 | Apr 27, 2016 | Trump gives his first speech on foreign policy; mentions "improved relations with Russia" bit.ly/2SXg1ah
-| Apr 27, 2016 | Papadopoulos sends email to Lewandowski, refers to possible meetings with Russian officials, says he was receiving “a lot of calls over the past month” about arranging a Russia meeting
+| Apr 27, 2016 | Papadopoulos emails Lewandowski; refers to possible meetings with Russian officials bit.ly/2W1GBks
 | Apr 27, 2016 | Alexandra Chalupa attends Ukraine at Library of Congress to discuss Manafort research bit.ly/2FwdqjR
 | Apr 28, 2016 | Hackers use remaining bitcoin from 3/14/16 to lease Malaysian server that hosts dcleaks.com website bit.ly/2RqpOcf
 | Apr 28, 2016 | DNC detects infiltration of GRU; FBI not informed; Michael Sussman summoned to emergency meeting
@@ -3520,7 +3520,7 @@
 | Oct 02, 2017 | The Atlantic: "Did Manafort Use Trump to Curry Favor With a Putin Ally?" byline Julia Ioffe and Franklin Foer archive.is/XmyIU
 | Oct 04, 2017 | Sens Burr and Warner have a news conference where they endorse the ICA
 | Oct 04, 2017 | HPSCI subpoenas the testimony of Peter Fritsch, Tom Catan and Glenn Simpson (all Fusion GPS employees), also subpoenas bank records.
-| Oct 05, 2017 | Papadopoulos pleads guilty to lying to the FBI about the timing of his contacts with Mifsud, case held under seal bit.ly/2SMa7s9
+| Oct 05, 2017 | Papadopoulos pleads guilty to lying to the FBI about the timing of his contacts with Mifsud bit.ly/2A0IL92
 | Oct 06, 2017 | Carter Page sells his only piece of real estate in New York bit.ly/2LCz1YB
 | Oct 06, 2017 | BuzzFeed: "US Intelligence Unit Accused Of Illegally Spying On Americans’ Financial Records"
 | Oct 10, 2017 | Carter Page invokes fifth in response to a request by HPSCI & SSCI to testify in a closed-door session bit.ly/2GItLUA
@@ -4447,3 +4447,4 @@
 | Jan 18, 2019 | Mediaite reports BuzzFeed has not seen firsthand the documents about Trump instructing Cohen to lie bit.ly/2CwyseK
 | Jan 18, 2019 | The Epoch Times publish excerpts from FBI General Counsel, James Baker bit.ly/2FAwYnM
 | Jan 18, 2019 | Mueller spokesperson denies BuzzFeed reporting that Trump directed Cohen to lie to Congress politi.co/2sDjXRO
+| Jan 19, 2019 | Nastya Rybka testifies in Moscow court that she won't disseminate stories about Deripaska bit.ly/2W2fBBj
