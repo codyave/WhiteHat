@@ -1777,7 +1777,7 @@
 | May 31, 2016 | Yermakov searches for open-source info about [CrowdStrike] and its reporting on X-Agent and X-Tunnel bit.ly/2Fy63YS
 | Jun 01, 2016 | Russian hackers attempt to delete traces of their presences on the DCCC network using CCleaner bit.ly/2srGsJn
 | Jun ??, 2016 | NV shops financial info on Ziff brothers in DC around this time bit.ly/2Ezaoea, bit.ly/2LyqINO
-| Jun ??, 2016 | Sergei Skripal visits Estonian intelligence officers, arranged by British intelligence
+| Jun ??, 2016 | Sergei Skripal visits intelligence officers in Estonia sometime Jun 2016; likely arranged by MI6 bit.ly/2FN3FOg
 | Jun ??, 2016 | Steele flies to Rome to brief FBI agent Gaeta about dossier
 | Jun ??, 2016 | NV granted permission from US Government to visit US on B-status non-immigrant visa
 | Jun ??, 2016 | "By in or around June 2016, [CrowdStrike] took steps to exclude intruders from the networks. Despite these efforts, a Linux-based version of X-Agent, programmed to communicate with the GRU-registered domain linuxkrnl.net, remained on the DNC network until in or around October 2016" [see: Jul 13, 2018 Mueller indictment]
