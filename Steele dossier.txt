@@ -1,6 +1,7 @@
 https://assets.documentcloud.org/documents/3259984/Trump-Intelligence-Allegations.pdf
 
-[#1] COMPANY INTELLIGENCE REPORT 2016/080 - 20 June 2016 
+[#1] 
+COMPANY INTELLIGENCE REPORT 2016/080 - 20 June 2016 
 US PRESIDENTIAL ELECTION: REPUBLICAN CANDIDATE DONALD TRUMP’S ACTIVITIES IN RUSSIA AND COMPROMISING RELATIONSHIP WITH THE KREMLIN 
 
 Summary 
@@ -20,10 +21,10 @@ Detail
 
 
 
-
-
-[#2] COMPANY INTELLIGENCE REPORT 2016/086 - 26 July 2015 
+[#2] 
+COMPANY INTELLIGENCE REPORT 2016/086 - 26 July 2015 
 RUSSIA/CYBER CRIME: A SYNOPSIS OF RUSSIAN STATE SPONSORED AND OTHER CYBER OFFENSIVE (CRIMINAL) OPERATIONS 
+
 Summary 
 - Russia has extensive programme of state-sponsored offensive cyber operations. External targets include foreign governments and big corporations, especially banks. FSB leads on cyber within Russia apparatus. Limited success in attacking top foreign targets like G7 governments, security services and IFIs but much more on second tier ones through IT back doors, using corporate and other visitors to Russia
 - FSB often uses coercion and blackmail to recruit most capable cyber operatives in Russia into its state-sponsored programmes. Heavy use also, both wittingly and unwittingly, of CIS emigres working in western corporations and ethnic Russians employed by neighbouring governments e.g. Latvia 
@@ -31,7 +32,6 @@ Summary
 - Example given of US citizen of Russian origin approached by FSB and offered incentive of “investment” in his business when visiting Moscow. 
 - Problems however for Russian authorities themselves in countering local hackers and cyber criminals, operating outside state control. Central Bank claims there were over 20 serious attacks on correspondent accounts held by CBR in 2015, comprising Roubles several billion in fraud 
 - Some details given of leading non-state Russian cyber criminal groups 
-
 
 Details 
 1. Speaking in June 2016, a number of Russian figures with a detailed knowledge of national cyber crime, both state-sponsored and otherwise, outlined the current situation in this area. A former senior intelligence officer divided Russian state-sponsored offensive cyber operations into four categories (in order of priority):- targeting foreign, especially western governments; penetrating leading foreign business corporations, especially banks; domestic monitoring of the elite; and attacking political opponents both at home and abroad. The former intelligence officer reported that the Federal Security Service (FSB) was the lead organization within the Russian state apparatus for cyber operations. 
@@ -44,8 +44,8 @@ Details
 
 
 
-
-[#3] Company Intelligence Report 2016/095- 19 July 2016
+[#3] 
+Company Intelligence Report 2016/095- 19 July 2016
 RUSSIA/US PRESIDENTIAL ELECTION: FURTHER INDICATIONS OF EXTENSIVE CONSPIRACY BETWEEN TRUMP’S CAMPAIGN TEAM AND THE KREMLIN 
 
 Summary 
@@ -66,9 +66,8 @@ Detail
 
 
 
-
-
-[#4] Company Intelligence Report 2016/094 - 19 July 2016 
+[#4] 
+Company Intelligence Report 2016/094 - 19 July 2016 
 RUSSIA: SECRET KREMLIN MEETINGS ATTENDED BY TRUMP ADVISOR, CARTER PAGE IN MOSCOW (JULY 2016) 
 
 Summary 
@@ -85,9 +84,8 @@ Detail
 
 
 
-
-
-[#5] COMPANY INTELLIGENCE REPORT 2016/097 - 30 July 2016 
+[#5] 
+COMPANY INTELLIGENCE REPORT 2016/097 - 30 July 2016 
 RUSSIA-US PRESIDENTIAL ELECTION: KREMLIN CONCERN THAT POLITICAL FALLOUT FROM DNC E-MAIL HACKING AFFAIR SPIRALLING OUT OF CONTROL 
 
 Summary 
@@ -105,9 +103,8 @@ Detail
 
 
 
-
-
-[#6] COMPANY INTELLIGENCE REPORT 2016/100 - 5 August 2016 
+[#6] 
+COMPANY INTELLIGENCE REPORT 2016/100 - 5 August 2016 
 RUSSIA/USA: GROWING BACKLASH IN KREMLIN TO DNC HACKING AND TRUMP SUPPORT OPERATIONS 
 
 Summary 
@@ -125,9 +122,8 @@ Detail
 
 
 
-
-
-[#7] COMPANY INTELLIGENCE REPORT 2016/101 - 10 August 2016 
+[#7] 
+COMPANY INTELLIGENCE REPORT 2016/101 - 10 August 2016 
 RUSSIA/US PRESIDENTIAL ELECTION: SENIOR KREMLIN FIGURE OUTLINES EVOLVING RUSSIAN TACTICS IN PRO-TRUMP, ANTI-CLINTON OPERATION 
 
 Summary 
@@ -147,7 +143,8 @@ Details
 
 
 
-[#8] COMPANY INTELLIGENCE REPORT 2016/102 - 10 August 2016 RUSSIA/US PRESIDENTIAL ELECTION: REACTION IN TRUMP CAMP TO RECENT NEGATIVE PUBLICITY ABOUT RUSSIAN INTERFERENCE AND LIKELY RESULTING TACTICS GOING FORWARD 
+[#8] 
+COMPANY INTELLIGENCE REPORT 2016/102 - 10 August 2016 RUSSIA/US PRESIDENTIAL ELECTION: REACTION IN TRUMP CAMP TO RECENT NEGATIVE PUBLICITY ABOUT RUSSIAN INTERFERENCE AND LIKELY RESULTING TACTICS GOING FORWARD 
 
 Summary 
 - TRUMP campaign insider reports recent DNC e-mail leaks were aimed at switching SANDERS (protest) voters away from CLINTON and over to TRUMP 
@@ -162,9 +159,8 @@ Detail
 
 
 
-
-
-[#9] COMPANY INTELLIGENCE REPORT 2016/136 - 20 October 2016 
+[#9] 
+COMPANY INTELLIGENCE REPORT 2016/136 - 20 October 2016 
 RUSSIA/US PRESIDENTIAL ELECTION: FURTHER DETAILS OF TRUMP LAWYER COHEN'S SECRET LIAISON WITH THE KREMLIN 
 
 Summary 
@@ -183,9 +179,8 @@ We reported previously, in our Company Intelligence Report 2016/135 of 19 Octobe
 
 
 
-
-
-[#10] COMPANY INTELLIGENCE REPORT 2016/105 - 22 August 2016 
+[#10] 
+COMPANY INTELLIGENCE REPORT 2016/105 - 22 August 2016 
 RUSSIA/UKRAINE: THE DEMISE OF TRUMP’S CAMPAIGN MANAGER PAUL MANAFORT 
 
 Summary 
@@ -201,9 +196,8 @@ Detail
 
 
 
-
-
-[#11] COMPANY INTELLIGENCE REPORT 2016/111 - 14 September 2016 
+[#11] 
+COMPANY INTELLIGENCE REPORT 2016/111 - 14 September 2016 
 RUSSIA/US: KREMLIN FALLOUT FROM MEDIA EXPOSURE OF MOSCOW’S INTERFERENCE IN THE US PRESIDENTIAL CAMPAIGN 
 
 Summary 
@@ -226,9 +220,8 @@ The substance of what was reported by the senior Russian PA official in paras 1 
 
 
 
-
-
-[#12] COMPANY INTELLIGENCE REPORT 2016/112 - 14 September 2016 
+[#12] 
+COMPANY INTELLIGENCE REPORT 2016/112 - 14 September 2016 
 RUSSIA/US PRESIDENTIAL ELECTION: KREMLIN-ALPHA GROUP CO¬ OPERATION 
 
 Summary 
@@ -244,9 +237,8 @@ Detail
 
 
 
-
-
-[#13] COMPANY INTELLIGENCE REPORT 2016/113 - 14 September 2016 
+[#13] 
+COMPANY INTELLIGENCE REPORT 2016/113 - 14 September 2016 
 RUSSIA/US PRESIDENTIAL ELECTION- REPUBLICAN CANDIDATE TRUMP’S PRIOR ACTIVITIES IN ST PETERSBURG 
 
 Summary 
@@ -261,9 +253,8 @@ Detail
 
 
 
-
-
-[#14] COMPANY INTELLIGENCE REPORT 2016/130 - 12 October 2016 
+[#14] 
+COMPANY INTELLIGENCE REPORT 2016/130 - 12 October 2016 
 RUSSIA: KREMLIN ASSESSMENT OF TRUMP AND RUSSIAN INTERFERENCE IN US PRESIDENTIAL ELECTION 
 
 Summary 
@@ -281,9 +272,8 @@ Detail
 
 
 
-
-
-[#15] COMPANY INTELLIGENCE REPORT 2016/134 - 18 October 2016 
+[#15] 
+COMPANY INTELLIGENCE REPORT 2016/134 - 18 October 2016 
 RUSSIA/US PRESIDENTIAL ELECTION: FURTHER DETAILS OF KREMLIN LIAISON WITH TRUMP CAMPAIGN 
 
 Summary 
@@ -310,9 +300,8 @@ Company Comment
 
 
 
-
-
-[#16] COMPANY INTELLIGENCE REPORT 2016/135 - 19 October 2016 
+[#16] 
+COMPANY INTELLIGENCE REPORT 2016/135 - 19 October 2016 
 RUSSIA/US PRESIDENTIAL ELECTION: THE IMPORTANT ROLE OF TRUMP LAWYER, COHEN IN CAMPAIGN'S SECRET LIAISON WITH THE KREMLIN 
 
 Summary 
@@ -335,7 +324,8 @@ The Kremlin insider was unsure of the identities of the PA officials with whom C
 
 
 
-[#17] COMPANY INTELLIGENCE REPORT 2016/166 - 13 December 2016 
+[#17]
+COMPANY INTELLIGENCE REPORT 2016/166 - 13 December 2016 
 US/RUSSIA: FURTHER DETAILS OF SECRET DIALOGUE BETWEEN TRUMP CAMPAIGN TEAM, KREMLIN AND ASSOCIATED HACKERS IN PRAGUE 
 
 Summary 
@@ -349,5 +339,3 @@ Detail
 2. [REDACTED] provided further details of these meeting/s and associated anti-CLINTON/Democratic Party operations. COHEN had been accompanied to Prague by 3 colleagues and the timing of the visit was either in the last week of August or the first week of September. One of their main Russian interlocutors was Oleg SOLODUKHIN operating under Rossotrudnichestvo cover. According to [REDACTED], the agenda comprised questions on how deniable cash payments were to be made to hackers who had worked in Europe under Kremlin direction against the CLINTON campaign and various contingencies for covering up these operations and Moscow's secret liaison with the TRUMP team more generally.
 3. [REDACTED] reported that over the period March-Sepfember 2016 a company called [REDACTED] and its affiliates had been using botnets and porn traffic to transmit viruses, plant bugs, steal data and conduct "altering operatjons" against the Democratic Party leadership. Entities linked to one [REDACTED] were involved and he and another hacking expert, both recruited under duress by the FSB, [REDACTED]were significant players in this operation. In Prague, COHEN agreed contingency plans for various scenarios to protect the operation, but in particular what was to be done in the event that Hillary CLINTON won the presidency. It was important in this event that all cash payments owed were made quickly and discreetly and that cyher and other operators were stood down/able to go effectively to ground to cover their traces. (We reported earlier that the involvement of political Operatives Paul MANAFORT and Carter PAGE in the secret TRUMP-Kremlin liaison had been exposed in the media in the run-up to Prague and that damage limitation of these also was discussed by COHEN with the Kremlin representatives). 
 4. In terms of practical measures to be taken, it was agreed by the two sides in Prague to stand down various "Romanian hackers" (presumably based in their homeland or neighbouring eastern Europe) and that other operatives should head fur a bolt-hole in Plovdiv, Bulgaria where they should “lay low". On payments, IVANOV'S associate said that the operatives involved had been paid by both TRUMP'S team and the Kremlin, though their orders and ultimate loyalty lay with IVANOV, as Head of the PA and thus ultimately responsible for the operation, and his designated successor/s after he was dismissed by president PUTIN in connection with iheanti-CLINTON operation in mid August.
-
-
