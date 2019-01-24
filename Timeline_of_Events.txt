@@ -894,7 +894,7 @@
 | May 22, 2013 | Breitbart: "Stratfor Email: Brennan Behind 'Witch Hunt' of Journalists Reporting Leaks" archive.is/S1LJB
 | May 23, 2013 | Sporyshev & Podobnyy discuss intel gathered from Buryakov on a Canadian airplane manufacturer bit.ly/2BTP3cv
 | May 29, 2013 | @KedarPavgi: "James Comey to be nominated as FBI Director, per multiple reports"
-| Jun ??, 2013 | Carter Page meets w/FBI in NYC to discuss his meetings with Podobnyy bit.ly/2GDXrSV, bit.ly/2QqsQrs
+| Jun ??, 2013 | FBI agents warn Carter Page about Podobnyy; Carter is dismissive bit.ly/2GDXrSV, bit.ly/2QqsQrs, bit.ly/2RLE1Rl
 | Jun 05, 2013 | Guardian: "NSA Prism program taps in to user data of Apple, Google and others" archive.is/J8WNY
 | Jun 05, 2013 | FBI Director Mueller travels meets Yanukovych in Ukraine; they discuss counterterrorism archive.is/u4mmy
 | Jun 08, 2013 | Guardian: "Boundless Informant: the NSA's secret tool to track global surveillance data" archive.fo/switR
@@ -1773,7 +1773,7 @@
 | May 25, 2016 | DNC Microsoft Exchange Server is hacked; thousands of emails from DNC employees work accounts is stolen bit.ly/2QK4SYz
 | May 26, 2016 | Carter Page emails J.D. Gordon and another foreign policy team member, Bernadette Kilroy, letting them know he will be speaking at the New Economic School’s commencement [see: Nov 2, 2017 Carter Page transcript]
 | May 26, 2016 | Telegraph: "Donald Trump signed off deal designed to deprive US of tens of millions of dollars in tax" byline Ruth Sherlock, Edward Malnick, Claire Newell about Felix Sater
-| May 26, 2016 | @DavidCornDC: "Trump has had mob links, and he's upset about HRC's server and her bad judgment. #OhMy" RTs David Cay Johnson's Politico article
+| May 26, 2016 | David Corn tweets that Trump has mob links, and that he's upset about HRC's server bit.ly/2Wgt0G3
 | May 26, 2016 | Trump locks in necessary 1,237 delegates after winning Indiana primary
 | May 27, 2016 | Yahoo: "Senate sleuths focus on ex-State Department aide in Clinton email ‘cover-up’" by Michael Isikoff
 | May 27, 2016 | CNN: "Trump's Veepstakes: Who is Michael Flynn?" archive.is/fpTzd
@@ -1933,17 +1933,17 @@
 | Jul 14, 2016 | Papadopoulos emails Timofeev again suggesting August or September in UK as a time and place for a meeting
 | Jul 14, 2016 | Guccifer 2.0 sends [WikiLeaks] encrypted file with instructions on accessing hacked DNC documents bit.ly/2FyaEKC
 | Jul 15, 2016 | Arsen Avakov tweets criticisms of Trump and Manafort, calls Trump “an even bigger danger to the US than terrorism.”
-| Jul 15, 2016 | Papadopoulos sends a private Facebook message to a Facebook account identified with Timofeev, stating: “We can chat on this, this weekend if you can’t tonight.” Timofeev messaged back a Facebook “thumbs up.”
+| Jul 15, 2016 | Papadopoulos DM's Timofeev; “We can chat on this, this weekend if you can’t tonight”; Timofeev gives a thumbs up
 | Jul 15, 2016 | Arseny Yatseniuk writes on Facebook that Trump has challenged the very values of the free world
 | Jul 15, 2016 | Bill Browder files a compaint with DoJ about Veselnitkaya and Akhmetshin. No one followed up at DOJ until April 2017
 | Jul 15, 2016 | Pence picked as VP, relieving some pressure off of Flynn
 | Jul 16, 2016 | Carter Page email mentions a professor who offered help to the Trump campaign bit.ly/2QKH1Yv
 | Jul 17, 2016 | Erdogan says coup Was a "gift from God" archive.is/ol3IR
-| Jul 18, 2016 | NYPost: "Ed Cox almost made Donald Trump really, really mad" (Ed Cox moves to block Newt) archive.is/xi40p
+| Jul 18, 2016 | NYPost reports that Ed Cox attempted to block Newt Gingrich from addressing an RNC delegation archive.is/xi40p
 | Jul 18, 2016 | GOP convention in Ohio begins
 | Jul 18, 2016 | [WikiLeaks] informs Guccifer 2.0 that they have the 1gb archive of hacked DNC documents bit.ly/2TLRjcW
-| Jul 18, 2016 | The Hill: "New Guccifer 2.0 dump highlights ‘wobbly Dems’ on Iran deal" Gucccifer 2.0 provides documents exclusively to The Hill including DNC banking records archive.is/xPD3p
-| Jul 18, 2016 | Interview between Mike Isikoff and Mike Flynn at RNC convention. Previews Russia-Flynn accusations. "Were you paid for that event?" "Why did you speak at that RT event?"
+| Jul 18, 2016 | The Hill publishes excerpts from hacked Dem emails provided by Guccifer 2.0 archive.is/xPD3p
+| Jul 18, 2016 | Isikoff interview Gen. Flynn at RNC convention; asks if he was paid/spoke at RT event
 | Jul 18, 2016 | WaPo: "George F. Will: GOP minds are at sea, but not the right one"
 | Jul 19, 2016 | Lisa Monaco meets Clapper and Tonya Ugoretz at ODNI
 | Jul 19, 2016 | Brennan attends the Leadership Dinner at the Intelligence and National Security Alliance in McLean, Virginia
@@ -2449,7 +2449,7 @@
 | Nov 07, 2016 | Heat Street: "FBI ‘Granted FISA Warrant’ Covering Trump Camp’s Ties To Russia" archive.li/xFqPB
 | Nov 07, 2016 | "REPORTER #1" (Ellen Nakashima) emails James Wolfe "Hey Jim. How are you? Been awhile."
 | Nov 08, 2016 | Strzok: "Managed to get into a huge fight here about the Bu and Clinton. Because [?] just can't stop at fair observations. She has to assert her mastery of things about which she has NO knowledge."
-| Nov 08, 2016 | The Hill: "Our ally Turkey is in crisis and needs our support" (Flynn op-ed)
+| Nov 08, 2016 | Gen. Flynn publishes a pro-Turkey op-ed in The Hill; FBI takes notice bit.ly/2CIzggO
 | Nov 08, 2016 | Presidential election
 | Nov 08, 2016 | Alexander Poteyev votes in the 2016 election bit.ly/2Fvhstj
 | Nov 08, 2016 | Butina and Torshin discuss the results of the election; speculate who might be Secretary of State bit.ly/2SQJe6
@@ -2475,11 +2475,10 @@
 | Nov 15, 2016 | Lisa Page: "Yeah, and then the Deputy Director (Yates) told you to go to London on 24 hours notice."
 | Nov 15, 2016 | Atul & Sagar Chordia, Kalpesh Mehta meets Trump at Trump Tower archive.is/htzWe
 | Nov 15, 2016 | Daily Beast: "Was Steve Bannon, Donald Trump’s Attack Dog, Paid Illegally?" archive.is/fl3dQ
-| Nov 15, 2016 | Snob.ru: "Felix Sater: How I advised Trump and hunted Bin Laden" archive.is/EBWnF
+| Nov 15, 2016 | Russian-based article on Felix Sater's informant roles on behalf of the U.S. govt archive.is/EBWnF
 | Nov 15, 2016 | Bloomberg article on Buryakov archive.li/46XAL
 | Nov 16, 2016 | $9.5m loan closed against Manafort by Federal Savings bank [see: Aug 13, 2018 American Banker]
 | Nov 16, 2016 | Washington Examiner: "Warner to replace Feinstein as top Democrat on Senate Intel Committee" archive.is/6iAE3
-| Nov 16, 2016 | @ChuckRossDC: "Separate from Flynn, hacked emails show son of Turkey's president Erdogan discussing how to use U.S.-based nonprofits to lobby Congress." archive.is/0Myxe
 | Nov 16, 2016 | CNN: "Trump transition team asked about security clearance for his children" archive.is/Mbinw
 | Nov 16, 2016 | A group of executives gather in a private dining room of the restaurant La Chine at the Waldorf Astoria hotel in Midtown Manhattan; in attendance is Jared Kushner and Wu Xiaohui (discussion relates to the redevelopment of 666 Fifth Avenue) [see: Jan 7, 2017 NYT]
 | Nov 17, 2016 | Tom Barrack scheduled to meet with UBS banker, Robert Foresman; ultimately, cancelled bit.ly/2U9lMlg, bit.ly/2Ta6ZH2
