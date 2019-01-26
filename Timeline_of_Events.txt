@@ -3509,7 +3509,7 @@
 | Sep 12, 2017 | Wolfe: "Roger." archive.is/2CF1E [see: Dec 14, 2018 James Wolfe response]
 | Sep 13, 2017 | CNN: "Exclusive: Justice Department declines Senate request to interview FBI officials over Comey firing" by Manu Raju
 | Sep 13, 2017 | Schulte arraigned; pleads not guilty; defense proposes bail; govt opposes; released on bail conditions bit.ly/2CU6iw1
-| Sep 14, 2017 | Carter Page files defamation lawsuit against OATH, Inc. and BBG, Radio Free Europe in SDNY bit.ly/2V93mm1
+| Sep 14, 2017 | Carter Page files defamation lawsuit in Manhattan against OATH, BBG, and RFE/RL bit.ly/2V93mm1, pdf: bit.ly/2S6UvCR
 | Sep 14, 2017 | Bail conditions announced for Joshua Adam Schulte; Judge Crotty requires $250k bond & 4 co-signers bit.ly/2H0Nvmz
 | Sep 15, 2017 | Schulte released on bail bit.ly/2Rf9D1e
 | Sep 15, 2017 | WSJ reports Rohrabacher told COS Kelly in a 9/13/17 phone call that he floated a pardon for Assange archive.is/uGH2V
@@ -3592,15 +3592,15 @@
 | Oct 24, 2017 | Reuters: "Russian Direct Investment Fund plans to invest in En+ IPO" archive.is/HhpFz
 | Oct 24, 2017 | CNN: "House Republicans investigating Obama-era uranium deal" (Nunes) archive.fo/0r9DWa
 | Oct 24, 2017 | Philly.com: "2 top Brady aides charged in probe of payoff to 2012 primary rival" (Smukler) archive.is/rda53
-| Oct 24, 2017 | WaPo: "Clinton campaign, DNC paid for research that led to Russia dossier" by Devlin Barrett. Not known where this leak came from. A good guess would be that it came from Fusion GPS themselves, to get ahead of the story since it was going to come out anyway.
+| Oct 24, 2017 | Washington Post reveals that the DNC hired Fusion GPS; byline Devlin Barrett bit.ly/2DzsQ5g
 | Oct 24, 2017 | Matthew Gehringer (general counsel for Perkins Coie) emails William W. Taylor III (Zuckerman Spaeder) bit.ly/2QUgBYv
 | Oct 24, 2017 | NBC News: "Mueller Now Investigating Democratic Lobbyist Tony Podesta" archive.is/HlxFp
 | Oct 24, 2017 | Brad Parscale testifies to HPSCI
 | Oct 24, 2017 | Michael Cohen testifies to HPSCI
 | Oct 25, 2017 | Ben Rhodes testifies to HPSCI
 | Oct 25, 2017 | CNN: "Exclusive: Mueller's team met with Russia dossier author"
-| Oct 25, 2017 | McClatchy: "Trump associate Cohen sold four NY buildings for cash to mysterious buyers" byline Peter Stone and Greg Gordon archive.is/KaaG3
-| Oct 25, 2017 | Daily Beast: "Trump Data Guru: I Tried to Team Up With Julian Assange" by Betsy Woodruff. Kicks off intense scrutiny of Cambridge Analytica in press archive.is/VwnWi
+| Oct 25, 2017 | McClatchy article about Michael Cohen's mysterious apartment buyers; Peter Stone and Greg Gordon archive.is/KaaG3
+| Oct 25, 2017 | Daily Beast exposé on Alexander Nix, head of Cambridge Analytica; kicks off media frenzy archive.is/VwnWi
 | Oct 26, 2017 | Steele: will "reach out to my other (SC) contacts on this issue tomorrow."
 | Oct 26, 2017 | Lisa Page interviews with OIG (Horowitz team)
 | Oct 26, 2017 | Fox News: "Uranium One probe: Order to lift 'gag' on Russia informant came from Trump, source says" archive.is/STcw3
@@ -4253,7 +4253,7 @@
 | Oct 14, 2018 | Trump speculates to 60 Minutes that Mattis could leave the administration; calls him a Democrat bit.ly/2EHwvPq
 | Oct 15, 2018 | FBI Vault: McCabe OPR Investigation; Part 1 bit.ly/2Cm874k; Part 2 bit.ly/2EBCeqU; Part 3 bit.ly/2ECE7Ua
 | Oct 15, 2018 | Forbes article about Danske Bank whistleblower, Howard Wilkinson archive.is/dEgOZ
-| Oct 15, 2018 | Carter Page files complaint against DNC bit.ly/2AkJCD8
+| Oct 15, 2018 | Carter Page files complaint against DNC, Perkins Coie; 37 pages; pdf: bit.ly/2Uffock 
 | Oct 17, 2018 | Natalie Edwards revealed to have leaked Trump associates' financial records to BuzzFeed bit.ly/2BF6m0O
 | Oct 17, 2018 | Fox News reports State Dept provided false statements to derail requests for Clinton docs bit.ly/2T7t3l1
 | Oct 17, 2018 | U.K. freezes $250m of Deripaska assets in London due to litigation of Three-Mount Manufactory archive.is/Xl2jq
@@ -4483,6 +4483,7 @@
 | Jan 18, 2019 | Mediaite reports BuzzFeed has not seen firsthand the documents about Trump instructing Cohen to lie bit.ly/2CwyseK
 | Jan 18, 2019 | The Epoch Times publish excerpts from FBI General Counsel, James Baker bit.ly/2FAwYnM
 | Jan 18, 2019 | Mueller spokesperson denies BuzzFeed reporting that Trump directed Cohen to lie to Congress politi.co/2sDjXRO
+| Jan 18, 2019 | Chris Christie op-ed; details curious interactions with Kushner the week of 5/16/16 politi.co/2APNtIU
 | Jan 19, 2019 | Nastya Rybka testifies in Moscow court that she won't disseminate stories about Deripaska bit.ly/2T4sKrM
 | Jan 20, 2019 | Court documents show Ukrainian oligarch Victor Pinchuk funded the false report on Tymoshenko bit.ly/2DnWk66
 | Jan 21, 2019 | Alexey Navalny reports that Deripaska may have framed Nastya Rybka for sex crimes in Thailand bit.ly/2R3PDJV
