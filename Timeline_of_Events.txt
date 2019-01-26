@@ -1430,7 +1430,7 @@
 | Feb 01, 2016 | Iowa Primary, Cruz wins but Trump is 2nd place
 | Feb 01, 2016 | WaPo: "Mike Huckabee ends 2016 presidential bid" archive.is/xTdS2
 | Feb 01, 2016 | Politico: "How Trump Did It" archive.is/ZKYDE
-| Feb 01, 2016 | "On or about February 1, 2016, the gfadel47 account received the instruction to '[p]lease send exactly 0.026043 bitcoin to' a certain thirty-four character bitcoin address. Shortly thereafter, a transaction matching those exact instructions was added to the Blockchain. On occasion, the Conspirators facilitated bitcoin payments using the same computers that they used to conduct their hacking activity, including to create and send test spearphishing emails. Additionally, one of these dedicated accounts was used by the Conspirators in or around 2015 to renew the registration of a domain (linuxkrnl.net) encoded in certain X-Agent malware installed on the DNC network" (linuxkrnl.com renewed late 2015? --> archive.is/Ot0Vl) [see: Jul 13, 2018 Mueller indictment]
+| Feb 01, 2016 | Conspirators instructed to send 0.026043 bitcoin to a bitcoin address bit.ly/2FOQNI9
 | Feb 02, 2016 | Guardian: "Hillary Clinton declared winner of Iowa caucuses by razor-thin margin" archive.is/d8ELc
 | Feb 02, 2016 | Christopher Steele "admonished" by FBI archive.is/oCynm [see: Aug 3, 2018 FBI Vault]
 | Feb 02, 2016 | Daily Beast: "Ted Cruz’s Sugar Daddy Has a $2 Million Toy Railroad" by Michael Daly, about Robert Mercer
@@ -1557,7 +1557,7 @@
 | Mar 14, 2016 | Yahoo article on Trump's bodyguard, Keith Schiller; by Michael Isikoff bit.ly/2BlV1m8
 | Mar 14, 2016 | Papadopoulos meets Mifsud in Italy at LINK Campus; Misfud promises contacts with Russian officials bit.ly/2MmcKi5
 | Mar 14, 2016 | Russian hackers purchase a VPN with bitcoin; later, VPN is used to log into @Guccifer_2 account bit.ly/2Cj0pa5
-| Mar 14, 2016 | "On or about Mar 14, 2016 and Apr 28, 2016, the Conspirtors used the same pool of bitcoin funds to purchase a virtual private network ("VPN") account and to lease a server in Malaysia." [see: 7/13/18 Mueller indictment]
+| Mar 14, 2016 | Conspirators use same pool of bitcoin funds to purchase a VPN account & to lease a server in Malaysia bit.ly/2RRr7kH
 | Mar 15, 2016 | Rubio suspends campaign after losing Florida
 | Mar 15, 2016 | Manafort begins to have ties with Trump campaign
 | Mar 15, 2016 | Bloomberg: "Trump’s Long Romance With Russia" by Josh Rogin; Agalarovs, Miss Universe Moscow archive.ph/hYmfZ
@@ -1609,9 +1609,9 @@
 | Apr ??, 2016 | Carter Page receives email invite in Apr 2016 to attend the New Economic School of Business in Moscow bit.ly/2BHNON7
 | Apr ??, 2016 | Dan Jones completes the legal paperwork to establish Penn Quarter Group [see: Feb 20, 2018 The Federalist]
 | Apr ??, 2016 | Drone Aviation hires Gen. Flynn [see: Dec 15, 2016 Daily Caller]
-| Apr ??, 2016 | Dennis Raico, a former senior vice president at Federal Savings, receives a referral from a mortgage broker to Paul Manafort through an employee of Bank of Internet [see: Aug 13, 2018 American Banker]
+| Apr ??, 2016 | Dennis Raico (former senior VP at Federal Savings) receives a referral about Paul Manafort bit.ly/2G6IRRM
 | Apr ??, 2016 | John Brennan shown a tape recording passed from the intelligence agency of a baltic state. Recording is a conversation about money from Kremlin going to Trump campaign
-| Apr ??, 2016 | "In or around April 2016, the Conspirators installed X-Agent malware on the DNC network, including the same versions installed on the DCCC network. MALYSHEV and his co-conspirators monitors the X-Agent malware from the AMS panel and captures data from the victim comptuers. The AMS panel collected thousands of keylog and screenshot results from the DCCC and DNC computers, such as screenshot and keynote capture of DCCC Employee 2 viewing the DCCC's online banking information" [see: Jul 13, 2018 Mueller indictment]
+| Apr ??, 2016 | Conspirators install X-Agent malware on the DNC network; same versions installed on the DCCC network bit.ly/2CLdidi
 | Apr ??, 2016 | Comey tells Yates sometime Apr '16 that he's considering a special counsel [see: Jun 14, 2018 IG report p. 172]
 | Apr 01, 2016 | Carter Page in Hawaii attending a meeting with Tulsi Gabbard bit.ly/2MtngHU
 | Apr 01, 2016 | Papadopoulos in Greece meeting with Greek think tank. Goes to Israel after that
@@ -1695,10 +1695,10 @@
 | Apr 27, 2016 | Trump gives his first speech on foreign policy; mentions "improved relations with Russia" bit.ly/2SXg1ah
 | Apr 27, 2016 | Papadopoulos emails Lewandowski; refers to possible meetings with Russian officials bit.ly/2W1GBks, bit.ly/2Czb2FR
 | Apr 27, 2016 | Alexandra Chalupa attends Ukraine at Library of Congress to discuss Manafort research bit.ly/2FwdqjR
-| Apr 28, 2016 | Hackers use remaining bitcoin from 3/14/16 to lease Malaysian server that hosts dcleaks.com website bit.ly/2RqpOcf
+| Apr 28, 2016 | Hackers use remaining bitcoin from 3/14/16 to lease Malaysian server that hosts dcleaks.com website bit.ly/2RStGD6
 | Apr 28, 2016 | DNC detects infiltration of GRU; FBI not informed; Michael Sussman summoned to emergency meeting
-| Apr 28, 2016 | Vice: "A Brief History of Donald Trump and the Mafia: in the 1980s, the budding real estate mogul had a soft spot for wise guys" by Tom Robbins archive.is/ivVPS
-| Apr 28, 2016 | Slate: "The Quiet American: Paul Manafort made a career out of stealthily reinventing the world’s nastiest tyrants as noble defenders of freedom. Getting Donald Trump elected will be a cinch" by Franklin Foer
+| Apr 28, 2016 | Vice article on Trump's ties to the mafia in the 1980's; by Tom Robbins archive.is/ivVPS
+| Apr 28, 2016 | Slate article about Paul Manafort's past connections to tyrants and dictators; by Franklin Foer bit.ly/2sNHobp
 | Apr 28, 2016 | X-Tunnel is used to send additional documents from the DCCC to the GRU-leased computer in Illinois bit.ly/2Fo96DM
 | Apr 29, 2016 | WaPo: "Sanders campaign drops lawsuit against DNC stemming from December data breach"
 | Apr 29, 2016 | McClatchly: "What Panama Papers say - and don’t say - about Trump"
@@ -1720,21 +1720,21 @@
 | May 04, 2016 | Sussman calls CrowdStrike's Shawn Henry regarding DNC server
 | May 04, 2016 | Sater texts Cohen. “I had a chat with Moscow. ASSUMING the trip does happen the question is before or after the convention. Obviously the pre-meeting trip [you only] can happen anytime you want but the 2 big guys where [sic] the question. I said I would confirm and revert.” Cohen replies, “My trip before Cleveland. [Trump] once he becomes the nominee after the convention.”
 | May 05, 2016 | INSA Leadership Dinner with USD/I
+| May 05, 2016 | Crowdstrike receives first payment from DNC bit.ly/2Th607Z
 | May 05, 2016 | James Baker, Lisa Page, Iris Lan, Kelly Welsh, and other agency lawyers meet at White House bit.ly/2Hd10zN
 | May 05, 2016 | Carter Page emails Walid Phares and J.D. Gordon, asking them to contact him via cell phone or iMessage, adding “P.S. I forgot to mention that I also have the Middle East staple of [redacted] as well. So that’s another global connectivity alternative if you want to get in touch there.” [see: Nov 2, 2017 Carter Page transcript]
 | May 05, 2016 | Yahoo: "One law firm, two sets of clients: Donald Trump, and the refugees he wants to deport" by Michael Isikoff
 | May 05, 2016 | Sater texts Cohen to extend an invitation from Peskov to attend an event in St. Petersburg from June 16 to 19. The invitation includes a possible meeting with either Putin or Prime Minister Dmitry Medvedev
 | May 05, 2016 | Politico: "When Donald Trump brought Miss Universe to Moscow"
-| May 05, 2016 | DNC makes first payment to CrowdStrike [see: Apr 18, 2018 Free Beacon]
 | May 05, 2016 | CrowdStrike CEO, Dmitry Alperovich, installs Falcon software on DNC servers bit.ly/2EHDEPK
-| May 05, 2016 | "CrowdStrike was responding to the DNC’s hack as of May 5, 2016, but emails continued to be stolen for weeks" [see: Dec 4, 2016 Daily Caller]
+| May 05, 2016 | CrowdStrike responds to the DNC’s hack; however, emails continued to be stolen for weeks bit.ly/2UgEZBJ
 | May 06, 2016 | Cohen replies to Sater, saying the proposed St. Petersburg dates would work
-| May 06, 2016 | The Guardian: "The day we discovered our parents were Russian spies" about Donald Heathfield and Tracey Foley being nabbed by the FBI https://www.theguardian.com/world/2016/may/07/discovered-our-parents-were-russian-spies-tim-alex-foley 
+| May 06, 2016 | Guardian article about the children of Russian illegals, Donald Heathfield & Tracey Foley bit.ly/1sz3xIc
 | May 08, 2016 | Schulte google searches how to set up a TOR network bit.ly/2TCRXcT
 | May 09, 2016 | Bill Priestap is likely in London, possibly meeting with Downer and Pdop, around this time
 | May 10, 2016 | Papadopoulos meets Downer, Erika Thompson in London; Pdop mentions Russians have damaging HRC emails bit.ly/2FCRaFU
 | May 11, 2016 | Romney facebook post encourages Trump to release taxes. Hints at mob ties
-| May 11, 2016 | Credit Suisse prospectus released and the Mission Ridge properties are in it. In the diagrams, it says that Mission Ridge space is leased to a Government tenant. But in the "property" section it names the FBI and talks about the line of sight from NRO bit.ly/2Qrg15k
+| May 11, 2016 | Credit Suisse prospectus on Mission Ridge mentions FBI "line of site" from NRO bit.ly/2CLUtXh, bit.ly/2Qrg15k
 | May 11, 2016 | Judge releases documents to AP relating to links between Trump and Felix Sater
 | May 13, 2016 | Mifsud emails Papadopoulos; says he will continue to send updates about potential future meetings bit.ly/2sBTF2r
 | May 13, 2016 | Event logs from a DNC computer are cleared in order to cover tracks of remote hackers bit.ly/2H7OCRG
@@ -1787,8 +1787,8 @@
 | Jun ??, 2016 | Sergei Skripal visits intelligence officers in Estonia sometime Jun 2016; likely arranged by MI6 bit.ly/2FN3FOg
 | Jun ??, 2016 | Steele flies to Rome to brief FBI agent Gaeta about dossier
 | Jun ??, 2016 | NV granted permission from US Government to visit US on B-status non-immigrant visa
-| Jun ??, 2016 | "By in or around June 2016, [CrowdStrike] took steps to exclude intruders from the networks. Despite these efforts, a Linux-based version of X-Agent, programmed to communicate with the GRU-registered domain linuxkrnl.net, remained on the DNC network until in or around October 2016" [see: Jul 13, 2018 Mueller indictment]
-| Jun ??, 2016 | In or around June 2016, the Conspirators used the malaysian server to host the dcleaks.com website" [see: Jul 13, 2018 Mueller indictment]
+| Jun ??, 2016 | Despite CrowdStrike's efforts, the Conspirators remained on the DNC network from 6/2016-10/2016 bit.ly/2RNDFtc
+| Jun ??, 2016 | The Conspirators use the Malaysian server (leased on 4/28/16) to host the dcleaks.com website bit.ly/2HvA3HH
 | Jun ??, 2016 | Mensch says FISA on 4 Trump associates fails Jun 2016; debunked? bit.ly/2RcmqRd, bit.ly/2V8bkf9, bit.ly/2V6B4sg
 | Jun 01, 2016 | Payment to Genesis Capital is missed for Manafort-linked 377 Union St brownstone property [see: 7/25/17 Bloomberg]
 | Jun 01, 2016 | Papadopoulos emails senior campaign supervisor; relays that Russian govt intends to meet with Trump bit.ly/2CzAWco
@@ -2052,7 +2052,7 @@
 | Aug 02, 2016 | Two FBI agents sent to London on 7/31/16 send a summary to DC of their interview with Alexander Downer bit.ly/2TcCtMF
 | Aug 02, 2016 | Manafort meets Kilimnik at the Grand Havana Room in NYC; they discuss "unpaid bills" bit.ly/2RCXOlA
 | Aug 03, 2016 | One of Deripaska's private planes lands in Newark, NJ around 6am, leaves around 10am [see: Mar 6, 2018 Medium]
-| Aug 03, 2016 | Manafort emails Dennis Raico, asks for a copy of Stephen Calk’s resume [see: Aug 13, 2018 American Banker]
+| Aug 03, 2016 | Manafort emails Dennis Raico; he asks for a copy of Stephen Calk’s resume bit.ly/2HGI1Oq
 | Aug 03, 2016 | Bruce Ohr meets with Andrew McCabe and Lisa Page [see: September 6, 2018 The Hill], bit.ly/2FtJ3vb
 | Aug 03, 2016 | Page and Strzok discuss secret info; question whether to tell Priestap; they say info could leak bit.ly/2Mb87HL
 | Aug 03, 2016 | Politico article on the Trump campaign changing Ukrainian foreign policy after Manafort was hired politi.co/2AOdwQB
@@ -2071,13 +2071,13 @@
 | Aug 05, 2016 | Washington Post article about Carter Page; byline Steven Mufson and Tom Hamburger archive.is/slcv4
 | Aug 05, 2016 | Guardian: "Rio 2016 opening ceremony a mix of pared patriotism and climate concern" archive.is/5yQBl
 | Aug 05, 2016 | Strzok: "the White House is running this"
-| Aug 05, 2016 | Stephen Calk, CEO of The Federal Savings Bank, named to Trump's economic council [see: Jul 25, 2017 Bloomberg]
+| Aug 05, 2016 | Stephen Calk, CEO of The Federal Savings Bank, named to Trump's economic council bit.ly/2HGI1Oq, bit.ly/2S7T6f7
 | Aug 05, 2016 | WSJ: "The Big-Name Financiers Advising Trump on Economic Policy" archive.is/0S0ff
-| Aug 05, 2016 | In his email to Berat Albayrak (Turkey’s energy minister and son-in-law of President Recep Tayyip Erdoğan), Bilal Erdoğan says: “It is a good idea. Let’s do it as soon as possible,” in a forwarded email in English that suggests calling on opponents of the congressmen running for office who were taken to Turkey by Gülen sympathizers [see: Sep 27, 2016 Turkish Minute]
+| Aug 05, 2016 | Erdogan's son-in-law emails Berat Albayrak; he suggests they target friendly U.S. members of Congress bit.ly/2WlBlIL
 | Aug 06, 2016 | Obama seeks bipartisan support condemning Moscow and to urge states to accept federal help wrt securing election sites
-| Aug 06, 2016 | NYT: "Obama Arrives in Martha’s Vineyard for Two-Week Vacation" Marine One lands at 6:20PM bit.ly/2VT27Yw
+| Aug 06, 2016 | NYT article about Obama visiting Martha’s Vineyard for a two-week vacation; Marine One lands at 6:20PM bit.ly/2VT27Yw
 | Aug 06, 2016 | Hillary tweets first video questioning Trump's relationship to Russia
-| Aug 07, 2016 | Guardian: "Iran executes nuclear scientist who returned to country from US" (Shahram Amiri) archive.is/KE0XX
+| Aug 07, 2016 | Iran executes Shahram Amiri, a nuclear scientist who returned from the U.S. in 2010 bit.ly/2b4xPiG
 | Aug 07, 2016 | WaPo: "Iranian nuclear scientist Shahram Amiri 'executed'" archive.is/ksatw
 | Aug 07, 2016 | Obama golfs with Chris Paul, lawyer Cy Walker and WH aide Joe Paulsen at the Farm Neck Golf Club
 | Aug 07, 2016 | Washington Examiner: "[Senator] Cotton: Clinton discussed executed Iranian scientist on email" archive.is/eaqWg
@@ -2282,11 +2282,11 @@
 | Sep 26, 2016 | ACS alerts man who filed report against Weiner
 | Sep 26, 2016 | First presidential debate. Trump says Govt has no idea who actually hacked. "It also could be somebody sitting on their bed that weighs 400 pounds."
 | Sep 26, 2016 | CNBC: "Trump brags about not paying taxes: 'That makes me smart'" archive.is/gmr2Q
-| Sep 27, 2016 | Doug Schoes book, Putin's Master Plan, hits bookstores archive.is/04DHo
+| Sep 27, 2016 | Doug Schoen's book, Putin's Master Plan, hits bookstores archive.is/04DHo
 | Sep 27, 2016 | Halper's third contract with DOD expires ($244,960.00)
 | Sep 27, 2016 | John Carlin announces resignation (does not resign immediately)
 | Sep 27, 2016 | During the first presidential debate, Trump suggests a 400-lb hacker stole the DNC's emails
-| Sep 26, 2016 | Turkish Minue: "Minister’s leaked emails show Erdoğan family conspired to intervene in US elections" (Berat Albayrak, RedHack) archive.is/0nby9
+| Sep 27, 2016 | Turkish Minute article on the RedHack group's leaking emails from Berat Albayrak (Erdogan son-in-law) archive.is/0nby9
 | Sep 28, 2016 | Ryan, Pelosi, McConnel, and Reid sent letter to Todd Valentine about potential cyber attacks
 | Sep 28, 2016 | Weiner's lawyer turns over subpoenad emails to SDNY
 | Sep 28, 2016 | James Comey appears on Capitol Hill at a House Judiciary Committee oversight hearing bit.ly/2QbJDP2
@@ -4092,7 +4092,7 @@
 | Jul 12, 2018 | CNBC article on Strzok televised hearing before HPSCI archive.is/WJNKR
 | Jul 12, 2018 | NYT: "Border Agent Who Questioned Reporter Is Investigated for Computer Misuse" archive.is/HKx9s
 | Jul 13, 2018 | Rep Mark Meadows puts out a statement that Lisa Page is a credible witness bit.ly/2ryEarA, archive.fo/cYqMK
-| Jul 13, 2018 | Mueller indicts 12 Russian intelligence officers bit.ly/2ustufe
+| Jul 13, 2018 | Mueller indicts 12 Russian intelligence officers; 29 pages; pdf bit.ly/2ustufe
 | Jul 14, 2018 | Indictment against Maria Butina bit.ly/2zJtI7J
 | Jul 16, 2018 | Reuters: "Trump emerged from a meeting with Putin saying he saw no reason to believe Russia hacked 2016 U.S. election"
 | Jul 16, 2018 | Reuters: "After Helsinki, U.S. intel chief defends findings on Russian meddling"
