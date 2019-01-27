@@ -1914,13 +1914,14 @@
 | Jul 06, 2016 | Russian hackers use VPN to log into the @Guccifer_2 from same server used to register malicious domains bit.ly/2M9dkj8
 | Jul 06, 2016 | [WikiLeaks] requests from Guccifer 2.0 any documents related to HRC be expedited out for review bit.ly/2QJeWkq
 | Jul 07, 2016 | Skype call between Steele and Ohr from 8-8:30am bit.ly/2AuDaJN, bit.ly/2SPF3YU
-| Jul 07, 2016 | Carter Page gives a Power Point presentation and Q&A on “the future of the world economy” in Moscow
+| Jul 07, 2016 | Carter Page gives a Power Point presentation and Q&A on “the future of the world economy” in Moscow bit.ly/2SdBPBa
+| Jul 07, 2016 | Reuters reports that Carter Page declines to answer questions about Kremlin officials while in Moscow reut.rs/2S8ReTu
 | Jul 07, 2016 | Russian media reports Col. Alexander Poteyev has died in the U.S. bit.ly/2VMGTM9, dailym.ai/2VKTkIh, bit.ly/2Rwpysi
 | Jul 07, 2016 | Manafort emails Kilimnick; Kyiv Post inquiries; Deripaska offered private briefings bit.ly/2FBXbT8, bit.ly/2QV7hja
-| Jul 07, 2016 | Manafort (to Kilimnik?): "If [Deripaska] needs private briefings, we can accomodate" [see: Sep 20, 2018 WaPo]
+| Jul 07, 2016 | Manafort (to Kilimnik?): "If [Deripaska] needs private briefings, we can accomodate" [9/20/18 WaPo]
 | Jul 07, 2016 | IC IG McCullough testifies before HPSCI that he can not provide some segment of HRC's emails
 | Jul 07, 2016 | Comey testifies before Congress cnn.it/2VMTDlX
-| Jul 08, 2016 | Carter Page speaks at the New Economic School in Moscow; critices U.S. policy toward Russia for being too harsh
+| Jul 08, 2016 | Carter Page speaks at the New Economic School in Moscow; critices U.S. policy toward Russia bit.ly/2DE5M5D
 | Jul 08, 2016 | Kyiv Post article about Paul Manafort's lobbying work in Ukraine archive.is/IuJaT
 | Jul 09, 2016 | Daily Beast article questions whether Russian media reports of Poteyev's death are accurate bit.ly/2FuP2Po (Poteyev)
 | Jul 09, 2016 | Steele vacations in Cyprus with family until the 16th bit.ly/2SAT0cR
@@ -1987,7 +1988,7 @@
 | Jul 25, 2016 | Trump rally in Winton-Salem, NC
 | Jul ??, 2016 | Sergei Millian does an interview with ABC’s Brian Ross archive.is/ROHZm
 | Jul 25, 2016 | Long Term Strategy Group excercises a $354,612 Option
-| Jul 25, 2016 | Yahoo article on hacked accounts of DNC employees by Michael Isikoff bit.ly/2QU4LOc
+| Jul 25, 2016 | Yahoo article on hacked accounts of DNC employees; by Michael Isikoff bit.ly/2QU4LOc
 | Jul 26, 2016 | Spearphishing emails sent to third-party server hosting Clinton campaign accounts bit.ly/2CiGaZY
 | Jul 26, 2016 | DNC convention Day 2 (Tuesday); Speakers: Bill Clinton, Madeline Albright, Eric Holder, Terry McAuliffe, Nancy Pelosi
 | Jul 26, 2016 | DC-PPD-41 issued by White House. NCIJTF designated the lead responder to cyber threats
@@ -2000,7 +2001,7 @@
 | Jul 26, 2016 | Alexandra Chalupa leaves the DNC to work full-time on her research into Manafort, Trump and Russia
 | Jul 26, 2016 | @realDonaldTrump: "For the record, I have ZERO investments in Russia."
 | Jul 26, 2016 | Sater: "'Fuck me, I thought to myself. All that work for nothing'" [see: May 17, 2018 BuzzFeed]
-| Jul 26, 2016 | WSJ's Damian Paletta messages Carter Page about Sechin, Diyevkin bit.ly/2QPjHhf, bit.ly/2LAqZ2D, archive.vn/crTX3
+| Jul 26, 2016 | WSJ's Damian Paletta aska Carter Page @ 12:22pm about Sechin, Diyevkin bit.ly/2Tjedsu, bit.ly/2sMQoxz, bit.ly/2HATM8L
 | Jul 27, 2016 | Kian tells Alptekin he had a "detailed discussion" with Flynn the previous night archive.fo/cCuFX
 | Jul 27, 2016 | Kian informs Alptekin that, "We are ready to engage on what needs to be done" archive.fo/cCuFX
 | Jul 27, 2016 | Kian adds, "At the right time, I will include our partners in the communications" archive.fo/cCuFX
@@ -2237,7 +2238,7 @@
 | Sep ??, 2016 | Papadopoulos tells Stefan Halper mid-Sep 2016 that colluding with Russia would be treasonous bit.ly/2V6of16
 | Sep 15, 2016 | Long Term Strategy Group exercises a $240,815 Option
 | Sep 15, 2016 | Halper and Papadopolous meet at the Travellers Club, again with Azra Turk, Azra is said to have flirted with Pdop
-| Sep 15, 2016 | Isikoff leaves voicemail for Carter Page, asking for a call back, leaves similar voicemail on September 22
+| Sep 15, 2016 | Isikoff leaves a voicemail for Carter Page at 2:08pm; he asks for a call back bit.ly/2CQ9ffB
 | Sep 16, 2016 | Maria Butina arranges 2nd "friendship and dialogue" dinner in DC with Paul Erickson and U.S. Person 2 bit.ly/2Fzr8SL
 | Sep 16, 2016 | Stone says on Boston Herald Radio that he expects Assange the WikiLeaks to "drop a payload of new documents on a weekly basis fairly soon. And that of course will answer the question of exactly what was erased on that email server." Stone adds of Assange, "I am in touch with him through an intermediary."
 | Sep 16, 2016 | WaPo: "Donor to Clinton Foundation, McAuliffe caught up in Chinese cash-for-votes scandal" (Wenliang) archive.is/LHWRo
@@ -2266,17 +2267,19 @@
 | Sep 22, 2016 | SDNY issues subpoena for Anthony Weiner phone records
 | Sep 22, 2016 | Long Term Strategy Group excercises a $155,750 Option
 | Sep 22, 2016 | Yahoo! reports data breach to the public and fingers "state sponsored hackers". Sen. Blumenthal and Sen. Warner chastise Yahoo! for waiting so long to publicize
+| Sep 22, 2016 | Isikoff leaves a voicemail for Carter Page at 5:23pm; he asks for a call back bit.ly/2RT4JXZ
 | Sep 23, 2016 | NYT's Susanne Craig receives a copy of Trump's 1995 tax returns around this time [see: Oct 2, 2016 Medium]
-| Sep 23, 2016 | Yahoo: "U.S. intel officials probe ties between Trump adviser and Kremlin" archive.is/NurCQ
+| Sep 23, 2016 | Ohr meets with Steele for breakfast; tells him he is desperate Trump not get elected bit.ly/2QLLMBb
+| Sep 23, 2016 | Yahoo article published at 11:12am alleges Carter Page secretly met w/Sechin & Diveykin; Isikoff bit.ly/2FSeHlZ
+| Sep 23, 2016 | McFaul tweets Isikoff's 9/23/16 article about Carter Page at 12:18am; he suggests Carter join Twitter bit.ly/2MBdujQ
+| Sep 23, 2016 | Hillary for America emails a press release about Carter Page at 6:41pm to extensive media connections bit.ly/2DC0iYR
 | Sep 23, 2016 | Politico: "Who Is Carter Page? The mystery of Trump’s man in Moscow" archive.is/m33ms
-| Sep 23, 2016 | Bruce Ohr meets with Steele for a breakfast meeting; tells him he is desperate Trump not get elected bit.ly/2QLLMBb
 | Sep ??, 2016 | Winer starts talking to Blumenthal. Blumenthal shares Shearer information which was of a sexual and financial nature. Similar but different from Steele's info
-| Sep ??, 2016 | Comey tasks Priestap with a multifaceted effort to protect the 2016 election from interference
 | Sep ??, 2016 | Winer gives copy of Schearer memo to Steele (electronically?); Winer did not give to State. Steele gives to FBI as part of "handing over everything"
-| Sep 23, 2016 | @McFaul: "If Page using his status as "Trump advisor" for personal gain, thats another matter: Time for Page to join Twitter!" archive.is/j3cVK
+| Sep ??, 2016 | Comey tasks Priestap with a multifaceted effort to protect the 2016 election from interference
 | Sep 24, 2016 | RFE/RL ("BBG") republishes Yahoo's 9/23/16 article on Carter Page; Carter takes legal notice on 9/14/17 bit.ly/2ThU6L8
 | Sep 24, 2016 | Strzok sends a text to Lisa Page with a link to a Politico article about Carter Page
-| Sep 25, 2016 | Carter Page letter to Comey; says his team hasn't contacted him in recent months; calls it a witch hunt bit.ly/2EKbgfT
+| Sep 25, 2016 | Carter Page letter to Comey sent in the evening; says media reports are a "witch hunt" bit.ly/2EKbgfT, bit.ly/2S5wJHr
 | Sep 25, 2016 | Hurriyet: "Erdoğan says he asked US VP Biden about arrest of Iranian-Turkish businessman Zarrab" archive.is/BKrtC
 | Sep 26, 2016 | Carter Page leaves Trump campaign bit.ly/2CxBIYB
 | Sep 26, 2016 | Search and Seizure Warrant against Anthony Weiner
