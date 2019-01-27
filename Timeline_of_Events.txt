@@ -1168,14 +1168,14 @@
 | Jun 25, 2015 | Clapper confirms that China is the chief suspect behind the OPM breach
 | Jun 25, 2015 | Pat Kennedy of State response to State OIG Linick and ICIG McCullough [see: Jul 17, 2015 IG Memo]
 | Jun 25, 2015 | Politico: "Supreme Court: Obamacare ruling upholds key portion of Affordable Care Act" archive.is/tVo0W
-| Jun 29, 2015 | Followup Memo from State OIG Linick and ICIG McCullough to Pat Kennedy of State providing additional information supporting investigation concerns [see: Jul 17, 2015 IG Memo]
+| Jun 29, 2015 | Followup Memo from State OIG Linick and ICIG McCullough to Pat Kennedy of State providing additional information supporting investigation concerns [see: 7/17/15 IG Memo]
 | Jul ??, 2015 | Manafort pays off $250k 2004 loan from Middle Eastern arms dealer Abdul Rahman al-Assir [see: Apr 26, 2016 WaPo]
 | Jul 06, 2015 | WaPo: "At Trump hotel site, immigrant workers wary" by Antonio Olivo
 | Jul 06, 2015 | The Intercept: "Leaked documents show FBI, DEA, and U.S. Army buying Italian spyware" archive.is/mFMje
-| Jul 06, 2015 | Official 811 referral letter from ICIG McCullough regarding potential compromise of classified information. We don't have the actual letter but it is referenced in various places, including the FBI document opening the investigation
-| Jul 06, 2015 | Yahoo: "Eric Holder: The Justice Department could strike deal with Edward Snowden" by Michael Isikoff part of a whole interview with Isikoff which mostly centers around Snowden
-| Jul 07, 2015 | Motherboard: "Hacking Team's Equipment Got Stolen in Panama" archive.is/fG1TA
-| Jul 07, 2015 | National Review: "With Mega-Donor’s Technology, Cruz Campaign Promises to Turn Out More GOP Voters than Ever Before" by Eliana Johnson talks about Cruz and Mercers and Cambridge Analytica
+| Jul 06, 2015 | FBI receives a referral from ICIG McCullough regarding potential compromise of classified information bit.ly/2MC9VJU
+| Jul 06, 2015 | Yahoo article about a possible deal between the DoJ and Edward Snowden; by Michael Isikoff bit.ly/2RRfoSZ
+| Jul 07, 2015 | Motherboard article about how the Hacking Team's spy equipment was stolen in Panama archive.is/fG1TA
+| Jul 07, 2015 | National Review article about Ted Cruz, the Mercers, and Cambridge Analytica; by Eliana Johnson bit.ly/2Se4FS0
 | Jul 08, 2015 | DOJ awards $150k contract to Crowdstrike (effective til Jul 7, 2016) archive.fo/ukRE7 usaspending.gov/#/award/13086712
 | Jul 08, 2015 | Daily Beast: "Trump Tower Was Built on Undocumented Polish Immigrants' Backs" by Michael Daly
 | Jul 08, 2015 | Comey, Yates testify to Senate Judiciary Committee about "Going Dark" initiative bit.ly/2EvJt3N  bit.ly/2UGTVdt
@@ -1531,19 +1531,17 @@
 | Mar 08, 2016 | Joint Unclassified Statement Before the Committee on the Judiciary United States Senate at a Briefing on the FISA Amendments Act archive.is/LQeWW
 | Mar 08, 2016 | Politico: "Loretta Lynch bows out of Supreme Court running" archive.is/OTwCn
 | Mar 08, 2016 | Mifsud invited to World Summit on Uncontrolled Migration in Adelaide, Australia archive.is/8Hwlh, archive.ph/4SJr3
-| Mar 09, 2016 | FBI receives unknown classified from confidential human source (Buryakov?) archive.is/UM1A0
+| Mar 09, 2016 | FBI report of mishandled classified info from a CHS; documents held at Washington Field Office bit.ly/2RjTpir
 | Mar 09, 2016 | DOJ oversight personnel discover they had disclosed raw FISA information to private contractors archive.ph/KsH6a
-| Mar 09, 2016 | "need to try to fix a HUGE who f-up"
-| Mar 09, 2016 | Daily Beast: "Trump Embraces Ex-Top Obama Intel Official" (Flynn) archive.is/fI0HX
-| Mar 09, 2016 | Politico: "Lynch suggests White House 'stay silent' on Hillary Clinton email probe" archive.is/Lzrz9
-| Mar 09, 2016 | Daily Beast: "Trump Embraces Ex-Top Obama Intel Official" by Shane Harris, Nancy Youssef, about Flynn, mentions RT dinner archive.is/fI0HX
+| Mar 09, 2016 | Lisa tells Strzok at 7:03pm that she "need[s] to try to fix a HUGE who [Washington Field Office] f-up" bit.ly/2G0NAEC
+| Mar 09, 2016 | AG Lynch suggests the White House "stay silent" on HRC email probe, according to Politico politi.co/1M72Wkb
+| Mar 09, 2016 | Daily Beast article on Gen. Flynn; bylines Shane Harris, Nancy Youssef; mentions RT dinner archive.is/fI0HX
 | Mar 09, 2016 | Buryakov, his lawyers, and federal prosecutors sign a plea agreement bit.ly/2GXpsVw
 | Mar 10, 2016 | Judge Berman notified in the afternoon that Buryakov is likely to proceed with a plea agreement bit.ly/2CRvbs5
 | Mar 10, 2016 | Bruce Ohr twice visits the White House archive.is/f4v2t
 | Mar 10, 2016 | Twelveth GOP primary debate, sponsored by CNN, held in Miami, FL
 | Mar 10, 2016 | Maria Butina and two U.S. persons exchange emails about arranging "friendship and dialogue" dinners bit.ly/2TMGg37
-| Mar ??, 2016 | "Early" March, Fusion GPS approaches Perkins Coie and expressed interest in starting a contract regarding Trump research
-| Mar ??, 2016 | The FBI receives a batch of hacked documents from US intelligence agencies that had access to stolen emails stored on Russian networks. One of the intercepted documents revealed an alleged email from then-DNC Chairwoman Wasserman Schultz to to an operative working for billionaire Democratic fundraiser George Soros. It claimed Lynch had assured the Clinton campaign that investigators and prosecutors would go easy on Hillary. Lynch allegedly made the promise directly to Clinton political director Amanda Renteria
+| Mar ??, 2016 | Fusion GPS approaches Perkins Coie early Mar 2016 about starting a contract in regards to Trump research
 | Mar 11, 2016 | Former CIA Deputy Director Morell emails Podesta; they agree to meet next day at John's house @ 10am bit.ly/2ERVmkH
 | Mar 11, 2016 | Second round of phishing attempts, this time to senior Clinton officials
 | Mar 11, 2016 | Michelle Fields files charges against Corey Lewandowski
@@ -1571,7 +1569,8 @@
 | Mar 18, 2016 | John Schindler article on legal problems HRC has with the NSA bit.ly/2sAusW4
 | Mar 19, 2016 | Luvashev and co-conspirators send spearphishing email to John Podesta bit.ly/2FroK1k
 | Mar 19, 2016 | Alexandra Chalupa starts consulting with DNC on Trump's Russia ties
-| Mar ??, 2016 | Adm Rogers becomes aware of improper access to raw FISA data
+| Mar 19, 2016 | Carter Page attends a Trump campaign rally in Phoenix, Arizona bit.ly/2CPFlYK, bit.ly/2WmaLiI
+| Mar ??, 2016 | Adm Rogers becomes aware of improper access to raw FISA data sometime Mar 2016
 | Mar 21, 2016 | Lukashev, Yermakov, and co-conspirators steal about 50,000 emails from John Podesta's online account bit.ly/2Fp7Mkm
 | Mar 21, 2016 | DOJ press release announces arrest of Reza Zarrab bit.ly/1SdXXCS
 | Mar 21, 2016 | Trump meets w/ WaPo editorial board; Carter Page, George Papadopoulos named as foreign policy advisors bit.ly/2sBY0mo
@@ -1600,7 +1599,7 @@
 | Mar 30, 2016 | Flynn on Morning Joe
 | Mar 30, 2016 | Maria Butina thanks assoc. of Nat'l Prayer Breakfast organizer; suggests Putin may attend in 2017 bit.ly/2Fr6VPQ
 | Mar 30, 2016 | Politico: "Tip Sheets: Etsy registers" which has first mention of Sberbank hiring Podesta Group archive.is/ANo1b
-| Mar 30, 2016 | Bloomberg: "Trump’s New Russia Adviser Has Deep Ties to Kremlin’s Gazprom" about Carter Page. Based on interview the previous week, probably reached out right after Page was named in WaPo interview archive.is/nb8tB
+| Mar 30, 2016 | Bloomberg article on Carter Page archive.is/nb8tB
 | Mar 31, 2016 | Trump meets in Washington D.C. with his foreign policy advisers. A picture of the meeting tweeted by Trump shows Jeff Sessions, George Papadopoulos, J.D. Gordon and others
 | Mar 31, 2016 | Nellie Ohr emails Robert Otto, mentions Aras Agalarov archive.is/2m6Iu
 | Mar 31, 2016 | Papadopoulos attends natsec meeting in DC; says he know high level Russian officials, but is shot down bit.ly/2MmiSqC
@@ -2465,7 +2464,7 @@
 | Nov 09, 2016 | FBI logs intrusion analysis into HRC server
 | Nov 09, 2016 | Strzok send Lisa Page a Lawfare article titled "The Burden on Donald Trump"
 | Nov 10, 2016 | Daily Caller: "Here is a list of people Donald Trump is considering for senior White House jobs" archive.is/SE1iD
-| Nov 10, 2016 | In the Oval Office, Obama "forcefully" tells Trump to "steer clear of Flynn" [see: May 8, 2017 Politico]
+| Nov 10, 2016 | In the Oval Office, Obama "forcefully" tells Trump to "steer clear of Flynn" [5/8/17 Politico]
 | Nov 11, 2016 | Daily Caller: "Trump's top military adviser is lobbying for obscure company with ties to Turkish government" (Flynn)
 | Nov 11, 2016 | Chris Christie demoted from leading the Trump transition team, replaced by Mike Pence
 | Nov 11, 2016 | Devin Nunes press release: "Today I was honored to have been named to the executive committee of President-elect Donald Trump's transition team. In this role, I will advise President-elect Trump on the appointments of his Cabinet members and on appointments to other top positions in the new administration"
