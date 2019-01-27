@@ -3732,7 +3732,7 @@
 | Dec 11, 2017 | Fox News: "Wife of demoted DOJ official worked for firm behind anti-Trump dossier" Bruce Ohr is the DOJ official.
 | Dec 12, 2017 | NYT: "Donald Trump Jr. Demands Leak Inquiry of House Intelligence Committee"
 | Dec 12, 2017 | Another HPSCI letter to Rosenstein asking for Strzok-Page texts. Sets deadline of Dec 15, 2017
-| Dec 12, 2017 | Andrew McCabe is supposed to testify to HPSCI but cancels last minute, probably due to public revelations about Bruce Ohr
+| Dec 12, 2017 | McCabe is supposed to testify to HPSCI but cancels last minute, probably due to public revelations about Bruce Ohr
 | Dec 12, 2017 | Assistant Attorney General Stephen Boyd letter to HPSCI handing over approximately 375 Strzok-Page text messages 
 | Dec 12, 2017 | Samuel Clovis testifies to HPSCI
 | Dec 12, 2017 | Michael Goldfarb testifies to HPSCI
@@ -3745,10 +3745,10 @@
 | Dec 14, 2017 | Alexander Nix testifies to HPSCI
 | Dec 15, 2017 | NYT: "House Intelligence Panel Is Rushing to Complete Russia Probe"
 | Dec 15, 2017 | HPSCI reviews FISA application from Oct. 21 again
-| Dec 15, 2017 | FBI agents interview James Wolfe, ask if he's had contact with Ali Watkins; Wolfe denies
+| Dec 15, 2017 | FBI agents interview James Wolfe, ask if he's had contact with Ali Watkins; Wolfe denies bit.ly/2DBHWHD
 | Dec 15, 2017 | HPSCI reviews FISA application from Oct. 21 again
 | Dec 16, 2017 | Bloomberg: "Banned Over Terror Clients, FBME Has Added Woe" archive.is/nG9OC
-| Dec 17, 2017 | Politico: "The secret backstory of how Obama let Hezbollah off the hook" archive.is/u5aVY
+| Dec 17, 2017 | Politico article that is highly critical of the Obama's handling of Hezbollah & Project Cassandra politi.co/2jbt6fW
 | Dec 17, 2017 | Konstantin Kozlovsky says he hacked the DNC on instructions from FSB Major Gen. Dmitry Dokuchayev bit.ly/2SDL62v
 | Dec 18, 2017 | Debbie Wasserman-Schultz testifies to HPSCI
 | Dec 18, 2017 | Rob Goldstone testifies to HPSCI
@@ -4420,7 +4420,7 @@
 | Dec 18, 2018 | SDNY arrests, charges oil drilling CEO Todd Kozel with wire fraud, money laundering conspiracy bit.ly/2QF3mLV
 | Dec 18, 2018 | Belgian PM Michel offers resignation to king over criticisms of unpopular immigration policies bit.ly/2S3xoWq
 | Dec 18, 2018 | Mystery DC courthouse lockdown on Dec 14, 2018, concerns U.S. subpoena to foreign-owned bank bit.ly/2PM8W9W
-| Dec 18, 2018 | New documents filed under seal ahead of Dec 20, 2018 James Wolfe sentencing bit.ly/2Sanpyw
+| Dec 18, 2018 | Carter Page files amicus brief ahead of James Wolfe 12/20/18 sentencing; determined irrelevant bit.ly/2FRpmgU
 | Dec 18, 2018 | State Dept approves possible $3.5b sale of Patriot missiles to Turkey bit.ly/2EtL1KA
 | Dec 18, 2018 | Treasury notifies Congress of intent to delist En+, Rusal, & EuroSibEnergo (ie, Deripaska) bit.ly/2PPYTkg
 | Dec 18, 2018 | DOJ asks court to keep gag order in place Maria Butina in case her cooperation leads to other arrests bit.ly/2SXGaVZ
@@ -4431,7 +4431,7 @@
 | Dec 20, 2018 | BuzzFeed: "Russian Agents Sought Secret US Treasury Records On Clinton Backers During 2016 Campaign" bit.ly/2Cpu7LE
 | Dec 20, 2018 | Papadopoulos indicates he was the target of six spies archive.is/u1P7H
 | Dec 20, 2018 | Carter Page indicates that James Wolfe did not leak Male-1; someone else at SSCI archive.is/mnOXN
-| Dec 20, 2018 | James Wolfe sentenced to two months prison bit.ly/2EAfzua
+| Dec 20, 2018 | James Wolfe sentencing memo; 35 pages; includes cell phone screenshots; scribd pdf bit.ly/2TADi1P
 | Dec 20, 2018 | Sec of Defense Mattis turns in resignation letter; due to leave administration Feb 2019 bit.ly/2rMlbKp
 | Dec 20, 2018 | Mueller expected to submit 2016 Russian interference report to DOJ sometime mid-Feb 2019 archive.is/yN68Y
 | Dec 20, 2018 | 7k U.S. troops expected to withdraw soon from Afghanistan on.wsj.com/2QGzpvh
@@ -4440,7 +4440,7 @@
 | Dec 20, 2018 | Louise Mensch suggests that info given to James Wolfe about Carter Page was invented bit.ly/2AehqC1
 | Dec 20, 2018 | Grand jury indicts Natalya Veselnitskaya for obstruction of justice; sealed until Jan 9, 2019 bit.ly/2MldyEf
 | Dec 21, 2018 | Maligant growths removed from Justice Ginsberg's lungs reut.rs/2T3BOfU
-| Dec 21, 2018 | Carter Page amicus brief against James Wolfe, filed 12/17/18; Michael Casey, Chris Joyner mentioned bit.ly/2rQkpw0
+| Dec 21, 2018 | Carter Page amicus brief against James Wolfe; filed 12/17/18; mentions Michael Casey, Chris Joyner bit.ly/2rQkpw0
 | Dec 21, 2018 | DC Circuit denies motion filed by mystery company in mystery grand jury dispute bit.ly/2Luj3jd, bit.ly/2V2n0jH
 | Dec 21, 2018 | Mueller team says Russian company charged w/election interference can't share info w/Russian owners bit.ly/2RdZ0uP
 | Dec 22, 2018 | Brett McGurk, special presidential envoy for the Global Coalition to Defeat ISIS, resigns bit.ly/2GBURwI
@@ -4500,4 +4500,4 @@
 | Jan 22, 2019 | DoJ seizes $2.9m from a Bank of America account owned by Perkins Coie; tied to backpack.com bit.ly/2DsUSze
 | Jan 24, 2019 | John Solomon op-ed; says Jim Baker reviewed Carter Page's FISA; passed Corn's dossier to CH team bit.ly/2WbkUP7
 | Jan 24, 2019 | Gregg Jarrett op-ed; mentions Trish Anderson's involvement in Crossfire Hurricane (minimal) fxn.ws/2HwtRz0
-| Jan 24, 2019 | Grand Jury indicts Roger Stone; 24 pages bit.ly/2CLpDOA
+| Jan 24, 2019 | Grand Jury indicts Roger Stone; 24 pages; pdf bit.ly/2CLpDOA
