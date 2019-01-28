@@ -1516,7 +1516,7 @@
 | Mar 02, 2016 | War on the Rocks: "Open letter on Donald Trump from GOP national security leaders" bit.ly/2PJQDCE
 | Mar 02, 2016 | Ben Carson campaign heads for the exits archive.is/pr9rm
 | Mar 02, 2016 | Strzok attends a MYE briefing archive.is/6OHb0
-| Mar 02, 2016 | Carter Page speaks with FBI/SDNY prosecutors archive.ph/j5CqF
+| Mar 02, 2016 | Carter Page speaks with FBI/SDNY prosecutors involving Podobnyy bit.ly/2EHsBWN
 | Mar 02, 2016 | Ambassador McFaul tweets that he wants to know if Gen. Flynn is taking money from the Russian govt bit.ly/2rEBWa5
 | Mar 03, 2016 | Eleventh GOP primary debate, sponsored by FOX, held in Detroit, MI
 | Mar 03, 2016 | Obama executive order extends Russia sanctions for another year
@@ -1726,7 +1726,7 @@
 | May 05, 2016 | INSA Leadership Dinner with USD/I
 | May 05, 2016 | Crowdstrike receives first payment from DNC bit.ly/2Th607Z
 | May 05, 2016 | James Baker, Lisa Page, Iris Lan, Kelly Welsh, and other agency lawyers meet at White House bit.ly/2Hd10zN
-| May 05, 2016 | Carter Page emails Walid Phares and J.D. Gordon, asking them to contact him via cell phone or iMessage, adding “P.S. I forgot to mention that I also have the Middle East staple of [redacted] as well. So that’s another global connectivity alternative if you want to get in touch there.” [see: Nov 2, 2017 Carter Page transcript]
+| May 05, 2016 | Carter Page emails Walid Phares and J.D. Gordon; he asks them to contact him via cell or iMessage bit.ly/2Uof2A2
 | May 05, 2016 | Yahoo: "One law firm, two sets of clients: Donald Trump, and the refugees he wants to deport" by Michael Isikoff
 | May 05, 2016 | Sater texts Cohen to extend an invitation from Peskov to attend an event in St. Petersburg from June 16 to 19. The invitation includes a possible meeting with either Putin or Prime Minister Dmitry Medvedev
 | May 05, 2016 | Politico: "When Donald Trump brought Miss Universe to Moscow"
@@ -1776,9 +1776,9 @@
 | May 25, 2016 | ABC News: "Russian Spy Who Posed as Manhattan Banker Is Heading to Prison" archive.is/ZsGgS
 | May 25, 2016 | @USAttyBharara: "Banker by day, Russian agent by night. Buryakov sentenced for conspiracy to 30 mths in prison"
 | May 25, 2016 | DNC Microsoft Exchange Server is hacked; thousands of emails from DNC employees work accounts is stolen bit.ly/2QK4SYz
-| May 26, 2016 | Carter Page emails J.D. Gordon and another foreign policy team member, Bernadette Kilroy, letting them know he will be speaking at the New Economic School’s commencement [see: Nov 2, 2017 Carter Page transcript]
-| May 26, 2016 | Telegraph: "Donald Trump signed off deal designed to deprive US of tens of millions of dollars in tax" byline Ruth Sherlock, Edward Malnick, Claire Newell about Felix Sater
-| May 26, 2016 | David Corn tweets that Trump has mob links, and that he's upset about HRC's server bit.ly/2Wgt0G3
+| May 26, 2016 | Carter Page emails J.D. Gordon; he says he'll be speaking on 7/8/16 in Moscow next to Sberbank's CEO bit.ly/2Wp9kzY
+| May 26, 2016 | Telegraph article about a "controversial" loan wrt Trump and Bayrock; by Sherlock, Malnick, Newell bit.ly/2Tliifu
+| May 26, 2016 | David Corn tweets that Trump has mob links, and that Trump's upset about HRC's server bit.ly/2Wgt0G3
 | May 26, 2016 | Trump locks in necessary 1,237 delegates after winning Indiana primary
 | May 27, 2016 | Yahoo: "Senate sleuths focus on ex-State Department aide in Clinton email ‘cover-up’" by Michael Isikoff
 | May 27, 2016 | CNN: "Trump's Veepstakes: Who is Michael Flynn?" archive.is/fpTzd
@@ -1925,6 +1925,7 @@
 | Jul 07, 2016 | IC IG McCullough testifies before HPSCI that he can not provide some segment of HRC's emails
 | Jul 07, 2016 | Comey testifies before Congress cnn.it/2VMTDlX
 | Jul 08, 2016 | Carter Page speaks at the New Economic School in Moscow; critices U.S. policy toward Russia bit.ly/2DE5M5D
+| Jul 08, 2016 | Carter Page emails Tera Dahl, J.D. Gordon; mentions incredible insights and outreach bit.ly/2sTRIPg
 | Jul 08, 2016 | Kyiv Post article about Paul Manafort's lobbying work in Ukraine archive.is/IuJaT
 | Jul 09, 2016 | Daily Beast article questions whether Russian media reports of Poteyev's death are accurate bit.ly/2FuP2Po (Poteyev)
 | Jul 09, 2016 | Steele vacations in Cyprus with family until the 16th bit.ly/2SAT0cR
@@ -2687,7 +2688,7 @@
 | Jan 13, 2017 | The Ukrainian Weekly: "Pinchuk’s tone of appeasement toward Russia rattles Kyiv" archive.is/DtCWh
 | Jan 13, 2017 | SSIC announces an investigation into interference and possible coorination between Trump campaign and Russia
 | Jan 15, 2017 | The Observer: "The Clinton Foundation Shuts Down Clinton Global Initiative"
-| Jan ??, 2017 | Carter Page gets a letter from Jones Day, the law firm that represents the Trump campaign, saying he should not "give the wrong impression" about being part of the administration and of the Trump campaign [see: Nov 2, 2017 Carter Page transcript] 
+| Jan ??, 2017 | Jones Day letter to Carter Page; they inform him about potential misrepresentations of the campaign bit.ly/2sRooIY
 | Jan 16, 2017 | Scaramucci meets with RDIF CEO Kirill Dmitriev in Davos, Switzerland [see: Jun 22, 2017 retracted CNN]
 | Jan 17, 2017 | Bloomberg: "Trump Aide Talks Investment With Sanctioned Kremlin Fund" (Scaramucci, RDIF) archive.is/EqLkY
 | Jan 17, 2017 | NYT: "Trump Aide Scaramucci Sells Investment Business to Chinese Consortium" (Skybridge, HNA Group) archive.fo/Q2dGu
@@ -2703,7 +2704,7 @@
 | Jan 18, 2017 | Imran Awan wires $283k to two individuals in Faisalabad, Pakistan [see: July 25, 2017 Daily Caller]
 | Jan 18, 2017 | New Observer reports FBI, CIA, NSA, DoJ, and FinCEN investigating Trump campaign bit.ly/2FoXqkf
 | Jan 18, 2017 | Guardian: "Julian Assange ready for US extradition, one of his lawyers suggests"
-| Jan ??, 2017 | "shortly before Trump's inauguration," Bannon calls Carter Page and asks him to cancel a scheduled appearance on MSNBC and they also discuss the Steele dossier [see: Nov 2, 2017 Carter Page transcript]
+| Jan ??, 2017 | Steve Bannon calls Carter Page "shortly before Trump's inauguration"; warns Carter not to go on MSNBC bit.ly/2sSwBNa
 | Jan 18, 2017 | Genesis Capital agrees to withdraw foreclosure action in Brooklyn [see: Jul 25, 2017 Bloomberg]
 | Jan 18, 2017 | McClatchy (Peter Stone and Greg Gordon) back up Mensch and Woods assertion that there was a FISA warrant on Oct 15. "One of McClatchy's sources confirmed the report"
 | Jan 19, 2017 | @jeneps: "Warren & Cardin send letter to Mnuchin about concerns @Scaramucci violated Russia sanctions with Davos mtg"
