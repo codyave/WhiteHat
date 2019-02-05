@@ -708,10 +708,10 @@
 | Mar 02, 2011 | OBL Raid. Obama apparently thought his "presidency was on the line" seeing dire consequences if the raid failed. Clinton later says she was fully supportive of the raid but that's disputed. The infamous photo. Press reports right after raid say Biden was the lone "dissenting voice" when it seems like others were similarly not sure, including Obama. The biden dissent is portrayed as building up obama to be courageous and "trusting his gut"
 | Mar 03, 2011 | AP: "BREAKING: US has proof that ex-FBI agent Robert Levinson is alive, 4 years after vanishing in Iran"
 | Mar 11, 2011 | @foxnewspolitics: "Trump Has 'Just a Little' Doubt Obama Was Born in America" a
-| Mar 17, 2011 | ABC News: "Exclusive: Donald Trump Would Spend $600 Million of His Own Money On Presidential Bid" archive.is/0oT8R
-| Mar 17, 2011 | @rolandsmartin: "And Donald Trump thinks Obama's background is strange? Dude, your hair is strange, not Obama's birth certificate! These loons crack me up." archive.is/Ld05j
-| Mar 21, 2011 | Powerline: "THE Goil from Ipanema" (Petrobras) archive.is/vaM0J
-| Mar 26, 2011 | Gen. Cartwright creates gmail account used to communicate with David Sanger about Stuxnet [see: Sep 12, 2012 Politico]
+| Mar 17, 2011 | ABC News reports that Trump plans to spend $600m on a presidential run archive.is/0oT8R
+| Mar 17, 2011 | Roland Martin tweets about Trump's comments about Obama's birth certificate; point of origin(?) archive.is/Ld05j
+| Mar 21, 2011 | Powerline article on Petrobras archive.is/vaM0J
+| Mar 26, 2011 | Gen. Cartwright creates the gmail account he later uses to discuss Stuxnet with the NYT's David Sanger bit.ly/2SanSoy
 | Apr 04, 2011 | Russian deputy prime minister Sergey B. Ivanov gives speech at CFR which shows that Operation Russian Reset was still in operation. Carter Page attends/participates in this event archive.is/RoJDz
 | Apr 07, 2011 | @Newsmax: "Trump: Grandma Says Obama Was Born in Kenya" archive.is/kQGXQ
 | Apr 16, 2011 | McClatchly: "Wikileaks: Dim view of Panama president Obama will meet" (Ricardo Martinelli) archive.is/6Qk0P
@@ -760,7 +760,7 @@
 | ??? ??, 2012 | Nisar Ahmed Chaudhry begins lobbying in DC on behalf of Pakistani intel [see: May 7, 2018 Reuters]
 | ??? ??, 2012 | Fusion GPS digs into the financial background of a big Mitt Romney donor
 | Jan 12, 2012 | WSJ: "Scientist Killing Stokes U.S.-Iran Tensions" archive.is/lm9f0
-| Jan 18, 2012 | Gen. Cartwright speaks to David Sanger on the telephone for 39min [see: Sep 12, 2012 Politico]
+| Jan 18, 2012 | Gen. Cartwright speaks to David Sanger on his cell phone for 39min bit.ly/2Bmacwp
 | Feb 07, 2012 | WikiLeaks begins publishing Stratfor intel files archive.is/RPDzU
 | Feb 13, 2012 | Newsweek: "Obama's dangerous game with Iran" (Cartwright, source) archive.is/lL1bu
 | Feb 15, 2012 | Telegraph: "Mukhtar Ablyazov to hear on prison sentence in £3bn fraud case" archive.is/rkoJo
@@ -773,7 +773,7 @@
 | Mar ??, 2012 | Buryakov begins meeting with Podobnyy and Sporyshev around Manhattan and the Bronx to exchange intel bit.ly/2CDhoW5
 | Mar 04, 2012 | Vanity Fair: "The Wrath of Putin" archive.is/IvjVg
 | Mar 09, 2012 | @RebeccaJarvis : "Robert Levinson went missing in Iran 3/9/07"
-| Mar 09, 2012 | Gen. Cartwright speaks to David Sanger on the telephone for 31min [see: Sep 12, 2012 Politico]
+| Mar 09, 2012 | Gen. Cartwright speaks to David Sanger on his cell phone for 31min bit.ly/2Bmacwp
 | Mar 13, 2012 | Reuters: "RUSAL chairman quits in Russian oligarch fight" (Vekselberg, Norilsk Nickel, Deripaska) archive.is/nWCmT
 | Mar 16, 2012 | US Natl Regulatory Commission approves license to Uranium One to ship yellowcake to Canada [see: Nov 2, 2017 The Hill]
 | Mar 26, 2012 | NYT: "Obama Caught on Microphone Telling Medvedev of 'Flexibility'" archive.is/2p2so
@@ -795,9 +795,8 @@
 | May 07, 2012 | Guardian: "US air strike kills top al-Qaida leader in Yemen" (Fahd al-Quso) archive.is/8gXQ4
 | May 07, 2012 | Putin's last day as Prime Minister (assumes presidency May 8, 2012)
 | May 30, 2012 | Halper starts a contract with Pentagon Office of Net Assessment
-| Jun 01, 2012 | NYT: "Obama Order Sped Up Wave of Cyberattacks Against Iran" (first publication of Stuxnet) archive.is/R1kUu
-| Jun 05, 2012 | @nytimesbooks: "Thomas E. Ricks reviews CONFRONT AND CONCEAL, David Sanger's new book about President Obama's foreign policy" (Stuxnet) archive.is/TARpm
-| Jun 05, 2012 | NYT: "Covert Wars, Waged Virally" (Stuxnet capabilities leaked by Gen. Cartwright) archive.is/RvxnY
+| Jun 01, 2012 | NYT publishes an excerpt from David Sanger's upcoming book Confront and Conceal; details Stuxnet archive.is/R1kUu
+| Jun 05, 2012 | David Sanger's new book Confront and Conceal goes on sale; reveals details of Stuxnet virus bit.ly/2DUB2NM
 | Jun 07, 2012 | House Foreign Affairs Committee: "Russia Human Rights Legislation Passes Foreign Affairs Committee"
 | Jun 16, 2012 | FT: "‘Magnitsky law’ makes progress in Senate" archive.fo/LscTZ
 | Jun 19, 2012 | @WikiLeaks: "Julian Assange has requested political asylum and is under the protection of the Ecuadorian embassy"
@@ -812,15 +811,15 @@
 | Jul 25, 2012 | Flynn made Director of DIA; Clapper hints that it's a "put-up-or-shut-up" promotion bit.ly/2QT1dfV
 | Jul 31, 2012 | Miami Herald: "High court reveals secret deal of Trump developer’s crimes" archive.is/rdlrf
 | Sep ??, 2012 | Alexander Perepilichny takes out several life insurance policies shortly before death [see: May 18, 2015 Independent]
-| Aug 20, 2012 | @lesleyclark: "Obama on Syria, says that the admin has made it 'very clear' to Assad that a 'red line' would be use of chemical weapons" archive.is/ay6sS
-| Aug 29, 2012 | Rosenstein subpoenas Google for Gen. Cartwright's gmail account [see: Sep 12, 2012 Politico]
+| Aug 20, 2012 | Obama says he has made it "very clear" to Assad that there is a "red line" on chemical weapons archive.is/ay6sS
+| Aug 29, 2012 | Rosenstein submits request to subpoena Google for Gen. Cartwright's gmail account; approved 9/12/12 bit.ly/2Tz0vlg
 | Aug 31, 2012 | Reuters: "Russia says Iran's nuclear power plant fully operational" archive.is/khB4K
 | Sep 01, 2012 | TheIranProject: "1st unit of Bushehr nuclear power plant is fully launched" archive.is/8OkW7
 | Sep 06, 2012 | Reuters: "Security startup CrowdStrike hires one of FBI's top lawyers" archive.is/HYEW4
 | Sep 08, 2012 | NYT: "Clinton Tells Russia That Sanctions Will Soon End" archive.is/U53d6
-| Sep 08, 2012 | Miami Herald: "Strange bedfellows: Swindler, Stinger-missile brokers, the CIA" (Sater) archive.is/ynIkW
+| Sep 08, 2012 | Miami Herald article about Felix Sater's work as a confidential source for the CIA archive.is/ynIkW
 | Sep 11, 2012 | Benghazi
-| Sep 12, 2012 | Rosenstein gets court order to examine Gen. Cartwright's email politico.com/f/?id=00000160-e858-da3c-a371-e87e21d20001
+| Sep 12, 2012 | Court approves search warrant for Gen. Cartwright's gmail account; pdf politi.co/2BjzPhq
 | Sep 27, 2012 | Guardian: "Deripaska and Cherney make surprise deal out of court" archive.is/SnkAx
 | Oct 30, 2012 | CBS News: "Israeli official: Iran pulled back from the brink" archive.is/ee43v
 | Nov ??, 2012 | Buryakov travels to Canada to gather intelligence on union representatives bit.ly/2BArkxs
