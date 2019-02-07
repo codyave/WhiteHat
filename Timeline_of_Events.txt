@@ -708,10 +708,10 @@
 | Mar 02, 2011 | OBL Raid. Obama apparently thought his "presidency was on the line" seeing dire consequences if the raid failed. Clinton later says she was fully supportive of the raid but that's disputed. The infamous photo. Press reports right after raid say Biden was the lone "dissenting voice" when it seems like others were similarly not sure, including Obama. The biden dissent is portrayed as building up obama to be courageous and "trusting his gut"
 | Mar 03, 2011 | AP: "BREAKING: US has proof that ex-FBI agent Robert Levinson is alive, 4 years after vanishing in Iran"
 | Mar 11, 2011 | @foxnewspolitics: "Trump Has 'Just a Little' Doubt Obama Was Born in America" a
-| Mar 17, 2011 | ABC News: "Exclusive: Donald Trump Would Spend $600 Million of His Own Money On Presidential Bid" archive.is/0oT8R
-| Mar 17, 2011 | @rolandsmartin: "And Donald Trump thinks Obama's background is strange? Dude, your hair is strange, not Obama's birth certificate! These loons crack me up." archive.is/Ld05j
-| Mar 21, 2011 | Powerline: "THE Goil from Ipanema" (Petrobras) archive.is/vaM0J
-| Mar 26, 2011 | Gen. Cartwright creates gmail account used to communicate with David Sanger about Stuxnet [see: Sep 12, 2012 Politico]
+| Mar 17, 2011 | ABC News reports that Trump plans to spend $600m on a presidential run archive.is/0oT8R
+| Mar 17, 2011 | Roland Martin tweets about Trump's comments about Obama's birth certificate; point of origin(?) archive.is/Ld05j
+| Mar 21, 2011 | Powerline article on Petrobras archive.is/vaM0J
+| Mar 26, 2011 | Gen. Cartwright creates the gmail account he later uses to discuss Stuxnet with the NYT's David Sanger bit.ly/2SanSoy
 | Apr 04, 2011 | Russian deputy prime minister Sergey B. Ivanov gives speech at CFR which shows that Operation Russian Reset was still in operation. Carter Page attends/participates in this event archive.is/RoJDz
 | Apr 07, 2011 | @Newsmax: "Trump: Grandma Says Obama Was Born in Kenya" archive.is/kQGXQ
 | Apr 16, 2011 | McClatchly: "Wikileaks: Dim view of Panama president Obama will meet" (Ricardo Martinelli) archive.is/6Qk0P
@@ -760,7 +760,7 @@
 | ??? ??, 2012 | Nisar Ahmed Chaudhry begins lobbying in DC on behalf of Pakistani intel [see: May 7, 2018 Reuters]
 | ??? ??, 2012 | Fusion GPS digs into the financial background of a big Mitt Romney donor
 | Jan 12, 2012 | WSJ: "Scientist Killing Stokes U.S.-Iran Tensions" archive.is/lm9f0
-| Jan 18, 2012 | Gen. Cartwright speaks to David Sanger on the telephone for 39min [see: Sep 12, 2012 Politico]
+| Jan 18, 2012 | Gen. Cartwright speaks to David Sanger on his cell phone for 39min bit.ly/2Bmacwp
 | Feb 07, 2012 | WikiLeaks begins publishing Stratfor intel files archive.is/RPDzU
 | Feb 13, 2012 | Newsweek: "Obama's dangerous game with Iran" (Cartwright, source) archive.is/lL1bu
 | Feb 15, 2012 | Telegraph: "Mukhtar Ablyazov to hear on prison sentence in £3bn fraud case" archive.is/rkoJo
@@ -773,7 +773,7 @@
 | Mar ??, 2012 | Buryakov begins meeting with Podobnyy and Sporyshev around Manhattan and the Bronx to exchange intel bit.ly/2CDhoW5
 | Mar 04, 2012 | Vanity Fair: "The Wrath of Putin" archive.is/IvjVg
 | Mar 09, 2012 | @RebeccaJarvis : "Robert Levinson went missing in Iran 3/9/07"
-| Mar 09, 2012 | Gen. Cartwright speaks to David Sanger on the telephone for 31min [see: Sep 12, 2012 Politico]
+| Mar 09, 2012 | Gen. Cartwright speaks to David Sanger on his cell phone for 31min bit.ly/2Bmacwp
 | Mar 13, 2012 | Reuters: "RUSAL chairman quits in Russian oligarch fight" (Vekselberg, Norilsk Nickel, Deripaska) archive.is/nWCmT
 | Mar 16, 2012 | US Natl Regulatory Commission approves license to Uranium One to ship yellowcake to Canada [see: Nov 2, 2017 The Hill]
 | Mar 26, 2012 | NYT: "Obama Caught on Microphone Telling Medvedev of 'Flexibility'" archive.is/2p2so
@@ -795,9 +795,8 @@
 | May 07, 2012 | Guardian: "US air strike kills top al-Qaida leader in Yemen" (Fahd al-Quso) archive.is/8gXQ4
 | May 07, 2012 | Putin's last day as Prime Minister (assumes presidency May 8, 2012)
 | May 30, 2012 | Halper starts a contract with Pentagon Office of Net Assessment
-| Jun 01, 2012 | NYT: "Obama Order Sped Up Wave of Cyberattacks Against Iran" (first publication of Stuxnet) archive.is/R1kUu
-| Jun 05, 2012 | @nytimesbooks: "Thomas E. Ricks reviews CONFRONT AND CONCEAL, David Sanger's new book about President Obama's foreign policy" (Stuxnet) archive.is/TARpm
-| Jun 05, 2012 | NYT: "Covert Wars, Waged Virally" (Stuxnet capabilities leaked by Gen. Cartwright) archive.is/RvxnY
+| Jun 01, 2012 | NYT publishes an excerpt from David Sanger's upcoming book Confront and Conceal; details Stuxnet archive.is/R1kUu
+| Jun 05, 2012 | David Sanger's new book Confront and Conceal goes on sale; reveals details of Stuxnet virus bit.ly/2DUB2NM
 | Jun 07, 2012 | House Foreign Affairs Committee: "Russia Human Rights Legislation Passes Foreign Affairs Committee"
 | Jun 16, 2012 | FT: "‘Magnitsky law’ makes progress in Senate" archive.fo/LscTZ
 | Jun 19, 2012 | @WikiLeaks: "Julian Assange has requested political asylum and is under the protection of the Ecuadorian embassy"
@@ -812,15 +811,15 @@
 | Jul 25, 2012 | Flynn made Director of DIA; Clapper hints that it's a "put-up-or-shut-up" promotion bit.ly/2QT1dfV
 | Jul 31, 2012 | Miami Herald: "High court reveals secret deal of Trump developer’s crimes" archive.is/rdlrf
 | Sep ??, 2012 | Alexander Perepilichny takes out several life insurance policies shortly before death [see: May 18, 2015 Independent]
-| Aug 20, 2012 | @lesleyclark: "Obama on Syria, says that the admin has made it 'very clear' to Assad that a 'red line' would be use of chemical weapons" archive.is/ay6sS
-| Aug 29, 2012 | Rosenstein subpoenas Google for Gen. Cartwright's gmail account [see: Sep 12, 2012 Politico]
+| Aug 20, 2012 | Obama says he has made it "very clear" to Assad that there is a "red line" on chemical weapons archive.is/ay6sS
+| Aug 29, 2012 | Rosenstein submits request to subpoena Google for Gen. Cartwright's gmail account; approved 9/12/12 bit.ly/2Tz0vlg
 | Aug 31, 2012 | Reuters: "Russia says Iran's nuclear power plant fully operational" archive.is/khB4K
 | Sep 01, 2012 | TheIranProject: "1st unit of Bushehr nuclear power plant is fully launched" archive.is/8OkW7
 | Sep 06, 2012 | Reuters: "Security startup CrowdStrike hires one of FBI's top lawyers" archive.is/HYEW4
 | Sep 08, 2012 | NYT: "Clinton Tells Russia That Sanctions Will Soon End" archive.is/U53d6
-| Sep 08, 2012 | Miami Herald: "Strange bedfellows: Swindler, Stinger-missile brokers, the CIA" (Sater) archive.is/ynIkW
+| Sep 08, 2012 | Miami Herald article about Felix Sater's work as a confidential source for the CIA archive.is/ynIkW
 | Sep 11, 2012 | Benghazi
-| Sep 12, 2012 | Rosenstein gets court order to examine Gen. Cartwright's email politico.com/f/?id=00000160-e858-da3c-a371-e87e21d20001
+| Sep 12, 2012 | Court approves search warrant for Gen. Cartwright's gmail account; pdf politi.co/2BjzPhq
 | Sep 27, 2012 | Guardian: "Deripaska and Cherney make surprise deal out of court" archive.is/SnkAx
 | Oct 30, 2012 | CBS News: "Israeli official: Iran pulled back from the brink" archive.is/ee43v
 | Nov ??, 2012 | Buryakov travels to Canada to gather intelligence on union representatives bit.ly/2BArkxs
@@ -1071,8 +1070,9 @@
 | Jan 23, 2015 | Buryakov, Podobnyy & Sporyshev indicted by sealed complaint, filed in the court this day bit.ly/2rDcB0a
 | Jan 26, 2015 | @shimonpro: "FBI has arrested a man for acting as a Russian Spy collecting Intel in the Bronx" Burakov arrested. archive.is/5D9Ml
 | Jan 26, 2015 | Viktor Podobnyy leaves for Russia, citing diplomatic immunity bit.ly/2C7qqJt
-| Jan 26, 2015 | Buryakov arrested; detained throughout court proceedings at Metropolitan Correctional Center in NYC bit.ly/2RtpGba
-| Jan 26, 2015 | DOJ: "Attorney General Holder Announces Charges Against Russian Spy Ring in New York City" archive.is/fLVpQ
+| Jan 26, 2015 | Buryakov complaint; 26 pages; pdf bit.ly/2rDcB0a
+| Jan 26, 2015 | DOJ press release on Buryakov arrest bit.ly/1JQJUNp
+| Jan 26, 2015 | Buryakov revealed to be detained throughout court proceedings at Metropolitan Correctional Center bit.ly/2RtpGba
 | Jan 26, 2015 | DOJ: "13 Suspects Indicted In West Tennessee On Federal Drug Trafficking Violations" archive.is/MvZzj
 | Jan 27, 2015 | Moscow Times speculates Buryakov traveled to Canada to gather intel on Bombardier Aircraft union bosses bit.ly/2Lx6QKV
 | Jan 27, 2015 | NYT: "Sheldon Silver to Be Replaced as Speaker of New York State Assembly" archive.is/sZYPT
@@ -1259,10 +1259,10 @@
 | Sep 26, 2015 | Manhattan judge finds Todd Kozel moved $100m in assets to offshore accounts to avoid divorce payments archive.is/4vrYs
 | Sep 28, 2015 | Lynch advises Comey to refer to HRC's emails as a matter, not an investigation [see: Jun 14, 2018 IG Report p.64]
 | Sep 28, 2015 | mirror.uk: "Russia 'has spy in GCHQ and body-in-bag MI6 victim Gareth Williams was killed to protect their identity'" (Karpichkov) archive.is/EzUNu
-| Sep 28, 2015 | The Independent: "MI6 spy Gareth Williams was ‘killed by Russia for refusing to become double agent’, former KGB man claims" (Karpichkov) archive.is/WXPIR
-| Sep 28, 2015 | Business Insider: "KGB defector: Russia killed the British spy found in a duffel bag" (Karpichkov) archive.is/lfL3a
-| Sep 28, 2015 | @guardianworld; "Manic Monday at UN general assembly: Dilma, Obama, Xi, Putin & Rouhani all speaking this morning" archive.is/t1Guq
+| Sep 28, 2015 | Boris Karpichkov says MI6's Gareth Williams died after he refused to work for Russia ind.pn/2RJHlr7, read.bi/1PKXO7J
+| Sep 28, 2015 | Dilma, Obama, Xi, Putin, and Rouhani are speakers at the UN general assembly archive.is/t1Guq
 | Sep 28, 2015 | NYT: "President Obama’s Speech to the United Nations General Assembly 2015" archive.is/uO9mX
+| Sep 29, 2015 | Dmitry Chizhikov emails Felix Sater; he attaches a letter from Andrey Rozov bit.ly/2RGiQuY, bit.ly/2RKAm1d
 | Sep 29, 2015 | Evelyn Farkas announces resignation to take place in late October 2015 archive.vn/SecHj
 | Oct ??, 2015 | FBI agent Hawkins leaves multiple voicemails to DNC help desk, calls not returned
 | Oct ??, 2015 | Gen. Flynn is paid $11.5k from Kaspersky sometime Oct 2015 [see: Mar 16, 2017 NYT]
@@ -1899,6 +1899,7 @@
 | Jun 28, 2016 | Strzok emails Rybicki; says he has the POTUS-HRC emails that Comey recently requested bit.ly/2sGYuaZ
 | Jun 29, 2016 | Long Term Strategy Group exercises a $216,178 Option
 | Jun 29, 2016 | WaPo: "Russian FSB guard attacked U.S. diplomat outside Moscow embassy" 
+| Jun 29, 2016 | trump-email.com is registered by....somebody bit.ly/2G5zOBK; 3/6/17 original 4chan thread archive.is/67pfl
 | Jun 30, 2016 | Guccifer 2.0 releases stolen DNC documents, including research on Republican candidates and Secretary Clinton
 | Jun 30, 2016 | Yahoo: "Trump super-PACs finding it hard to collect on pledges" by Michael Isikoff
 | Jun ??, 2016 | Robert Hannigan, head of GCHQ, passes material in summer 2016 to CIA's John Brennan at "director level"
@@ -2900,7 +2901,7 @@
 | Mar 09, 2017 | CNN: "Sources: FBI investigation continues into 'odd' computer link between Russian bank and Trump Organization"
 | Mar 09, 2017 | Envelope sent to David Cay Johnston containing partial Trump tax return; postmarked Westchester, NY archive.is/bLkkz
 | Mar 10, 2017 | McCabe squad questions Carter Page; involvement with Podobnyy comes up bit.ly/2SgAUwH, bit.ly/2Vb0mpa, bit.ly/2SlshRs
-| Mar 10, 2017 | Monica Crowley registers FARA for Ukrainian billionaire, Viktor Pinchuk [3/14/17 Daily Beast]
+| Mar 10, 2017 | Monica Crowley registers FARA for Ukrainian billionaire, Viktor Pinchuk bit.ly/2DUDgwH
 | Mar 10, 2017 | Daily Beast: "CNN Calls B.S. on Monica Crowley Claiming Her Plagiarism Was ‘Debunked’" archive.is/6itjU
 | Mar 10, 2017 | House Dems send a letter to Goodlatte; they request a status update on lines of inquiry bit.ly/2s08Ouj
 | Mar 10, 2017 | NYT: "Trump Abruptly Orders 46 Obama-Era Prosecutors to Resign" archive.is/omFAa
@@ -3906,6 +3907,7 @@
 | Feb 14, 2018 | Ali Watkins has dinner (possibly with Dan Jones?), who surprises her with chocolates [see: 6/24/18 NYT]
 | Feb 15, 2018 | Judge Collyer letter to Nunes & Goodlatte in response to requests for FISC transcripts bit.ly/2RpbTTM, bit.ly/2TPnXdO
 | Feb 15, 2018 | In an email to colleagues, Ali Watkins says, "from an old source who somehow thought it wouldn’t be creepy to bring [chocolates] to a dinner, stupidly and unintentionally scheduled on valentine’s day" [see: Jun 24, 2018 NYT]
+| Feb 16, 2018 | Mueller's team indicts 13 members of a Russian troll farm (Concord Management) bit.ly/2CoyuDD
 | Feb 16, 2018 | WSJ: "Latvian Bank Pushes Back Against U.S. Allegations" archive.is/8XR4i
 | Feb 16, 2018 | HPSCI letter to Stephen Boyd at DOJ asking for relevant FISA court transcripts
 | Feb 16, 2018 | Judge Sullivan enacts Brady Rule for Gen. Flynn [see: Feb 20, 2018 Courtroom News]
@@ -4544,3 +4546,11 @@
 | Jan 24, 2019 | Grand Jury indicts Roger Stone; 24 pages; pdf bit.ly/2CLpDOA
 | Jan 29, 2019 | OIG finds misconduct by three senior FBI officials (one retired) and an FBI contractor bit.ly/2SdOeVL
 | Jan 29, 2019 | AP reports former NY AG Schneiderman used campaign finances to pay law firm while under investigation bit.ly/2ScA47z
+| Jan 30, 2019 | Daily Caller reports Nellie Ohr was hired to research the Trump kids while working for Fusion GPS bit.ly/2SfBhL7
+| Jan 31, 2019 | NBC News reports WH security specialist, Tricia Newbold, was suspended around the week of 1/25/19 nbcnews.to/2sWtfsB
+| Jan 31, 2019 | CNN reports Don Jr's phone calls ahead of the 6/9/16 Trump Tower meeting were not to his dad cnn.it/2WwXzr4
+| Jan 31, 2019 | The Independent reports an Iranian diplomat had extensive involvement in the 6/30/18 Parisian bomb plot ind.pn/2WG96o8 
+| Jan 31, 2019 | ProPublica reports on a lobbying-related 2/17 Colony Northstar memo authored by Rick Gates bit.ly/2DVOdOo
+| Feb 05, 2019 | BuzzFeed publishes texts between Cohen and Sater; 284 pages; pdf bit.ly/2DhlZvZ
+| Feb 06, 2019 | South Dakota grand jury indicts Paul Erickson for wire fraud and money laundering; he pleads not guilty bit.ly/2SvEzKx
+| Feb 07, 2019 | 2/4/19 sealed transcript of Manafort's breach of plea hearing; 143 pages; pdf bit.ly/2DX2fPK
