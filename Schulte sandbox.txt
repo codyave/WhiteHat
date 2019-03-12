@@ -14,11 +14,16 @@
 
 '''Joshua Adam Schulte''' (born September 25, 1988) is a former [[Central Intelligence Agency]] (CIA) employee who allegedly copied and [[news leak|leaked]] [[Classified information in the United States|highly classified information]] to [[WikiLeaks]] in 2016.
 
-==Early life and career==
+==Career==
 Schulte graduated from the University of Texas at Austin in 2011 with a computer engineering degree.<ref name=Slate />
-While at university, be began working for IBM, and then from January 2010 to May 2010, he was employed as a systems engineer by the National Security Agency, including time spent within the Technology directorate. Aroundt he time that he ended his employment with the NSA, he began working for the CIA as a software engineer. In November 2016, he had left the CIA, moved to New York, and began working for Bloomberg LP as a senior software engineer, up until August 24, 2017, at the time of his first arrest in New York.
+While at university, be began working for IBM, and then from January 2010 to May 2010, he was employed as a systems engineer by the National Security Agency, including time spent within the Technology directorate. Aroundt he time that he ended his employment with the NSA, he began working for the CIA as a software engineer. In November 2016, he had left the CIA, moved to New York, and began working for Bloomberg LP as a senior software engineer, up until his arrest on August 24, 2017, in New York on charges of receipt, possession, and transportation of CP.
 
+==Court Proceedings==
 On September 6, 2017, Schulte was indicted by a grand jury in the Southern District of New York on suspicion of receipt, possession, and transportation of child pornography.<ref name="IndictmentSep062017">{{cite news|url=https://www.courtlistener.com/recap/gov.uscourts.nysd.480183/gov.uscourts.nysd.480183.6.0.pdf |title=Indictment Sep-06-2017 |author=[[Southern District of New York]] |date=6 September 2017}}</ref>
+
+Schulte entered a plea of not guilty on September 13, 2017.
+
+In a hearing on September 14, 2017, Magistrate Judge Crotty .......thite sided with the prosecution in agreeing that Martin was a flight risk and would not be released pending trial.
 
 On June 18, 2018, the grand jury issued a superseding indictment, adding charges of illegal gathering of national-defense information, illegal transmission of lawfully possessed national-defense information, illegal transmission of unlawfully possessed national-defense information, and unauthorized access to a computer to obtain classified information.<ref name=Slate>
 
