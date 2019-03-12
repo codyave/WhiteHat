@@ -14,11 +14,15 @@
 
 '''Joshua Adam Schulte''' (born September 25, 1988) is a former [[Central Intelligence Agency]] (CIA) employee who allegedly copied and [[news leak|leaked]] [[Classified information in the United States|highly classified information]] to [[WikiLeaks]] in 2016.
 
-On September 6, 2017, Schulte was indicted by a grand jury in the Southern District of New York on suspicion of receipt, possession, and transportation across state lines of child pornography.<ref name="IndictmentSep062017">{{cite news|url=https://www.courtlistener.com/recap/gov.uscourts.nysd.480183/gov.uscourts.nysd.480183.6.0.pdf |title=Indictment Sep-06-2017 |author=[[Southern District of New York]] |date=6 September 2017}}</ref>
+==Early life and career==
+Schulte graduated from the University of Texas at Austin in 2011 with a computer engineering degree.<ref name=Slate />
+While at university, be began working for IBM, and then from January 2010 to May 2010, he was employed as a systems engineer by the National Security Agency, including time spent within the Technology directorate. Aroundt he time that he ended his employment with the NSA, he began working for the CIA as a software engineer. In November 2016, he had left the CIA, moved to New York, and began working for Bloomberg LP as a senior software engineer, up until August 24, 2017, at the time of his first arrest in New York.
+
+On September 6, 2017, Schulte was indicted by a grand jury in the Southern District of New York on suspicion of receipt, possession, and transportation of child pornography.<ref name="IndictmentSep062017">{{cite news|url=https://www.courtlistener.com/recap/gov.uscourts.nysd.480183/gov.uscourts.nysd.480183.6.0.pdf |title=Indictment Sep-06-2017 |author=[[Southern District of New York]] |date=6 September 2017}}</ref>
 
 On June 18, 2018, the grand jury issued a superseding indictment, adding charges of illegal gathering of national-defense information, illegal transmission of lawfully possessed national-defense information, illegal transmission of unlawfully possessed national-defense information, and unauthorized access to a computer to obtain classified information.<ref name=Slate>
 
-A further superseding indictment issued on October 31, 2018, added charges of obstruction of justice and the transmission of classified material to unauthorized persons.[This line needs to be more accurate]
+An additional superseding indictment was issued by the grand jury on October 31, 2018, this time adding charges of obstruction of justice and the transmission of classified information to unauthorized persons.<This line needs to be more accurate>
 
 
 
@@ -27,8 +31,6 @@ Schulte was released on bail on September 15, 2017.
 Strict conditions for his bail were imposed by the court, such as surrendering all travel documents, securing for collateral his residence in Sterling, Virginia, and restricting his travel to the Southern District of New York and the Eastern District of New York.
 
 On December 5, 2017, Pretrial Services argued that the court should grant a request by Schulte's legal counsel that he be relocated to  Lubbock, Texas, to live near to his family.
-
-this was later revoked on December 7, 2017, stemmin
 
 In May 2010, Schulte was hired by the CIA, after previous employment with the [[NSA]] and IBM.<ref name=Heavy>{{cite news |first1=Tom |last1=Cleary |title=Joshua Schulte: 5 Fast Facts You Need to Know |date=May 15, 2018 |accessdate=May 15, 2018 |website=Heavy |url=https://web.archive.org/web/20180516042149/https://heavy.com/news/2018/05/joshua-schulte/}}</ref> 
 
