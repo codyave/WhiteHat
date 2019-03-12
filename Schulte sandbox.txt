@@ -1,0 +1,88 @@
+{{Infobox person
+| name          = Joshua Schulte
+| image         = 
+| caption       = 
+| birth_name    = Joshua Adam Schulte
+| birth_date    = {{Birth date and age|1988|09|25}}
+| residence     = [[Metropolitan Correctional Center]]
+| home_town     = Lubbock, Texas
+| nationality   = American
+| occupation    = Software Engineer
+| employer      = IBM, NSA, CIA, Bloomberg LP
+| website       = 
+}}
+
+'''Joshua Adam Schulte''' (born September 5, 1989) is a former [[Central Intelligence Agency]] (CIA) employee who allegedly copied and [[news leak|leaked]] [[Classified information in the United States|highly classified information]] to [[WikiLeaks]] in 2016.
+
+In May 2010, Schulte was hired by the CIA, after previous employment with the [[NSA]] and IBM.<ref name=Heavy>{{cite news |first1=Tom |last1=Cleary |title=Joshua Schulte: 5 Fast Facts You Need to Know |date=May 15, 2018 |accessdate=May 15, 2018 |website=Heavy |url=https://web.archive.org/web/20180516042149/https://heavy.com/news/2018/05/joshua-schulte/}}</ref> 
+
+On August 24, 2017, the [[United States Department of Justice|U.S. Department of Justice]] arrested Schulte at 6 a.m. at his apartment in New York on suspicion of receipt, possession, and transportation of child pornography across state lines. <ref name="IndictmentSep062017">{{cite news |url=https://www.courtlistener.com/recap/gov.uscourts.nysd.480183/gov.uscourts.nysd.480183.6.0.pdf |title=Indictment Sep-06-2017 |author=[[Southern District of New York]] |date=6 September 2017}}</ref>
+
+Between March 2016 and June 2016, in the [[United States District Court for the Eastern District of Virginia]], Schulte altered a computer system operated by the CIA for the purpose of granting himself access to the system, deleting records of his activies, and denying others access to the system. <ref name=SupersedingIndictmentOct312018>{{cite news |url=https://www.courtlistener.com/recap/gov.uscourts.nysd.480183/gov.uscourts.nysd.480183.68.0.pdf |title=Superseding Indictment Oct-31-2018 |author=[[Southern District of New York]] |date=6 July 2015}}</ref> Sometime in 2016, Schulte unlawfully obtained and copied documents connected with the U.S. national defense and the intelligence gathering capabilities of the CIA, and caused it to be provided to WikiLeaks.
+
+
+
+
+6/20/18 | https://slate.com/technology/2018/06/joshua-schulte-indicted-for-the-vault-7-leaks-to-wikipedia.html
+"Vault 7, which was released by WikiLeaks beginning in 2017, included detailed descriptions of the CIA’s attempts to compromise iPhones, vehicle-control systems, Google’s Android operating system, Cisco routers, and other popular devices and software programs."
+Arguably, the most damaging element of these leaks, however, was the extent to which they showed the CIA relying on vulnerabilities purchased (or borrowed) from outside hackers to undertake these endeavors."
+"This suggested both that the agency was failing to notify software and hardware vendors of many exploitable vulnerabilities available on the market and also that the CIA itself was not necessarily very technologically advanced and was instead forced to turn to outside sources for its hacking tools."
+[Article does a really good job listing out the criminal charges, one by one]
+
+
+
+
+3/7/17 | https://www.nytimes.com/2017/03/07/world/europe/wikileaks-cia-hacking.html
+
+8/23/17| https://www.courtlistener.com/recap/gov.uscourts.nysd.480183/gov.uscourts.nysd.480183.1.0.pdf
+"“Within the Encrypted Container, the CACS Agents also identified documents that contained links to numerous illicit websites (the “Websites”)."
+"Based on the CACS Agents’ training, experience, and familiarity with the Websites, they believe that some of the Websites have been used to access, view, and download child pornography, as well as other types of pornography. Based on a forensic review of the Desktop Computer, some of the Websites known to contain child pornography appear to have been accessed by the user of the Desktop Computer.”
+
+5/15/18 | https://www.nytimes.com/2018/05/15/us/cia-hacking-tools-leak.html
+"[The release of Vault 7 in March 2017] was the largest loss of classified documents in the agency’s history and a huge embarrassment for C.I.A. officials."
+"'I am just scared to death,' said Roger Schulte, Mr. Schulte’s father, who lives in Lubbock, Tex. 'I think he’s innocent of all these crimes, as far as everything I’ve seen.'"
+"The elder Mr. Schulte said that his son was in college when he built the server later found to contain child pornography, and that he 'had so many people accessing it he didn’t care what people put on it.'"
+"Far from leaking classified information, his father said, Mr. Schulte had actually complained about security vulnerabilities at the C.I.A., first to his superiors and later to the agency’s inspector general and to a House Intelligence Committee staff member."
+"Family members shared with The Times evidence of those contacts, which predated the Vault 7 release."
+"Family members, who have spent much of their savings on legal fees, say they believe that Mr. Schulte is a scapegoat for the C.I.A.’s inability to secure its most sensitive files. "
+"[Josh] left the agency in November 2016 and mo
+ved to New York to work for Bloomberg L.P. as a software engineer."
+"The leaked Vault 7 documents came from the agency’s Engineering Development Group and included descriptions and instructions for the use of agency hacking tools, but only a small amount of the actual computer code for the tools."
+"Despite the scale of the breach, Nicholas Weaver, a researcher at the International Computer Science Institute in Berkeley, Calif., said WikiLeaks had exaggerated the danger to civil liberties from the C.I.A. hacking tools, which he said were actually designed to target small numbers of high-priority targets."
+"Mr. Weaver called the Vault 7 tools 'creative but not really special' and designed for 'very targeted espionage.' He said the real significance of the leak was that it could happen at all, despite tightened security measures imposed after Edward J. Snowden took hundreds of thousands of classified N.S.A. documents and shared them with journalists."
+
+5/15/18 | https://motherboard.vice.com/en_us/article/9k8w47/feds-raid-apartment-of-suspected-cia-leaker-find-10000-images-of-child-porn
+"At the time of his arrest, he was working for Bloomberg." <--- don't need; this is in the 12/7/17 transcript irrc
+
+5/17/18 | https://heavy.com/news/2018/05/joshua-schulte/
+"Federal authorities say they found more than 10,000 child pornography files on a server he created in 2009 when he was in college."
+"Schulte said although he created the server and maintained it, 50 to 100 people had access to the server."
+"According to the complaint, the FBI found an encrypted 54 gigabyte folder in a server located on Schulte’s desktop computer."
+"Agents were able to get around the encryption by using passwords found on Schulte’s cell phone. He had consented to a search of the phone."
+"Joshua Adam Schulte is originally from Lubbock, Texas."
+"He graduated from the University of Texas at Austin in 2011 with a computer engineering degree, according to his Linkedin profile."
+"While in college, Schulte worked as a software engineer at IBM from March 2008 to November 2009."
+"He began working in the federal government while still in school."
+"His first job in the intelligence community was at the National Security Agency from January 2010 to May 2010."
+"On Linkedin he said he was 'employed within the Technology directorate (T) as a systems engineer.'"
+"From May 2010 to November 2016 he worked at the Central Intelligence Agency as a software engineer. "
+"On Linkedin he said he was 'employed within the National Clandestine Service (NCS) as a Directorate of Science and Technology (DS&T) Intelligence Officer."
+"After leaving the CIA in November 2016, he began a job as a senior software engineer at Bloomberg LP, a financial software, data and media company, in New York, a job he held up until his arrest on the federal child pornography charges."
+"Bloomberg has not commented about Schulte."
+According to the Washington Post, someone on Schulte's behalf created a GoFundMe called the "Galt Criminal Justice Reform", which was seeking to fundraise $50 million for a legal defense.
+"According to Schulte, the government barred him from taking a trip to Mexico shortly after the WikiLeaks postings."
+"He believes investigators thought he was planning to flee the country, but he said the trip was a previously planned vacation with his brother."
+
+6/18/18 | https://www.nytimes.com/2018/06/18/us/politics/charges-cia-breach-vault-7.html
+"In late 2016, he left the spy agency and moved to New York to work for Bloomberg."
+
+6/28/18 | https://nypost.com/2018/06/28/accused-cia-leaker-gives-judge-137-page-handwritten-document/ 
+Says Josh is 29 years old (putting his date of birth at 9/25/88)
+
+LinkedIn Profile: https://www.linkedin.com/in/joshschulte/
+Software Engineer at IBM
+Systems Engineer at NSA
+Software Engineer at CIA
+Software Engineer at Bloomberg L.P.
+
+Prison # 79471-054
