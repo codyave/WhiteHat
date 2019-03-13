@@ -31,9 +31,9 @@ On November 15, 2017, the Loudoun County Commonwealth's Attorneys Office had dev
 
 The series of images that emerged as evidence were discovered on Schulte's personal desktop computer during an FBI raid of Schulte's Manhattan apartment that took place on March 20, 2017, where approximately 60 electronic devices were confiscated.
 
-In addition to the charges from Virginia, the Acting United State Attorney for New York, Joon H. Kim, in a letter to U.S. Magistrate Judge Paul A. Crotty, notified him that the FBI had determined that Schulte had instructed his cousin to access TOR on five separate occasions within their shared apartment in Manhattan, thereby violating one of the conditions of his bail.
+In addition to the charges from Virginia, the Acting United State Attorney for New York, Joon H. Kim, in a letter to U.S. Magistrate Judge Paul A. Crotty, notified him that the FBI had determined that Schulte had instructed his cousin to access the TOR network on five separate occasions within their shared apartment in Manhattan, thereby violating one of the conditions required for bail.
 
-Arguing that Schulte was a danger to the public as well as a flight risk, Kim requested that the court reimpose Schulte's detention.
+Kim, arguing that Schulte was a danger to the public as well as a flight risk, requested that the court reimpose his detention.
 
 A week later, on December 14, 2017, U.S. Magistrate Judge Paul A. Crotty revoked Schulte's bail, and remanded him to the United States Marshal of the Southern District of New York.
 
