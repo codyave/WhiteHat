@@ -8,7 +8,8 @@
 | home_town     = Lubbock, Texas
 | nationality   = American
 | occupation    = Software Engineer
-| employer      = IBM, NSA, CIA, Bloomberg LP
+| employer      = Bloomberg LP
+| known_for     = Transmitting classified information to WikiLeaks
 | website       = 
 }}
 
@@ -21,17 +22,17 @@ While studying at the University of Texas, be began working for IBM. From Januar
 ==Court Proceedings==
 On September 6, 2017, Schulte was indicted by a grand jury in the Southern District of New York on suspicion of receipt, possession, and transportation of child pornography.<ref name="IndictmentSep062017">{{cite news|url=https://www.courtlistener.com/recap/gov.uscourts.nysd.480183/gov.uscourts.nysd.480183.6.0.pdf |title=Indictment Sep-06-2017 |author=[[Southern District of New York]] |date=6 September 2017}}</ref>
 
-Schulte entered a plea of not guilty on September 13, 2017. Two days later, after approval from U.S. Magistrate Judge Paul A. Crotty, he was released on bail under strict living, travel, and internet conditions.
+Schulte entered a plea of not guilty on September 13, 2017. Two days later, he was released on bail under strict internet, travel, and living conditions.
 
-On December 5, 2017, according to Schulte's legal counsel, pretrial services had consented to allow him to re-locate to Lubbock, Texas, to be near to where his family lived.
+According to Schulte's legal counsel, on December 5, 2017, pretrial services had consented to allow Schulte to re-locate to Lubbock, Texas, to be near to where his family lived.
 
-However, two days later, Schulte was arrested by NYPD officers at the request of the FBI, in relation to charges brought forth in Loudoun County, Viriginia.
+However, two days later, at the request of the FBI, Schulte was arrested by NYPD officers in relation to charges brought forth in Loudoun County, Viriginia.
 
 On November 15, 2017, the Loudoun County Commonwealth's Attorneys Office had developed evidence to charge Schulte with two crimes: object sexual penetration, and the unlawful creation of an image of another.
 
-The series of images that emerged as evidence were discovered on Schulte's personal desktop computer during an FBI raid of Schulte's Manhattan apartment that took place on March 20, 2017, where approximately 60 electronic devices were confiscated.
+The series of images that emerged as evidence against Schulte were discovered on his personal desktop computer during a March 20, 2017, FBI raid of his Manhattan apartment, in which approximately 60 electronic devices were confiscated.
 
-In addition to the charges from Virginia, the Acting United State Attorney for New York, Joon H. Kim, in a letter to U.S. Magistrate Judge Paul A. Crotty, notified him that the FBI had determined that Schulte had instructed his cousin to access the TOR network on five separate occasions within their shared apartment in Manhattan, thereby violating one of the conditions required for bail.
+In addition to the charges from Virginia, the Acting United State Attorney for New York, Joon H. Kim, notified U.S. Magistrate Judge Paul A. Crotty that the FBI had determined that Schulte had instructed his cousin to access the TOR network on his behalf, thereby violating one of the court's conditions for bail.
 
 Kim, arguing that Schulte was a danger to the public as well as a flight risk, requested that the court reimpose his detention.
 
@@ -42,6 +43,7 @@ On June 18, 2018, the grand jury issued a superseding indictment, adding charges
 An additional superseding indictment was issued by the grand jury on October 31, 2018, this time adding charges of obstruction of justice and the transmission of classified information to unauthorized persons.<This line needs to be more accurate>
 
 
+Schulte was arrested On August 24, 2017, at 6 a.m. at his apartment in Manhattan.
 
 Schulte was released on bail on September 15, 2017.
 
@@ -50,8 +52,6 @@ Strict conditions for his bail were imposed by the court, such as surrendering a
 On December 5, 2017, Pretrial Services argued that the court should grant a request by Schulte's legal counsel that he be relocated to  Lubbock, Texas, to live near to his family.
 
 In May 2010, Schulte was hired by the CIA, after previous employment with the [[NSA]] and IBM.<ref name=Heavy>{{cite news |first1=Tom |last1=Cleary |title=Joshua Schulte: 5 Fast Facts You Need to Know |date=May 15, 2018 |accessdate=May 15, 2018 |website=Heavy |url=https://web.archive.org/web/20180516042149/https://heavy.com/news/2018/05/joshua-schulte/}}</ref> 
-
-On August 24, 2017, Schulte was arrested at 6 a.m. at his apartment in Manhattan.
 
 However, two days later, NYPD officers arrested Schulte on charges of sexual assault brought forth by a grand jury in the Eastern District of Virginia.
 
