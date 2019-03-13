@@ -19,10 +19,10 @@
 Schulte graduated from the University of Texas at Austin in 2011 with a degree in computer engineering.<ref name=Slate />
 While studying at the University of Texas, be began working for IBM. From January 2010 to May 2010, he was employed as a systems engineer by the National Security Agency, including time spent within the Technology directorate. Around the time that he ended his employment with the NSA, he began working for the CIA as a software engineer. In November 2016, he had left the CIA, moved to New York, and, up until his arrest on August 24, 2017, had begun working as a senior software engineer for Bloomberg LP.<ref name=Heavy>{{cite news |first1=Tom |last1=Cleary |title=Joshua Schulte: 5 Fast Facts You Need to Know |date=May 15, 2018 |accessdate=May 15, 2018 |website=Heavy |url=https://web.archive.org/web/20180516042149/https://heavy.com/news/2018/05/joshua-schulte/}}</ref> 
 
-==Court Proceedings==
+==Child Pornography and Sexual Assault==
 On September 6, 2017, Schulte was indicted by a grand jury in the Southern District of New York on suspicion of receipt, possession, and transportation of child pornography.<ref name="IndictmentSep062017">{{cite news|url=https://www.courtlistener.com/recap/gov.uscourts.nysd.480183/gov.uscourts.nysd.480183.6.0.pdf |title=Indictment Sep-06-2017 |author=[[Southern District of New York]] |date=6 September 2017}}</ref>
 
-Schulte entered a plea of not guilty on September 13, 2017. Two days later, he was released on bail under strict internet, travel, and living conditions.
+Schulte entered a plea of not guilty on September 13, 2017. Two days later, he was released on bail under strict conditions, such as living with a cousin in Manhattan and staying away from computers.
 
 According to Schulte's legal counsel, on December 5, 2017, pretrial services had consented to allow Schulte to re-locate to Lubbock, Texas, to be near to where his family lived.
 
@@ -36,9 +36,15 @@ In addition to the charges from Virginia, the Acting United State Attorney for N
 
 Kim, arguing that Schulte was a danger to the public as well as a flight risk, requested that the court reimpose his detention.
 
-A week later, on December 14, 2017, U.S. Magistrate Judge Paul A. Crotty revoked Schulte's bail, and remanded him to the United States Marshal of the Southern District of New York.
+A week later, on December 14, 2017, U.S. Magistrate Judge Paul A. Crotty revoked Schulte's bail, and remanded him to the custody of the United States Marshal of the Southern District of New York.
 
-On June 18, 2018, the grand jury issued a superseding indictment, adding charges of illegal gathering of national-defense information, illegal transmission of lawfully possessed national-defense information, illegal transmission of unlawfully possessed national-defense information, and unauthorized access to a computer to obtain classified information.<ref name=Slate>
+He has been held at the Metropolitan Correctional Center in Manhattan since then.
+
+==Leaks of Classified Information==
+
+On May 15, 2018, both the Washington Post and the New York Times published news articles about Schulte, which the government later determined was based off of unauthorized phone calls that Schulte made to family members from the Metropolitan Correctional Center.
+
+About a month later, on June 18, 2018, the grand jury issued another superseding indictment, adding four more counts: illegal gathering of national-defense information, illegal transmission of lawfully possessed national-defense information, illegal transmission of unlawfully possessed national-defense information, and unauthorized access to a computer to obtain classified information.<ref name=Slate>
 
 An additional superseding indictment was issued by the grand jury on October 31, 2018, this time adding charges of obstruction of justice and the transmission of classified information to unauthorized persons.<This line needs to be more accurate>
 
