@@ -17,32 +17,32 @@
 
 ==Career==
 Schulte graduated from the University of Texas at Austin in 2011 with a degree in computer engineering.<ref name=Slate />
-While studying at the University of Texas, be began working for IBM. From January 2010 to May 2010, he was employed as a systems engineer by the National Security Agency, including time spent within the Technology directorate. Around the time that he ended his employment with the NSA, he began working for the CIA as a software engineer. In November 2016, he had left the CIA, moved to New York, and, up until his arrest on August 24, 2017, had begun working as a senior software engineer for Bloomberg LP.<ref name=Heavy>{{cite news |first1=Tom |last1=Cleary |title=Joshua Schulte: 5 Fast Facts You Need to Know |date=May 15, 2018 |accessdate=May 15, 2018 |website=Heavy |url=https://web.archive.org/web/20180516042149/https://heavy.com/news/2018/05/joshua-schulte/}}</ref> 
+While studying at the University of Texas, be began working for IBM. Then, from January 2010 to May 2010, he was employed as a systems engineer by the National Security Agency, including time spent within the Technology directorate. Around the time that he ended his employment with the NSA, he began working for the CIA as a software engineer. In November 2016, he had left the CIA, moved to New York, and, up until his arrest on August 24, 2017, had begun working as a senior software engineer for Bloomberg LP.<ref name=Heavy>{{cite news |first1=Tom |last1=Cleary |title=Joshua Schulte: 5 Fast Facts You Need to Know |date=May 15, 2018 |accessdate=May 15, 2018 |website=Heavy |url=https://web.archive.org/web/20180516042149/https://heavy.com/news/2018/05/joshua-schulte/}}</ref> 
 
-==Child Pornography and Sexual Assault==
+==Child Pornography==
 On September 6, 2017, Schulte was indicted by a grand jury in the Southern District of New York on suspicion of receipt, possession, and transportation of child pornography.<ref name="IndictmentSep062017">{{cite news|url=https://www.courtlistener.com/recap/gov.uscourts.nysd.480183/gov.uscourts.nysd.480183.6.0.pdf |title=Indictment Sep-06-2017 |author=[[Southern District of New York]] |date=6 September 2017}}</ref>
 
-Schulte entered a plea of not guilty on September 13, 2017. Two days later, he was released on bail under strict conditions, such as living with a cousin in Manhattan and staying away from computers.
+Schulte entered a plea of not guilty on September 13, 2017. Two days later, he was released on bail under strict conditions, such as living with one of his cousins in Manhattan, and staying away from computers.
 
-According to Schulte's legal counsel, on December 5, 2017, pretrial services had consented to allow Schulte to re-locate to Lubbock, Texas, to be near to where his family lived.
+According to Schulte's legal counsel, on December 5, 2017, pretrial services had consented to allow Schulte to re-locate to Lubbock, Texas, to live near to his family.
 
-However, two days later, at the request of the FBI, Schulte was arrested by NYPD officers in relation to charges brought forth in Loudoun County, Viriginia.
+However, two days later, at the request of the FBI, Schulte was arrested by NYPD officers, in relation to charges brought forth in Loudoun County, Viriginia.
 
+==Sexual Assault==
 On November 15, 2017, the Loudoun County Commonwealth's Attorneys Office had developed evidence to charge Schulte with two crimes: object sexual penetration, and the unlawful creation of an image of another.
 
-The series of images that emerged as evidence against Schulte were discovered on his personal desktop computer during a March 20, 2017, FBI raid of his Manhattan apartment, in which approximately 60 electronic devices were confiscated.
+The series of images that emerged as evidence against Schulte were discovered on his personal desktop computer during a March 20, 2017, FBI raid of his Manhattan apartment, in which federal agents confiscated approximately 60 electronic devices.
 
-In addition to the charges from Virginia, the Acting United State Attorney for New York, Joon H. Kim, notified U.S. Magistrate Judge Paul A. Crotty that the FBI had determined that Schulte had instructed his cousin to access the TOR network on his behalf, thereby violating one of the court's conditions for bail.
+In addition to the charges from Virginia, the Acting United State Attorney for New York, Joon H. Kim, notified U.S. Magistrate Judge Paul A. Crotty that Schulte had instructed his cousin to access the TOR network on his behalf, thereby violating one of the court's conditions for Schulte's bail.
 
 Kim, arguing that Schulte was a danger to the public as well as a flight risk, requested that the court reimpose his detention.
 
 A week later, on December 14, 2017, U.S. Magistrate Judge Paul A. Crotty revoked Schulte's bail, and remanded him to the custody of the United States Marshal of the Southern District of New York.
 
-He has been held at the Metropolitan Correctional Center in Manhattan since then.
+He has since been held at the Metropolitan Correctional Center in Manhattan.
 
 ==Leaks of Classified Information==
-
-On May 15, 2018, both the Washington Post and the New York Times published news articles about Schulte, which the government later determined was based off of unauthorized phone calls that Schulte made to family members from the Metropolitan Correctional Center.
+On May 15, 2018, both the Washington Post and the New York Times published news articles about Schulte, which the government later determined was based off of unauthorized phone calls that Schulte had made to family members from the Metropolitan Correctional Center.
 
 About a month later, on June 18, 2018, the grand jury issued another superseding indictment, adding four more counts: illegal gathering of national-defense information, illegal transmission of lawfully possessed national-defense information, illegal transmission of unlawfully possessed national-defense information, and unauthorized access to a computer to obtain classified information.<ref name=Slate>
 
