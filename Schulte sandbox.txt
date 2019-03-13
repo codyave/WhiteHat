@@ -16,14 +16,22 @@
 
 ==Career==
 Schulte graduated from the University of Texas at Austin in 2011 with a degree in computer engineering.<ref name=Slate />
-While studying at the University of Texas, be began working for IBM. From January 2010 to May 2010, he was employed as a systems engineer by the National Security Agency, including time spent within the Technology directorate. Aroundt he time that he ended his employment with the NSA, he began working for the CIA as a software engineer. In November 2016, he had left the CIA, moved to New York, and, up until his arrest on August 24, 2017, in New York, began working for Bloomberg LP as a senior software engineer.
+While studying at the University of Texas, be began working for IBM. From January 2010 to May 2010, he was employed as a systems engineer by the National Security Agency, including time spent within the Technology directorate. Around the time that he ended his employment with the NSA, he began working for the CIA as a software engineer. In November 2016, he had left the CIA, moved to New York, and, up until his arrest in New York on August 24, 2017, had begun working as a senior software engineer for Bloomberg LP.
 
 ==Court Proceedings==
 On September 6, 2017, Schulte was indicted by a grand jury in the Southern District of New York on suspicion of receipt, possession, and transportation of child pornography.<ref name="IndictmentSep062017">{{cite news|url=https://www.courtlistener.com/recap/gov.uscourts.nysd.480183/gov.uscourts.nysd.480183.6.0.pdf |title=Indictment Sep-06-2017 |author=[[Southern District of New York]] |date=6 September 2017}}</ref>
 
-Schulte entered a plea of not guilty on September 13, 2017, and, upon the approval of U.S. Magistrate Judge Crotty two days later, was released on bail under strict living and travel conditions.
+Schulte entered a plea of not guilty on September 13, 2017. Two days later, after approval from U.S. Magistrate Judge Paul A. Crotty, he was released on bail under strict living, travel, and internet conditions.
 
+Freedom, however, was short-lived. 
 
+On November 15, 2017, he was charged in Loudoun County Virginia with two crimes: object sexual penetration, and the unlawful creation of an image of another, based off of a series of images that were discovered on Schulte's desktop computer.
+
+The following month, on December 5, 2017, according to Schulte's legal counsel, pretrial services had consented to allow him to re-locate to Lubbock, Texas, where his family lived.
+
+However, two days later, NYPD officers arrested Schulte stemming from the two charges from Loudoun County. In addition, the Acting United State Attorney for New York, Joon H. Kim, requested to the court the reimposition of Schulte's detention.
+
+A week later, on December 14, 2017, U.S. Magistrate Judge Paul A. Crotty revoked his bail, not only because of the charges from Loudoun County, but also because of evidence that Schulte had instructed his cousin to access TOR, thereby violating one of the conditions of his bail. As a result, Schlte was remanded to the United States Marshal of the Southern District of New York.
 
 On June 18, 2018, the grand jury issued a superseding indictment, adding charges of illegal gathering of national-defense information, illegal transmission of lawfully possessed national-defense information, illegal transmission of unlawfully possessed national-defense information, and unauthorized access to a computer to obtain classified information.<ref name=Slate>
 
@@ -43,9 +51,7 @@ On August 24, 2017, Schulte was arrested at 6 a.m. at his apartment in Manhattan
 
 However, two days later, NYPD officers arrested Schulte on charges of sexual assault brought forth by a grand jury in the Eastern District of Virginia.
 
-On the same day as his arrest, the Acting United State Attorney for New York, Joon H. Kim, requested to the court the reimposition of his detention.
 
-On December 14, 2017, Schulte's bail was revoked, and he was remanded to the United States Marshal of the Southern District of New York, where he has since been detained at the Metropolitan Correctional Center.
 
 
 
