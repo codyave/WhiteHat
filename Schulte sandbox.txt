@@ -26,14 +26,14 @@ Schulte entered a plea of not guilty on September 13, 2017. Two days later, he w
 
 According to Schulte's legal counsel, on December 5, 2017, pretrial services had consented to allow Schulte to re-locate to Lubbock, Texas, to live near to his family.
 
-However, two days later, at the request of the FBI, Schulte was arrested by NYPD officers, in relation to charges brought forth in Loudoun County, Viriginia.
+However, two days later, at the request of the FBI, Schulte was arrested by NYPD officers, in relation to charges from Loudoun County, Viriginia.
 
 ==Sexual Assault==
 On November 15, 2017, the Loudoun County Commonwealth's Attorneys Office had developed evidence to charge Schulte with two crimes: object sexual penetration, and the unlawful creation of an image of another.
 
 The series of images that emerged as evidence against Schulte were discovered on his personal desktop computer during a March 20, 2017, FBI raid of his Manhattan apartment, in which federal agents confiscated approximately 60 electronic devices.
 
-In addition to the charges from Virginia, the Acting United State Attorney for New York, Joon H. Kim, notified U.S. Magistrate Judge Paul A. Crotty that Schulte had instructed his cousin to access the TOR network on his behalf, thereby violating one of the court's conditions for Schulte's bail.
+In addition to the charges from Virginia, the Acting United State Attorney for New York, Joon H. Kim, notified U.S. Magistrate Judge Paul A. Crotty that Schulte had instructed his cousin to access the TOR network on his behalf on at least five separate occasions between November 16, 2017, and December 5, 2017, thereby violating one of the court's conditions for Schulte's bail.
 
 Kim, arguing that Schulte was a danger to the public, as well as a flight risk, requested that the court reimpose his detention.
 
@@ -48,13 +48,14 @@ That same day, the government alerted the court to "a violation, a potential bre
 
 The government learned that Schulte, while in the course of making phone calls from prison sometime in May 2018, had distributed "Protected Search Warrant Materials to his family members for purposes of dissemination to other third parties, including members of the media," some of which included classified information.
 
-About a month later, on June 18, 2018, the grand jury issued another superseding indictment, which added ten counts to the original indictment from September 6, 2017: illegal gathering of national defense information, illegal transmission of lawfully possessed national defense information, illegal transmission of unlawfully possessed national defense information, unauthorized access to a computer to obtain classified information, theft of government property, unauthorized access to a computer to obtain information from a department or agency of the United States, causing transmission of a harmful computer program, information, code, or command, making false statements, obstruction of justice, and criminal copyright infringement.
+About a month later, on June 18, 2018, the grand jury issued a superseding indictment, which added ten counts to the original indictment from September 6, 2017: illegal gathering of national defense information, illegal transmission of lawfully possessed national defense information, illegal transmission of unlawfully possessed national defense information, unauthorized access to a computer to obtain classified information, theft of government property, unauthorized access to a computer to obtain information from a department or agency of the United States, causing transmission of a harmful computer program, information, code, or command, making false statements, obstruction of justice, and criminal copyright infringement.
 
 An additional superseding indictment was issued by the grand jury on October 31, 2018, adding charges of contempt of court, as well as the illegal transmission and attempted transmission of unlawfully possessed national defense information.
 
 In a letter outlined to the court following the October 31, 2018, superseding indictment, the government revealed that Schulte, within a period in early October 2018, was using "one or more smuggled contraband cellphones to communicate clandestinely with third parties outside of the MCC." The grand jury issued "dozens of subpoenas and pen register orders," revealing that Schulte was using "approximately 13 email and social media accounts (including encrypted email accounts)."
 
 On December 12, 2018, the court agreed to a Supplemental Protective Order, thereby imposing further security measures on Schulte during the course of his access to the protected areas where his discovery material could be located, such as requiring full restraints, mandatory strip searches upon exit, and being secured to a bolt in the floor at all times.
+
 
 
 
