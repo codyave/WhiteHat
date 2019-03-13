@@ -17,7 +17,7 @@
 
 ==Career==
 Schulte graduated from the University of Texas at Austin in 2011 with a degree in computer engineering.<ref name=Slate />
-While studying at the University of Texas, be began working for IBM. From January 2010 to May 2010, he was employed as a systems engineer by the National Security Agency, including time spent within the Technology directorate. Around the time that he ended his employment with the NSA, he began working for the CIA as a software engineer. In November 2016, he had left the CIA, moved to New York, and, up until his arrest in New York on August 24, 2017, had begun working as a senior software engineer for Bloomberg LP.
+While studying at the University of Texas, be began working for IBM. From January 2010 to May 2010, he was employed as a systems engineer by the National Security Agency, including time spent within the Technology directorate. Around the time that he ended his employment with the NSA, he began working for the CIA as a software engineer. In November 2016, he had left the CIA, moved to New York, and, up until his arrest on August 24, 2017, had begun working as a senior software engineer for Bloomberg LP.<ref name=Heavy>{{cite news |first1=Tom |last1=Cleary |title=Joshua Schulte: 5 Fast Facts You Need to Know |date=May 15, 2018 |accessdate=May 15, 2018 |website=Heavy |url=https://web.archive.org/web/20180516042149/https://heavy.com/news/2018/05/joshua-schulte/}}</ref> 
 
 ==Court Proceedings==
 On September 6, 2017, Schulte was indicted by a grand jury in the Southern District of New York on suspicion of receipt, possession, and transportation of child pornography.<ref name="IndictmentSep062017">{{cite news|url=https://www.courtlistener.com/recap/gov.uscourts.nysd.480183/gov.uscourts.nysd.480183.6.0.pdf |title=Indictment Sep-06-2017 |author=[[Southern District of New York]] |date=6 September 2017}}</ref>
@@ -42,22 +42,16 @@ On June 18, 2018, the grand jury issued a superseding indictment, adding charges
 
 An additional superseding indictment was issued by the grand jury on October 31, 2018, this time adding charges of obstruction of justice and the transmission of classified information to unauthorized persons.<This line needs to be more accurate>
 
-
 Schulte was arrested On August 24, 2017, at 6 a.m. at his apartment in Manhattan.
 
 Schulte was released on bail on September 15, 2017.
 
-Strict conditions for his bail were imposed by the court, such as surrendering all travel documents, securing for collateral his residence in Sterling, Virginia, and restricting his travel to the Southern District of New York and the Eastern District of New York.
-
-On December 5, 2017, Pretrial Services argued that the court should grant a request by Schulte's legal counsel that he be relocated to  Lubbock, Texas, to live near to his family.
-
-In May 2010, Schulte was hired by the CIA, after previous employment with the [[NSA]] and IBM.<ref name=Heavy>{{cite news |first1=Tom |last1=Cleary |title=Joshua Schulte: 5 Fast Facts You Need to Know |date=May 15, 2018 |accessdate=May 15, 2018 |website=Heavy |url=https://web.archive.org/web/20180516042149/https://heavy.com/news/2018/05/joshua-schulte/}}</ref> 
-
-However, two days later, NYPD officers arrested Schulte on charges of sexual assault brought forth by a grand jury in the Eastern District of Virginia.
 
 
 
 
+"I believe the government has told us that there's more data in this case than in any other like case that they have prosecuted."
+https://www.courtlistener.com/recap/gov.uscourts.nysd.480183/gov.uscourts.nysd.480183.16.0.pdf
 
 Between March 2016 and June 2016, in the [[United States District Court for the Eastern District of Virginia]], Schulte altered a computer system operated by the CIA for the purpose of granting himself access to the system, deleting records of his activies, and denying others access to the system. <ref name=SupersedingIndictmentOct312018>{{cite news |url=https://www.courtlistener.com/recap/gov.uscourts.nysd.480183/gov.uscourts.nysd.480183.68.0.pdf |title=Superseding Indictment Oct-31-2018 |author=[[Southern District of New York]] |date=6 July 2015}}</ref> Sometime in 2016, Schulte unlawfully obtained and copied documents connected with the U.S. national defense and the intelligence gathering capabilities of the CIA, and caused it to be provided to WikiLeaks.
 
