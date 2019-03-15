@@ -5,130 +5,52 @@
 | birth_name    = Joshua Adam Schulte
 | birth_date    = {{Birth date and age|1988|09|25}}
 | residence     = [[Metropolitan Correctional Center]]
-| home_town     = Lubbock, Texas
+| home_town     = [[Lubbock, Texas]]
 | nationality   = American
 | occupation    = Software Engineer
-| employer      = Bloomberg LP
+| employer      = CIA
 | known_for     = Transmitting classified information to WikiLeaks
 | website       = 
 }}
 
-'''Joshua Adam Schulte''' (born September 25, 1988) is a former [[Central Intelligence Agency]] (CIA) employee who allegedly copied and [[news leak|leaked]] [[Classified information in the United States|highly classified information]] to [[WikiLeaks]] in 2016.
+'''Joshua Adam Schulte''' (born September 25, 1988) is a former [[Central Intelligence Agency]] (CIA) employee who is charged with transmitting to [[WikiLeaks]] in 2016 several thousand classified national defense materials belonging to the CIA. Some have called the disclosures "the largest loss of classified documents in the agency’s history and a huge embarrassment for C.I.A. officials."<ref name=WashingtonPost15May2018>{{cite news|url=https://www.washingtonpost.com/world/national-security/us-identifies-suspect-in-major-leak-of-cia-hacking-tools/2018/05/15/5d5ef3f8-5865-11e8-8836-a4a123c359ab_story.html |title=U.S. identifies suspect in major leak of CIA hacking tools |author=Shane Harris |date=15 May 2018}}</ref>
 
 ==Career==
-Schulte graduated from the University of Texas at Austin in 2011 with a degree in computer engineering.<ref name=Slate />
-While studying at the University of Texas, be began working for IBM. Then, from January 2010 to May 2010, he was employed as a systems engineer by the National Security Agency, including time spent within the Technology directorate. Around the time that he ended his employment with the NSA, he began working for the CIA as a software engineer. In November 2016, he had left the CIA to move to New York, and, up until his arrest on August 24, 2017, had begun working as a senior software engineer for Bloomberg LP.<ref name=Heavy>{{cite news |first1=Tom |last1=Cleary |title=Joshua Schulte: 5 Fast Facts You Need to Know |date=May 15, 2018 |accessdate=May 15, 2018 |website=Heavy |url=https://web.archive.org/web/20180516042149/https://heavy.com/news/2018/05/joshua-schulte/}}</ref> 
+Schulte graduated from the [[University of Texas at Austin]] in 2011 with a degree in computer engineering. While studying at the University of Texas, he began working for IBM. Then, from January 2010 to May 2010, he was employed as a systems engineer by the [[National Security Agency]] (NSA), including time spent within the Technology directorate.<ref name=Slate>{{cite news |first1=Wolff |last1=Josephine |title=The Feds Love to Stack Charges When It Comes to Cybercrime |date=June 20, 2018 |accessdate=Jun 20, 2018 |website=Slate |url=https://slate.com/technology/2018/06/joshua-schulte-indicted-for-the-vault-7-leaks-to-wikipedia.html}}</ref> Around the time that he ended his employment with the NSA, he began working for the CIA as a software engineer.
+
+By November 2016, he had left the CIA to move to New York, and, up until his arrest on August 24, 2017,<ref name=CourtTranscript24Aug2017>{{cite news|url=https://www.courtlistener.com/recap/gov.uscourts.nysd.480183/gov.uscourts.nysd.480183.21.1.pdf |title=Court transcript Aug-24-2017 |author=[[Southern District of New York]] |date=24 August 2017}}</ref> had begun working as a senior software engineer for [[Bloomberg LP]].<ref name=Heavy>{{cite news |first1=Tom |last1=Cleary |title=Joshua Schulte: 5 Fast Facts You Need to Know |date=May 15, 2018 |accessdate=May 15, 2018 |website=Heavy |url=https://web.archive.org/web/20180516042149/https://heavy.com/news/2018/05/joshua-schulte/}}</ref>
 
 ==Child Pornography==
-On September 6, 2017, Schulte was indicted by a grand jury in the Southern District of New York on suspicion of receipt of child pornography, possession of child pornography, and transportation of child pornography.<ref name="IndictmentSep062017">{{cite news|url=https://www.courtlistener.com/recap/gov.uscourts.nysd.480183/gov.uscourts.nysd.480183.6.0.pdf |title=Indictment Sep-06-2017 |author=[[Southern District of New York]] |date=6 September 2017}}</ref>
+During a raid of Schulte's Manhattan apartment on March 15, 2017, federal agents were able to confiscate approximately 60 electronic devices, including a desktop computer that was found to have been locked under three layers of encryption.<ref name=CourtTranscript13Sep2017 /> A few days later, on March 20, 2017, investigators had returned to Schulte's apartment, and had ask him for consent to search his cell phone. According to his counsel, "Schulte, in front of the agents, opened the phone, put in the password, handed it over to them to make sure that nothing on the phone could be destroyed or altered and handed it right to the authorities." Afterwards, through technical analysis, agents were able to retrieve several passwords from the cell phone, and then discovered that the passwords were able to unlock the multiple layers of encryption on the desktop computer.<ref name=FBIComplaint23Aug2017>{{cite news|url=https://www.courtlistener.com/recap/gov.uscourts.nysd.480183/gov.uscourts.nysd.480183.1.0.pdf |title=FBI Complaint Aug-23-2017 |author=[[Southern District of New York]] |date=23 August 2017}}</ref> 
 
-Schulte entered a plea of not guilty on September 13, 2017. Two days later, he was released on bail under strict conditions, such as being required to live with one of his cousins in Manhattan, and to stay away from computers and the internet.
+After gaining access to the desktop computer, investigators discovered over 10,000 images and videos that depicted child pornography. Some of the material "included sadistic and masochistic images and videos of children as young as a few years old who had been brutally sexually assaulted." The government found that Schulte had "neatly organized it into different folders, according to his preferences, and stored it for a period of years." In the government's view, they found that there were "no set of circumstances that can confidently assure the Court that he's not going to continue to try to download child pornography, encourage others to download it and share it and just generally engage in very dangerous sexual activity."<ref name=CourtTranscript24Aug2017 />
 
-According to Schulte's legal counsel, on December 5, 2017, pretrial services had consented to allow Schulte to re-locate to Lubbock, Texas, to live near to his family.
+The government argued that Schulte was "both a flight risk and a danger to the community and that all the factors the Court considers in determining whether bail is appropriate support that finding," while counsel disagreed, arguing that Schulte "had no basis of knowing if there's any alleged child pornography or had any reason to believe that he was in any way, shape or form in contact with any child pornography." During his ruling, Judge Pitman ordered that Schulte be detained, citing "sufficient allegations in the complaint that lead me to conclude that the contention that Mr. Schulte was the victim of people who used his servers to store child pornography without his knowledge or consent just doesn't seem likely."<ref name=CourtTranscript24Aug2017 />
 
-However, two days later, at the request of the FBI, Schulte was arrested by NYPD officers, in relation to charges from Loudoun County, Viriginia.
+Three weeks later, on September 6, 2017, Schulte was indicted by a grand jury in the [[Southern District of New York]] on suspicion of receipt of child pornography, possession of child pornography, and transportation of child pornography.<ref name=IndictmentSep062017>{{cite news|url=https://www.courtlistener.com/recap/gov.uscourts.nysd.480183/gov.uscourts.nysd.480183.6.0.pdf |title=Indictment Sep-06-2017 |author=[[Southern District of New York]] |date=6 September 2017}}</ref> A week later, he had entered a plea of not guilty,<ref name=CourtTranscript13Sep2017>{{cite news|url=https://www.courtlistener.com/recap/gov.uscourts.nysd.480183/gov.uscourts.nysd.480183.12.0.pdf |title=Court transcript Sep-13-2017 |author=[[Southern District of New York]] |date=13 September 2017}}</ref> and was released on bail two days later. As part of his conditions for bail, Schulte was required to live with one of his cousins in Manhattan, was restricted to traveling within the Southern District of New York and the [[Eastern District of New York]], and had been ordered to keep away from computers, electronic devices, and the internet.<ref name=GovtLetter07Dec2017>{{cite news|url=https://www.courtlistener.com/recap/gov.uscourts.nysd.480183/gov.uscourts.nysd.480183.21.0.pdf |title=Govt letter to Judge Crotty Dec-07-2017 |author=[[Southern District of New York]] |date=7 December 2017}}</ref>
 
 ==Sexual Assault==
-On November 15, 2017, the Loudoun County Commonwealth's Attorneys Office had developed evidence to charge Schulte with two crimes: object sexual penetration, and the unlawful creation of an image of another.
+On August 24, 2017, the government informed U.S. Magistrate Judge Pitman that they had discovered "a series of images" on Schulte's cell phone that depicted "a female who the defendant knows and who at a time stayed with the defendant is passed out on the floor of the defendant's bathroom. In those pictures, her underwear appears to be removed, and then she is sexually assaulted by a pair of hands." They found the pictures to be "extremely troubling, not just because of their content but because it shows the defendant appears to be someone who will act out on his impulses and engage in dangerous sexual behavior." 
 
-The series of images that emerged as evidence against Schulte were discovered on his personal desktop computer during a March 20, 2017, FBI raid of his Manhattan apartment, in which federal agents confiscated approximately 60 electronic devices.
+When asked if the bathroom in the pictures indeed belonged to Schulte, the government said, "We believe that it's the bathroom that he was living in when the pictures would have been taken. He previously was in Virginia." However, the government conceded that they had not been able identify Schulte as the perpetrator "based on the pictures that we showed the victim." During his ruling, Judge Pitman said that he was "not relying on the government's proffer with respect to the alleged sexual assault on the woman in the bathroom because I don't think facts have been proffered that tie that incident -- that tie Mr. Schulte to the conduct in that incident.<ref name=CourtTranscript24Aug2017 /> According to Schulte's counsel, "the FBI then sent the photos that were the subject of that issue to Virginia" sometime after the August hearing.<ref name=CourtTranscript08Jan2018 />
 
-In addition to the charges from Virginia, the Acting United State Attorney for New York, Joon H. Kim, notified U.S. Magistrate Judge Paul A. Crotty that Schulte had instructed his cousin to access the TOR network on his behalf on at least five separate occasions between November 16, 2017, and December 5, 2017, thereby violating one of the court's conditions for Schulte's bail.
+On November 15, 2017, the Loudoun County Commonwealth's Attorney's Office determined that they had enough evidence based on the pictures supplied by the FBI to charge Schulte with two crimes: object sexual penetration, and the unlawful creation of an image of another. A few weeks later, on December 7, 2017—and at the request of the FBI—Schulte was arrested by NYPD officers in connection to the charges in Virginia.<ref name=GovtLetter07Dec2017 />
 
-Kim, arguing that Schulte was a danger to the public, as well as a flight risk, requested that the court reimpose his detention.
+A week after his arrest, at a hearing on December 14, 2017, the government informed the court that they were seeking detention. Schulte's counsel consented to the request, but only upon the understanding that Virginia would be "scheduled to come December 20 to pick him up" for an arraignment in Loudoun County.<ref name=CourtTranscript14Dec2017 /> However, to the frustration of Schulte's counsel, Virginia would later decline to do so, citing the government's argument that the case in the Southern District of New York "would proceed first," and that Virginia would not "writ him just so that we can have a bail determination down here and you take him back."<ref name=CourtTranscript08Jan2018 />
 
-A week later, on December 14, 2017, U.S. Magistrate Judge Paul A. Crotty revoked Schulte's bail, and remanded him to the custody of the United States Marshal of the Southern District of New York.
+Later on December 14, 2017, U.S. Magistrate Judge Paul A. Crotty revoked Schulte's bail, and remanded him to the custody of the United States Marshal of the Southern District of New York.<ref name=CourtTranscript14Dec2017>{{cite news|url=https://www.courtlistener.com/recap/gov.uscourts.nysd.480183/gov.uscourts.nysd.480183.24.0.pdf |title=Court Transcript Dec-14-2017 |author=[[Southern District of New York]] |date=14 December 2017}}</ref><ref name=LetterJudgeCrotty14Dec2017>{{cite news|url=https://www.courtlistener.com/recap/gov.uscourts.nysd.480183/gov.uscourts.nysd.480183.22.0.pdf |title=Letter from Judge Crotty Dec-14-2017 |author=[[Southern District of New York]] |date=14 December 2017}}</ref>
 
-Schulte has since been held at the Metropolitan Correctional Center in Manhattan.
+Schulte has since been detained at the Metropolitan Correctional Center in Manhattan.<ref name=GovtLetter31Oct2018>{{cite news|url=https://www.courtlistener.com/recap/gov.uscourts.nysd.480183/gov.uscourts.nysd.480183.67.0_2.pdf |title=Govt Letter to Judge Crotty Oct-31-2018 |author=[[Southern District of New York]] |date=31 October 2018}}</ref>
 
 ==Leaks of Classified Information==
-On May 15, 2018, both the Washington Post and the New York Times published news articles about Schulte being a suspect in a federal investigation concerning the leak of classified information to WikiLeaks.
+On May 15, 2018, both the [[Washington Post]] and the [[New York Times]] published news articles about Schulte being a suspect in a federal investigation concerning the unauthorized disclosure of classified information to WikiLeaks.<ref name=NewYorkTimes15May2018>{{cite news|url=https://www.nytimes.com/2018/05/15/us/cia-hacking-tools-leak.html |title=Suspect Identified in C.I.A. Leak Was Charged, but Not for the Breach |author=Scott Shane, Adam Goldman |date=15 May 2018}}</ref><ref name=WashingtonPost15May2018 /> Later that same day, the government "alerted the court to a violation, a potential breach of the protective order" in which "various search warrants and search warrant affidavits" were leaked to the press. The government learned that Schulte, while in the course of making phone calls from prison sometime in May 2018, had distributed "Protected Search Warrant Materials to his family members for purposes of dissemination to other third parties, including members of the media," some of which included classified information.<ref name=GovtLetter31Oct2018 /> In the government's view, they considered this "a clear breachof the protective order. It is unacceptable, particularly unacceptable given that this defendant has a pattern of violating the Court's orders."<ref name=CourtTranscript21May2018>{{cite news|url=https://www.courtlistener.com/recap/gov.uscourts.nysd.480183/gov.uscourts.nysd.480183.44.0.pdf |title=Court transcript May-21-2018 |author=[[Southern District of New York]] |date=21 May 2018}}</ref>
 
-That same day, the government alerted the court to "a violation, a potential breach of the protective order" in which "various search warrants and search warrant affidavits" were leaked to the press.
+About a month later, on June 18, 2018, the grand jury issued a superseding indictment, adding ten more counts to the original three: illegal gathering of national defense information, illegal transmission of lawfully possessed national defense information, illegal transmission of unlawfully possessed national defense information, unauthorized access to a computer to obtain classified information, theft of government property, unauthorized access to a computer to obtain information from a department or agency of the United States, causing transmission of a harmful computer program, information, code, or command, making false statements, obstruction of justice, and criminal copyright infringement.<ref name=SupersedingIndictment18Jun2018>{{cite news|url=https://www.courtlistener.com/recap/gov.uscourts.nysd.480183/gov.uscourts.nysd.480183.47.0.pdf |title=Superseding Indictment Jun-18-2018 |author=[[Southern District of New York]] |date=18 June 2018}}</ref>
 
-The government learned that Schulte, while in the course of making phone calls from prison sometime in May 2018, had distributed "Protected Search Warrant Materials to his family members for purposes of dissemination to other third parties, including members of the media," some of which included classified information.
+During a court hearing on August 8, 2018, counsel for Schulte had told the court that they believed "that the government owes Mr. Schulte a [[Brady disclosure]]." In response, the government said "they were "prepared to make all appropriate disclosures as soon as possible."<ref name=CourtTranscript08Aug2018>{{cite news |url=https://www.courtlistener.com/recap/gov.uscourts.nysd.480183/gov.uscourts.nysd.480183.62.0.pdf |title=Court transcript Aug-08-2018 |author=[[Southern District of New York]] |date=8 August 2018}}</ref> According to a four-page handwritten letter that Schulte had addressed to U.S. Magistrate Judge Crotty, the government delivered a Brady disclosure to Schulte on September 25, 2018. The handwritten letter bears a postmark date of October 23, 2018, and was briefly uploaded to [[PACER]] on October 29, 2018, but was quickly taken down.<ref name=SchulteFourPageLetter29Oct2018>{{cite news|url=https://www.courtlistener.com/recap/gov.uscourts.nysd.480183/gov.uscourts.nysd.480183.67.0.pdf |title=Court transcript Oct-29-2018 |author=[[Southern District of New York]] |date=29 October 2018}}</ref><ref>{{cite tweet |last=Brown and |first=Stephen |user=PPVSRB |number=1056980006956621824 |date=29 October 2018 |title=The document deleted in the Schulte case was a handwritten letter from him to Judge Crotty saying he hasn't been able to communicate with his legal team for a month and that he's enduring awful conditions at MCC. |script-title= |trans-title= |language= |retweet= |link= |access-date= |archive-url= |archive-date= |dead-url=}}</ref>
 
-About a month later, on June 18, 2018, the grand jury issued a superseding indictment, which added ten counts to the original indictment from September 6, 2017: illegal gathering of national defense information, illegal transmission of lawfully possessed national defense information, illegal transmission of unlawfully possessed national defense information, unauthorized access to a computer to obtain classified information, theft of government property, unauthorized access to a computer to obtain information from a department or agency of the United States, causing transmission of a harmful computer program, information, code, or command, making false statements, obstruction of justice, and criminal copyright infringement.
+An additional superseding indictment was issued on October 31, 2018, which added two more charges—contempt of court, and illegal transmission and attempted transmission of unlawfully possessed national defense information—bringing the amount to a total of fifteen.<ref name=SupersedingIndictment31Oct2018>{{cite news|url=https://www.courtlistener.com/recap/gov.uscourts.nysd.480183/gov.uscourts.nysd.480183.68.0.pdf |title=Superseding Indictment Oct-31-2018 |author=[[Southern District of New York]] |date=31 October 2018}}</ref>
 
-An additional superseding indictment was issued by the grand jury on October 31, 2018, adding charges of contempt of court, as well as the illegal transmission and attempted transmission of unlawfully possessed national defense information.
+Outlined in a letter later that day to Judge Crotty, the government revealed that Schulte, within a period sometime in early October 2018, was discovered to having had used "one or more smuggled contraband cellphones to communicate clandestinely with third parties outside of the MCC," and that the grand jury had issued "dozens of subpoenas and pen register orders," revealing that Schulte was using "approximately 13 email and social media accounts (including encrypted email accounts)."<ref name=GovtLetter31Oct2018 />
 
-In a letter outlined to the court following the October 31, 2018, superseding indictment, the government revealed that Schulte, within a period in early October 2018, was using "one or more smuggled contraband cellphones to communicate clandestinely with third parties outside of the MCC." The grand jury issued "dozens of subpoenas and pen register orders," revealing that Schulte was using "approximately 13 email and social media accounts (including encrypted email accounts)."
-
-On December 12, 2018, the court agreed to a Supplemental Protective Order, thereby imposing further security measures on Schulte during the course of his access to the protected areas where his discovery material could be located, such as requiring full restraints, mandatory strip searches upon exit, and being secured to a bolt in the floor at all times.
-
-
-
-
-
-"I believe the government has told us that there's more data in this case than in any other like case that they have prosecuted."
-https://www.courtlistener.com/recap/gov.uscourts.nysd.480183/gov.uscourts.nysd.480183.16.0.pdf
-
-Between March 2016 and June 2016, in the [[United States District Court for the Eastern District of Virginia]], Schulte altered a computer system operated by the CIA for the purpose of granting himself access to the system, deleting records of his activies, and denying others access to the system. <ref name=SupersedingIndictmentOct312018>{{cite news |url=https://www.courtlistener.com/recap/gov.uscourts.nysd.480183/gov.uscourts.nysd.480183.68.0.pdf |title=Superseding Indictment Oct-31-2018 |author=[[Southern District of New York]] |date=6 July 2015}}</ref> Sometime in 2016, Schulte unlawfully obtained and copied documents connected with the U.S. national defense and the intelligence gathering capabilities of the CIA, and caused it to be provided to WikiLeaks.
-
-
-
-
-6/20/18 | https://slate.com/technology/2018/06/joshua-schulte-indicted-for-the-vault-7-leaks-to-wikipedia.html
-"Vault 7, which was released by WikiLeaks beginning in 2017, included detailed descriptions of the CIA’s attempts to compromise iPhones, vehicle-control systems, Google’s Android operating system, Cisco routers, and other popular devices and software programs."
-Arguably, the most damaging element of these leaks, however, was the extent to which they showed the CIA relying on vulnerabilities purchased (or borrowed) from outside hackers to undertake these endeavors."
-"This suggested both that the agency was failing to notify software and hardware vendors of many exploitable vulnerabilities available on the market and also that the CIA itself was not necessarily very technologically advanced and was instead forced to turn to outside sources for its hacking tools."
-[Article does a really good job listing out the criminal charges, one by one]
-
-
-
-
-3/7/17 | https://www.nytimes.com/2017/03/07/world/europe/wikileaks-cia-hacking.html
-
-
-8/23/17| https://www.courtlistener.com/recap/gov.uscourts.nysd.480183/gov.uscourts.nysd.480183.1.0.pdf
-"“Within the Encrypted Container, the CACS Agents also identified documents that contained links to numerous illicit websites (the “Websites”)."
-"Based on the CACS Agents’ training, experience, and familiarity with the Websites, they believe that some of the Websites have been used to access, view, and download child pornography, as well as other types of pornography. Based on a forensic review of the Desktop Computer, some of the Websites known to contain child pornography appear to have been accessed by the user of the Desktop Computer.”
-
-5/15/18 | https://www.nytimes.com/2018/05/15/us/cia-hacking-tools-leak.html
-"[The release of Vault 7 in March 2017] was the largest loss of classified documents in the agency’s history and a huge embarrassment for C.I.A. officials."
-"'I am just scared to death,' said Roger Schulte, Mr. Schulte’s father, who lives in Lubbock, Tex. 'I think he’s innocent of all these crimes, as far as everything I’ve seen.'"
-"The elder Mr. Schulte said that his son was in college when he built the server later found to contain child pornography, and that he 'had so many people accessing it he didn’t care what people put on it.'"
-"Far from leaking classified information, his father said, Mr. Schulte had actually complained about security vulnerabilities at the C.I.A., first to his superiors and later to the agency’s inspector general and to a House Intelligence Committee staff member."
-"Family members shared with The Times evidence of those contacts, which predated the Vault 7 release."
-"Family members, who have spent much of their savings on legal fees, say they believe that Mr. Schulte is a scapegoat for the C.I.A.’s inability to secure its most sensitive files. "
-"[Josh] left the agency in November 2016 and mo
-ved to New York to work for Bloomberg L.P. as a software engineer."
-"The leaked Vault 7 documents came from the agency’s Engineering Development Group and included descriptions and instructions for the use of agency hacking tools, but only a small amount of the actual computer code for the tools."
-"Despite the scale of the breach, Nicholas Weaver, a researcher at the International Computer Science Institute in Berkeley, Calif., said WikiLeaks had exaggerated the danger to civil liberties from the C.I.A. hacking tools, which he said were actually designed to target small numbers of high-priority targets."
-"Mr. Weaver called the Vault 7 tools 'creative but not really special' and designed for 'very targeted espionage.' He said the real significance of the leak was that it could happen at all, despite tightened security measures imposed after Edward J. Snowden took hundreds of thousands of classified N.S.A. documents and shared them with journalists."
-
-5/15/18 | https://motherboard.vice.com/en_us/article/9k8w47/feds-raid-apartment-of-suspected-cia-leaker-find-10000-images-of-child-porn
-"At the time of his arrest, he was working for Bloomberg." <--- don't need; this is in the 12/7/17 transcript irrc
-
-5/17/18 | https://heavy.com/news/2018/05/joshua-schulte/
-"Federal authorities say they found more than 10,000 child pornography files on a server he created in 2009 when he was in college."
-"Schulte said although he created the server and maintained it, 50 to 100 people had access to the server."
-"According to the complaint, the FBI found an encrypted 54 gigabyte folder in a server located on Schulte’s desktop computer."
-"Agents were able to get around the encryption by using passwords found on Schulte’s cell phone. He had consented to a search of the phone."
-"Joshua Adam Schulte is originally from Lubbock, Texas."
-"He graduated from the University of Texas at Austin in 2011 with a computer engineering degree, according to his Linkedin profile."
-"While in college, Schulte worked as a software engineer at IBM from March 2008 to November 2009."
-"He began working in the federal government while still in school."
-"His first job in the intelligence community was at the National Security Agency from January 2010 to May 2010."
-"On Linkedin he said he was 'employed within the Technology directorate (T) as a systems engineer.'"
-"From May 2010 to November 2016 he worked at the Central Intelligence Agency as a software engineer. "
-"On Linkedin he said he was 'employed within the National Clandestine Service (NCS) as a Directorate of Science and Technology (DS&T) Intelligence Officer."
-"After leaving the CIA in November 2016, he began a job as a senior software engineer at Bloomberg LP, a financial software, data and media company, in New York, a job he held up until his arrest on the federal child pornography charges."
-"Bloomberg has not commented about Schulte."
-According to the Washington Post, someone on Schulte's behalf created a GoFundMe called the "Galt Criminal Justice Reform", which was seeking to fundraise $50 million for a legal defense.
-"According to Schulte, the government barred him from taking a trip to Mexico shortly after the WikiLeaks postings."
-"He believes investigators thought he was planning to flee the country, but he said the trip was a previously planned vacation with his brother."
-
-6/18/18 | https://www.nytimes.com/2018/06/18/us/politics/charges-cia-breach-vault-7.html
-"In late 2016, he left the spy agency and moved to New York to work for Bloomberg."
-
-6/28/18 | https://nypost.com/2018/06/28/accused-cia-leaker-gives-judge-137-page-handwritten-document/ 
-Says Josh is 29 years old (putting his date of birth at 9/25/88)
-
-LinkedIn Profile: https://www.linkedin.com/in/joshschulte/
-Software Engineer at IBM
-Systems Engineer at NSA
-Software Engineer at CIA
-Software Engineer at Bloomberg L.P.
-
-Prison # 79471-054
+On December 12, 2018, the court agreed to a Supplemental Protective Order, imposing severe security measures in the areas containing discovery material that were related to Schulte's case. Since then, he has been required to be "stripped searched after departing the SCIF at the conclusion of each session," as well as in "full restraints during the time he is in the SCIF and secured to a bolt in the floor".<ref name=SupplementalProtectiveOrder31Oct2018>{{cite news|url=https://www.courtlistener.com/recap/gov.uscourts.nysd.480183/gov.uscourts.nysd.480183.74.1.pdf |title=Supplemental Protective Order Dec-12-2018 |author=[[Southern District of New York]] |date=12 December 2018}}</ref>
