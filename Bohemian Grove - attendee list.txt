@@ -892,11 +892,11 @@ Foster, T. Jack III - Aviary
 Foster, T. Jack Jr. - Owl’s Nest
 Fotre, Terry Vincent - Sundodgers 
 Fournier, Dudley J. - Pink Onion 
-Fournier, Dudley J. Jr. Rough ‘n Ready 
+Fournier, Dudley J. Jr. - Rough ‘n Ready 
 Fox, Fred - Tunerville 
 Fraga, Andrew H. II - Jinks Band
 France, Peter - Romany
-Franich, Steven Rough ‘n Ready 
+Franich, Steven - Rough ‘n Ready 
 Frank, Anthony M. - Bald Eagle 
 Frank, Joseph P. - Hillside 
 Frank, Randall Palmer - Bald Eagle 
@@ -2092,7 +2092,7 @@ Policy, Carmen A. - Midway
 Poling, Drew - Aviary
 Pollock, James M. - Totem In 
 Pollock, Jeffrey Ord - Totem In
-Pond, Robert M. Jr. Rough ‘n Ready 
+Pond, Robert M. Jr. - Rough ‘n Ready 
 Poole, Bruce Christopher - Sleepy Hollow 
 Poole, Christopher K. - Sleepy Hollow 
 Poole, David W. - Owlers
