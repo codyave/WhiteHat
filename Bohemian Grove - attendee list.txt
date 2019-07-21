@@ -725,7 +725,7 @@ Downey, Paul A. - Five Easy Pieces
 Doyle, Patrick F. - Medicine Lodge
 Doyle, Richard Proctor Jr. - Faraway
 Drake, Michael V. - Sons of Toil
-Drake, Peter M. - Medicine Lodge/- Sequoyah
+Drake, Peter M. - Medicine Lodge/Sequoyah
 Drakoulius, George - River Lair
 Draper, Jerome C. Jr. - Sundodgers
 Draper, Timothy C. - Hualapai
@@ -923,7 +923,7 @@ Friedrichs, Edward C. III - Bella Union
 Friedrichs, Jay H. - Bella Union 
 Frist, William H. M.D. - Hill Billies
 Fritz, Clayton B. - Pig 'N Whistle
-Fritz, Lynn C. - Land of Happiness/- Monastery 
+Fritz, Lynn C. - Land of Happiness/Monastery 
 Froehlich, John - Crossroads
 Frye, Lawrence J. - Sundodgers 
 Fuery, Charles P. - Aviary
@@ -1538,7 +1538,7 @@ Lindstrom, John W. - Aviary
 Lininger, Schuyler W. - Faraway 
 Lininger, Schuyler W. Jr. - Fore Peak
 Linkletter, Arthur G. - Dragon
-Littlefield, Edmund W. Jr. Rattlers/- Edgehill 
+Littlefield, Edmund W. Jr. Rattlers/Edgehill 
 Littlefield, Jacques M. - Sempervirens
 Lloyd, Brian - Tunerville 
 Long, John “Jay” Bradley - Faraway 
@@ -1726,7 +1726,7 @@ McNiven, Hugh D. - Friends of the Forest
 McNulty, Michael Thomas - Web
 McPherson, Michael C. - Sleepy Hollow 
 McQuade, Donald A. - Hideaway 
-McQuarrie, Robert Bruce Jr. - Poker Flat/- Star & Garter 
+McQuarrie, Robert Bruce Jr. - Poker Flat/Star & Garter 
 McReynolds, Thomas P. - Sunshiners 
 McWilliams, Keith B. - Thalia 
 Mead, Harold B. - Crossroads
@@ -1972,7 +1972,7 @@ Olcott, Cornelius IV - Piedmont
 Olds, William Jr. - Abbey 
 Olds, William Lee III - Abbey 
 O'Leary, Wiliam F. - Valley of the Moon
-Olenick, Paul - Jinks Band/- Edgehill
+Olenick, Paul - Jinks Band/Edgehill
 Oliphant, Patrick - Lost Angels
 Oliver, Gary Charles - Hillside
 Olmsted, Jonathan - Derelicts 
@@ -2059,7 +2059,7 @@ Pettit, Tom - Wild Oats
 Pettus, David Wingfield - Dragon 
 Pfau, George H. Jr. - Hill Billies
 Pfeifer, William L. - Nec Natama 
-Phelan, Michael Aloysius - Fore Peak/- Midway 
+Phelan, Michael Aloysius - Fore Peak/Midway 
 Phelps, J. Barton - Sempervirens 
 Phelps, William H. - Lost Angels
 Phillips, Dave - Lost Angels 
@@ -2236,7 +2236,7 @@ Rogers, Roy G. - Dragon
 Rogers, Stephen Craig - Medicine Lodge
 Rogers, Stephen John - Highlanders
 Rogers, T. Gary - Pelican
-Rogich, Sigmund - Hill Billies/- Midway 
+Rogich, Sigmund - Hill Billies/Midway 
 Rohn, R. Jeffrey - Skiddoo 
 Rohr, James E. - Land of Happiness 
 Rohr, Thos - Roaring
@@ -2289,7 +2289,7 @@ Saffir, Richard A. - Red Fire/Mathieu
 Saigal, Arun K. - Tunerville
 Sakakeeny, Gabriel - Tunerville/Band 
 Salazar, Phillip Rattlers 
-Salestrom, James Kevin - Five Easy Pieces/- Parsonage 
+Salestrom, James Kevin - Five Easy Pieces/Parsonage 
 Salewski, Anthony J. - Aviary 
 Salt, Haddon N. - Wohwohno 
 Saltzer, David L. - Aviary
