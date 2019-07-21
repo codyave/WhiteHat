@@ -1752,7 +1752,7 @@ Merten, David F. - Abbey
 Messmer, Harold M. Jr. - Hill Billies
 Metheny, Alan E. - Meyerling 
 Metheny, Johnny - Hermits 
-Mettier, Henry Totem In
+Mettier, Henry - Totem In
 Mettier, Stacy R. Jr. - Totem In
 Metz, Thomas F. - Lost Angels 
 Meunier, Louis M. - Aviary
@@ -1983,7 +1983,7 @@ Olson, Perry V. - Piedmont
 Ong, John D. - Hill Billies
 Orrick, Murray Scott - Utukulu
 Osborn, James R. - Tarry Town 
-Osborne, Brent W. Totem In 
+Osborne, Brent W. - Totem In 
 Osborne, David H. III - Land’s End 
 Osterling, Ralph S. - Bella Union 
 Osthimer, Charles E. III - Zaca 
@@ -2124,7 +2124,7 @@ Prussia, Leland S. - Sempervirens
 Puckett, Allen - Whoo Cares
 Pugh, Jim - Poison Oak
 Pulling, Thomas L. - Edgehill 
-Pursell, William Whitney Totem In 
+Pursell, William Whitney - Totem In 
 Pyle, Charles S. - Monkey Block
 Pynchon, William E. - Tunerville
 Pyszkowski, Jason - Tunerville
@@ -2386,7 +2386,7 @@ Shepard, Brian F. - Tie Binders
 Shepard, Christopher "Kip" - Skiddoo
 Shepard, Roderick W. - Piedmont 
 Sherman, J. Russell - Cool-Nazdar
-Sherman, James Edward Totem In
+Sherman, James Edward - Totem In
 Sherman, Jerome T. - Band
 Sherman, Robert S. III - Seven Trees 
 Shevlin, Thomas F. - Derelicts
@@ -2425,7 +2425,7 @@ Slattery, Dennis D. - Whisky Flat
 Sloan, David B. - Aviary 
 Slusser, James W. - Bella Union 
 Slusser, Willis S. - Isle of Aves
-Small, Matt Totem In
+Small, Matt - Totem In
 Smiell, Joseph E. - Tunerville 
 Smit, Steve - Timbuktu
 Smith, Brannan T. - Ladera 
@@ -2498,7 +2498,7 @@ Stauffer, Brian - Monkey Block
 Steele, Bob J. - Jinks Band 
 Steele, James A. - Better ‘Ole 
 Steele, Robert Gantt - Aviary/Monkey Block 
-Stegall, A. John III Totem In
+Stegall, A. John III - Totem In
 Stegmiller, Kenneth Lawrence - Aviary 
 Steil, Peter - Dragon 
 Stein, Jeffrey D. - Cliff Dwellers 
@@ -2859,7 +2859,7 @@ Witter, Dean III - Meyerling
 Witter, Thomas K. - Piedmont 
 Wolcott, John O. - Hideaway 
 Wolfe, Bruce Leslie - Monkey Block 
-Wolter, Jonathan R. Totem In 
+Wolter, Jonathan R. - Totem In 
 Woo, Russell D. - n/a
 Wood, Michael Carleton - Highlanders 
 Wood, Robert Warren - Band
