@@ -1270,7 +1270,7 @@ Hughes, Francis J. Jr. - Abbey
 Hughes, Louis R. - Hillside
 Hume, George H. - Hill Billies
 Hume, William J. - Pig 'N Whistle
-Hummel, Peter W. Mathieu/Red Fire
+Hummel, Peter W. - Mathieu/Red Fire
 Humphrey, G. Watts Jr. - Zaca
 Huneke, Murray Carter - Owl’s Nest
 Hunt, Frederick Granger - Madrone
@@ -1361,7 +1361,7 @@ Jones, Proctor Patterson Jr. - Wayside Log
 Jones, Richard W. - Sleepy Hollow
 Jones, Robert Trent Jr. - Five Easy Pieces
 Jones, Thomas V. - Lost Angels
-Jones, William Stewart Mathieu
+Jones, William Stewart - Mathieu
 Jordan, Charles Less - Aviary
 Jowitt, Ken - Pelican
 
@@ -2169,7 +2169,7 @@ Reilly, William K. - Sempervirens
 Reinhart, Floyd - Tunerville 
 Reininga, John H. - Sempervirens
 Reis, Thomas S. - Dragon 
-Reiter, Charles P. Mathieu 
+Reiter, Charles P. - Mathieu 
 Reiter, James F. - Tunerville 
 Reitmeier, Robert Alan - Dog House
 Rendell, Kenneth W. - Bella Union 
