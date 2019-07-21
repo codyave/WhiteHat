@@ -189,7 +189,7 @@ Bentley, Clay - Valley of the Moon
 Bentley, Donald C. - Thalia
 Bentley, William - Moonshiners
 Benway, Randall Mark - Aviary
-Berens, Thomas P. Pig ‘N Whistle
+Berens, Thomas P. - Pig 'N Whistle
 Berg, Shelton - Owl’s Nest
 Berggruen, John - Uplifters
 Berglund, William R. - Tie Binders
@@ -308,7 +308,7 @@ Briner, Robert Lee - Utukulu
 Brink, Benjamin McAlester - Aviary
 Brink, Robert R. - Fore Peak/Band
 Brinkley, Douglas - Wayside Log
-Brinton, William Wiman Pig ‘N Whistle
+Brinton, William Wiman - Pig 'N Whistle
 Briscoe, Lawrence W. - Spot
 Bronson, William H. - Owlers
 Brooks, Arthur - Midway
@@ -1259,7 +1259,7 @@ Hubacher, Elmer R. - Hillside
 Hubacher, Richard Elmer - Hillside
 Hubbard, Bean W. Boka - Band
 Huber, Gordon Jr. - Wild Oats
-Huckins, Brian V. Pig ‘N Whistle
+Huckins, Brian V. - Pig 'N Whistle
 Hudner, Philip - Santa Barbara
 Hudnut, Thomas C. - Aviary
 Hueter, Ernest B. Star & Garter
@@ -1269,7 +1269,7 @@ Hughan, Wade C. - Silverado Squatters
 Hughes, Francis J. Jr. - Abbey
 Hughes, Louis R. - Hillside
 Hume, George H. - Hill Billies
-Hume, William J. Pig ‘N Whistle
+Hume, William J. - Pig 'N Whistle
 Hummel, Peter W. Mathieu/Red Fire
 Humphrey, G. Watts Jr. - Zaca
 Huneke, Murray Carter - Owl’s Nest
@@ -1354,7 +1354,7 @@ Jones, Albert - Fore Peak
 Jones, Craig Allen - Hillside
 Jones, David V. - Aviary
 Jones, Ellis - River Lair
-Jones, J. Keith Pig ‘N Whistle
+Jones, J. Keith - Pig 'N Whistle
 Jones, Michael Gordon - Sleepy Hollow
 Jones, Milbrey M. Jr. - Whoo Cares
 Jones, Proctor Patterson Jr. - Wayside Log
@@ -1812,11 +1812,11 @@ Montgomery, Thomas - Dog House/Jinks Band
 Moore, Alexander Rolph - Pig 'N Whistle
 Moore, Charles IV - River Lair
 Moore, Curt - Band
-Moore, Douglas G. Pig ‘N Whistle 
+Moore, Douglas G. - Pig 'N Whistle
 Moore, George B. - Haven
 Moore, James A. III - Tunerville
 Moore, James Elliott II - Sons of Toil
-Moore, James Rolph Jr. Pig ‘N Whistle 
+Moore, James Rolph Jr. - Pig 'N Whistle
 Moore, James Thaddeus III - Pink Onion
 Moore, Joseph G. - Pig 'N Whistle
 Moore, Joseph Gartland - Pink Onion 
@@ -2372,7 +2372,7 @@ Shapiro, A. Horton - Thalia
 Shapiro, James M. - Cliff Dwellers
 Sharon, William F. - Sons of Rest
 Sharp, Neil - Tunerville
-Shattuck, Paul C. Pig ‘N Whistle 
+Shattuck, Paul C. - Pig 'N Whistle
 Shattuck, William M. - Sleepy Hollow 
 Shattuck, William N. - Sleepy Hollow
 Shaw, Arthur V. - Sunshiners
