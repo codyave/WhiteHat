@@ -1428,7 +1428,7 @@ Knudsen, Derek T. Esq. - Totem In
 Koch, Charles G. - Midway 
 Koch, David H. - n/a
 Koch, James C. - Friends of the Forest
-Konetzni, Albert H. Jr. (Ret.) - Better ‘Ole 
+Konetzni, Albert H. Jr. (Ret.) - Better ‘Ole
 Konkel, Harry W. - Oz 
 Koranda, Kenneth - Highlanders 
 Kostic, Thomas F. - Thalia 
@@ -1674,7 +1674,7 @@ McCune, Allan A. - Interlude
 McCune, J. Denver - Hideaway 
 McCune, James D. - Ladera
 McDonald, Ian Bruce - Band 
-McDonald, Paul Joseph Better ‘Ole 
+McDonald, Paul Joseph - Better ‘Ole 
 McDonald, Timothy J. - Cool-Nazdar
 McDowell, Malcolm - Three Threes
 McDowell, W. Patrick - Bella Union 
@@ -2082,8 +2082,8 @@ Pliska, Gregory L. - Five Easy Pieces
 Plumleigh, Michael - Jinks Band
 Podell, Nick - Uplifters
 Podesta, Robert Anthony - Five Easy Pieces 
-Poe, David A. Better ‘Ole/Band 
-Poe, Robert C. Better ‘Ole
+Poe, David A. - Better ‘Ole/Band 
+Poe, Robert C. - Better ‘Ole
 Poett, Henry Williams III - Derelicts 
 Pogue, Richard W. - Pelican 
 Pohli, Richard R. - Tie Binders
@@ -2312,7 +2312,7 @@ Saxton, Richard L. D. - Druids
 Scafidi, Joseph A. - Shoestring
 Scales, Jeffrey M. - Sunshiners 
 Scarborough, Phillip - Aviary 
-Schaaf, Robert F. Better 'Ole
+Schaaf, Robert F. - Better 'Ole
 Schadlich, Scott F. - Green Mask
 Schadlich, Stephen H. - Puma 
 Schafer, H. James - Druids 
@@ -2870,7 +2870,7 @@ Woods, Frank Montgomery Land's End
 Woods, James C. - Aviary 
 Woods, James H. - Aviary
 Woods, Patrick M. - Aviary 
-Woods, Richard M. Better 'Ole 
+Woods, Richard M. - Better 'Ole 
 Woolsey, David A. - Whoo Cares 
 Woolsey, R. James - Shoestring 
 Worthington, William A. - Sheldrake Lodge
