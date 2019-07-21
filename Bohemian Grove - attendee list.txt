@@ -1181,7 +1181,7 @@ Hearst, William R. III - Owl’s Nest
 Hebert, Victor A. - Midway
 Hecht, Kenneth G. Jr. - Wild Oats
 Hedrick, William Scott - Valley of the Moon
-Heidt, John M. Monastery
+Heidt, John M. - Monastery
 Heimbucher, Robert A. - Sheldrake Lodge
 Heinmiller, Dale R. - Band
 Heintz, Frank T. - Tunerville
@@ -1242,7 +1242,7 @@ Hooper, Ralph Wilson - Meyerling
 Hoopes, L. Scott - Cliff Dwellers
 Hoover, Herbert III - Cave Man
 Horn, Joseph James III - Pow Wow
-Horner, Douglas C. Monastery
+Horner, Douglas C. - Monastery
 Hotaling, Richard Anson - Spot
 Hotchkis, John F. - Lost Angels
 Hotchkis, John F. Jr. - Lost Angels
@@ -1628,7 +1628,7 @@ Martin, George F. Jr. - Hideaway
 Martin, Jay R. - Land’s End
 Martin, John F. - Sheldrake Lodge
 Martin, Richard Wilson - Aviary
-Martz, C. Thomas Monastery
+Martz, C. Thomas - Monastery
 Maryatt, David E. - Owlers
 Maslin, Philip Star II - Aviary 
 Mateo, Segundo - Piedmont 
@@ -1738,7 +1738,7 @@ Meese, Edwin III - Cave Man
 Megeath, Samuel A. III - Cuckoo's Nest
 Megert, Van - Utukulu 
 Mehran, Alexander R. - Stowaway 
-Meister, E. H. “Ned” Monastery
+Meister, E. H. “Ned” - Monastery
 Mel, Howard Charles - Silverado Squatters 
 Mellor, Robert E. - Whisky Flat 
 Melvoin, Jeffrey D. - Aviary 
@@ -1987,14 +1987,14 @@ Osborne, Brent W. Totem In
 Osborne, David H. III - Land’s End 
 Osterling, Ralph S. - Bella Union 
 Osthimer, Charles E. III - Zaca 
-Otellini, Paul Stevens Monastery
+Otellini, Paul Stevens - Monastery
 Otter, Richard C. - Medicine Lodge 
 Otto, J. Gregory - Valhalla
 Otto, Philip F. - Band
 Owens, William Arthur USN (Ret) - Silverado Squatters 
 Owsley, John Q. Jr. - Land’s End
 
-Pace, Peter USMC (Ret.) Monastery
+Pace, Peter USMC (Ret.) - Monastery
 Padian, Kevin - Hideaway 
 Pagani, Sean-Paul A. - Aviary
 Palm, Charles G. - Cave Man 
@@ -2034,7 +2034,7 @@ Pedley, Eric A. - Druids
 Pedley, Rick - Care Less 
 Pelkan, John R. - Ye Merrie Yowls 
 Pelosi, Paul F. - Stowaway 
-Pence, J. Blair II Monastery
+Pence, J. Blair II - Monastery
 Pendergast, Gene E. Jr. - T-N-T 
 Percy, Roger D. - Toyland
 Perez, Vincent - Monkey Block 
@@ -2073,7 +2073,7 @@ Pigott, Charles M. - Uplifters
 Pigott, Mark - Mandalay 
 Pillsbury, Thomas E. - Rendezvous 
 Pinger, Edward B. Jr. - Friends of the Forest
-Pinkus, Gary Stuart Monastery
+Pinkus, Gary Stuart - Monastery
 Pitts, Thomas H. - Puma 
 Pjesky, Patrick James - Aviary
 Placzek, F. Anthony - Timbuktu 
