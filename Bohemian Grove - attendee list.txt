@@ -1,10 +1,179 @@
-Abbey, Douglas D. - Sundodgers
-Abbott, Frank W. Jr. - Moonshiners
-Abernathy, G. D. Jr. - Whoo Cares
-Abernethy, David Beaven - Sempevirens
-Abnee, A. Victor - Five Easy Pieces
-Acquistapace, James S. - Dragon
-Adams, Clifford S. - Valley of the Moon
+* * * Dragon * * *
+
+Acquistapace, James S.
+Bartlett, William F.
+Caldwell, James E. Jr.
+Coulter, Jamie B.
+Desmarais, Charles
+Gazzaniga, Michael S. 
+Hammond, Chaunce Wilbert III 
+Hinckley, Robert C.
+Hobin, Patrick S.
+Kibbey, Turner Mead
+Kirkham, James F.
+Klitgaard, Thomas J. 
+Linkletter, Arthur G.
+Madden, James S.
+Mandle, Roger
+Matthews, Christopher J. 
+McAfee, Ward M. 
+O’Connell, Kevin A.
+O'Connell, Tomlinson Daniel
+Pettus, David Wingfield 
+Quigg, Thomas M. 
+Reis, Thomas S. 
+Riley, Patrick G.
+Riley, William Thomas 
+Rogers, Roy G.
+Solari, Jerome P.
+Solari, William S. III
+Steil, Peter 
+Stromberg, Arthur H. 
+Sutton, James Hepburn 
+Swinerton, James B. 
+Valentine, Peter B.
+
+* * * Five Easy Pieces * * *
+
+Abnee, A. Victor
+Baron, Barry C.
+Clark, Richard J. III
+Costle, Douglas M.
+Craig, Robert W.
+De Luchi, Stephen F.
+DeMaria, Phillip A.
+Downey, Paul A.
+Durney, Michael K.
+Elling, Kurt
+Gasser, Nolan Ira 
+Hansen, John C.
+Henninger, Daniel P.
+Jones, Robert Trent Jr.
+Lovett, Marcus 
+Mandigo, Clark R. II 
+McBaine, J. Patterson 
+Pliska, Gregory L. 
+Podesta, Robert Anthony 
+Rantz, Michael G.
+Read, Steven M. 
+Richart, Ralph M. 
+Salestrom, James Kevin (Parsonage)
+Schiff, Albert J. “Bud” 
+Stephan, Christopher Q.
+
+* * * Moonshiners * * *
+
+Abbott, Frank W. Jr.
+Bentley, William
+Boswell, James W.
+Churich, Kenneth J.
+Costello, Joseph V. III
+De Voto, Terrence Alan
+DeVoto, Terence Alan
+Ditz, William Wallace
+Drewes, John Frederick
+Eckard, George R.
+Federal, William Aubrey Jr. 
+Field, James L. 
+Field, Robert W. Jr. 
+French, John Stephenson
+Gregory, Quintard 
+Lyons, Irving F. III 
+Miller, Richard Russell
+Moran, Robert Matthew Jr.
+Qvale, Bruce H. 
+Jack, Robert B.
+
+* * * Sundodgers * * *
+
+Abbey, Douglas D.
+Ashley, Wm. Whitley
+Ballachey, John Maturin
+Cassiday, Paul Richard
+Connelly, James D.
+Cropper, David P.
+Damon, Allen F.
+Draper, Jerome C. Jr.
+Dressel, Chris J.
+Filippenko, Alexei V.
+Fotre, Terry Vincent 
+Frye, Lawrence J. 
+Gilleran, James E.
+Graves, Guy M.
+Halloran, Michael J. 
+Hardy, Richard E. 
+Haynes, David A.
+Hill, Frank de Milt
+Hinman, Frank Jr.
+Knudsen, C. Calvert
+Laetsch, Watson M. 
+Macurdy, John
+Mongan, James J. M.D.
+Montgomery, H. DuBose 
+Riley, Benjamin K. 
+Sertich, John L. 
+Shanahan, Francis P.
+Shenk, Geoffrey W.
+Smith, Bruce C. 
+Stanford, Alan G. 
+Tevis, Michael L. 
+Thomas, Gregory M.
+Tilden, Calvin B. 
+Watson, Douglas 
+Weber, Barrett H.
+
+* * * Sempvirens * * *
+
+Abernethy, David Beaven
+Anderson, Brenton W.
+Anderson, Martin
+Bohn, John A. Jr.
+Borda, Richard J.
+Brady, David W.
+Brown, Douglas Minge
+
+* * * Valley of the Moon * * *
+
+Adams, Clifford S.
+Barnard, Bailey Stone
+Bentley, Clay
+Butcher, Preston
+Cay, John Eugene III
+Colman, Robert S.
+Cureton, Stewart Jr.
+Elliott, L. Franklyn
+Feld, Alan D. 
+Gilligan, Patrick 
+Harrison, Walter F. III
+Hedrick, William Scott
+Hewett, Arthur E.
+Hussman, Walter E. Jr.
+Larsen, Niels T. Jr. 
+O'Leary, Wiliam F.
+Parker, Joseph Lloyd Jr. 
+Precourt, Jay Anthony Jr.
+Scollin, Bruce 
+Spieker, Warren “Ned” E. Jr.
+
+* * * Whoo Cares * * *
+
+Abernathy, G. D. Jr.
+Day, Robert A. (Stowaway)
+Dingman, Michael D.
+Enberg, Richard A.
+Herbeck, Robert William
+Jones, Milbrey M. Jr.
+Maltbie, Roger L. 
+Mule, Deer Gary C.
+Paul, Hartley 
+Paul, James Cameron
+Puckett, Allen
+Qvale, Jeffrey 
+Sulpizio, Robert E. (Jinks Band)
+von Galen, Ferdinand 
+von Stein, Wm. Scott 
+Woolsey, David A. 
+
 Adams, David Bruce - Tunerville
 Adams, Edward E. - Aviary
 Adams, Griffith H. - Totem In
@@ -34,7 +203,6 @@ Alvarez, Don - Shoestring
 Alvarez, Walter - Pelican
 Ames, Lawrence C. Jr. - Sons of Rest
 Anderson, Alan G. - Faraway
-Anderson, Brenton W. - Sempevirens
 Anderson, Bruce Garrett - Web
 Anderson, Charles H. - Bald Eagle
 Anderson, Christopher T. - Band
@@ -45,7 +213,6 @@ Anderson, F. Forrest - River Lair
 Anderson, Gunnar D. - Monkey Block
 Anderson, James G. - Aviary
 Anderson, Mark S. - Aviary
-Anderson, Martin - Sempevirens
 Anderson, Martin Carl - Cave Man
 Anderson, Ross S. - Silverado Squatters
 Anderson, Scott Burton - Utukulu
@@ -70,7 +237,7 @@ Ash, Glenn J. - Dog House
 Ashby, Peter R. - Idlewild
 Ashenfelter, Orley Clark - Cave Man
 Ashford, Alexander P. - Crow's Nest
-Ashley, Wm. Whitley - Sundodgers
+
 Ashton, Harris J. - Mandalay
 Ashton, William S. - Tunerville
 Aspevig, Clyde R. - Seven Trees
@@ -109,7 +276,6 @@ Baker, John B. - Camels
 Baker, William Leonard Jr. - Romany
 Baldauf, Hans Rainer - Tarry Town
 Baldauf, Karl F. - Tarry Town
-Ballachey, John Maturin - Sundodgers
 Ballard, Robert D. - Mandalay
 Baltimore, David - Silverado Squatters
 Bancroft, James R. - Owlers
@@ -125,16 +291,13 @@ Barker, Dwight L. - Land’s End
 Barker, Peter K. - Stowaway
 Barlett, Philip C. - Skiddoo
 Barlow, Edward L. - Land’s End
-Barnard, Bailey Stone - Valley of the Moon
 Barnard, David H. Jinks - Band
 Barnard, Timothy Henry - Web
 Barnard, William M. - Aviary
 Barnes, William B. - Tunerville
 Barnett, Thomas W. - Tunerville
 Barney, Michael S. - Woof
-Baron, Barry C. - Five Easy Pieces
 Barrett, John F. - Cave Man
-Bartlett, William F. - Dragon
 Barton, Greg - Interlude
 Barton, Philip E. - Aviary/Spot
 Barton, Thomas Lewis - Spot/Aviary
@@ -185,9 +348,8 @@ Bennington, James L. - Totem In
 Bennington, William J. - Totem In
 Benson, John E. - Toyland
 Benson, Mark Jinks - Band
-Bentley, Clay - Valley of the Moon
 Bentley, Donald C. - Thalia
-Bentley, William - Moonshiners
+
 Benway, Randall Mark - Aviary
 Berens, Thomas P. - Pig 'N Whistle
 Berg, Shelton - Owl’s Nest
@@ -243,7 +405,6 @@ Bogart, Johnson S. - Totem In
 Boggan, James E. Jr. - Sons of Toil
 Bohannon, David D. II - Tie Binders
 Bohannon, Scott E. - Tie Binders
-Bohn, John A. Jr. - Sempevirens
 Bolt, Robert Cameron - Faraway
 Bolton, George B. - Sky Hi
 Bonaparte, Robert Edward Lee - Sons of Rest
@@ -251,7 +412,6 @@ Bond, Charles - Pelican
 Bond, Richard P. - Sunshiners
 Bonney, J. Dennis - Cave Man
 Boone, Philip S. Jr. - Pink Onion
-Borda, Richard J. - Sempevirens
 Borg, Christopher - Tunerville
 Borgwardt, John - Star & Garter
 Borgwardt, Kurt - Star & Garter
@@ -265,7 +425,6 @@ Boskin, Michael J. - Hill Billies
 Bost, Frederic W. - Whisky Flat
 Bostan, Andrei S. - Tunerville
 Boswell, G. Michael - Dog House
-Boswell, James W. - Moonshiners
 Bosworth, Thomas Lawrence - Romany
 Bowes, William K. Jr. - Hill Billies
 Bowlsby, Robert Addison II - Hermits
@@ -278,7 +437,6 @@ Bradley, Steven G. - Highlanders
 Bradner, James Randolph - Meyerling
 Bradner, Randy - Meyerling
 Brady, Christopher D. - Mandalay
-Brady, David W. - Sempevirens
 Brady, Nicholas F. - Mandalay
 Brady, Nicholas F. Jr. - Mandalay
 Brady, Patrick H. USA (Ret) - Idlewild
@@ -320,7 +478,6 @@ Broome, John Spoor - Utukulu
 Brose, William George - Hideaway
 Brown, Aaron B. - Tunerville
 Brown, Cabot - River Lair
-Brown, Douglas Minge - Sempevirens
 Brown, F. Frederick - Land’s End
 Brown, John M. - Aviary
 Brown, Keith Lapham - Woof
@@ -371,7 +528,6 @@ Bush, Michael J. - Ye Merrie Yowls
 Buss, David H. (Ret.) - Tie Binders
 Buster, Steven K. - Roaring
 Busterud, James P. - Faraway
-Butcher, Preston - Valley of the Moon
 Butler, Vincent K. III - Roaring
 Byers, Brook H. - Hill Billies
 Byrnes, Bryant H. - Snug Harbor
@@ -384,7 +540,6 @@ Cahill, Richard F. - Hualapai
 Cahill, William R. - Pink Onion
 Cakebread, John E. - Tarry Town
 Caldwell, I. Hardwick III - Lost Angels
-Caldwell, James E. Jr. - Dragon
 Calhoun, Alexander D. - Last Chance
 Calkins, John Thiers - Romany
 Callaghan, Kevin P. - Pelican
@@ -434,13 +589,11 @@ Casey, Lyman H. - Uplifters
 Cashin, Michael - Hualapai
 Cashin, Skip - Camels
 Casper, Donald Andrew - Fore Peak
-Cassiday, Paul Richard - Sundodgers
 Castellini, Robert H. - Santa Barbara
 Castle, Donald George - Camels
 Caufield, Frank J. - Poison Oak
 Caulkins, William - Snug Harbor
 Cave, B. Charles - Ladera
-Cay, John Eugene III - Valley of the Moon
 Cella, Peter Michael - Skiddoo
 Cerney, Keith - Aviary
 Cerruti, George - Zaca
@@ -452,8 +605,7 @@ Chambers, David Edson - Dog House
 Chang, Fred - Tunerville
 Chang, James - Sons of Toil
 Chang, Stephen - Tunerville
-Chapman, Duncan A. - Hill Billies
-Chapman, Philip D. - Whoo Cares
+Chapman, Duncan A. - Hill Billie
 Chapman, Robert M. Land's End
 Char, Devron H. - Ye Merrie Yowls
 Charles, Glen G. - Roaring
@@ -469,14 +621,12 @@ Chiodo, Gino C. - Totem In
 Chisholm, Jori Lance - Edgehill
 Choper, Jesse Herbert - Isle of Aves
 Christie, Dick - Woof
-Churich, Kenneth J. - Moonshiners
 Cinelli, Steven A. - Toyland
 Clack, David A. - Fore Peak
 Clahan, Eugene E. - Woof
 Clair, Pierson E. III - Owlers
 Clapp, John D. - Monkey Block
 Clark, Michael C. - Aviary
-Clark, Richard J. III - Five Easy Pieces
 Clark, Richard W. - Aviary
 Clarke, Frederick - Utukulu
 Classen, James S. - Rough ‘n Ready
@@ -506,7 +656,6 @@ Collins, Craig Bennett - Aviary
 Collins, George Robb - Green Mask
 Collins, James P. - Meyerling
 Collins, Michael James - Dog House
-Colman, Robert S. - Valley of the Moon
 Colmery, Harry W. Jr. - Piedmont
 Colyer, Wayne Allen - Jinks Band
 Comann, Tyler K. - Spot
@@ -518,7 +667,7 @@ Conger, Harry M. IV - Isle of Aves
 Conlan, Charles L. II - Thalia
 Conley, Patrick - Moro
 Conley, Scott - Medicine Lodge
-Connelly, James D. - Sundodgers
+
 Conners, Terry B. - Hillside
 Connick, Robert E. - Aorangi Swagatam
 Connolly, Will - Aviary
@@ -553,19 +702,15 @@ Cornish, Hugh De Golia - Hualapai
 Cortese, Antonio - Hillside
 Cosby, Jonathan W.B. - Toyland
 Costello, James Funsten - Outpost
-Costello, Joseph V. III - Moonshiners
 Costello, Joseph V. Jr. - Sky Hi
 Costello, Keith C. - Thalia
 Costigan, Carlson G. - Seven Trees
-Costle, Douglas M. - Five Easy Pieces
 Coulter, James G. - Owl's Nest
-Coulter, Jamie B. - Dragon
 Covington, Christopher - Cool-Nazdar
 Cowing, Eric C. - Camels
 Craft, Cecil I. - River Lair
 Craig, Mitchell S. - Band
 Craig, Peter C. - Meyerling
-Craig, Robert W. - Five Easy Pieces
 Crandall, L. Dale - T-N-T
 Crane, Philip A. Jr. - Green Mask
 Crary, Thomas Sherman - Monastery
@@ -579,7 +724,6 @@ Crocker, William H. - Zaca
 Cronan, Daniel P. - Sleepy Hollow
 Cronan, Michael Patrick - Poker Flat
 Cronkite, Walter L. Jr. - Hill Billies
-Cropper, David P. - Sundodgers
 Cross, James Allin - Tie Binders
 Crossley, John Parshley III - Nec Natama
 Crow, Harlan - Midway/Dog House
@@ -588,7 +732,6 @@ Crumley, Roger L. - Crossroads
 Cullum, James A. Jr. - Owl’s Nest
 Cummins, Donal Casey - Wayside Log
 Cunningham, David E. - Care Less
-Cureton, Stewart Jr. - Valley of the Moon
 Curlett, John N. Jr. - Totem In
 Curry, James T. Jr. - Mandalay
 Cushing, Francis C. Jr. - Wayside Log
@@ -608,7 +751,6 @@ Dalrymple, James M. - Band
 Daly, Leo A. III - Stowaway
 D'Ambrosio, Franc John - Monastery
 Damner, Bert - Whisky Flat
-Damon, Allen F. - Sundodgers
 Daniel, Eric R. - Aviary
 Danielsen, Paul - Monastery
 Danielson, Lee - Santa Barbara
@@ -633,16 +775,13 @@ Davis, William L. - Sahara
 Dawkins, M. Vance Jr. - Bella Union
 Dawson, William J. - Monastery
 Day, Douglas W. - Totem In
-Day, Robert A. - Whoo Cares/Stowaway
 Day, T. J. - Tie Binders
 Dayton, John N. - Timbuktu
 de Gross, Kurt McConnell - Meyerling
 de Laszlo, Damon - Utukulu
-De Luchi, Stephen F. - Five Easy Pieces
 de Matran, Nilus - Bald Eagle
 De Rosa, Donald V. - Tarry Town
 De Silva, Lytton - Tunerville
-De Voto, Terrence Alan - Moonshiners
 Deane, Andrew D. - Ye Merrie Yowls
 Deane, William - Dog House
 DeBenedetti, John F. - Meyerling
@@ -657,7 +796,6 @@ Dehlinger, Robert J. - Jinks Band
 Dehmel, Richard C. - Aviary
 Delagnes, R. Michael - Crossroads
 DeLanoy, Drake - Interlude
-DeMaria, Phillip A. - Five Easy Pieces
 Demmon, Roy Earl - Hualapai
 DeMuth, Christopher C. - Uplifters
 Denham, William F. "Billy Valentine" - Midway
@@ -668,13 +806,11 @@ Derr, K. T. - Mandalay
 DeSaulnier, Mark - Aviary
 Desautels, Marc Pierre - Faraway
 Desjardin, Dennis Edmund - Lost Angels
-Desmarais, Charles - Dragon
 Desnoes, Peter Blaise - Camels
 DeSorrento, James - Bella Union
 Devening, R. Randolph - Hermits
 Devine, Timothy A. - Lost Angels
 DeVoto, Randall B. - Skiddoo
-DeVoto, Terence Alan - Moonshiners
 Dewey, Richard R. Jr. - Monastery
 Dias, Thomas J. - Santa Barbara
 Dibble, Oliver IV - Poker Flat
@@ -690,12 +826,10 @@ Dickson, John D. - Woof
 Diethelm, Markus U. - Zaca
 Diffenderfer, G. Edward - Monkey Block
 Dillon, David - Fore Peak
-Dingman, Michael D. - Whoo Cares
 Dingwell, M. Scott - Madrone
 Dini, Robert Bruce - Poker Flat
 Dini, Robert Louis - Aviary
 Dinnean, Lawrence - Aviary
-Ditz, William Wallace - Moonshiners
 Dixon, Donald R. - Owl’s Nest
 Dobelle, Evan S. - Land of Happiness
 Dobies, Joshua - Aviary
@@ -721,18 +855,14 @@ Dowdey, Lynn - Band
 Down, Gerald C. - Interlude
 Downer, E. Michael - Halcyon
 Downer, Edward M. III - Meyerling
-Downey, Paul A. - Five Easy Pieces
 Doyle, Patrick F. - Medicine Lodge
 Doyle, Richard Proctor Jr. - Faraway
 Drake, Michael V. - Sons of Toil
 Drake, Peter M. - Medicine Lodge/Sequoyah
 Drakoulius, George - River Lair
-Draper, Jerome C. Jr. - Sundodgers
 Draper, Timothy C. - Hualapai
 Draper, William H. III - Hill Billies
-Dressel, Chris J. - Sundodgers
 Drewes, Doug - Cool-Nazdar
-Drewes, John Frederick - Moonshiners
 Drewes, Robert C. - Cool-Nazdar
 Drysdale, George M. - Thalia
 Du Bois, Grant P. III - Sheldrake Lodge
@@ -745,7 +875,6 @@ Dunlap Larry - Pig 'N Whistle
 Dunlap, William R. - Lost Angels
 Dunne, Robert M. - Tarry Town
 Duque, Henry M. - Lost Angels
-Durney, Michael K. - Five Easy Pieces
 Duryea, Leslie N. II - Lost Angels
 Dutra, Randal M. - Wayside Log
 Dwight, Herbert M. Jr. - Sempervirens
@@ -759,8 +888,7 @@ Eatwell, John - Cave Man
 Eberhard, Andrew J. - Crossroads/Jinks Band
 Eberhardt, Douglass M. - Roaring
 Eberhardt, Douglass M. II - Roaring
-Eberwein, William W. - Aviary
-Eckard, George R. - Moonshiners
+Eberwein, William W. - Aviar
 Eden, Theodore A. - Sons of Toil
 Edwards, Cree A. - Hualapai
 Edwards, Jeffrey G. - Stowaway
@@ -776,9 +904,7 @@ Elder, John W. - Hualapai
 Elder, Nicolas Scott - Band
 Elicker, Paul Hamilton - Owlers
 Eliopoulos, Theodore - Sky Hi
-Elling, Kurt - Five Easy Pieces
 Elliott, George - Crossroads
-Elliott, L. Franklyn - Valley of the Moon
 Elliott, William G. III - Outpost
 Ellis, James Fancher - Idlewild
 Ellis, Jim - Ladera
@@ -788,7 +914,6 @@ Ely, Leonard W. - Sempervirens
 Emett, Robert L. - Star & Garter
 Empey, Gordon Hume - Puma
 Empey, Morgan H. - Puma
-Enberg, Richard A. - Whoo Cares
 Eng, Kevin K. - Tunerville
 Engel, Albert O. - Ladera
 Englert, Joseph S. Jr. Snug Harbor
@@ -825,11 +950,9 @@ Farwell, G. Nicholas - Interlude
 Faulhaber, Charles - Isle of Aves 
 Fay, Michael George - Pow Wow 
 Fay, Paul B. III - Stowaway 
-Federal, William Aubrey Jr. - Moonshiners 
 Fehler, Douglas H. - Band
 Felchlin, J. Christopher - Owlers 
 Felchlin, James A. - Wayside Log
-Feld, Alan D. - Valley of the Moon 
 Felder, Louis E. Jr. - Last Chance 
 Felton, Paul Jacques - Cliff Dwellers/Lost Angels 
 Fenton, Jeffrey J. - Cliff Dwellers
@@ -844,10 +967,8 @@ Fessler, Daniel W. - Ladera
 Fesus, George J. - Totem In
 Feulner, Edwin J. Jr. - Cave Man 
 Field, Gregg - Owl’s Nest 
-Field, James L. - Moonshiners 
-Field, Robert W. Jr. - Moonshiners 
 Fields, Robert A. - Band 
-Filippenko, Alexei V. - Sundodgers
+
 Filter, W. Jeffrey - Idlewild
 Fimrite, Ronald D. - Meyerling
 Finch, Barnaby E. - Care Less
@@ -890,8 +1011,7 @@ Foster, Mark C. - Crossroads
 Foster, Paul S. III - Sunshiners 
 Foster, T. Jack III - Aviary 
 Foster, T. Jack Jr. - Owl’s Nest
-Fotre, Terry Vincent - Sundodgers 
-Fournier, Dudley J. - Pink Onion 
+Fournier, Dudley J. - Pink Onion
 Fournier, Dudley J. Jr. - Rough ‘n Ready 
 Fox, Fred - Tunerville 
 Fraga, Andrew H. II - Jinks Band
@@ -910,7 +1030,6 @@ Freeman, Bradford M. - Lost Angels
 Freeman, Robert A. - Bella Union 
 Freemon, Phillip G. - Aviary
 Freemon, Richard D. - Last Chance
-French, John Stephenson - Moonshiners
 Freund, James C. - Midway
 Fridell, Squire - Utukulu 
 Friedkin, William - Lost Angels
@@ -925,7 +1044,7 @@ Frist, William H. M.D. - Hill Billies
 Fritz, Clayton B. - Pig 'N Whistle
 Fritz, Lynn C. - Land of Happiness/Monastery 
 Froehlich, John - Crossroads
-Frye, Lawrence J. - Sundodgers 
+
 Fuery, Charles P. - Aviary
 Fuller, Charles A. - Sons of Toil
 Fuller, Charles E. - Highlanders 
@@ -960,13 +1079,11 @@ Garlinghouse, Richard E. Jr. - Shoestring
 Garrett, E. Peter - Skiddoo
 Garrett, Michael L. - Sons of Toil
 Garrett, Todd - n/a
-Gasser, Nolan Ira - Five Easy Pieces 
 Gates, Milo S. Derelicts
 Gavello, Gary A. - Camels
 Gavin, John A. G. - Lost Angels
 Gaylord, Peter - n/a
 Gazulis, Theodore - n/a
-Gazzaniga, Michael S. - Dragon 
 Gee, Sonny B. - Aviary
 Gellert, Fred Jr. - Silverado Squatters 
 Gelles, George - Tunerville 
@@ -987,10 +1104,9 @@ Giddings, Daniel Arthur Jr. - Mathieu
 Gidwitz, Ronald J. - Midway
 Gilbert, Robert J. M.D. - Isle of Aves 
 Gille, Thomas Wm. - Fore Peak
-Gilleran, James E. - Sundodgers
+
 Gilless, J. Keith - Isle of Aves
 Gilley, R. Stevens - Pow Wow
-Gilligan, Patrick - Valley of the Moon 
 Gilmer, Jerome - Romany
 Ginn, Samuel L. - Mandalay 
 Ginsburg, Douglas H. - Cave Man
@@ -1037,7 +1153,6 @@ Grafton, Scott Thomas - Sons of Toil
 Graham, Bradley J. - Care Less
 Graham, Lawrence - Tie Binders 
 Grant, Jack P. - Skiddoo
-Graves, Guy M. - Sundodgers
 Graves, Peter - Jinks Band
 Gray, Harry - Owl’s Nest
 Gray, Howard K. - Highlanders
@@ -1058,7 +1173,6 @@ Greenlee, Gordon W. - Idlewild
 Greenwood, John - Tunerville
 Greenwood, Robert Hilliard - Jungle 
 Gregory, David - Puma 
-Gregory, Quintard - Moonshiners 
 Grether, John M. - Friends of the Forest
 Grey, Richard S. - Derelicts
 Griesedieck, Joseph E. Jr. - Totem In 
@@ -1105,7 +1219,6 @@ Hall, Roderick C. M. - Haven
 Hall, Ted W. - Medicine Lodge/Jinks Band
 Hall, William A. - Wild Oats 
 Haller, Thomas F. Jr. - Rendezvous
-Halloran, Michael J. - Sundodgers 
 Halse, Ehren K. - Aviary
 Halverson, Philip - Monastery
 Hambrecht, Wm. R. - Midway
@@ -1114,7 +1227,6 @@ Hamlin, Oliver D. III - Cool-Nazdar
 Hammer, Joseph W. - Woof 
 Hammergren, John H. - Owl's Nest
 Hammersmith, William C. III - Red Fire 
-Hammond, Chaunce Wilbert III - Dragon 
 Hammonds, William E. - Woof 
 Hampson, Dirk - Sons of Rest 
 Hampton, Gregory J. - Poison Oak 
@@ -1125,7 +1237,6 @@ Hanes, R. Philip Jr. - Lost Angels
 Hanna, John Paul - Sempervirens 
 Hansel, Henry - Monastery 
 Hansel, Stephen E. - Land’s End 
-Hansen, John C. - Five Easy Pieces
 Hansen, Robert C. - Medicine Lodge 
 Hanson, John E. - Cool-Nazdar
 Hanson, Paul Jr. - Aviary 
@@ -1133,7 +1244,7 @@ Hanson, Victor Davis - Pelican
 Hardie, John L. - Lost Angels
 Hardwick, Richard J. - Dog House 
 Hardwick, Robert D. - Haven 
-Hardy, Richard E. - Sundodgers 
+
 Hargrave, Alexander W. - Aviary 
 Harlan, H. William - Pelican
 Harley, Alan D. - Care Less 
@@ -1147,7 +1258,6 @@ Harris, Jonathan M. IV - Cliff Dwellers
 Harris, Lawrence W. III - Zaca 
 Harris, Robert C. Jr. - Cliff Dwellers 
 Harrison, Michael A. - Sempervirens 
-Harrison, Walter F. III - Valley of the Moon
 Hart, Bruce W. - Pig ‘N Whistle 
 Hart, Douglas E. - Pig ‘N Whistle
 Hart, George D. Jr. - Pig ‘N Whistle 
@@ -1169,7 +1279,7 @@ Hauer, John R. - Mathieu
 Hauser, Kurt - Roaring 
 Hawley, Philip M. - Mandalay 
 Hawley, Stephen H. - Tie Binders 
-Haynes, David A. - Sundodgers 
+ 
 Haynes, Gilman B. - Jungle
 Hazard, Geoffrey C. - Druids
 Hazard, James Lockwood - Puma
@@ -1180,7 +1290,6 @@ Hearney, Richard D. USMC (Ret) - Outpost
 Hearst, William R. III - Owl’s Nest
 Hebert, Victor A. - Midway
 Hecht, Kenneth G. Jr. - Wild Oats
-Hedrick, William Scott - Valley of the Moon
 Heidt, John M. - Monastery
 Heimbucher, Robert A. - Sheldrake Lodge
 Heinmiller, Dale R. - Band
@@ -1190,14 +1299,11 @@ Henderson, Brian E. M.D. - Fore Peak
 Henderson, James A. - Seven Trees
 Henderson, Wellington S. Jr. - Uplifters
 Hendrix, Clifford R. Jr. - Idlewild
-Henninger, Daniel P. - Five Easy Pieces
 Henriksen, Thomas H. - Cave Man
 Henry, Charles R. - Band
-Herbeck, Robert William - Whoo Cares
 Herrick, Jerome Neal - Puma
 Herrick, Stephen Brooks - Piedmont
 Herrington, John S. - Parsonage
-Hewett, Arthur E. - Valley of the Moon
 Hewlett, Walter B. - Tunerville
 Hewlett, William A. - Highlanders
 Heydorn, William H. - Hideaway
@@ -1208,17 +1314,13 @@ Hildreth, Robert - Sempervirens
 Hilger, Leslie Guy M.D. - Sequoyah
 Hilken, Keith D. - Green Mask
 Hill, Brian A. - Hideaway
-Hill, Frank de Milt - Sundodgers
 Hill, George C. III - Land of Happiness
 Hill, Kent Walthall - Hermits
 Hill, Scott Clayton - Hermits
 Hill, William W. - Medicine Lodge
 Hillis, J. Stanley - Whisky Flat
 Hills, Austin E. - Last Chance
-Hinckley, Robert C. - Dragon
-Hinman, Frank Jr. - Sundodgers
 Hoar, Joseph P. USMC (Ret) - Wayside Log
-Hobin, Patrick S. - Dragon
 Hockenberry, Tim - Wild Oats
 Hoffman, Robert Butler - Midway
 Hofmann, John Richard Jr. - Thalia
@@ -1276,7 +1378,6 @@ Huneke, Murray Carter - Owl’s Nest
 Hunt, Frederick Granger - Madrone
 Hunt, Robert L. - Monkey Block
 Hunter, Robert E. III Derelicts
-Hussman, Walter E. Jr. - Valley of the Moon
 Hutchison, Claude Burton Jr. - Thalia
 Hyatt, Meredith R. Jr. - Aviary
 Hyde, Douglas K. - Sons of Toil
@@ -1295,8 +1396,6 @@ Inman, Bobby R. - Hillside
 Inman, Grant Muir - Roaring
 Isaeff, Eugene John - Jinks Band
 Isola, Frank J. Jr. - Interlude
-
-Jack, Robert B. - Moonshiners
 Jackson, D. Dana - Midway
 Jackson, Daniel D. - Midway
 Jackson, David P. - Sunshiners
@@ -1356,10 +1455,8 @@ Jones, David V. - Aviary
 Jones, Ellis - River Lair
 Jones, J. Keith - Pig 'N Whistle
 Jones, Michael Gordon - Sleepy Hollow
-Jones, Milbrey M. Jr. - Whoo Cares
 Jones, Proctor Patterson Jr. - Wayside Log
 Jones, Richard W. - Sleepy Hollow
-Jones, Robert Trent Jr. - Five Easy Pieces
 Jones, Thomas V. - Lost Angels
 Jones, William Stewart - Mathieu
 Jordan, Charles Less - Aviary
@@ -1393,7 +1490,6 @@ Kennedy, David - Sempervirens
 Kerr, John C. - Land of Happiness
 Ketelsen, James L. - Uplifters
 Khan, Zain - Tunerville
-Kibbey, Turner Mead - Dragon
 Kidney, Brian Desmond - Sons of Rest
 Kiernan, Thomas F. III - Outpost
 Kimball, Stephen C. - Care Less
@@ -1402,7 +1498,6 @@ King, Kevin N. - Three Threes
 Kingery, Robert F. - Moro
 Kingman, Woodward - Jungle
 Kingsley, Stephen Eliott - Pink Onion
-Kirkham, James F. - Dragon
 Kirkwood, Robert C. - Star & Garter
 Kirwan, R. (Kyle) DeWitt - Whisky Flat
 Kissinger, Henry A. - Mandalay 
@@ -1415,13 +1510,12 @@ Klein, Michael D. - n/a
 Klein, Thomas B. - n/a
 Kleisner, Ted J. - n/a
 Klinedinst, John D. - n/a
-Klitgaard, Thomas J. - Dragon 
 Kluge, John W. - Wohwohno
 Klyce, Henry - Tunerville 
 Knapp, Edward A. - Sunshiners
 Knapp, Gordon - n/a
 Knight, Andrew - Mandalay 
-Knudsen, C. Calvert - Sundodgers
+
 Knudsen, Colin R. - n/a
 Knudsen, David C. - n/a
 Knudsen, Derek T. Esq. - Totem In 
@@ -1458,7 +1552,6 @@ Kuhn, Stephen - n/a
 La, Plante James G. Jr. - Crow’s Nest
 Labarathe, Darwin R. - Owlers
 Lacey, Thomas C. - Parsonage 
-Laetsch, Watson M. - Sundodgers 
 LaHaye, Frank W.T. - El Toro II 
 LaHorgue, Michael - Monastery 
 Lake, Peyton Myers - Sahara
@@ -1478,7 +1571,6 @@ Lansburgh, Lawrence M. - Land of Happiness
 Larkin, John A. III - Poison Oak
 Larsen, Glenn - Hillside
 Larsen, John W. - Mathieu
-Larsen, Niels T. Jr. - Valley of the Moon 
 Larson, Charles Robert USN - Parsonage
 Larson, John W. - Midway 
 Larson, Lynn Iver - Idlewild 
@@ -1537,7 +1629,6 @@ Lindsley, Alan Lawrence - Mathieu
 Lindstrom, John W. - Aviary
 Lininger, Schuyler W. - Faraway 
 Lininger, Schuyler W. Jr. - Fore Peak
-Linkletter, Arthur G. - Dragon
 Littlefield, Edmund W. Jr. - Rattlers/Edgehill 
 Littlefield, Jacques M. - Sempervirens
 Lloyd, Brian - Tunerville 
@@ -1548,7 +1639,6 @@ Lord, Christopher - Monastery
 Loucks, Vernon R. Jr. - Mandalay
 Loughran, A. Wiley - Rendezvous 
 Loughran, Anthony Hookey - Tie Binders
-Lovett, Marcus - Five Easy Pieces 
 Lovewell, John Brownlee - Puma 
 Lowe, Albert S. III - Hillside
 Lowe, James Rowland Jr. - River Lair 
@@ -1565,7 +1655,6 @@ Lundquist, Weyman J. - River Lair
 Lurie, Robert A. - Shoestring 
 Luther, Homer L. Jr. - Woof 
 Lynn, Douglas G. Snug Harbor 
-Lyons, Irving F. III - Moonshiners 
 
 MacAllister, John - Aviary 
 MacBride, Thomas J. Jr. - Bella Union 
@@ -1584,8 +1673,6 @@ Mackinlay, Ian - Wayside Log
 MacLean, Angus L. Jr. - Hill Billies 
 MacNaughton, Malcolm Jr. - Camels 
 MacNichol, Roland S. - Derelicts
-Macurdy, John - Sundodgers 
-Madden, James S. - Dragon
 Madden, Richard B. - Midway
 Madding, Bruce W. - Thalia 
 Madigan, Richard A. - Midway 
@@ -1598,12 +1685,9 @@ Maloney, Graham - Timbuktu
 Maloney, Michael J. - Owlers
 Malott, James S. - Mathieu 
 Malott, Robert H. - Silverado Squatters 
-Maltbie, Roger L. - Whoo Cares 
 Mancini, Brooks T. - Bella Union 
 Mancini, Jay C. - Wayside Log 
 Mancini, Philip Woodson - Skiddoo 
-Mandigo, Clark R. II - Five Easy Pieces 
-Mandle, Roger - Dragon
 Manning, Edward M. III - Web 
 Manseau, Robert B. - Aviary 
 Marcelli, Victor Ottavio - Monkey Block 
@@ -1634,15 +1718,12 @@ Maslin, Philip Star II - Aviary
 Mateo, Segundo - Piedmont 
 Matheson, James - Tunerville
 Mathews, Scott - Moro
-Matthews, Christopher J. - Dragon 
 Matthews, William C. Jr. - Silverado Squatters 
 Maus, Donald M. - Web
 Mayne, Stephen S. - Isles of Aves 
 Maze, George S. - Snug Harbor 
-McAfee, Ward M. - Dragon 
 McAuliffe, Richard Charles Jr. - Monastery 
 McAuliffe, Stephen B. - Cool-Nazdar 
-McBaine, J. Patterson - Five Easy Pieces 
 McCabe, Charles K. - Puma 
 McCabe, Eugene A. - Iron Ring
 McCall, Ernest H. - Tarry Town
@@ -1776,7 +1857,6 @@ Miller, J. Sanford - Highlanders
 Miller, John F. - Hualapai
 Miller, O’Malley M. - Lost Angels
 Miller, Peter B. - Mathieu 
-Miller, Richard Russell - Moonshiners
 Miller, Richard S. - Green Mask
 Miller, Robert Gordon - Medicine Lodge 
 Miller, Ronald Dean - Star & Garter 
@@ -1801,11 +1881,9 @@ Mondavi, Robert Michael - Midway
 Mondavi, Robert Michael Jr. - Santa Barbara
 Monfredini, James Joseph - Skiddoo 
 Monfredini, Martin Emil - Fore Peak
-Mongan, James J. M.D. - Sundodgers
 Monson, Dwight Lindsay - Red Fire
 Montgomery, George F. II - Wayside Log
 Montgomery, George G. Jr. - Santa Barbara 
-Montgomery, H. DuBose - Sundodgers 
 Montgomery, Matthew - Tunerville 
 Montgomery, Mike - Hermits
 Montgomery, Thomas - Dog House/Jinks Band
@@ -1826,7 +1904,6 @@ Moore, Stephen A. - Tunerville
 Moore, Thomas E. - Land’s End
 Moore, Thomas W. Jr. - Cuckoo's Nest
 Moores, William York - Tunerville 
-Moran, Robert Matthew Jr. - Moonshiners
 Morey, Charles L. - Whisky Flat 
 Morgan, Charles F. - Stowaway
 Morgens, Edwin H. - Mandalay 
@@ -1855,7 +1932,6 @@ Mount, Jeffrey F. - Isle of Aves
 Moxley, Michael - Aviary 
 Muhs, F. H. Ted - Druids 
 Muhs, Peter L. - Druids 
-Mule, Deer Gary C. - Whoo Cares
 Mulford, David A. Star & Garter
 Mulford, David Campbell - Mandalay 
 Mullane, John J. Jr. - Idlewild
@@ -1941,7 +2017,6 @@ Nowlin, Wade T. - Tarry Town
 
 O’Brian, Dillon - Midway 
 O’Brien, George D. Jr. - Wayside Log 
-O’Connell, Kevin A. - Dragon
 O’Connor, Jay H. - Wayside Log 
 O’Connor, Scott H. - Faraway
 O’Donnell, James J. - Sons of Toil
@@ -1959,7 +2034,6 @@ Oakley, John B. - Sons of Rest
 Oberndorf, William Edward - Hill Billies 
 Obidinski, Alexander - Jinks Band
 O'Brien, Conan - Three Threes
-O'Connell, Tomlinson Daniel - Dragon
 O'Connor, Brian Day - Meyerling
 O'Connor, Mark - Land of Happiness
 Ogburn, David Wade - Aviary
@@ -1971,7 +2045,6 @@ Ohleyer, Michael L. - River Lair
 Olcott, Cornelius IV - Piedmont
 Olds, William Jr. - Abbey 
 Olds, William Lee III - Abbey 
-O'Leary, Wiliam F. - Valley of the Moon
 Olenick, Paul - Jinks Band/Edgehill
 Oliphant, Patrick - Lost Angels
 Oliver, Gary Charles - Hillside
@@ -2007,7 +2080,6 @@ Parish, Jeffrey J. - Aviary
 Parker, George G. C. - Sempervirens
 Parker, Harry S. III - Thalia
 Parker, Jack S. - Pelican
-Parker, Joseph Lloyd Jr. - Valley of the Moon 
 Parker, Robert Ted - Tunerville/Whoo Cares 
 Parker, Thomas G. - Crossroads
 Parkhurst, Paul - Pig ‘N Whistle 
@@ -2022,9 +2094,7 @@ Pasternak, Eddie - Thalia/Jinks Band
 Pattee, Gordon Burleigh - Stowaway 
 Patterson, Robert E. - Sempervirens 
 Patton, Paul Lyon - Pig ‘N Whistle 
-Paul, Hartley - Whoo Cares 
 Paul, Howard R. - Land of Happiness
-Paul, James Cameron - Whoo Cares
 Paul, Jeffrey Frederic - Aviary
 Paulson, Christopher L. - Pink Onion 
 Peck, Rodney R. Esq. - Thalia 
@@ -2056,7 +2126,6 @@ Peterson, Stephen F. - Isle of Aves
 Peterson, Steven B. - Meyerling
 Petkevich, John Misha - Interlude 
 Pettit, Tom - Wild Oats
-Pettus, David Wingfield - Dragon 
 Pfau, George H. Jr. - Hill Billies
 Pfeifer, William L. - Nec Natama 
 Phelan, Michael Aloysius - Fore Peak/Midway 
@@ -2078,10 +2147,8 @@ Pitts, Thomas H. - Puma
 Pjesky, Patrick James - Aviary
 Placzek, F. Anthony - Timbuktu 
 Plant, Malcolm D. - Esplandian
-Pliska, Gregory L. - Five Easy Pieces 
 Plumleigh, Michael - Jinks Band
 Podell, Nick - Uplifters
-Podesta, Robert Anthony - Five Easy Pieces 
 Poe, David A. - Better ‘Ole/Band 
 Poe, Robert C. - Better ‘Ole
 Poett, Henry Williams III - Derelicts 
@@ -2110,7 +2177,6 @@ Powers, Gilbert C. - Outpost
 Powers, Michael S. - Interlude
 Prater, Doy - Tunerville 
 Pratt, James C. - Iron Ring
-Precourt, Jay Anthony Jr. - Valley of the Moon
 Pressler, Larry L. - Toyland 
 Prezant, William A. - Hill Billies 
 Price, P. Anthony - Thalia 
@@ -2121,7 +2187,6 @@ Priske, Joseph L. - Utukulu
 Protopappas, John - Wild Oats
 Prusiner, Stanley B. - Silverado Squatters 
 Prussia, Leland S. - Sempervirens
-Puckett, Allen - Whoo Cares
 Pugh, Jim - Poison Oak
 Pulling, Thomas L. - Edgehill 
 Pursell, William Whitney - Totem In 
@@ -2130,13 +2195,10 @@ Pynchon, William E. - Tunerville
 Pyszkowski, Jason - Tunerville
 
 Quarre, Wilson Charles - Abbey
-Quigg, Thomas M. - Dragon 
 Quinn, Blake - Lost Angels
 Quinn, John - Wild Oats 
 Quinn, John W. - Poker Flat
 Quist, Robert L. - Sleepy Hollow
-Qvale, Bruce H. - Moonshiners 
-Qvale, Jeffrey - Whoo Cares 
 
 Rabinowitz, Samuel Dwight Thomas - Aviary 
 Radke, Edward Frederick III - Wohwohno 
@@ -2148,7 +2210,6 @@ Raisian, John - Meyerling
 Rallo, A. Joseph - Band
 Ralston, Joseph W. USAF - Stowaway 
 Ramsey, Brian E. - Aviary 
-Rantz, Michael G. - Five Easy Pieces
 Rasmuson, Edward B. - Druids 
 Rawlings, Kenneth Blair - Roaring
 Rawson, David R. - Monastery 
@@ -2156,7 +2217,6 @@ Rawson, Ronald Craig - Highlanders
 Rayner, Arno A. - Idlewild
 Read, J. Leighton M.D. - Zaca
 Read, J. Peter - Land of Happiness
-Read, Steven M. - Five Easy Pieces 
 Redlich, C. R. Jr. - Zaca 
 Reed, Thomas C. - Land of Happiness
 Reeder, Milton K. - Tie Binders 
@@ -2168,7 +2228,6 @@ Reilly, Thomas J. - Meyerling
 Reilly, William K. - Sempervirens 
 Reinhart, Floyd - Tunerville 
 Reininga, John H. - Sempervirens
-Reis, Thomas S. - Dragon 
 Reiter, Charles P. - Mathieu 
 Reiter, James F. - Tunerville 
 Reitmeier, Robert Alan - Dog House
@@ -2199,12 +2258,8 @@ Richardson, H. Leonard - Aviary
 Richardson, Harold L. - Edgehill
 Richardson, W. H. - Aviary 
 Richardson, William C. - Monastery
-Richart, Ralph M. - Five Easy Pieces 
 Ricksen, Michael A. - Cool-Nazdar
 Riehl, Donald R. - Better ‘Ole 
-Riley, Benjamin K. - Sundodgers 
-Riley, Patrick G. - Dragon
-Riley, William Thomas - Dragon 
 Rine, Jasper - Sons of Toil
 Ring, Stewart Andrew - Oz 
 Ripsteen, Jack B. - Ladera 
@@ -2232,7 +2287,6 @@ Rodriguez Carlos A. - Hermits
 Rogers, David N. USN (Ret.) - Sunshiners
 Rogers, Jack - Aviary 
 Rogers, Joe W. Jr. - Lost Angels
-Rogers, Roy G. - Dragon
 Rogers, Stephen Craig - Medicine Lodge
 Rogers, Stephen John - Highlanders
 Rogers, T. Gary - Pelican
@@ -2289,7 +2343,6 @@ Saffir, Richard A. - Red Fire/Mathieu
 Saigal, Arun K. - Tunerville
 Sakakeeny, Gabriel - Tunerville/Band 
 Salazar, Phillip - Rattlers 
-Salestrom, James Kevin - Five Easy Pieces/Parsonage 
 Salewski, Anthony J. - Aviary 
 Salt, Haddon N. - Wohwohno 
 Saltzer, David L. - Aviary
@@ -2323,7 +2376,6 @@ Schemel, J. David - Pelican
 Schenkkan, Gerard - Aviary
 Schenkkan, Tex - Aviary
 Scheuer, Edward J. - Timbuktu
-Schiff, Albert J. “Bud” - Five Easy Pieces 
 Schilling, Alexander H. Jr. - Owlers 
 Schley, Kenneth C. - Camels 
 Schmidt, Alexis Clausen - Hillside
@@ -2346,7 +2398,6 @@ Schultz, Jackson L. - Hermits
 Schumacher, Robert J. - Hualapai 
 Schwab, Charles R. - Uplifters
 Schwartz, Edwin J. - Abbey 
-Scollin, Bruce - Valley of the Moon 
 Scott, Conley Jay II - Aviary 
 Scott, Edward B. II - Wild Oats 
 Scott, Norman M. Jr. - Hideaway
@@ -2359,14 +2410,14 @@ Seidel, Bruce - Medicine Lodge
 Selfridge, Michael - Sempervirens
 Semple, Lloyd A. - Santa Barbara 
 Sepos, Charles - Tunerville 
-Sertich, John L. - Sundodgers 
+
 Setrakian, Robert Ainsworth - Bald Eagle 
 Setrakian, Scott H. - Silverado Squatters
 Settlemier, Brock Reid - Land of Happiness/Totem In 
 Seward, George C. - Seven Trees
 Seymour, H. Boyd Jr. - Midway
 Sfarzo, Ronald A. - Bella Union/Jinks Band 
-Shanahan, Francis P. - Sundodgers
+
 Shanley, Kevin - Medicine Lodge
 Shapiro, A. Horton - Thalia 
 Shapiro, James M. - Cliff Dwellers
@@ -2380,7 +2431,7 @@ Shea, Peter Owen - Land’s End
 Shearer, Frederic George - Fore Peak 
 Shearing, George A. - Tunerville
 Sheldon, George O. - Land of Happiness
-Shenk, Geoffrey W. - Sundodgers
+
 Shenk, John C. 
 Shepard, Brian F. - Tie Binders
 Shepard, Christopher "Kip" - Skiddoo
@@ -2429,7 +2480,7 @@ Small, Matt - Totem In
 Smiell, Joseph E. - Tunerville 
 Smit, Steve - Timbuktu
 Smith, Brannan T. - Ladera 
-Smith, Bruce C. - Sundodgers 
+
 Smith, Budge H. - Ladera 
 Smith, Christopher J. - Interlude
 Smith, E. Del - Dog House 
@@ -2449,8 +2500,6 @@ Snavely, Stephen V. - Ye Merrie Yowls
 Snyder, Rory - Band
 Sochor, Jim L. - Sons of Toil
 Soher, Thomas J. - Oz
-Solari, Jerome P. - Dragon
-Solari, William S. III - Dragon
 Solinsky, Frank IV - Whisky Flat 
 Solso, G. Bradford - Bella Union
 Soracco, Peter A. - Mathieu 
@@ -2470,7 +2519,6 @@ Spencer, Robert D. - Wild Oats
 Sperring, Randall J. - Outpost
 Spiegel, Andrew F. - Three Threes
 Spieker, R. Tod - Sleepy Hollow 
-Spieker, Warren “Ned” E. Jr. - Valley of the Moon 
 Spight, Richard D. - Hideaway 
 Spilhaus, Athelstan F. Jr. - Sons of Toil
 Sprague, Norman F. III - Druids
@@ -2484,7 +2532,7 @@ Srivastava, Deepak - Hill Billies
 St. John, Eugene M. Jr. - Santa Barbara 
 Stafford, Robert M. - Spot 
 Stamps, F. Roe IV - Lost Angels
-Stanford, Alan G. - Sundodgers 
+
 Stansbury, Herbert E. Jr. - Highlanders
 Staples, John N. III - Camels
 Stapleton, Craig R. - Mandalay
@@ -2500,13 +2548,11 @@ Steele, James A. - Better ‘Ole
 Steele, Robert Gantt - Aviary/Monkey Block 
 Stegall, A. John III - Totem In
 Stegmiller, Kenneth Lawrence - Aviary 
-Steil, Peter - Dragon 
 Stein, Jeffrey D. - Cliff Dwellers 
 Steinhart, Peter - Shoestring
 Stenovec, P. Andrew - Puma
 Stepan, John A. - Valhalla
 Stepan, Russell - Tunerville
-Stephan, Christopher Q. - Five Easy Pieces 
 Stephens, Craig Arthur - Midway 
 Stephens, Donald R. - Uplifters 
 Stephens, Paul H. - Hill Billies 
@@ -2540,7 +2586,6 @@ Street, Reginald W. - Sky Hi
 Strickland, J. Robert Jr. - Jinks Band
 Stricklin, John - Idlewild
 Stringer, James Quinton Jr. - Nec Natama
-Stromberg, Arthur H. - Dragon 
 Stuart, Alexander D. - Stowaway
 Stuart, Charles R. - Wayside Log 
 Stuart, Robert D. Jr. - Stowaway
@@ -2550,7 +2595,6 @@ Sullivan, Brian J. - Aviary
 Sullivan, John L. II - Rendezvous
 Sullivan, John L. Jr. - Cool-Nazdar 
 Sullivan, Walter H. III - Stowaway 
-Sulpizio, Robert E. - Whoo Cares/Jinks Band 
 Sulpizio, John Parker - Jinks Band
 Sultan, Edward D. Jr. - Wild Oats 
 Summa, Terry L. - Tunerville 
@@ -2561,7 +2605,6 @@ Sutherland, Kenneth H. - n/a
 Sutherland, William D. - Highlanders 
 Sutter, Mark Louis - Sequoyah 
 Sutton, Garrett Zook - Rendezvous 
-Sutton, James Hepburn - Dragon 
 Swain, Robert Egan - Cave Man
 Swain, Robert J. - Cave Man 
 Swan, John - - Star & Garter 
@@ -2571,7 +2614,6 @@ Sweeney, Joseph Edward n/a
 Swig, Steven L. - Abbey 
 Swindells, William R. - n/a
 Swinden, James Irvine - Pelican 
-Swinerton, James B. - Dragon 
 Switzer, Brian - n/a
 Sylla, John R. - n/a
 Symington, James W. - Hill Billies
@@ -2600,7 +2642,7 @@ Taylor, Wyman Leroy - Sunshiners
 Teel, Mark - Jinks Band
 Teich, Steve Emery - Tunerville 
 Tellez, Stephen C. - Lost Angels 
-Tevis, Michael L. - Sundodgers 
+
 Texido, Michael - n/a
 Thacher, Carter P. - River Lair
 Thacher, David J. - River Lair 
@@ -2615,7 +2657,6 @@ Thirkell, Edward D. - Bella Union
 Thiry, Kent J. - n/a
 Thomas, Arthur Norman - Owl’s Nest 
 Thomas, E. J. Ned II - Faraway 
-Thomas, Gregory M. - Sundodgers
 Thomasson, Dan King - Cave Man
 Thompson, Barton - n/a
 Thompson, Charles G. - n/a
@@ -2636,7 +2677,6 @@ Tiernan, Liam - Cliff Dwellers
 Tierney, Thomas J. - Hill Billies 
 Tight, Dexter C. - Faraway
 Tight, Tim - Faraway 
-Tilden, Calvin B. - Sundodgers 
 Tilton, Peter Cook n/a
 Timberlake, Terrill - Whisky Flat 
 Timmons, Ryan Patrick - n/a
@@ -2692,7 +2732,6 @@ Usher, Kirk Jr. - Faraway
 
 Vail, Thomas Parker - n/a
 Valentine, Christian D. - n/a
-Valentine, Peter B. - Dragon
 Van Dine, Robert G. - Sky Hi 
 Van Genderen, Warren - Care Less 
 Van Horn, William G. - Idlewild 
@@ -2721,9 +2760,7 @@ Volk, David R. Cuckoo’s Nest
 Volk, Richard R. - Crow’s Nest 
 Volkmann, William - Sleepy Hollow 
 von der Lieth, Robt. H. - Meyerling
-von Galen, Ferdinand - Whoo Cares 
 von Platen, Henrik - Owlers
-von Stein, Wm. Scott - Whoo Cares 
 Vorhees, Peter A. - n/a
 Vosti, Laurence - Sky Hi
 Vukasin, George J. - Sahara 
@@ -2764,7 +2801,7 @@ Waste, James M. - Monastery
 Waste, William Harrison II - Esplandian 
 Watkins, Richard - n/a
 Watkins, Thomas - n/a
-Watson, Douglas - Sundodgers 
+
 Watson, Edward J. - Totem In
 Watson, Franklin H. III - Wayside Log
 Watterworth, Scott - Monastery 
@@ -2775,7 +2812,7 @@ Watts, Jack Loy II - Sempervirens
 Way, Lowell B. - n/a
 Wayne, Patrick John - Sky Hi 
 Wayne, Robert H. Jr. - Parsonage
-Weber, Barrett H. - Sundodgers
+
 Weber, Jeffrey N. - n/a
 Weber, Peter B. - n/a
 Webster, Robert L. - Tie Binders 
@@ -2871,7 +2908,6 @@ Woods, James C. - Aviary
 Woods, James H. - Aviary
 Woods, Patrick M. - Aviary 
 Woods, Richard M. - Better 'Ole 
-Woolsey, David A. - Whoo Cares 
 Woolsey, R. James - Shoestring 
 Worthington, William A. - Sheldrake Lodge
 Wouk, Herman - Wayside Log 
