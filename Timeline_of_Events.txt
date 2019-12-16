@@ -971,6 +971,7 @@
 | Aug 01, 2013 | The Hill: "Samantha Power confirmed as Obama’s UN ambassador"
 | Aug 01, 2013 | Guardian: "Exclusive: NSA pays £100m in secret funding for GCHQ" archive.is/PLmv5
 | Aug ??, 2013 | FBI downloads a Nov 2012 report from Buryakov's banking office bit.ly/2AiKJDj
+| Aug ??, 2013 | FBI interviews Carter Page about recent interaction with Viktor Podobnyy bit.ly/2M0i0ch
 | Aug 12, 2013 | PressTV's Marzei Hashemi dicusses re-location efforts to Turkey with Monica Witt bit.ly/2tuRO02
 | Aug 14, 2013 | France24: "US consultant admits role in France's 'Karachi affair'" archive.is/mHJLz
 | Aug 21, 2013 | Motion by Oberlander, Palmer and Lerner to unseal transcripts related to Felix Sater bit.ly/2GSgWap
@@ -1308,7 +1309,7 @@
 | Sep 15, 2015 | Spycast podcast released where Vince Houghton interviews Ali Watkins
 | Sep 16, 2015 | Second GOP primary debate, sponsored by CNN, held in Simi Valley, CA
 | Sep 16, 2015 | Start of UN General Assembly in NYC archive.is/Ojd2G
-| Sep ??, 2015 | bit.ly/2LCP9Ld Carter Page tells an unnamed Russian govt official at U.N.G.A that he's aware that he's "Male-1"
+| Sep ??, 2015 | Carter Page tells an unnamed Russian govt official at U.N.G.A that he's aware that he's "Male-1" bit.ly/2LCP9Ld
 | Sep 17, 2015 | Sixty day congressional review period ends, the JCPOA goes into effect
 | Sep 20, 2015 | Trump tells CBS "I'd enjoy" meeting with Putin. Repeats it at a debate. Rubio hits back on it
 | Sep 25, 2015 | Stefan Halper hired on contractor basis by DOD's ONA for a total of $244,960.00
@@ -1576,7 +1577,7 @@
 | Mar 02, 2016 | War on the Rocks: "Open letter on Donald Trump from GOP national security leaders" bit.ly/2PJQDCE
 | Mar 02, 2016 | Ben Carson campaign heads for the exits archive.is/pr9rm
 | Mar 02, 2016 | Strzok attends a MYE briefing archive.is/6OHb0
-| Mar 02, 2016 | Carter Page speaks with FBI/SDNY prosecutors; discussion involves Podobnyy bit.ly/2SfM8AR, bit.ly/2YzhpDA
+| Mar 02, 2016 | Carter Page, FBI/SDNY, Podobnyy, "joining the campaign" bit.ly/2SfM8AR, bit.ly/2YzhpDA, bit.ly/2POW0T6, bit.ly/38J9VCK
 | Mar 02, 2016 | Ambassador McFaul tweets that he wants to know if Gen. Flynn is taking money from the Russian govt bit.ly/2rEBWa5
 | Mar 03, 2016 | Eleventh GOP primary debate, sponsored by FOX, held in Detroit, MI
 | Mar 03, 2016 | Obama executive order extends Russia sanctions for another year
@@ -1678,6 +1679,7 @@
 | Apr ??, 2016 | Conspirators install X-Agent malware on the DNC network; same versions installed on the DCCC network bit.ly/2CLdidi
 | Apr ??, 2016 | Comey tells Yates sometime Apr 2016 that he's considering a special counsel [6/14/18 IG report p. 172]
 | Apr 01, 2016 | Carter Page in Hawaii attending a meeting with Tulsi Gabbard; misses 3/31/16 meeting bit.ly/2MtngHU, bit.ly/2JSsk7B
+| Apr 01, 2016 | NYFO opens an investigation into Carter Page bit.ly/36BYzhO
 | Apr 01, 2016 | Papadopoulos in Greece meeting with Greek think tank. Goes to Israel after that
 | Apr 01, 2016 | Council on Foreign Relations; CrowdStrike, Evelyn Farkas, Atlantic Council
 | Apr 01, 2016 | Romanian Marcel Lazar ("Guccifer") makes first appearance in Virginia court bit.ly/2I3H8iK
@@ -2236,13 +2238,14 @@
 | Aug 10, 2016 | Obama golfs with Glenn Hutchins, Ray Allen and Alonzo Mourning
 | Aug 10, 2016 | DOJ provides defensive briefing to Lynch and Yates about the Renteria email [see: Jun 14, 2018 IG Report p. 172]
 | Aug 10, 2016 | Steele memo #7 bit.ly/2B79mTY; memo #8 bit.ly/2B740Z5
+| Aug 10, 2016 | NYFO investigation into Carter Page transferred to Crossfire Hurricane bit.ly/2M1iuiF
 | Aug 11, 2016 | Clapper visits Estonia
 | Aug 11, 2016 | Kian emails Alptekin; he and Flynn discussed campaign design, resources; mentions 20% kickbacks bit.ly/2tqvYe0
 | Aug 11, 2016 | Kian and Alptekin's "Truth Campaign" changed to "Project Confidence"; Turkish govt funding concealed bit.ly/2SG9PHq
 | Aug 11, 2016 | Brennan briefs Reid, McConnell, Feinstein, Burr, Ryan, Pelosi, Nunes, and Schiff (Gang of Eight) wrt "the full details of our understanding of Russian attempts to interfere in the election". Briefings are spread out through September 6th. He "provided the same briefing to each (person)" 
 | Aug 11, 2016 | Obama golfs with Alonzo Mourning, Ray Allen, and Cy Walker. Then Obama visits the home of Robert Wolf's home. It's followed by a date-night at Detente restaurant in Edgartown. They leave at 10:20PM
-| Aug 11, 2016 | Donna Brazille (acting chair of DNC) attended a meeting at FBI HQ with staff of Perkins Coie (including Michael Sussman) and staff of DNC [see: Donna Brazille 2017 book, p. 66]
-| Aug 12, 2016 | @balkanewz: "Ivanka Trump, daughter of US presidential candidate, cruises into #Croatia's Dubrovnik with Kushner" archive.is/UMMOZ
+| Aug 11, 2016 | Donna Brazile at FBI HQ; Perkins Coie's Michael Sussman in attendance bit.ly/2PUkxGj
+| Aug 12, 2016 | Ivanka Trump spotted in Dubrovnik with Jared Kushner archive.is/UMMOZ
 | Aug 12, 2016 | Obama golfs with Robert Wolf, Chris Paul and his brother C.J. Paul
 | Aug 12, 2016 | Matthew Axelrod calls McCabe, says NY FBI agents disregarding instructions on MYE [see: Nov 2, 2016 WSJ]
 | Aug 12, 2016 | McCabe: "Are you telling me that I need to shut down a validly predicated investigation?" [see: Nov 2, 2016 WSJ]
@@ -2250,7 +2253,7 @@
 | Aug 13, 2016 | Obama family spends the day at the beach. Then Obama and his wife stop at the home of Glenn Hutchins, before joining their daughters for dinner at Red Cat Kitchen, arriving around 8:30PM. Restaurant staff posts about it on instagram bit.ly/2SZhFZa
 | Aug 13, 2016 | Page: "I'm going to forward to Kortan. God, makes me want to tell state to go f it."
 | Aug 13, 2016 | Strzok: "States BS just makes me want to include those additional 302s. But that's just vindictiveness talking."
-| Aug 13, 2016 | A group called "Shadow Brokers" say they've hacked The Equation Group (aka NSA) and run an auction for the stolen code using a tumblr page. No one seemed to notice until the 15th. bit.ly/2DVXIxc
+| Aug 13, 2016 | Shadow Brokers hack The Equation Group (aka NSA); auction stolen code on tumblr page bit.ly/2DVXIxc
 | Aug 14, 2016 | NYT: "Secret Ledger in Ukraine Lists Cash for Donald Trump's Campaign Chief" Maggie Haberman calls it "deeply reported" Byline is Kramer, McIntyre and Meyer archive.is/Z5NPE
 | Aug 14, 2016 | Stone engages in direct messages with DNC hacker Guccifer 2.0, according to direct messages reported by the Washington Times and The Smoking Gun. Stone tells the hacker he was "delighted" Twitter reinstated his account bit.ly/2skb8fQ
 | Aug 14, 2016 | Obama golfs with Cy Walker, Alonzo Mourning, and Mercer Cook. After that, the small group of reporters that accompanies the president in public is released for dinner, but told to reassemble at 8:15PM for covering Obama's dinner out that night. Obama’s motorcade doesn't roll down the dirt driveway until almost 11PM, headed to Lola's, a southern seafood restaurant
@@ -2262,6 +2265,7 @@
 | Aug 15, 2016 | Bruce Ohr contacts Peter Strzok [see: September 6, 2018 The Hill]
 | Aug 15, 2016 | Roger Stone tells World Net Daily that Assange told him that Clinton Foundation material is forthcoming
 | Aug 15, 2016 | Peter Strzok's "insurance policy" text is sent at 6:29am est bit.ly/2TRwDkg
+| Aug 15, 2016 | Case Agent 1 seeks FISA inquiry on Carter Page; cites finances, interactions with Podobnyy bit.ly/2POY79u
 | Aug 15, 2016 | WaPo: "Trump adviser Michael T. Flynn on his dinner with Putin and why Russia Today is just like CNN" archive.is/oPU1l
 | Aug 15, 2016 | DonaldJTrump.com: "Clinton's close ties to Putin deserve scrutiny" archive.is/Igesq
 | Aug 16, 2016 | Stone tells Alex Jones he has "backchannel communications" with Assange who has "political dynamite" on the Clintons
@@ -2272,13 +2276,14 @@
 | Aug 16, 2016 | Mediaite: "Trump Defended George Soros During 2011 Tea Party Rally: ‘Leave Him Alone’" 
 | Aug 16, 2016 | Rick Gates emails Mercury LLC; asks them to mislead media about ties to Modern Centre for Ukraine bit.ly/2VwJxFB
 | Aug 16, 2016 | Carter Page appears on Fox News with Charles Payne to discuss immigration issues yhoo.it/2CFNFLF
-| Aug 17, 2016 | Trump Campaign briefed by intelligence officials. Flynn was there and apparently asked pointed questions. Christie was there. Fewer than 10 people in the room. All the briefers were career intelligence officials, including both military officers and civilians. The briefing team was the same for both presidential candidates. None were political appointees, and none were among the team that briefs President Obama daily. The names of the briefers have not been made public
-| Aug 17, 2016 | Obama golfs with Cy Walker, Alonzo Mourning, and Martin Nesbitt. Obama and First Lady have dinner at Jimmy Seas Pan Pasta
+| Aug 17, 2016 | Trump Campaign briefed by intel officials; Flynn, Christie present; fewer than 10 people in the room
+| Aug 17, 2016 | X-fire Hurricane receives CIA memo, detailing Carter Page's prior working relationship with CIA bit.ly/2PrUdEA
+| Aug 17, 2016 | Obama golfs with Cy Walker, Alonzo Mourning, and Martin Nesbitt. Obama's have dinner at Jimmy Seas Pan Pasta
 | Aug 17, 2016 | Vanity Fair: "Exclusive: Stephen Bannon, Trump's new CEO, hints at his master plan" archive.is/TdEFC
 | Aug 17, 2016 | Boingboing: "Breitbart's Stephen Bannon, now Trump's new CEO, reveals his master plan" archive.is/lUKmm
 | Aug 17, 2016 | Yahoo: "Manafort was go-between in secret Ukraine lobbying campaign" by Michael Isikoff
 | Aug 17, 2016 | AP: "Manafort tied to undisclosed foreign lobbying" byline Jeff Horowitz and Desmond Butler archive.is/ZWa1r
-| Aug 17, 2016 | bit.ly/2RCAy6i X-fire Hurricane team receive's CIA memo on Carter Page's 5-year contract
+| Aug 17, 2016 | X-fire Hurricane team receive's CIA memo on Carter Page's 5-year contract bit.ly/2RCAy6i
 | Aug 18, 2016 | Politico: "Manafort’s man in Kiev: The Trump campaign chairman’s closeness to a Russian Army-trained linguist turned Ukrainian political operative is raising questions, concerns" by Kenneth Vogel
 | Aug 18, 2016 | Stone says in an interview on C-SPAN he's been in touch with Julian Assange "through an intermediary—somebody who is a mutual friend." WikiLeaks would later tweet in response to Stone's appearance, "We are happy to hear true information from everyone. But so far, we have not heard from Mr. Stone."
 | Aug 18, 2016 | Obama golfs with Larry David, Robert Wolf and Jonathan Lavine. Obama and first lady have dinner at Beach Road
@@ -2484,13 +2489,15 @@
 | Oct 03, 2016 | Forbes: "Trump And The Oligarch 'Trio'" by Richard Behar, also "Donald Trump And The Felon: Inside His Business Dealings With A Mob-Connected Hustler" by the same author on the same subject archive.is/rhEov
 | Oct 03, 2016 | NY FBI confiscates Weiner laptop, iPad, phone, wifi router
 | Oct 03, 2016 | Roger Stone allegedly dines with an associate of Julian Assange (Credico?)
-| Oct 03, 2016 | Steele back in London
+| Oct 03, 2016 | In London interview with Crossfire Hurricane, Steele offers Podobnyy as Carter Page's Russian handler bit.ly/2EpXA8B
+| Oct 03, 2016 | In London interview with Crossfire Hurricane, Steele falsey offers up Person 1 (Sergei Millian) bit.ly/2Q45qdB
 | Oct 04, 2016 | FISC holds a hearing wrt 9/26/16 DoJ/ODNI request for approval of certifications bit.ly/2MqjgVj
 | Oct 04, 2016 | Carter Page receives first death threat bit.ly/2WvHNvA
 | Oct 04, 2016 | FBI discovers +700k emails on Weiner laptop, also all HRC emails from 2006-2016 [see: Jun 22, 2018 Daily Caller]
 | Oct 04, 2016 | Second presidential debate
 | Oct 04, 2016 | Paul Erickson emails an acquaintance; says he is working on a Kremlin backchannel to GOP and NRA bit.ly/2RN7BF4
 | Oct 04, 2016 | Guccifer 2.0 releases DCCC documents and falsely advertises them as Clinton Foundation documents
+| Oct 04, 2016 | George Papadopoulos presumed to have left the campaign somewhere around this time bit.ly/2M2tADM
 | Oct 05, 2016 | DOJ charges Harold T. Martin with removal of classified materials and theft of govt property bit.ly/2dvIIbd
 | Oct 05, 2016 | Butina and Torshin Twitter DMs; Torshin is in the hospital; they discuss strategy bit.ly/2Rqj4eq, bit.ly/2D8UmpX
 | Oct 05, 2016 | Wordpress page first published showing links between Russian server and Trump tower
@@ -2530,7 +2537,8 @@
 | Oct 14, 2016 | Page: "...DAG now wants to be there, and WH wants DOJ to host...get Cohen's view...We need to speak with one voice."
 | Oct 14, 2016 | Strzok emails Lisa Page "at a minimum, that keeps the hurry the F up pressure on him"
 | Oct 14, 2016 | Melissa Hodgman-Strzok is promoted to Associate Director in the SEC's Enfocement Division
-| Oct ??, 2016 | Steele meets with several reporters again in mid-October
+| Oct ??, 2016 | Steele meets with several reporters again in mid-October 2016
+| Oct ??, 2016 | Carter Page loses cell phone in busy traffic, sometime mid-October 2016 bit.ly/2sx4SEK
 | Oct 15, 2016 | John P. Carlin resigns
 | Oct 15, 2016 | Buzzfeed: "Meet Fancy Bear, The Russian Group Hacking The US Election" archive.ph/X1jfb
 | Oct 15, 2016 | FISA granted for "Any US person" connected to Alfa Bank or SVB (close w/Sberbank) bit.ly/2LwC1pB, bit.ly/2Ac5May 
@@ -2616,7 +2624,7 @@
 | Nov ??, 2016 | Schulte transports computer containing illicit images of minors across state lines around this time bit.ly/2LROEM0
 | Nov 01, 2016 | Financial Times story about Sergei Millian; sourced by Fusion GPS bit.ly/2Q59NER
 | Nov 01, 2016 | FBI releases Marc Rich vault; 129 pages, most of it redacted; response to FOIA bit.ly/2f7bHER
-| Nov 01, 2016 | FBI terminates its CHS relationship with Christopher Steele bit.ly/2LU6NJb
+| Nov 01, 2016 | FBI terminates its CHS relationship with Christopher Steele bit.ly/2LU6NJb, bit.ly/2rRzAsf
 | Nov 01, 2016 | Steele shows BBC reporter Paul Wood the Dossier
 | Nov 01, 2016 | Moscow confirms it received Obama admin's call on a secure line
 | Nov 01, 2016 | McCabe emails colleagues; recuses himself from Clinton Foundation investigation bit.ly/2HeZz3O
@@ -2689,8 +2697,8 @@
 | Nov 21, 2016 | Copy of Anthony Weiner laptop in SCIF at FBI HQ, available for viewing by Priestap archive.is/SAoVd
 | Nov 21, 2016 | Email between Ohr and Kavalec talking about Steele [see: Aug 8, 2018 Washington Examiner]
 | Nov 21, 2016 | Bruce Ohr turns over his handwritten notes about Steele over to Pientka bit.ly/2Fr0KLO
+| Nov 21, 2016 | FBI interviews Bruce Ohr (Ohr FD-302 December 19, 2016). He provides FBI with all of Fusions oppo research probably more along the lines of financial transactions via wife Nellie Ohr bit.ly/35sjST3
 | Nov 22, 2016 | Forbes: "Exclusive Interview: How Jared Kushner Won Trump The White House" archive.is/2SP8d
-| Nov 22, 2016 | FBI interviews Bruce Ohr (Ohr FD-302 December 19, 2016). He provides FBI with all of Fusions oppo research probably more along the lines of financial transactions via wife Nellie Ohr
 | Nov 23, 2016 | ThinkProgress article on Maria Butina and the NRA bit.ly/2BzfZzB
 | Nov 23, 2016 | WSJ: "Donald Trump Jr. Held Talks on Syria With Russia Supporters" by Jay Solomon about a conference in Paris which Don Jr. attended archive.is/zuA4p
 | Nov 24, 2016 | Manafort emails transition official, recommends Stephen Calk for Sec of Army [see: Aug 13, 2018 American Banker]
@@ -2715,7 +2723,7 @@
 | Dec 02, 2016 | WSJ: "The Last Diplomat" article about FBI spy hunters chasing down people at State department bit.ly/2RvGaQM
 | Dec ??, 2016 | Kramer meets w/Nuland, Wallender sometime early Dec 2016; they discuss seriousness of dossier archive.fo/CcPRJ
 | Dec 04, 2016 | Mikhailov/Dokuchaev/Stoyanov detained? bit.ly/2FaOMpF, bit.ly/2C4PSin, bit.ly/2TnZb4e, bit.ly/2RdFWh1, bit.ly/2C5yDxJ
-| Dec 05, 2016 | FBI interviews Bruce Ohr (Ohr FD-302 December 19, 2016)
+| Dec 05, 2016 | FBI interviews Bruce Ohr (Ohr FD-302 December 19, 2016) bit.ly/2EklrGN
 | Dec 05, 2016 | CIA representatives brief SSCI and includes "bold" and "unqualified" assertions of trump Russia connections
 | Dec 05, 2016 | Strzok briefs HPSCI on Russia cyber activity; FBI is "fuzzy" & "ambiguous" about charges of trump-russia connections
 | Dec 06, 2016 | Carter Page in Moscow; leaves 12/13/16 bit.ly/2NlXZwo, bit.ly/2U0KG72, bit.ly/2SYrGtH, bit.ly/2BGgBli, bit.ly/2IIlmQn
@@ -2738,7 +2746,7 @@
 | Dec 11, 2016 | The Atlantic publishes an article about the suspicious death of Perepilichny in London archive.is/LEE3a 
 | Dec 12, 2016 | Clapper tells Strzok he'll be having dinner with Brennan and then-Deputy CIA Diretor David Cohen bit.ly/2OwWlbH
 | Dec 12, 2016 | Ahmed Al-Rumaihi visits Trump Tower; admits later in court to soliciting a bribe [see: 5/13/18 @MichaelAvenatti]
-| Dec 12, 2016 | FBI interviews Bruce Ohr (Ohr FD-302 December 19, 2016)
+| Dec 12, 2016 | FBI interviews Bruce Ohr (Ohr FD-302 December 19, 2016) bit.ly/2EklrGN
 | Dec 12, 2016 | Politico: "Here’s What America Needs to Know About Trump and Russia" (Evelyn Farkas) archive.is/8eosz
 | Dec 12, 2016 | Russia Today broadcasts a speech by Carter Page; video (55m14s) bit.ly/2T9ad1I
 | Dec 12, 2016 | Carter Page gives a presentation at 8:22am at the Rossiya Segodnya Int'l Information Agency in Moscow bit.ly/2RiU6Jb
@@ -3026,6 +3034,7 @@
 | Feb 24, 2017 | Jared Kushner reported to have met with Kislyak in Trump Tower sometime Dec 2016 bit.ly/2BqeGBh
 | Feb 25, 2017 | Carter Page exchanges emails with Jeff Jetton while Carter is traveling in Asia bit.ly/2V4sqhM
 | Feb ??, 2017 | Giuliani, Mukaskey meet w/Erdogan in Turkey late Feb to discuss Zarrab; Preet apprised archive.is/KX0Nt bit.ly/2Gt1Cke
+| Feb ??, 2017 | Carter Page meets with VP of Gazprombank in Singapore, likely sometime late February 2017 bit.ly/35rU1e1
 | Feb 27, 2017 | New Yorker article on Gen. Flynn; good piece! bit.ly/2GlOtti
 | Feb 27, 2017 | Mother Jones article on Trump condo purchased by Xiao Yan Chen archive.is/pkejv
 | Feb 27, 2017 | McClatchy article on Trump property purchased by Rybolovlev archive.is/DMcKb 
@@ -3034,6 +3043,7 @@
 | Mar ??, 2017 | BuzzFeed begins searching public databases for Alexander Poteyev bit.ly/2HfbnDj
 | Mar ??, 2017 | FinCEN whistleblower suspects senior Treasury officials are passing info to the Kremlin archive.fo/zfig8
 | Mar ??, 2017 | Schulte possesses, accesses, and views illicit images of minors around this time bit.ly/2RDjsp2
+| Mar ??, 2017 | In a March 2017 FBI interview, Carter Page doesn't recall a September 2015 discussion about "Male-1" bit.ly/2Eod1y3
 | Mar 01, 2017 | WaPo reports AG Sessions had not disclosed two meetings with Amb. Kislyak during the 2016 election bit.ly/2vHAPIM
 | Mar 01, 2017 | NYT: "Obama Administration Rushed to Preserve Intelligence of Russian Election Hacking"
 | Mar 01, 2017 | Nunes, Schiff approve Scope of Investigation for HPSCI inquiry into 2016 Russian active measures bit.ly/2HKY2iU
@@ -3163,6 +3173,7 @@
 | Mar 20, 2017 | INSD recommends investigation into complaint against McCabe [10/15/18 FBI Vault]
 | Mar 20, 2017 | Ivanka sets up office in West Wing next to Dina Powell; seeking security clearance archive.is/1QvzD
 | Mar 20, 2017 | Guardian article on The Global Laundromat archive.is/B8hum
+| Mar 20, 2017 | Details from Carter Page's March 2017 FBI interviews sent for inclusion for FISA renewal app #2 bit.ly/2Q47gLx
 | Mar 21, 2017 | Waldman tells Warner he's in Deutscheland; saya he spoke to Steele the previous day bit.ly/2HnFLey
 | Mar 21, 2017 | Business Insider article on hacked text messages sent by Paul Manafort's daughter archive.is/lopDC
 | Mar 21, 2017 | Nunes meets classified source
@@ -3178,6 +3189,7 @@
 | Mar 23, 2017 | CNN: "US officials: Info suggests Trump associates may have coordinated with Russians"
 | Mar 23, 2017 | Page: "CNN said officials. I assume dems on Gang of 8"
 | Mar 23, 2017 | HuffPost artcile on Felix Sater achive.is/Ddyjm
+| Mar 23, 2017 | DOJ receives details for Carter Page FISA renewal app #2; key details left out from Primary Sub-source bit.ly/2syH0Au
 | Mar 23, 2017 | Military officer expected expected to be appointed Director of Secret Service bit.ly/2TbByMh
 | Mar 23, 2017 | NYT's Michael Schmidt flags FBI about upcoming story on Kushner/VEB (Apuzzo, Goldman, Mazzetti?) bit.ly/2FrasMC
 | Mar 24, 2017 | Rick Gates leaves pro-Trump group America First Policies because of ties to Russia archive.is/7QgT3, archive.is/Qughv
@@ -3211,12 +3223,13 @@
 | Mar 29, 2017 | WSJ article on a loan Paul Manafort received from the bank of former Trump adviser, Steve Calk archive.is/Cj9eW
 | Mar 29, 2017 | NYT article on CEFC Chinese Energy buying a 19.9% stake in the the Cowen Group bit.ly/2CcdQti
 | Mar 29, 2017 | Comey speaks at an INSA Leadership Dinner in Alexandria, VA bit.ly/2RMRmsk
-| Mar 30, 2017 | President Trumpp calls Comey at 8:13am est; they speak for about ten minutes bit.ly/2T9Rcbn
+| Mar 30, 2017 | President Trump calls Comey at 8:13am est; they speak for about ten minutes bit.ly/2T9Rcbn
 | Mar 30, 2017 | Comey calls AG Sessions at 10:05am; relays substance of his earlier phone call with Trump bit.ly/2B0rb7n
 | Mar 30, 2017 | Carter Page tells journalist Tim Mak at 10:39am that SSCI hasn't scheduled him for an interview yet bit.ly/2S2YXm1
 | Mar 30, 2017 | Steele texts Ohr at 9:06pm est; says he is concerned about the leaks from yesterday bit.ly/2WepA6Q
 | Mar 30, 2017 | DNI Coats executes amendments to each of the 2016 certifications; 702 raw FISA access re-opened bit.ly/2S5Jj9q
 | Mar 30, 2017 | Carter Page meets with FBI agents under McCabe's command bit.ly/2NGOdW1
+| Mar 30, 2017 | Carter Page tells FBI agents he accidentally lost functional use of his cell phone in October 2016 bit.ly/38N22vV
 | Mar 30, 2017 | Buryakov again waives his right to a conflict-free counsel; Judge Berman approves bit.ly/2NDqt4Z ; pdf bit.ly/2XADm4b
 | Mar 30, 2017 | Grassley letter to Tillerson; he asks if HRC aides ever had their security clearances revoked bit.ly/2UK0dJ9
 | Mar 30, 2017 | McClatchy: "A Kazakh dirty-money suit threatens to reach Trump’s business world" archive.is/sW5Xy
