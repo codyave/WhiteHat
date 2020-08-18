@@ -1,0 +1,205 @@
+Sources:
+#1 - Sergey Abyshev; UK language scholarship; $$; academic book w/PSS; connected to Trubnikov; never mentioned "Department K of the FSB" or kompromat on HRC (memo 080); p.17, 38, 42, 44, 50, 53
+#2 - Ivan Vorontsov; $$; lots of contacts; supplied some of memo 080; Orbis knows identity; buddy is Garegin Tosunyan; 
+#3 - Olga Golkina; "key source"; source of Page-Divyekin (094) & Cohen/Prague meetings (135, 136, 166); has Kremlin friend w/access to Ivanov; Section 702 coverage; HRC fan;
+     didn't mention Page/Manafort in October; source of Rossotrudnichestvo + Oleg Solodukhin (memo 166), but not that Solodukhin was working under "cover"; Webzilla discussion in December
+     never mentioned Kapsugovich; source for Peskov claims; routinely visits U.S.; interviewed in the U.S. in August 2017; denies most reporting; pages 12, 23, 49, 53
+#4 - Alexey Dundich; exchange program; sometime gives guided tours (?); heavy drinker; p16-17, 49, 53
+#5 - Lyudmila (Mila) Podobedova; in October 2016, confirmed Page-Sechin meeting (memo 134); connected to RIS; has a handler; pages 19, 53
+USPER - Alexey Bogdanovskiy
+USPER 2 - Dmitriy Zlodorev
+
+Day 1
+I. Background
+   A. High school in Perm, Louisiana, Kentucky
+   B. Perm State U., consulting gigs
+   C. Graduate school at Georgetown
+   D. Brookings departure; Sidar Global Ventures
+   E. Trips to Russia in the 2010's
+II. Early History with Steele
+   A. Recommendation from Paul Weber in 2005
+   B. Starbucks in DC with Steele
+   C. Orbis test project - Russian assessment report; paid a couple hundred bucks
+   D. Hired by Orbis
+   E. Orbis work arrangements
+   F. First Orbis-paid trip to Russia
+   G. Second Orbis-paid trip to Russia
+   H. Steele's MI6 past
+   I. General Orbis assignments
+   J. Sidar, Target Labs, Poltavtsev, work visa
+III. Orbis Overseas Policies; RIS
+   A. General sleuthing criteria
+   B. Notekeeping habits
+   C. Communication arrangement with Steele
+   D. Orbis intermediary policy
+   E. No known contact with RIS
+IV. 2016 Election Assignments
+   A. March 2016 project on Paul Manafort
+   B. Late June 2016 trip to Russia
+V. Contacts during June 2016 trip to Russia [p.13]
+   A. Source #2 (1234 123456789)
+       i. Background of Source #2
+   B. Source #3 (Olga Galkina)
+       i. Background on Olga Galkina
+       ii. Rich father
+       iii. Galkina's contacts in Russia
+       iv. Friends with someone who was assaulted
+       v. Galkina aware of Danchenko's business
+       vi. Galkina "a key source for the dossier"
+   C. Source #4 (123456 1234567) [p.16]
+       i. Met at Kentucky Country Day in 1995 
+       ii. Expert at US-Russia relations 
+       iii. Various job duties 
+       iv. Heavy drinker 
+   D. Source #1 (123456 1234567) [p.17]
+       i. Served in city and regional government positions 
+       ii. Served in politics at an early age [p.17]
+       iii. Asked Danchenko for help in getting his son a scholarship for a UK-based English language program 
+       iv. Pesters Danchenko to get into money-making businesses 
+       v. Still travels to the United States 
+       vi. Relationship with a Russian intelligence officer 
+       vii. Danchenko has never met the Russian intelligence officer 
+   E. Source #5 (1234 1234567890) [p.19]
+       i. Female; connected to RIS; source of Carter Page-Sechin meeting 
+VI. Memo 095 (July 28th) [p.19]
+   A. Collected during non-priority part of Orbis assignment
+   B. Source E connected to Sergei Millian; Alexey Bogdanovskiy, Dmitiy Zlodorev (RIA Novosti) 
+   C. Late July 2016 phantom phone call with Millian; ghosted in NYC
+VII. Memo 094 (July 19th) [p.21]
+   A. Carter Page-Sechin meeting attributed to Source #5 (1234 1234567890) and Olga Galkina 
+   B. Source #5 source of July 2016 Carter Page-Sechin meeting; Source #5 later confirms story in September 2016
+   C. Source #5 foreign travel 
+VIII. Media Outreach to Danchenko [p.22]
+   A. Contacted by a journalist, but request ignored
+
+Day 2
+I. Recent comms with Steele [p.22]
+   A. Text from Steele that morning
+II. Documents [p.23]
+   A. Source #5's texts about Carter Page-Sechin meeting; profiles on all five sources
+   B. Source #5's earlier date was wrong; Page-Sechin meeting confirmed in August, not September 2016
+   C. Galkina's profile notes where she had studied
+   D. Profile of one of Galkina's sources, who is the head of an unknown department
+   E. Business card of one of Source #2's sources, who is the Deputy Director of an unknown department
+   F. Screenshot of various bank notes; in relation to Olga Galkina and Source #2
+   G. Information about a female Russian government official
+III. Memo 111 (September 14th) [p.25]
+   A. Business card of Mikhail Kalugin
+   B. Odd official from the Russian Embassy
+   C. Uncertainty about who is the "trusted compatriot"
+   D. Kalugin's replacement, Bondarev
+IV. Memo 094 (July 19th) [p.28]
+   A. Source #5 confirms Page-Seching meeting in October
+   B. Galkina's sourcing for the Page-Diveykin meeting
+   C. Galkina's sourcing for the Page-Diveykin meeting
+   D. "Opaque" conversations with Galkina
+   E. Unknown source of "kompromat" claim
+   F. Danchenko's confidence in Galkina's sources
+   G. Uncertainy of source for paragraph 4
+V. Memo 134 (October 18, 2016) [p.30]
+   A. Source #5 confirmed Page-Sechin meeting in October 2016
+   B. Uncertainty of source for paragraph 2 ("brokerage")
+VI. Michael Cohen, Prague, Memo 135 (October 19th), Memo 136 (October 20th), Memo 166 (December 13th) [p.30]
+   A. Galkina acutely aware of Cohen's name
+   B. Uncertainty of source for paragraph 1 in Memo 135
+   C. Galkina source of paragraph 2 in Memo 135; Galkina unsure of which Russians attended secret meeting with Cohen
+   D. Three conversations with Galkina for Memo 135
+   E. Galkina not source for Manafort or Page in paragraph 2 of Memo 135
+   F. Galkina is source for Solodukhin and Rossotrudnichestvo in Memo 136
+   G. Galkina is source for "deniable cash payments" and "wires" in Memo 136
+   H. Personal details about Galkina
+   I. Source #5 is source for Page-Sechin meeting; Galkina is source for Cohen-Prague meeting
+   J. Memo 166 is from December 2016 phone call with Galkina; recalls her mentioning Webzilla affiliates, porn traffic
+   K. Galkina source for Gubarev and Kapsugovich in Memo 116
+   L. Galkina source for Romanian claims; unsure if Galkina has a vacation home in Bulgaria
+VIII. Sergei Millian, RIA Novosti, Memo 095 [p.35]
+   A. Tasked by Steele to locate Trump sources to Russia; Danchenko contacts RIA Novosti journalists
+   B. Danchenko meets with Bogdanovskiy at a Thai Restaurant to discuss Manafort; Bogdanovskiy recommends Danchenko meet with Zlodorev
+   C. Phantom phone call with Millian in late July
+   D. Millian a no-show at NYC in late July
+   E. Plans to meet with Millian in September fall through
+   F. More on the phantom phone call
+   G. No contact with Millian other than the phantom phone call
+IX. Trump, the Ritz Carlton, Memo 080 (June 20th) [p.38]
+   A. Sexual kompromat claim comes from Source #2
+   B. Danchenko's early June 2016 contact with Source #2
+   C. Source #2 reports other hotel buggings of political figures
+   D. Hotel employees source for paragraph 4; non-denial denials
+   E. Hotel managers aware of sexual rumors about Trump 
+   F. Paragraphs 1, 4, and 5 come from Vyacheslav Trubnikov, through Source #1
+
+Day 3
+I. Wellness check-ups from Orbis employees [p.40]
+   A. Call from Kieran Porter
+   B. Porter says Steele is lying low; discussion about outstanding Orbis payments
+   C. Porter says Orbis swamped since Buzzfeed published dossier
+   D. No contact yet from anyone at Target Labs
+   E. Danchenko comfortable with discussing his source network
+   F. Orbis knows the identity of Source #2
+   G. Most election-related texts deleted; still have comms with Zlodorev
+II. Memo 086 (July 26th)
+   A. Danchenko asked about FSB sourcing
+   B. Vyacheslav Trubnikov in contact with Source #1
+   C. Some claims in paragraph 2 unfamiliar to Danchenko
+   D. Claims in paragraph 3 may have come from Danchenko's old friend, who got nicked by the FSB
+   E. Some of paragraph 3 comes from Source #1
+   F. Danchenko uncertain of source for paragraph 4
+   G. Paragraph 5 sourcing comes from unknown Russian officials
+   H. Paragraph 6 may have come from Source #2
+III. Summary of Danchenko's sources [p.44]
+   A. Peskov and Ivanov claims probably come from Olga Galkina
+   B. Source #2 responsible for unknown claims
+   C. Replacement of Sergei Ivanov with Anton Vaino is Danchenko's analytical conclusion
+IV. Summary of Danchenko's briefings by Orbis [p.45]
+   A. Steele's debriefing procedure
+   B. Danchenko's source descriptions to Steele
+   C. Debriefings done at Orbis offices
+   D. Danchenko took minimal notes
+   E. Steele's tasks: Manafort, compromising material on Trump, Ivanov's replacement, 4-5 campaign names
+   F. Uncomfortable with tasks, and corroborating stories
+   G. No recollection of any additional taskings from Steele
+V. Danchenko's trips to Russia [p.48]
+   A. June 2016
+         i. Paid by Orbis
+   B. August 2016
+         i. Confronted by officers at Russian airport
+         ii. Part of trip was for personal business
+   C. Summer 2016
+         i. Trip went surprisingly well
+         ii. Met with Source #4, but did not collect any info
+         iii. Steele debriefed after trip; partially paid for by Orbis
+   D. December 2016
+         i. Danchenko met with Steele in the UK
+   E. St. Petersburg and Memo 112 (September 14th)
+         i. Danchenko and Clifford Gaddy discussed Alfa Bank back at Brookings
+         ii. Danchenko tells an unrelated corruption story
+   F. St. Petersburg-related information
+         i. Trump real estate and Aras Agalarov claims come from Source #2
+         ii. Danchenko recounts a story of a now-deceased female source who allegedly knew about Trump's 2013 trip to Moscow
+   G. Danchenko's friends tease him about Steele dossier
+         i. His friends tease him
+         ii. He says it takes it in stride
+   H. Source network's travels to the U.S.
+         i. Galkina recently traveled to the U.S.
+         ii. Galkina traveled to the U.S. in the mid-2000's, and has crashed at Danchenko's place
+         iii. Unsure if Galkina would talk to the FBI
+   I. Source #4
+         i. Source #4 hasn't been to the U.S. in at least a few years
+   J. Source #1 
+         i. Danchenko recently met with Source #1 in the U.S.
+   K. Source #5
+         i. Source #5 has traveled to Europe and SE Asia; connected to RIS; possibly has a "kurator"
+   L. Danchenko's connections to RIS
+         i. Danchenko says one of his old friends coerced into working for the FSB
+         ii. Danchenko recounts a story of Source #2 being warned by someone from the FSB
+         iii. Danchenko dismisses the possibility of being approached by RIS during his college days
+   M. Russia's Diplomatic Corps
+         i. Boring story about early college days
+         ii. More boringness
+   N. Sources from Perm
+         i. Danchenko dismissed the idea that he had gone to other sources from Perm
+   L. Contacts in Russia's Ministry of Foreign Affairs
+         i. Recalls having met Yuriy Ushakov and Sergei Kislyak during his time at conferences
+         ii. Recalls a strange official who approached him at the Russian Embassy
+
+https://gofile.io/d/KCd3AC
