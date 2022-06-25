@@ -164,7 +164,7 @@ Sergei Millian
 2019-10-28 → archive.ph/vjZqC → "Brian Ross did not dare to publish this answer. He thought rogues and fraudsters would protect his position with ABC no matter what."
 2019-10-28 → archive.ph/rAyfP → "After elections 2020, I’m free to tell my story."
 2019-10-28 → archive.ph/bB8xY → "The villains used my name to serve as a red herring (something that misleads or distracts from a relevant or important crime)."
-2019-10-30 → archive.ph/tNhHs → "[How did McClatchy reporters] Kevin Hall, Peter Stone and Anita Kumar obtain [state secret information from Steele in 2017]?"
+2019-10-30 → archive.ph/tNhHs → "[How did McClatchy reporters] Kevin G. Hall, Peter Stone and Anita Kumar obtain [state secret information from Steele in 2017]?"
 2019-10-30 → archive.ph/O8QYc → "Next time I may publish a full list of fakers who worked with Steele. Would you like to review it or you already know their names?"
 2019-10-30 → archive.ph/i3Wwa → "Next time I may publish a list of honest journalist. They refused to publish their 'pee pee stories' after speaking to me."
 2019-10-31 → archive.ph/PZ0QZ → "I’m ready for the press conference. The first one in three years. Last exclusive interviews were to Fox News, ABC and Russia 1 TV."
@@ -344,6 +344,7 @@ Sergei Millian
 2020-04-14 → archive.ph/ijkWI → "Thank you, @GOP ! I’m honored to be accepted as a new member [at the Capitol Hill Club]!"
 2020-04-14 → archive.ph/bJtY3 → "They got all my records, no worries. There was a special process as you might know. I think it's called FISA."
 2020-04-14 → archive.ph/Gofq3 → "Receipts" [Emails from 2008 to Dierdre O'Dawe about Trump Hollywood]
+2020-04-16 → archive.ph/2IWiN → "OIG is doing a much better job [at speaking in riddles (wrt Page/Millian being two persons affiliated w/RIS?)] than Millian...IMHO"
 2020-04-22 → archive.ph/lPuqJ → "Yes, revisiting [Kavalec's notes], they were clearly framing me first on the DNC hacking..just in time for their big announcement."
 2020-04-14 → archive.ph/150mm → "Guess who is in the photo next to me?"
 2020-04-14 → archive.ph/Az5uY → "This Abc caller initiated the call. The IG report claims the other side contacted PSS. So, must be unrelated"
@@ -493,6 +494,10 @@ Sergei Millian
 2020-11-24 → archive.ph/9OZSi → "Three crossfires, how many dragons?"
 2020-11-24 → archive.ph/gRVHF → "Dragons FISAs, folks!!"
 2020-11-30 → archive.ph/DVHoM → "Dragons FISAs, folks"
+2020-12-02 → archive.ph/ly4xb → "Chuck Ross has been falsely claiming for almost 3 years that I’m source D and E. I clearly stated it’s not true three years ago."
+2020-12-02 → archive.ph/66ia6 → "[Chuck Ross] is a public writer many people watch daily caller. This punk framed me. Do you get it?
+2020-12-02 → archive.ph/PcNIA → "We know who [Source D/E] are. Did not you see the declassified documents?!
+2020-12-02 → archive.ph/00000 → "
 2020-12-05 → archive.ph/AmvuI → "Three Crossfires. How many Dragons?"
 2020-12-11 → archive.ph/UgYpc → "Would you like to know my story with late Senator McCain?"
 2021-04-12 → archive.is/cg5tg → "My personal website has been published today - SergeiMillian[.]com  - Check it out!"
@@ -705,8 +710,8 @@ Edward Baumgartner
 2020-06-10 → archive.ph/rquK3 → "Q is dead, we buried him in a pizza box"
 2020-06-11 → archive.ph/4MFz9 → "Maybe we should mark [Juneteenth] by beating and chasing GOP delegates..."
 2020-06-12 → archive.ph/tYM7w → "Ivanka rightly believes a child should only live with a parent when a daughter marries her father to produce the Ubermensch"
-2020-06-22 → archive.ph/McL7u → "I’m betting that Brad Parscale will be fired within the next two Scaramuccis."
-2020-06-23 → archive.ph/rEgXY → "Same here!" [in reply to Catherine Belton]
+2020-06-22 → archive.ph/McL7u → RT joncoopertweets: "I’m betting that Brad Parscale will be fired within the next two Scaramuccis" (connection to baum may be lost)
+2020-06-23 → archive.ph/rEgXY → "Same here!" [discussion about pre-ordering Catherine Belton's new book "Putin's People"]
 2020-06-29 → archive.ph/DKLHp → "Any sense how European/US dual citizens will be treated?" (archive.ph/ih5kP)
 2020-07-02 → archive.ph/QJGaO → "Yeah, been protesting, outside, wearing masks. We're all fine. You're fucking toast. Stop being such a baby."
 2020-07-07 → archive.ph/a1dI4 → "You [Andrew Sullivan] quoting Byron York, someone like you who once had credibility but have become a sad crank."
