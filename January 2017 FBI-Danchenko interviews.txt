@@ -1,9 +1,7 @@
 Sources:
 #1 - Sergey Abyshev; UK language scholarship; $$; academic book w/PSS; connected to Trubnikov; never mentioned "Department K of the FSB" or kompromat on HRC (memo 080); p.17, 38, 42, 44, 50, 53
 #2 - Ivan Vorontsov; $$; lots of contacts; supplied some of memo 080; Orbis knows identity; buddy is Garegin Tosunyan; 
-#3 - Olga Golkina; "key source"; source of Page-Divyekin (094) & Cohen/Prague meetings (135, 136, 166); has Kremlin friend w/access to Ivanov; Section 702 coverage; HRC fan;
-     didn't mention Page/Manafort in October; source of Rossotrudnichestvo + Oleg Solodukhin (memo 166), but not that Solodukhin was working under "cover"; Webzilla discussion in December
-     never mentioned Kapsugovich; source for Peskov claims; routinely visits U.S.; interviewed in the U.S. in August 2017; denies most reporting; pages 12, 23, 49, 53
+#3 - Olga Golkina; "key source"; source of Page-Divyekin (094) & Cohen/Prague meetings (135, 136, 166); has Kremlin friend w/access to Ivanov; Section 702 coverage; HRC fan; didn't mention Page/Manafort in October; source of Rossotrudnichestvo + Oleg Solodukhin (memo 166), but not that Solodukhin was working under "cover"; Webzilla discussion in December never mentioned Kapsugovich; source for Peskov claims; routinely visits U.S.; interviewed in the U.S. in August 2017; denies most reporting; pages 12, 23, 49, 53
 #4 - Alexey Dundich; exchange program; sometime gives guided tours (?); heavy drinker; p16-17, 49, 53
 #5 - Lyudmila (Mila) Podobedova; in October 2016, confirmed Page-Sechin meeting (memo 134); connected to RIS; has a handler; pages 19, 53
 USPER - Alexey Bogdanovskiy
@@ -89,7 +87,7 @@ III. Memo 111 (September 14th) [p.25]
    C. Uncertainty about who is the "trusted compatriot"
    D. Kalugin's replacement, Bondarev
 IV. Memo 094 (July 19th) [p.28]
-   A. Source #5 confirms Page-Seching meeting in October
+   A. Source #5 confirms Page-Sechin meeting in October
    B. Galkina's sourcing for the Page-Diveykin meeting
    C. Galkina's sourcing for the Page-Diveykin meeting
    D. "Opaque" conversations with Galkina
