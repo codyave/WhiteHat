@@ -2265,7 +2265,7 @@
 2022-03-05 → archive.ph/lsVj5 → "Tim Mak did not inform me he is not an American citizen but pretended to be an American reporter on July 21, 2016"
 2022-03-05 → archive.ph/GVBGF → "Folks, I have no idea who Tim Mak worked for - Hong Kong or Canadians or else. All I know he chose the wrong American to screw with."
 2022-03-11 → archive.ph/dMkTj → "Katie Zavadski is from Belarus. That was awfully wrong for her to associate her name in the same story with Tim Mak."
-2022-03-11 → archive.ph/3Cu0u → "And Katie is not Katie, folks!!"
+2022-03-11 → archive.ph/3Cu0u → "And Katie Zavadski is not Katie, folks!!"
 2022-03-11 → archive.ph/4cbF6 → "Fake name [Katie Zavadski], fake story."
 2022-04-22 → archive.ph/gC2YJ → "There was a truck by my residence in NYC 24/7, parked illegally next to fire hydrant. Many unanswered questions, folks!!"
 2022-04-22 → archive.ph/bQWNf → "I was not at this address at the time" (archive.ph/TwfsK)
@@ -2560,12 +2560,11 @@ Misc.
 2019-05-10 → archive.ph/aXDYe → Occhionero; "You are correct Sergei Millian, and we call that Confidential Human Source in Italy: The Pulcinella Secret"
 2020-02-20 → archive.ph/l5EsC → Alex Hosenball-Monica Manalo wedding registry
 2020-07-19 → archive.ph/2DcyS → Hmmm57474203 correctly guesses Igor Danchenko
-2020-08-07 → archive.ph/W61xx → "Chuck Ross: [Abyshev] confirmed he met with Danchenko and a journalist [Vorontsov] several days before the first dossier memo.'"
 
 
 
 
-archive.ph/kWnoH TT, 15th floor, "data guy")
+archive.ph/kWnoH (TT, 15th floor, "data guy")
 archive.ph/eooeh (grace kelly sells $25m; TRD)
 archive.ph/BiD9g (golf putter, apartment)
 archive.ph/21Prb (Tiger 21 sues Somekh; TRD)
