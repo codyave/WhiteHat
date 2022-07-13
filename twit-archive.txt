@@ -2587,17 +2587,10 @@
 2022-07-13 → archive.ph/OsYw8 → "They refused to investigate threats against Trump supporters. This fact alone is suspicious. How does Carter Page feel about that?"
 2022-07-13 → archive.ph/8hxKj → "If they managed to kill me in the Mayflower hotel during inauguration you would not even know what’s going on, folks. God bless US!!"
 2022-07-13 → archive.ph/zoJ2l → "Somebody very powerful [protected me]"
+2022-07-13 → archive.ph/wOGcM → "Who issued threats against MAGA?! Was it a coordinated effort by??? Mueller team told me it was outside of their job to investigate."
+
 
 @carterwpage
-2018-05-25 → archive.ph/SdAEK → "POTUS didn't fall for fake 'Intel' likely saving thousands of GI lives. Keep to your vision shown at the April 2016 Mayflower speech"
-2018-05-27 → archive.ph/hybZK → "Good questions Chuck Ross. I've asked the FBI to disclose similar facts" [re: May 21, 2017, FOIA request for FBI/Buraykov records]
-2018-05-28 → archive.ph/Pd5qi → "Of greater immediate concern: damage to Constitutional foundations by the likes of Lawrence Tribe..."
-2018-05-28 → archive.ph/UNiWs → "Harvard Law now often trades in law studies for a new focus on tired rhetoric, they must miss him [Jeff Flake]." (archive.ph/AnhAz)
-2018-05-29 → archive.ph/qGBpY → "Can't wait to join Sean Hannity on Fox News later ... 1st time I've had a chance to talk with Sam Clovis in over 18 months"
-2018-06-08 → archive.ph/eSPKT → "MSNBC was well staked-out for my Hart Senate Office Building visits, despite my best effort to stay undercover" (archive.ph/ez6Gx)
-2018-06-01 → archive.ph/Ubl5c → "The 2016 US/Five Eyes IC leaders and higher DNC authority made the Lord of the Flies seem well governed by comparison (new Jacks)"
-2018-06-01 → archive.ph/iKKJj → "Julia Ioffe spent months writing my mythical 'biography' in late-summer 2016 as the Secret Society's crimes were happening"
-2018-06-01 → archive.ph/mVoL5 → "The days to come will be much worse for DNC loyalists who lied while illegally influencing an election" (archive.ph/deIBu)
 2018-03-26 → archive.ph/FsVLN → "People always ask me, 'Why are you smiling all the time?'...Secret formula: Healthy breakfast! [Flax cereal, fruit and açaí juice]"
 2018-03-28 → archive.ph/Ogu6I → "[Daily Beast's Gitlin/Halliwell], to find out who 'played any role in contacting Glencore', try John Podesta. (archive.ph/7pzY0)
 2018-03-29 → archive.ph/ARqoT → "it'll be good to have another conversation with Chris Hayes on or about 8:30 pm Miami- / DC-time this evening"
@@ -2607,19 +2600,56 @@
 2018-05-04 → archive.ph/5aGX1 → "lets see if [Seth Meyers's then-BBG Chairman friend Richard Stengel] gets invited back to explain their Sept 2016 'Closed Meeting'"
 2018-05-20 → archive.ph/ZeZp6 → "Since [Steele and Dearlove both went to Cambridge], perhaps they can shed some light on the Russia Dodgy Dossier? (archive.ph/Zu2wk)
 2018-05-27 → archive.ph/gHUFv → [FOIA request - All records related to June 13, 2016, FBI interview of Male-1; FBI comms w/journalists re: Carter Page]
-2018-07-11 → archive.ph/DIwnc → "Helsinki prediction -> POTUS/Putin will help redefine Europe with Kanye West Dragon Energy School of Foreign Policy"
-2018-07-11 → archive.ph/lx4jq → "if Eric Garland wants to research people with financial links to Glencore, he should see Congress's 2001 report [on Marc Rich]."
-2018-07-11 → archive.ph/lPzJY → "We had dinner there [in Cambridge] 2 years ago tonight with Jamie Rubin as #Spygate began."
-2018-06-01 → archive.ph/QDuvU → "[Spygate leaders] made Lord of the Flies seem well governed (new Jacks). BBG conch misinforms...Then spear, Deep State-style."
-2018-06-10 → archive.ph/QDuvU → "My May 2017 letter to Burr & Warner on how SSCI was illegally leaking my identity as Male-1"
-2018-06-13 → archive.ph/MmYcE → "Vanessa Le & April Doss of SSCI [Secret Society CI / SSCI] threatened me with jail time if I didn’t give up leakable personal info"
+2018-05-25 → archive.ph/SdAEK → "POTUS didn't fall for fake 'Intel' likely saving thousands of GI lives. Keep to your vision shown at the April 2016 Mayflower speech"
+2018-05-27 → archive.ph/hybZK → "Good questions Chuck Ross. I've asked the FBI to disclose similar facts" [re: May 21, 2017, FOIA request for FBI/Buraykov records]
+2018-05-28 → archive.ph/Pd5qi → "Of greater immediate concern: damage to Constitutional foundations by the likes of Lawrence Tribe..."
+2018-05-28 → archive.ph/UNiWs → "Harvard Law now often trades in law studies for a new focus on tired rhetoric, they must miss him [Jeff Flake]." (archive.ph/AnhAz)
+2018-05-29 → archive.ph/qGBpY → "Can't wait to join Sean Hannity on Fox News later ... 1st time I've had a chance to talk with Sam Clovis in over 18 months"
+2018-06-01 → archive.ph/BRorF → "The new Edward R. Murrow, @SeanHannity, fearlessly tells the truth daily. Continued success, well earned.
+2018-06-01 → archive.ph/Ubl5c → "[Spygate leaders] made Lord of the Flies seem well governed (new Jacks). BBG conch misinforms...Then spear, Deep State-style."
+2018-06-01 → archive.ph/iKKJj → "Julia Ioffe spent months writing my mythical 'biography' in late-summer 2016 as the Secret Society's crimes were happening"
+2018-06-01 → archive.ph/mVoL5 → "The days to come will be much worse for DNC loyalists who lied while illegally influencing an election" (archive.ph/deIBu)
+2018-06-08 → archive.ph/Mh0yB → "Too bad misleading SSCI leaks brought more terror threats.."
+2018-06-08 → archive.ph/eSPKT → "MSNBC was always well staked-out for my Hart Senate Office Building visits, despite my effort to stay undercover" (archive.ph/ez6Gx)
+2018-06-10 → archive.ph/zBO9y → "When mentioning 'Felony #1: Illegal leaking of my identity as Male-1' to Warner in May 2017, I didn't yet know who did the leaking"
+2018-06-10 → archive.ph/sW0kj → "When I sent that letter [to SSCI] last May, there was the FISA that you [Louise Mench] first reported just before the election"
+2018-06-13 → archive.ph/wCjU6 → "Vanessa Le & April Doss of SSCI [aka Secret Society CI / SSCI] threatened me with jail if I didn’t give up leakable personal info"
+2018-06-18 → archive.ph/AueTw → "here's the main slide I brought to my March 2017 FBI meetings that Devlin Barrett reported on last June"
+2018-06-26 → archive.ph/U22ZD → "Thanks  Kyle Cheney 'Lordy, I hope there are tapes' from times when you called me last year too." [re: Lisa Page subpoena]
 2018-06-26 → archive.ph/5tvdW → "Who's directing 'Security' ops at SSCI now? Were they on station at Mark Warner's big money soirée in Martha’s Vineyard?"
+2018-06-29 → archive.ph/KB7V6 → "In 2017, SSCI demanded 'all electronically stored information..notes' etc. on any Russian I had ever spoken with since 2010"
+2018-07-03 → archive.ph/lx4jq → "re: people with financial links to Glencore's founder, see Congress's 2001 report on the pardon of Marc Rich" [Podesta? Callahan?]
+2018-07-08 → archive.ph/522PA → "Except recordings of death threats I've received, I have no tapes" [re: questions from Louise Mensch]
+2018-07-08 → archive.ph/auEtC → "Please teach Ali Watkins about [not naming confidential informants], who energized more death threats when she named me."
+2018-07-11 → archive.ph/lPzJY → "We had dinner there [in Cambridge] 2 years ago tonight with Jamie Rubin as #Spygate began."
 2018-07-11 → archive.ph/59L7e → "At Warsaw's 2016 NATO Summit, did Madeleine Albright learn much about DNC/Secret Society/fake EU 'Intel' source's collusion plan?"
+2018-07-11 → archive.ph/DIwnc → "Helsinki prediction -> POTUS/Putin will help redefine Europe with Kanye West Dragon Energy School of Foreign Policy"
 2018-07-13 → archive.ph/ujlC9 → "Was that a Secret Society code word: the DNC's same Fake News report uncovered by the House Intel Committee?"
+2018-07-14 → archive.ph/0vfeF → "Is any US-Russia swap possible now, trading 12 [GRU] Indictees for [Spygate] Intel assets? Or at least an info swap"
+2018-07-14 → archive.ph/Z5ZhD → "DOJ Headquarters... Secret Society Motto: 'Every crony matters'"
 2018-07-15 → archive.ph/LSlyd → "DNC-enabled cyberattacks / wiretaps. Secret Society autocrats who don't respect the Rule of Law must be held accountable."
+2018-07-16 → archive.ph/o7Vty → "People [Browder] who have skeletons in their own closet (or on their server) often try to distract by throwing stones (or Dossiers)"
 2018-07-16 → archive.ph/0oAMx → "Then a BBGgov Board Member [Richard Stengel], what happened at their September 9, 2016 meeting?"
+2018-07-16 → archive.ph/JEpMQ → "Terrific to see @seanhannity on in the 5am hour. It's like waking up to rather than from a dream!"
+2018-07-18 → archive.ph/00000 → "My main 'Ambition' [for meeting with the FBI in March 2017 was to counteract] the domestic terror threats sparked by Comey"
 2018-07-18 → archive.ph/98wpq → "those practicing U.S. law at the highest levels were involved in a Secret Society conspiracy to rig an election."
-2018-07-18 → archive.ph/5Poy1 → "The agents said they'd pass the word to their bosses, whom this country has recently met: the Secret Society 'Founders'. Zero help."
+2018-07-18 → archive.ph/5Poy1 → "The FBI agents said they'd pass the word to their bosses, whom this country has recently met: the Secret Society 'Founders'"
+2018-07-20 → archive.ph/cdQqO → "the Secret Society hacking plot against Trump Movement members will be exposed as more facts are revealed"
+2018-07-21 → archive.ph/m5xtn → "The BBG's illegal support of DNC's 2016 smear campaign might be better understood next week, once the FISA warrants are revealed"
+2018-07-22 → archive.ph/mLaSh → "the Trump-hating Secret Society forgot to note that I correctly called this process a Witch Hunt"
+2018-07-22 → archive.ph/fVob9 → "Marco Rubio, what did you know and when did you know it?"
+2018-07-28 → archive.ph/DUBr6 → "[April F. Doss behaved unreasonably and belligerently last year amidst my Senate Intel inquisition]" (archive.ph/oo95k)
+2018-07-30 → archive.ph/nyXAH → "Juxtaposing these allegations with proven DNC / Secret Society / FVEY collusion may be of greater relevance"
+2018-08-04 → archive.ph/JJlfo → "my Yahoo Mail account has been the target of state-sponsored actors based on Fake Yahoo News which DOJ fed to the FISC"
+2018-08-04 → archive.ph/UeVCE → "As US Intel source Male-1, I never could've imagined dishonest politicians may risk US lives and inspire domestic terror threats"
+2018-08-25 → archive.ph/id8SB → "Senator McCain and I headed in different directions on matters of war and peace in debates spanning most of my life. May he RIP now."
+2018-08-27 → archive.ph/m8IRI → "Who was involved in the conspiracy that passed 'Russian Organized Crime' dirt to FISC?" [Answer: Bruce Ohr] (archive.ph/1F2u8)
+2018-08-30 → archive.ph/Hf09f → "[Mission Impossible's] Rogue ex-MI6 agent Solomon Lane may seem familiar too. Is truth stranger than fiction?
+2018-08-31 → archive.ph/MaA8m → "[Spygate leaders] correctly believed they had US democracy and FISC over a barrel [Bruce Ohr reference?] in 2016" (archive.ph/zlVVG)
+2018-09-00 → archive.ph/00000 → "
+2018-09-00 → archive.ph/00000 → "
+2018-09-00 → archive.ph/00000 → "
+2018-09-00 → archive.ph/00000 → "
 2018-09-17 → archive.ph/mkfuc → "Will [TIME magazine's Massimo Calabresi still use Richard Stengel & Strobe Talbott as background sources]? (archive.ph/V29ad)
 2018-10-05 → archive.ph/u8KX3 → "Sure McFaul. Seems unimaginable [Soros?] would ever invest in [Steele] who works to help incite revolution within a country, right?"
 2018-12-09 → archive.ph/SEk8d → "Steven Lee Myers & I had coffee on 10/5/2016. He asked about the Ohrs' kleptocracy-driven scam [Lesin?] but didn't print it."
