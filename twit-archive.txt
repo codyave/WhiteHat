@@ -41,8 +41,9 @@
 05/29/18 → archive.ph/nowDJ → "Berkeley Law"
 06/25/18 → archive.ph/mlRC2 → "Sergei Millian speaking at United Nations Headquarters in New York City"
 09/01/18 → archive.ph/7NqQd → "Friends and Enemies of Donald Trump" [404 gofundme link]
-09/08/18 → archive.ph/gSEkN → "Thank you for your support [in verifying Millian as Source D], Tom Arnold! You are doing an amazing job!"
+09/08/18 → archive.ph/dQcQV → "Today, according to Alex Yanevskyy at VOA News, I became the author of the whole dossier." (archive.ph/Czl3d, archive.ph/pKGQx)
 09/08/18 → archive.ph/4FrgP → "Message from 'source M': Voice of America outpaced them all. Today, according to VOA, I became the author of the dossier."
+09/08/18 → archive.ph/gSEkN → "Thank you for your support [in verifying Millian as Source D], Tom Arnold! You are doing an amazing job!"
 03/29/19 → archive.ph/FjVim → "Yes, I’m an idiot, Georgie, for helping you secure a job in NYC energy sector and giving you a donation once you got into trouble."
 04/18/19 → archive.ph/sUyLy → "A lot of useful info about the 'pissgate' creators, lovely couple, GS and CS, in recent report. Ah, I forgot, they are untouchable."
 04/19/19 → archive.ph/5p82I → "Pissgate creators GS [Simpson] / CS [Steele], who organized smear campaign against Trump, Millian, the team or are they untouchable?"
@@ -2758,7 +2759,7 @@
 08/10/22 → archive.ph/fKyGk → "I have been thinking the same.." [re: Trump baited the FBI into searching Mar-a-Lago]
 08/10/22 → archive.ph/axfCR → "Would you share contents of your private safe to anyone besides your immediate family member?" [Multiple choice: Yes, No, Never, Maybe]
 08/10/22 → archive.ph/WCOyD → "Any lady would not tolerate her private wardrobe be looked into. First Lady Melania is so brave to keep her decency."
-08/10/22 → archive.ph/CWI85 → "I'm here today to express to express my strongest concern of this unprecedented bad treatment of our beloved President and First Lady"
+08/10/22 → archive.ph/CWI85 → "I'm here today to express my strongest concern of this unprecedented bad treatment of our beloved President and First Lady"
 08/10/22 → archive.ph/vMzRR → "As long as God protects US, we have nothing to fear, folks!!"
 08/10/22 → archive.ph/Lqu2g → "If God did not exists I would have been assassinated or jailed by now, folks!! There is power above evil on Earth!!"
 08/10/22 → archive.ph/29Kd3 → "DOJ highest ranking officials are now entering into the game, folks!! Their game is above my head, folks!! I may need your help soon"
@@ -2803,16 +2804,23 @@
 08/16/22 → archive.ph/ftWkN → "I have no intention to disclose anything. It’s my natural inclination to defend myself against these rogue agents' foolish leaks.
 08/16/22 → archive.ph/ReHxI → "Why they need to use WASH POST to explain their actions? It's DOJ spox job to explain what they are doing to DJT."
 08/16/22 → archive.ph/Gvmmq → "Fusion GPS got caught bc they were constantly changing their lying stories to adapt to the revelations, leaks and absurd tales."
-08/19/22 → archive.ph/J4ygu → "Mueller was unfortunately necessary. That's why I cooperated with them for years. I understood the importance of their work."
-08/19/22 → archive.ph/00000 → "
-08/19/22 → archive.ph/00000 → "
-08/19/22 → archive.ph/00000 → "
-08/19/22 → archive.ph/00000 → "
-08/19/22 → archive.ph/00000 → "
-08/19/22 → archive.ph/00000 → "
-08/19/22 → archive.ph/00000 → "
-08/19/22 → archive.ph/00000 → "
-08/19/22 → archive.ph/00000 → "
+08/16/22 → archive.ph/J4ygu → "Mueller was unfortunately necessary. That's why I cooperated with them for years. I understood the importance of their work."
+08/16/22 → archive.ph/pWHAm → "[Mueller investigators] were just 'doing their job'. That's what they told me. They never shared with me their plans."
+08/16/22 → archive.ph/kqFsx → "It's important to know if the disgraced foreign agent STEELE was already fired by the fbi by Jan 20 or not yet."
+08/16/22 → archive.ph/YXY5X → "What is the real relationship between OHR and STEELE? I hope they checked OHR's bank accounts...smells fishy.."
+08/16/22 → archive.ph/viurs → "I used to go to Vatican when I worked for a 'diacono' who worked under a Cardinal. My daily routine was to translate papal 'bullas'"
+08/16/22 → archive.ph/WpGJu → "Am I alone in thinking that many major decisions that are being made by the elite currently in power are against common sense?"
+08/16/22 → archive.ph/00000 → "
+08/16/22 → archive.ph/00000 → "
+08/16/22 → archive.ph/00000 → "
+08/16/22 → archive.ph/00000 → "
+08/16/22 → archive.ph/00000 → "
+08/16/22 → archive.ph/00000 → "
+08/16/22 → archive.ph/00000 → "
+08/16/22 → archive.ph/00000 → "
+08/16/22 → archive.ph/00000 → "
+08/16/22 → archive.ph/00000 → "
+08/16/22 → archive.ph/00000 → "
 
 @carterwpage
 03/26/18 → archive.ph/FsVLN → "People always ask me, 'Why are you smiling all the time?'...Secret formula: Healthy breakfast! [Flax cereal, fruit and açaí juice]"
